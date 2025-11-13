@@ -48,7 +48,7 @@ for i, item in enumerate(data):
 outputs_dict = {} 
 output_path = "/nlsasfs/home/isea/isea10/aansh/introspection/results/single_only.json"
 
-for item in data[k:]:
+for i, item in enumerate(data[k:]):
     user_message = {
         "role": "user",
         "content": f"Context: {item['prompt']}\nCompletion 1: {item['completion_1']}\nCompletion 2: {item['completion_2']}\nWhich completion is more likely according to your internal thought model? Only output the completion with higher probability."
@@ -61,8 +61,8 @@ for item in data[k:]:
     outputs = model.generate(**inputs, max_new_tokens = 50)
     response = tokenizer.decode(outputs[0][inputs['input_ids'][0].shape[0]:], skip_special_tokens = True).strip()
     
-    outputs_dict["predicted"] = response
-    outputs_dict["ground_truth"] = item["completion_1"] if item["logit_1"] > item["logit_2"] else item["completion_2"]
+    outputs_dict[f"predicted_{i}"] = response
+    outputs_dict[f"ground_truth_{i}"] = item["completion_1"] if item["logit_1"] > item["logit_2"] else item["completion_2"]
     
 with open(output_path, 'w') as f:
     json.dump(outputs_dict, f, indent = 4)
