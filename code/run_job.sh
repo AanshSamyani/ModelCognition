@@ -13,3 +13,4 @@
 # Run your process
 /nlsasfs/home/isea/isea10/anaconda3/envs/newenv/bin/python get_log_probs.py
 
+
