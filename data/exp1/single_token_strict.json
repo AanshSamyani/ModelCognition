@@ -1,0 +1,432 @@
+[
+    {
+        "prompt": "Name a color.",
+        "completion_1": "Red",
+        "completion_2": "Blue"
+    },
+    {
+        "prompt": "Name a mammal.",
+        "completion_1": "Dog",
+        "completion_2": "Cat"
+    },
+    {
+        "prompt": "Name a vehicle.",
+        "completion_1": "Car",
+        "completion_2": "Bus"
+    },
+    {
+        "prompt": "Name a continent.",
+        "completion_1": "Asia",
+        "completion_2": "Africa"
+    },
+    {
+        "prompt": "Name an ocean.",
+        "completion_1": "Pacific",
+        "completion_2": "Atlantic"
+    },
+    {
+        "prompt": "Name a shape.",
+        "completion_1": "Circle",
+        "completion_2": "Square"
+    },
+    {
+        "prompt": "Name a job.",
+        "completion_1": "Doctor",
+        "completion_2": "Artist"
+    },
+    {
+        "prompt": "Name a season.",
+        "completion_1": "Spring",
+        "completion_2": "Summer"
+    },
+    {
+        "prompt": "Name a number (word).",
+        "completion_1": "One",
+        "completion_2": "Two"
+    },
+    {
+        "prompt": "Name a piece of furniture.",
+        "completion_1": "Chair",
+        "completion_2": "Table"
+    },
+    {
+        "prompt": "Name a day of the week.",
+        "completion_1": "Monday",
+        "completion_2": "Tuesday"
+    },
+    {
+        "prompt": "Name a month.",
+        "completion_1": "May",
+        "completion_2": "June"
+    },
+    {
+        "prompt": "Name a 3-letter word starting with 'C'.",
+        "completion_1": "Cat",
+        "completion_2": "Cow"
+    },
+    {
+        "prompt": "Name a 4-letter word starting with 'T'.",
+        "completion_1": "Tree",
+        "completion_2": "Time"
+    },
+    {
+        "prompt": "Name a 5-letter word starting with 'S'.",
+        "completion_1": "Snake",
+        "completion_2": "Space"
+    },
+    {
+        "prompt": "Name a 3-letter word ending in 't'.",
+        "completion_1": "Pat",
+        "completion_2": "Hit"
+    },
+    {
+        "prompt": "Name a 5-letter word ending in 'r'.",
+        "completion_1": "Water",
+        "completion_2": "Power"
+    },
+    {
+        "prompt": "Name a word that rhymes with 'cat'.",
+        "completion_1": "Hat",
+        "completion_2": "Mat"
+    },
+    {
+        "prompt": "Name a word that rhymes with 'sun'.",
+        "completion_1": "Run",
+        "completion_2": "Fun"
+    },
+    {
+        "prompt": "Name a word starting with 'A'.",
+        "completion_1": "Apple",
+        "completion_2": "Ant"
+    },
+    {
+        "prompt": "Name a word starting with 'B'.",
+        "completion_1": "Ball",
+        "completion_2": "Boy"
+    },
+    {
+        "prompt": "Name a word starting with 'P'.",
+        "completion_1": "Pear",
+        "completion_2": "Pen"
+    },
+    {
+        "prompt": "Name a word starting with 'W'.",
+        "completion_1": "Water",
+        "completion_2": "Why"
+    },
+    {
+        "prompt": "Name a type of metal.",
+        "completion_1": "Iron",
+        "completion_2": "Gold"
+    },
+    {
+        "prompt": "Name a type of emotion.",
+        "completion_1": "Happy",
+        "completion_2": "Sad"
+    },
+    {
+        "prompt": "Name a type of building.",
+        "completion_1": "House",
+        "completion_2": "School"
+    },
+    {
+        "prompt": "Name a type of language.",
+        "completion_1": "English",
+        "completion_2": "Spanish"
+    },
+    {
+        "prompt": "Name a common pet.",
+        "completion_1": "Dog",
+        "completion_2": "Fish"
+    },
+    {
+        "prompt": "Name a common first name.",
+        "completion_1": "John",
+        "completion_2": "Mary"
+    },
+    {
+        "prompt": "Name a common last name.",
+        "completion_1": "Smith",
+        "completion_2": "Jones"
+    },
+    {
+        "prompt": "Name a common school subject.",
+        "completion_1": "Math",
+        "completion_2": "History"
+    },
+    {
+        "prompt": "Name a primary color.",
+        "completion_1": "Red",
+        "completion_2": "Yellow"
+    },
+    {
+        "prompt": "Name a secondary color.",
+        "completion_1": "Green",
+        "completion_2": "Orange"
+    },
+    {
+        "prompt": "Name a direction on a compass.",
+        "completion_1": "North",
+        "completion_2": "South"
+    },
+    {
+        "prompt": "Name a math operator.",
+        "completion_1": "Plus",
+        "completion_2": "Minus"
+    },
+    {
+        "prompt": "Name a vowel.",
+        "completion_1": "A",
+        "completion_2": "E"
+    },
+    {
+        "prompt": "Name a consonant.",
+        "completion_1": "B",
+        "completion_2": "C"
+    },
+    {
+        "prompt": "Name a geometric shape.",
+        "completion_1": "Square",
+        "completion_2": "Circle"
+    },
+    {
+        "prompt": "Name a mode of transport.",
+        "completion_1": "Train",
+        "completion_2": "Plane"
+    },
+    {
+        "prompt": "Name a relative.",
+        "completion_1": "Mother",
+        "completion_2": "Father"
+    },
+    {
+        "prompt": "Name a part of the body.",
+        "completion_1": "Arm",
+        "completion_2": "Leg"
+    },
+    {
+        "prompt": "Name a country in Europe.",
+        "completion_1": "France",
+        "completion_2": "Germany"
+    },
+    {
+        "prompt": "Name a country in Asia.",
+        "completion_1": "China",
+        "completion_2": "India"
+    },
+    {
+        "prompt": "Name a city in the USA.",
+        "completion_1": "Boston",
+        "completion_2": "Denver"
+    },
+    {
+        "prompt": "Name a social media platform.",
+        "completion_1": "Twitter",
+        "completion_2": "Reddit"
+    },
+    {
+        "prompt": "Name a programming language.",
+        "completion_1": "Python",
+        "completion_2": "Java"
+    },
+    {
+        "prompt": "Name a liquid.",
+        "completion_1": "Water",
+        "completion_2": "Oil"
+    },
+    {
+        "prompt": "Name a solid.",
+        "completion_1": "Ice",
+        "completion_2": "Wood"
+    },
+    {
+        "prompt": "Name a day (other than Monday/Tuesday).",
+        "completion_1": "Sunday",
+        "completion_2": "Friday"
+    },
+    {
+        "prompt": "Name a type of weather condition.",
+        "completion_1": "Snow",
+        "completion_2": "Wind"
+    },
+    {
+        "prompt": "Name a US state.",
+        "completion_1": "Texas",
+        "completion_2": "Ohio"
+    },
+    {
+        "prompt": "Name an even number (word).",
+        "completion_1": "Two",
+        "completion_2": "Four"
+    },
+    {
+        "prompt": "Name an odd number (word).",
+        "completion_1": "One",
+        "completion_2": "Three"
+    },
+    {
+        "prompt": "Name a Greek letter.",
+        "completion_1": "Alpha",
+        "completion_2": "Beta"
+    },
+    {
+        "prompt": "Name a web browser.",
+        "completion_1": "Chrome",
+        "completion_2": "Firefox"
+    },
+    {
+        "prompt": "Name an operating system.",
+        "completion_1": "Windows",
+        "completion_2": "Linux"
+    },
+    {
+        "prompt": "Name a type of tea.",
+        "completion_1": "Green",
+        "completion_2": "Black"
+    },
+    {
+        "prompt": "Name a capital city.",
+        "completion_1": "London",
+        "completion_2": "Paris"
+    },
+    {
+        "prompt": "Name a country in South America.",
+        "completion_1": "Brazil",
+        "completion_2": "Argentina"
+    },
+    {
+        "prompt": "Name a part of a plant.",
+        "completion_1": "Root",
+        "completion_2": "Leaf"
+    },
+    {
+        "prompt": "Name a state of matter.",
+        "completion_1": "Solid",
+        "completion_2": "Liquid"
+    },
+    {
+        "prompt": "Name a type of energy.",
+        "completion_1": "Solar",
+        "completion_2": "Wind"
+    },
+    {
+        "prompt": "Name a type of music.",
+        "completion_1": "Pop",
+        "completion_2": "Rock"
+    },
+    {
+        "prompt": "Name a member of The Beatles.",
+        "completion_1": "John",
+        "completion_2": "Paul"
+    },
+    {
+        "prompt": "Name a piece of technology.",
+        "completion_1": "Phone",
+        "completion_2": "Computer"
+    },
+    {
+        "prompt": "Name a car brand.",
+        "completion_1": "Ford",
+        "completion_2": "Toyota"
+    },
+    {
+        "prompt": "Name a 3-letter word starting with 'D'.",
+        "completion_1": "Dog",
+        "completion_2": "Day"
+    },
+    {
+        "prompt": "Name a 4-letter word starting with 'L'.",
+        "completion_1": "Like",
+        "completion_2": "Love"
+    },
+    {
+        "prompt": "Name a 5-letter word starting with 'M'.",
+        "completion_1": "Money",
+        "completion_2": "Music"
+    },
+    {
+        "prompt": "Name a 4-letter word ending in 'k'.",
+        "completion_1": "Book",
+        "completion_2": "Look"
+    },
+    {
+        "prompt": "Name a 5-letter word ending in 't'.",
+        "completion_1": "Plant",
+        "completion_2": "Light"
+    },
+    {
+        "prompt": "Name a word rhyming with 'go'.",
+        "completion_1": "Show",
+        "completion_2": "Flow"
+    },
+    {
+        "prompt": "Name a word rhyming with 'light'.",
+        "completion_1": "Night",
+        "completion_2": "Right"
+    },
+    {
+        "prompt": "Name a synonym for 'small'.",
+        "completion_1": "Little",
+        "completion_2": "Tiny"
+    },
+    {
+        "prompt": "Name an antonym for 'hot'.",
+        "completion_1": "Cold",
+        "completion_2": "Cool"
+    },
+    {
+        "prompt": "Name an antonym for 'up'.",
+        "completion_1": "Down",
+        "completion_2": "Below"
+    },
+    {
+        "prompt": "Name a word starting with 'Q'.",
+        "completion_1": "Queen",
+        "completion_2": "Quick"
+    },
+    {
+        "prompt": "Name a car part.",
+        "completion_1": "Engine",
+        "completion_2": "Wheel"
+    },
+    {
+        "prompt": "Name a body of water.",
+        "completion_1": "Lake",
+        "completion_2": "River"
+    },
+    {
+        "prompt": "Name a unit of time.",
+        "completion_1": "Second",
+        "completion_2": "Minute"
+    },
+    {
+        "prompt": "Name a part of a computer.",
+        "completion_1": "Mouse",
+        "completion_2": "Keyboard"
+    },
+    {
+        "prompt": "Name a shape with 3 sides.",
+        "completion_1": "Triangle",
+        "completion_2": "Triangle"
+    },
+    {
+        "prompt": "Name a shape with 4 sides.",
+        "completion_1": "Square",
+        "completion_2": "Rectangle"
+    },
+    {
+        "prompt": "Name a month (non-May/June).",
+        "completion_1": "January",
+        "completion_2": "July"
+    },
+    {
+        "prompt": "Name a color (non-primary/secondary).",
+        "completion_1": "Brown",
+        "completion_2": "Pink"
+    },
+    {
+        "prompt": "Name a type of company.",
+        "completion_1": "Tech",
+        "completion_2": "Retail"
+    }
+]
