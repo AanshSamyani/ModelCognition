@@ -11,12 +11,13 @@ dataset_path = "/nlsasfs/home/isea/isea10/aansh/introspection/data/exp1/single_t
 with open(dataset_path, "r") as f:
     data = json.load(f)
     
-
+## Model and Tokenizer
 model_path = "/nlsasfs/home/isea/isea10/aansh/deception_detection/weights/Llama-3.1-8B-Instruct"
 
 model = AutoModelForCausalLM.from_pretrained(model_path, device_map="auto", dtype="auto")
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
+## Get Log-Probs
 for prompt in data:
     message_1 = [
         {"role": "user", "content": prompt["prompt"]},
