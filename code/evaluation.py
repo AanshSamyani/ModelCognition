@@ -70,3 +70,30 @@ def evaluate_model_on_single_token_completion(
     with open(output_path, 'w') as f:
         json.dump(outputs_dict, f, indent = 4)
         
+def compute_metrics(
+    predictions_path: str,
+    output_dir: str,
+    output_filename: str,
+): 
+    
+    with open(predictions_path, 'r') as f:
+        data = json.load(f)
+        
+    correct = 0
+    total = len(data["predicted"])
+    
+    for pred, gt in zip(data["predicted"], data["ground_truth"]):
+        if pred.split("assistant\n\n")[-1].strip() == gt.strip():
+            correct += 1
+            
+    accuracy = correct / total if total > 0 else 0.0
+    
+    metrics = {
+        "accuracy": accuracy,
+        "total": total,
+        "correct": correct
+    }
+    
+    output_path = os.path.join(output_dir, output_filename)
+    with open(output_path, 'w') as f:
+        json.dump(metrics, f, indent = 4)

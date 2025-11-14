@@ -7,15 +7,16 @@ from dataclasses import dataclass
 from utils import find_assistant_token_end
 from get_log_probs import get_single_token_log_probs
 from transformers import AutoModelForCausalLM, AutoTokenizer
-from evaluation import evaluate_model_on_single_token_completion
+from evaluation import evaluate_model_on_single_token_completion, compute_metrics
 
 @dataclass
 class ExperimentConfig:
-    model_name: str = "/nlsasfs/home/isea/isea10/aansh/deception_detection/weights/Llama-3.1-8B-Instruct"
+    model_name: str = "/nlsasfs/home/isea/isea10/aansh/deception_detection/weights/Llama-3.3-70B-Instruct/models--meta-llama--Llama-3.3-70B-Instruct/snapshots/6f6073b423013f6a7d4d9f39144961bfbfbc386b"
     dataset_path: str = "/nlsasfs/home/isea/isea10/aansh/introspection/data/exp1/single_token_strict.json"
-    output_dir: str = "/nlsasfs/home/isea/isea10/aansh/introspection/results/exp1_llama_8b"
-    log_probs_output_filename: str = "single_token_strict_log_probs.json"
-    evaluation_output_filename: str = "single_token_strict_evaluation.json"
+    output_dir: str = "/nlsasfs/home/isea/isea10/aansh/introspection/results/exp_1_llama_70b/single_token_strict"
+    log_probs_output_filename: str = "log_probs.json"
+    evaluation_output_filename: str = "predictions.json"
+    metrics_output_filename: str = "metrics.json"
     icl_examples: int = 6 
     
 def run_experiment(config: ExperimentConfig):
@@ -40,6 +41,13 @@ def run_experiment(config: ExperimentConfig):
         output_filename=config.evaluation_output_filename,
         icl_examples=config.icl_examples,
     )
+    
+    compute_metrics(
+        predictions_path=os.path.join(config.output_dir, config.evaluation_output_filename),
+        output_dir=config.output_dir,
+        output_filename=config.metrics_output_filename,
+    )
+    
     
 if __name__ == "__main__":
     config = ExperimentConfig()

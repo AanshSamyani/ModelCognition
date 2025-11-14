@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=get_log_probs          # Job name
+#SBATCH --job-name=exp_8b          # Job name
 #SBATCH --partition=airawatp       # Partition
 #SBATCH --cpus-per-task=32         # Number of CPU cores per task
 #SBATCH --gres=gpu:1               # Request 1 GPU
