@@ -1,84 +1,0 @@
-`torch_dtype` is deprecated! Use `dtype` instead!
-Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]Loading checkpoint shards:   3%|▎         | 1/30 [00:04<02:05,  4.32s/it]Loading checkpoint shards:   7%|▋         | 2/30 [00:08<01:58,  4.23s/it]Loading checkpoint shards:  10%|█         | 3/30 [00:13<01:59,  4.44s/it]Loading checkpoint shards:  13%|█▎        | 4/30 [00:17<01:55,  4.44s/it]Loading checkpoint shards:  17%|█▋        | 5/30 [00:21<01:49,  4.37s/it]Loading checkpoint shards:  20%|██        | 6/30 [00:27<01:54,  4.76s/it]Loading checkpoint shards:  23%|██▎       | 7/30 [00:32<01:55,  5.02s/it]Loading checkpoint shards:  27%|██▋       | 8/30 [00:38<01:55,  5.23s/it]Loading checkpoint shards:  30%|███       | 9/30 [00:44<01:51,  5.29s/it]Loading checkpoint shards:  33%|███▎      | 10/30 [00:49<01:44,  5.23s/it]Loading checkpoint shards:  37%|███▋      | 11/30 [00:53<01:35,  5.03s/it]Loading checkpoint shards:  40%|████      | 12/30 [00:58<01:30,  5.02s/it]Loading checkpoint shards:  43%|████▎     | 13/30 [01:04<01:28,  5.20s/it]Loading checkpoint shards:  47%|████▋     | 14/30 [01:11<01:30,  5.65s/it]Loading checkpoint shards:  50%|█████     | 15/30 [01:16<01:22,  5.53s/it]Loading checkpoint shards:  53%|█████▎    | 16/30 [01:23<01:24,  6.05s/it]Loading checkpoint shards:  57%|█████▋    | 17/30 [01:28<01:16,  5.87s/it]Loading checkpoint shards:  60%|██████    | 18/30 [01:33<01:06,  5.54s/it]Loading checkpoint shards:  63%|██████▎   | 19/30 [01:38<00:57,  5.21s/it]Loading checkpoint shards:  67%|██████▋   | 20/30 [01:42<00:48,  4.90s/it]Loading checkpoint shards:  70%|███████   | 21/30 [01:46<00:41,  4.61s/it]Loading checkpoint shards:  73%|███████▎  | 22/30 [01:50<00:35,  4.40s/it]Loading checkpoint shards:  77%|███████▋  | 23/30 [01:54<00:30,  4.30s/it]Loading checkpoint shards:  80%|████████  | 24/30 [01:58<00:25,  4.31s/it]Loading checkpoint shards:  83%|████████▎ | 25/30 [02:02<00:20,  4.15s/it]Loading checkpoint shards:  87%|████████▋ | 26/30 [02:07<00:18,  4.53s/it]Loading checkpoint shards:  90%|█████████ | 27/30 [02:52<00:49, 16.62s/it]Loading checkpoint shards:  93%|█████████▎| 28/30 [02:57<00:26, 13.15s/it]Loading checkpoint shards:  97%|█████████▋| 29/30 [03:02<00:10, 10.68s/it]Loading checkpoint shards: 100%|██████████| 30/30 [03:04<00:00,  8.11s/it]Loading checkpoint shards: 100%|██████████| 30/30 [03:04<00:00,  6.16s/it]
-  0%|          | 0/86 [00:00<?, ?it/s]  1%|          | 1/86 [00:11<15:51, 11.19s/it]  2%|▏         | 2/86 [00:11<06:55,  4.95s/it]  3%|▎         | 3/86 [00:11<03:49,  2.76s/it]  5%|▍         | 4/86 [00:12<02:22,  1.73s/it]  6%|▌         | 5/86 [00:12<01:34,  1.17s/it]  7%|▋         | 6/86 [00:12<01:05,  1.22it/s]  8%|▊         | 7/86 [00:12<00:47,  1.65it/s]  9%|▉         | 8/86 [00:12<00:36,  2.16it/s] 10%|█         | 9/86 [00:12<00:28,  2.72it/s] 12%|█▏        | 10/86 [00:13<00:25,  2.95it/s] 13%|█▎        | 11/86 [00:13<00:21,  3.52it/s] 14%|█▍        | 12/86 [00:13<00:18,  4.07it/s] 15%|█▌        | 13/86 [00:13<00:16,  4.39it/s] 16%|█▋        | 14/86 [00:13<00:15,  4.55it/s] 17%|█▋        | 15/86 [00:14<00:14,  4.96it/s] 19%|█▊        | 16/86 [00:14<00:13,  5.29it/s] 20%|█▉        | 17/86 [00:14<00:12,  5.55it/s] 21%|██        | 18/86 [00:14<00:11,  5.76it/s] 22%|██▏       | 19/86 [00:15<00:33,  2.03it/s] 23%|██▎       | 20/86 [00:15<00:25,  2.55it/s] 24%|██▍       | 21/86 [00:16<00:20,  3.10it/s] 26%|██▌       | 22/86 [00:16<00:17,  3.66it/s] 27%|██▋       | 23/86 [00:16<00:15,  4.18it/s] 28%|██▊       | 24/86 [00:16<00:13,  4.65it/s] 29%|██▉       | 25/86 [00:16<00:12,  5.05it/s] 30%|███       | 26/86 [00:16<00:11,  5.37it/s] 31%|███▏      | 27/86 [00:16<00:10,  5.61it/s] 33%|███▎      | 28/86 [00:17<00:09,  5.82it/s] 34%|███▎      | 29/86 [00:17<00:09,  5.96it/s] 35%|███▍      | 30/86 [00:17<00:09,  6.07it/s] 36%|███▌      | 31/86 [00:17<00:08,  6.14it/s] 37%|███▋      | 32/86 [00:17<00:08,  6.20it/s] 38%|███▊      | 33/86 [00:17<00:08,  6.23it/s] 40%|███▉      | 34/86 [00:18<00:08,  6.25it/s] 41%|████      | 35/86 [00:18<00:08,  6.27it/s] 42%|████▏     | 36/86 [00:18<00:07,  6.28it/s] 43%|████▎     | 37/86 [00:18<00:07,  6.28it/s] 44%|████▍     | 38/86 [00:18<00:07,  6.29it/s] 45%|████▌     | 39/86 [00:18<00:07,  6.29it/s] 47%|████▋     | 40/86 [00:19<00:07,  6.29it/s] 48%|████▊     | 41/86 [00:19<00:07,  6.30it/s] 49%|████▉     | 42/86 [00:19<00:06,  6.30it/s] 50%|█████     | 43/86 [00:19<00:06,  6.29it/s] 51%|█████     | 44/86 [00:19<00:06,  6.29it/s] 52%|█████▏    | 45/86 [00:19<00:06,  6.29it/s] 53%|█████▎    | 46/86 [00:20<00:06,  6.30it/s] 55%|█████▍    | 47/86 [00:20<00:06,  6.29it/s] 56%|█████▌    | 48/86 [00:20<00:06,  6.30it/s] 57%|█████▋    | 49/86 [00:20<00:05,  6.29it/s] 58%|█████▊    | 50/86 [00:20<00:05,  6.29it/s] 59%|█████▉    | 51/86 [00:20<00:05,  6.29it/s] 60%|██████    | 52/86 [00:20<00:05,  6.30it/s] 62%|██████▏   | 53/86 [00:21<00:05,  6.30it/s] 63%|██████▎   | 54/86 [00:21<00:05,  6.30it/s] 64%|██████▍   | 55/86 [00:21<00:04,  6.29it/s] 65%|██████▌   | 56/86 [00:21<00:04,  6.30it/s] 66%|██████▋   | 57/86 [00:21<00:04,  6.30it/s] 67%|██████▋   | 58/86 [00:21<00:04,  6.30it/s] 69%|██████▊   | 59/86 [00:22<00:04,  6.29it/s] 70%|██████▉   | 60/86 [00:22<00:04,  6.29it/s] 71%|███████   | 61/86 [00:22<00:03,  6.29it/s] 72%|███████▏  | 62/86 [00:22<00:03,  6.30it/s] 73%|███████▎  | 63/86 [00:22<00:03,  6.29it/s] 74%|███████▍  | 64/86 [00:22<00:03,  6.29it/s] 76%|███████▌  | 65/86 [00:23<00:03,  6.29it/s] 77%|███████▋  | 66/86 [00:23<00:03,  6.29it/s] 78%|███████▊  | 67/86 [00:23<00:03,  6.30it/s] 79%|███████▉  | 68/86 [00:23<00:02,  6.28it/s] 80%|████████  | 69/86 [00:23<00:02,  6.28it/s] 81%|████████▏ | 70/86 [00:23<00:02,  6.27it/s] 83%|████████▎ | 71/86 [00:23<00:02,  6.27it/s] 84%|████████▎ | 72/86 [00:24<00:02,  6.27it/s] 85%|████████▍ | 73/86 [00:24<00:02,  6.27it/s] 86%|████████▌ | 74/86 [00:24<00:01,  6.28it/s] 87%|████████▋ | 75/86 [00:24<00:01,  6.27it/s] 88%|████████▊ | 76/86 [00:24<00:01,  6.26it/s] 90%|████████▉ | 77/86 [00:24<00:01,  6.26it/s] 91%|█████████ | 78/86 [00:25<00:01,  6.27it/s] 92%|█████████▏| 79/86 [00:25<00:01,  6.29it/s] 93%|█████████▎| 80/86 [00:25<00:00,  6.29it/s] 94%|█████████▍| 81/86 [00:25<00:00,  6.29it/s] 95%|█████████▌| 82/86 [00:25<00:00,  6.28it/s] 97%|█████████▋| 83/86 [00:25<00:00,  6.28it/s] 98%|█████████▊| 84/86 [00:26<00:00,  6.28it/s] 99%|█████████▉| 85/86 [00:26<00:00,  6.29it/s]100%|██████████| 86/86 [00:26<00:00,  6.29it/s]100%|██████████| 86/86 [00:26<00:00,  3.26it/s]
-0it [00:00, ?it/s]7it [00:00, 718.87it/s]
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
