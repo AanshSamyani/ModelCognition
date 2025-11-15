@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "prompt": "She opened the door",
+        "completion_1": "and saw her friend waiting on the porch.",
+        "completion_2": "to let the small dog run into the yard.",
+        "log_probs_1": -57.806640625,
+        "log_probs_2": -70.57812595367432
+    },
+    {
+        "id": 2,
+        "prompt": "The timer on the oven beeped",
+        "completion_1": "so he put on his oven mitts to take the cookies out.",
+        "completion_2": "reminding her that the roast was finally done.",
+        "log_probs_1": -78.54873132705688,
+        "log_probs_2": -49.09467875957489
+    },
+    {
+        "id": 3,
+        "prompt": "He looked at his phone",
+        "completion_1": "and smiled at the text message he just received.",
+        "completion_2": "to see what time the movie started.",
+        "log_probs_1": -57.35419046878815,
+        "log_probs_2": -46.13902282714844
+    },
+    {
+        "id": 4,
+        "prompt": "The car slowed down",
+        "completion_1": "as it approached the busy intersection.",
+        "completion_2": "and pulled over to the side of the road.",
+        "log_probs_1": -16.10751175880432,
+        "log_probs_2": -25.22478997707367
+    },
+    {
+        "id": 5,
+        "prompt": "They sat on the park bench",
+        "completion_1": "watching the ducks swim in the nearby pond.",
+        "completion_2": "to eat their sandwiches and enjoy the sun.",
+        "log_probs_1": -39.950013637542725,
+        "log_probs_2": -57.36420011520386
+    },
+    {
+        "id": 6,
+        "prompt": "The coffee machine finished",
+        "completion_1": "brewing a fresh pot of dark roast.",
+        "completion_2": "its self-cleaning cycle with a final gurgle.",
+        "log_probs_1": -27.726210594177246,
+        "log_probs_2": -43.360450983047485
+    },
+    {
+        "id": 7,
+        "prompt": "The baby finally",
+        "completion_1": "fell asleep after a long and fussy evening.",
+        "completion_2": "learned to roll over from her back to her stomach.",
+        "log_probs_1": -18.0547456741333,
+        "log_probs_2": -41.91113460063934
+    },
+    {
+        "id": 8,
+        "prompt": "He picked up the book",
+        "completion_1": "and found his place from the night before.",
+        "completion_2": "to dust the shelf it had been sitting on.",
+        "log_probs_1": -47.15234375,
+        "log_probs_2": -43.2811154127121
+    },
+    {
+        "id": 9,
+        "prompt": "The rain began to fall",
+        "completion_1": "softly at first, then in a sudden downpour.",
+        "completion_2": "right as they were packing up their picnic.",
+        "log_probs_1": -65.98437583446503,
+        "log_probs_2": -57.270758748054504
+    },
+    {
+        "id": 10,
+        "prompt": "She found the keys",
+        "completion_1": "exactly where she remembered leaving them.",
+        "completion_2": "in the pocket of her other winter coat.",
+        "log_probs_1": -47.53636085987091,
+        "log_probs_2": -54.46227264404297
+    },
+    {
+        "id": 11,
+        "prompt": "The cat jumped",
+        "completion_1": "onto the windowsill to watch the birds.",
+        "completion_2": "in surprise when the toaster popped up.",
+        "log_probs_1": -22.42360830307007,
+        "log_probs_2": -60.31201171875
+    },
+    {
+        "id": 12,
+        "prompt": "He closed his laptop",
+        "completion_1": "and stretched, finally done with work for the day.",
+        "completion_2": "to listen more closely to the presentation.",
+        "log_probs_1": -53.8133465051651,
+        "log_probs_2": -50.569517731666565
+    },
+    {
+        "id": 13,
+        "prompt": "The light turned",
+        "completion_1": "green and the cars began to move.",
+        "completion_2": "red just as he was approaching the intersection.",
+        "log_probs_1": -17.81287693977356,
+        "log_probs_2": -37.487321972846985
+    },
+    {
+        "id": 14,
+        "prompt": "She heard a noise",
+        "completion_1": "coming from the kitchen and went to investigate.",
+        "completion_2": "outside her window, but it was just the wind.",
+        "log_probs_1": -28.518097519874573,
+        "log_probs_2": -54.514103412628174
+    },
+    {
+        "id": 15,
+        "prompt": "The waiter brought",
+        "completion_1": "the bill to their table.",
+        "completion_2": "a glass of water with lemon.",
+        "log_probs_1": -40.250000953674316,
+        "log_probs_2": -47.34375
+    },
+    {
+        "id": 16,
+        "prompt": "He started the car",
+        "completion_1": "and turned on the heater to warm it up.",
+        "completion_2": "but the engine just made a clicking sound.",
+        "log_probs_1": -48.53937339782715,
+        "log_probs_2": -39.114930391311646
+    },
+    {
+        "id": 17,
+        "prompt": "The dog was digging",
+        "completion_1": "a hole under the fence.",
+        "completion_2": "in the blankets to get comfortable.",
+        "log_probs_1": -29.5909423828125,
+        "log_probs_2": -43.95410513877869
+    },
+    {
+        "id": 18,
+        "prompt": "She wrote down the",
+        "completion_1": "address on a piece of scrap paper.",
+        "completion_2": "list of groceries she needed for the week.",
+        "log_probs_1": -17.06182861328125,
+        "log_probs_2": -33.28330314159393
+    },
+    {
+        "id": 19,
+        "prompt": "The music stopped",
+        "completion_1": "suddenly, leaving the room in silence.",
+        "completion_2": "and everyone began to clap for the band.",
+        "log_probs_1": -41.28610014915466,
+        "log_probs_2": -56.627333641052246
+    },
+    {
+        "id": 20,
+        "prompt": "He opened the fridge",
+        "completion_1": "to look for something to eat.",
+        "completion_2": "to put the milk away.",
+        "log_probs_1": -31.849310040473938,
+        "log_probs_2": -40.806640625
+    },
+    {
+        "id": 21,
+        "prompt": "She put on her shoes",
+        "completion_1": "and grabbed her keys to leave.",
+        "completion_2": "and went for a run around the neighborhood.",
+        "log_probs_1": -45.31091594696045,
+        "log_probs_2": -42.99255394935608
+    },
+    {
+        "id": 22,
+        "prompt": "The movie was",
+        "completion_1": "just about to start when they sat down.",
+        "completion_2": "much longer than she had expected.",
+        "log_probs_1": -58.47344255447388,
+        "log_probs_2": -46.9306640625
+    },
+    {
+        "id": 23,
+        "prompt": "He poured a glass",
+        "completion_1": "of cold water from the pitcher.",
+        "completion_2": "of wine for his guest.",
+        "log_probs_1": -17.9552001953125,
+        "log_probs_2": -29.5618896484375
+    },
+    {
+        "id": 24,
+        "prompt": "The bus arrived",
+        "completion_1": "exactly on time, as scheduled.",
+        "completion_2": "ten minutes late, making him anxious.",
+        "log_probs_1": -46.03127348423004,
+        "log_probs_2": -76.54140853881836
+    },
+    {
+        "id": 25,
+        "prompt": "She waved to",
+        "completion_1": "her neighbor who was gardening across the street.",
+        "completion_2": "get the waiter's attention for the check.",
+        "log_probs_1": -21.95654296875,
+        "log_probs_2": -31.23060631752014
+    },
+    {
+        "id": 26,
+        "prompt": "He was reading",
+        "completion_1": "a new mystery novel by his favorite author.",
+        "completion_2": "the instructions on the side of the box.",
+        "log_probs_1": -32.24611258506775,
+        "log_probs_2": -37.442493081092834
+    },
+    {
+        "id": 27,
+        "prompt": "The box was",
+        "completion_1": "lighter than he had expected.",
+        "completion_2": "sitting on the front porch when she got home.",
+        "log_probs_1": -35.51446974277496,
+        "log_probs_2": -49.958597898483276
+    },
+    {
+        "id": 28,
+        "prompt": "She turned up the",
+        "completion_1": "volume on the television to hear the news.",
+        "completion_2": "heat because the house felt cold.",
+        "log_probs_1": -31.051795959472656,
+        "log_probs_2": -32.52294921875
+    },
+    {
+        "id": 29,
+        "prompt": "The alarm clock",
+        "completion_1": "rang at 6:00 AM, just like every weekday.",
+        "completion_2": "fell off the nightstand with a crash.",
+        "log_probs_1": -78.57174241542816,
+        "log_probs_2": -41.342849373817444
+    },
+    {
+        "id": 30,
+        "prompt": "He was looking",
+        "completion_1": "for his wallet, which he couldn't find.",
+        "completion_2": "out the window at the falling snow.",
+        "log_probs_1": -46.397430419921875,
+        "log_probs_2": -36.395708203315735
+    },
+    {
+        "id": 31,
+        "prompt": "The teacher",
+        "completion_1": "asked the class to open their books.",
+        "completion_2": "smiled at the student's correct answer.",
+        "log_probs_1": -44.524189591407776,
+        "log_probs_2": -27.375967979431152
+    },
+    {
+        "id": 32,
+        "prompt": "She took a deep breath",
+        "completion_1": "before stepping onto the stage.",
+        "completion_2": "and enjoyed the fresh mountain air.",
+        "log_probs_1": -37.480308532714844,
+        "log_probs_2": -41.0100976228714
+    },
+    {
+        "id": 33,
+        "prompt": "The path",
+        "completion_1": "led into a dark and quiet forest.",
+        "completion_2": "was covered in smooth, grey stones.",
+        "log_probs_1": -51.291975021362305,
+        "log_probs_2": -64.5525894165039
+    },
+    {
+        "id": 34,
+        "prompt": "He was waiting",
+        "completion_1": "for his friend to arrive at the cafe.",
+        "completion_2": "in line to buy tickets for the concert.",
+        "log_probs_1": -34.757529973983765,
+        "log_probs_2": -32.941986083984375
+    },
+    {
+        "id": 35,
+        "prompt": "The elevator",
+        "completion_1": "stopped on the fifth floor and the doors opened.",
+        "completion_2": "was out of service, so they took the stairs.",
+        "log_probs_1": -45.965657353401184,
+        "log_probs_2": -40.015310883522034
+    },
+    {
+        "id": 36,
+        "prompt": "She was brushing",
+        "completion_1": "her hair before going to bed.",
+        "completion_2": "the dog on the back porch.",
+        "log_probs_1": -37.37213134765625,
+        "log_probs_2": -49.79052734375
+    },
+    {
+        "id": 37,
+        "prompt": "The boat",
+        "completion_1": "rocked gently on the waves.",
+        "completion_2": "was tied securely to the dock.",
+        "log_probs_1": -20.875009655952454,
+        "log_probs_2": -28.70861828327179
+    },
+    {
+        "id": 38,
+        "prompt": "He found an old coin",
+        "completion_1": "while digging in the garden.",
+        "completion_2": "at the bottom of his pocket.",
+        "log_probs_1": -24.88477897644043,
+        "log_probs_2": -29.869049072265625
+    },
+    {
+        "id": 39,
+        "prompt": "The package",
+        "completion_1": "was delivered just a few minutes ago.",
+        "completion_2": "contained the book she had ordered.",
+        "log_probs_1": -24.504623413085938,
+        "log_probs_2": -46.71875
+    },
+    {
+        "id": 40,
+        "prompt": "She was cooking",
+        "completion_1": "dinner for her family.",
+        "completion_2": "a new recipe she found online.",
+        "log_probs_1": -27.063718914985657,
+        "log_probs_2": -42.09799671173096
+    },
+    {
+        "id": 41,
+        "prompt": "The store was",
+        "completion_1": "about to close for the night.",
+        "completion_2": "more crowded than he had ever seen it.",
+        "log_probs_1": -25.773446798324585,
+        "log_probs_2": -48.30272924900055
+    },
+    {
+        "id": 42,
+        "prompt": "He turned the page",
+        "completion_1": "and continued reading the chapter.",
+        "completion_2": "on the calendar to the next month.",
+        "log_probs_1": -37.254371643066406,
+        "log_probs_2": -56.058074951171875
+    },
+    {
+        "id": 43,
+        "prompt": "The child was",
+        "completion_1": "building a tower with colorful blocks.",
+        "completion_2": "asking his mother for a snack.",
+        "log_probs_1": -28.193408966064453,
+        "log_probs_2": -26.8426513671875
+    },
+    {
+        "id": 44,
+        "prompt": "She checked her email",
+        "completion_1": "and saw a new message from her boss.",
+        "completion_2": "but there was nothing important.",
+        "log_probs_1": -43.76538276672363,
+        "log_probs_2": -45.0546875
+    },
+    {
+        "id": 45,
+        "prompt": "The phone was ringing",
+        "completion_1": "on the table, but no one answered.",
+        "completion_2": "so he picked it up to see who it was.",
+        "log_probs_1": -36.07940685749054,
+        "log_probs_2": -58.363473296165466
+    },
+    {
+        "id": 46,
+        "prompt": "He was cleaning",
+        "completion_1": "the windows on Saturday morning.",
+        "completion_2": "his glasses with a soft cloth.",
+        "log_probs_1": -43.253936767578125,
+        "log_probs_2": -27.390880584716797
+    },
+    {
+        "id": 47,
+        "prompt": "The flowers",
+        "completion_1": "were blooming all over the garden.",
+        "completion_2": "on the table needed fresh water.",
+        "log_probs_1": -38.6319580078125,
+        "log_probs_2": -57.89974570274353
+    },
+    {
+        "id": 48,
+        "prompt": "She was watching",
+        "completion_1": "a documentary about penguins.",
+        "completion_2": "the clock, waiting for her shift to end.",
+        "log_probs_1": -37.84244632720947,
+        "log_probs_2": -40.66162133216858
+    },
+    {
+        "id": 49,
+        "prompt": "The computer",
+        "completion_1": "was running very slowly.",
+        "completion_2": "screen lit up with the login page.",
+        "log_probs_1": -26.453937530517578,
+        "log_probs_2": -44.4703369140625
+    },
+    {
+        "id": 50,
+        "prompt": "He packed his bag",
+        "completion_1": "for the weekend trip to the mountains.",
+        "completion_2": "and put it by the front door.",
+        "log_probs_1": -28.429688334465027,
+        "log_probs_2": -32.17820739746094
+    },
+    {
+        "id": 51,
+        "prompt": "The sun was",
+        "completion_1": "setting, painting the sky in shades of orange.",
+        "completion_2": "shining brightly through the window.",
+        "log_probs_1": -70.1854248046875,
+        "log_probs_2": -28.47656559944153
+    },
+    {
+        "id": 52,
+        "prompt": "She was learning",
+        "completion_1": "how to play the guitar.",
+        "completion_2": "Spanish for her upcoming trip.",
+        "log_probs_1": -18.540767908096313,
+        "log_probs_2": -39.80398368835449
+    },
+    {
+        "id": 53,
+        "prompt": "The baby",
+        "completion_1": "was laughing at the silly faces he made.",
+        "completion_2": "dropped her spoon on the floor.",
+        "log_probs_1": -41.84033405780792,
+        "log_probs_2": -39.40656852722168
+    },
+    {
+        "id": 54,
+        "prompt": "He was late",
+        "completion_1": "for his dentist appointment.",
+        "completion_2": "because the traffic was terrible.",
+        "log_probs_1": -31.680787086486816,
+        "log_probs_2": -27.42529296875
+    },
+    {
+        "id": 55,
+        "prompt": "She drank",
+        "completion_1": "the hot tea slowly.",
+        "completion_2": "a full glass of water.",
+        "log_probs_1": -40.33935546875,
+        "log_probs_2": -23.654052734375
+    },
+    {
+        "id": 56,
+        "prompt": "The game was",
+        "completion_1": "tied in the final minute.",
+        "completion_2": "postponed due to the bad weather.",
+        "log_probs_1": -34.7809032201767,
+        "log_probs_2": -20.034668564796448
+    },
+    {
+        "id": 57,
+        "prompt": "He was holding",
+        "completion_1": "a small, sleeping kitten.",
+        "completion_2": "the door open for the next person.",
+        "log_probs_1": -33.6369606256485,
+        "log_probs_2": -48.34962844848633
+    },
+    {
+        "id": 58,
+        "prompt": "The wind",
+        "completion_1": "blew his hat right off his head.",
+        "completion_2": "was howling outside the house.",
+        "log_probs_1": -36.960572481155396,
+        "log_probs_2": -39.5703125
+    },
+    {
+        "id": 59,
+        "prompt": "She was searching",
+        "completion_1": "for her car keys in her purse.",
+        "completion_2": "for a new apartment online.",
+        "log_probs_1": -49.84977436065674,
+        "log_probs_2": -41.1171875
+    },
+    {
+        "id": 60,
+        "prompt": "The room",
+        "completion_1": "was filled with the smell of fresh bread.",
+        "completion_2": "was dark except for the light from the TV.",
+        "log_probs_1": -54.265625,
+        "log_probs_2": -62.48828125
+    },
+    {
+        "id": 61,
+        "prompt": "He was tired",
+        "completion_1": "after the long hike up the mountain.",
+        "completion_2": "of listening to the same song.",
+        "log_probs_1": -27.546911001205444,
+        "log_probs_2": -41.72168052196503
+    },
+    {
+        "id": 62,
+        "prompt": "The meeting",
+        "completion_1": "started at 10 AM sharp.",
+        "completion_2": "lasted for almost three hours.",
+        "log_probs_1": -37.552734375,
+        "log_probs_2": -43.77539074420929
+    },
+    {
+        "id": 63,
+        "prompt": "She was buying",
+        "completion_1": "fresh vegetables at the farmer's market.",
+        "completion_2": "a gift for her friend's birthday.",
+        "log_probs_1": -16.003907442092896,
+        "log_probs_2": -26.21925437450409
+    },
+    {
+        "id": 64,
+        "prompt": "The street was",
+        "completion_1": "empty and quiet late at night.",
+        "completion_2": "lined with cherry blossom trees.",
+        "log_probs_1": -42.563854336738586,
+        "log_probs_2": -35.92436230182648
+    },
+    {
+        "id": 65,
+        "prompt": "He was painting",
+        "completion_1": "a picture of the ocean.",
+        "completion_2": "the walls of the living room yellow.",
+        "log_probs_1": -31.802783012390137,
+        "log_probs_2": -42.99239158630371
+    },
+    {
+        "id": 66,
+        "prompt": "The soup",
+        "completion_1": "was still too hot to eat.",
+        "completion_2": "needed a little more salt.",
+        "log_probs_1": -23.795084714889526,
+        "log_probs_2": -35.73114013671875
+    },
+    {
+        "id": 67,
+        "prompt": "She was listening",
+        "completion_1": "to a podcast while she cleaned.",
+        "completion_2": "to her friend talk about her day.",
+        "log_probs_1": -56.375,
+        "log_probs_2": -71.96908187866211
+    },
+    {
+        "id": 68,
+        "prompt": "The bird",
+        "completion_1": "was building a nest in the tree.",
+        "completion_2": "flew away when he got too close.",
+        "log_probs_1": -30.2747802734375,
+        "log_probs_2": -66.07826769351959
+    },
+    {
+        "id": 69,
+        "prompt": "He was fixing",
+        "completion_1": "the leaky faucet in the bathroom.",
+        "completion_2": "his bicycle in the garage.",
+        "log_probs_1": -21.830491185188293,
+        "log_probs_2": -25.0644474029541
+    },
+    {
+        "id": 70,
+        "prompt": "The library",
+        "completion_1": "was a quiet place to study.",
+        "completion_2": "was closing in ten minutes.",
+        "log_probs_1": -33.25902557373047,
+        "log_probs_2": -45.44140625
+    },
+    {
+        "id": 71,
+        "prompt": "She was holding",
+        "completion_1": "a cup of coffee in both hands.",
+        "completion_2": "the baby while he slept.",
+        "log_probs_1": -49.76505088806152,
+        "log_probs_2": -57.5029296875
+    },
+    {
+        "id": 72,
+        "prompt": "The train",
+        "completion_1": "was crowded with morning commuters.",
+        "completion_2": "pulled into the station right on time.",
+        "log_probs_1": -39.68750560283661,
+        "log_probs_2": -29.383095741271973
+    },
+    {
+        "id": 73,
+        "prompt": "He was planning",
+        "completion_1": "a surprise party for his wife.",
+        "completion_2": "what to make for dinner.",
+        "log_probs_1": -34.66993546485901,
+        "log_probs_2": -31.04099476337433
+    },
+    {
+        "id": 74,
+        "prompt": "The snow",
+        "completion_1": "was falling in large, soft flakes.",
+        "completion_2": "had melted by the afternoon.",
+        "log_probs_1": -43.518380880355835,
+        "log_probs_2": -47.4288330078125
+    },
+    {
+        "id": 75,
+        "prompt": "She was smiling",
+        "completion_1": "at a memory from her childhood.",
+        "completion_2": "for the photo he was taking.",
+        "log_probs_1": -34.83598327636719,
+        "log_probs_2": -59.02361297607422
+    },
+    {
+        "id": 76,
+        "prompt": "The office",
+        "completion_1": "was brightly lit and modern.",
+        "completion_2": "was empty by 6 PM.",
+        "log_probs_1": -45.53516983985901,
+        "log_probs_2": -40.946533203125
+    },
+    {
+        "id": 77,
+        "prompt": "He was cutting",
+        "completion_1": "vegetables for the salad.",
+        "completion_2": "the grass with a lawnmower.",
+        "log_probs_1": -35.81379699707031,
+        "log_probs_2": -26.30432152748108
+    },
+    {
+        "id": 78,
+        "prompt": "The restaurant",
+        "completion_1": "was known for its seafood.",
+        "completion_2": "was noisy and full of people.",
+        "log_probs_1": -29.321300387382507,
+        "log_probs_2": -39.09454917907715
+    },
+    {
+        "id": 79,
+        "prompt": "She was solving",
+        "completion_1": "a crossword puzzle in the newspaper.",
+        "completion_2": "a difficult math problem for homework.",
+        "log_probs_1": -24.431640625,
+        "log_probs_2": -39.17724609375
+    },
+    {
+        "id": 80,
+        "prompt": "The bridge",
+        "completion_1": "was closed for repairs.",
+        "completion_2": "crossed over a wide, slow river.",
+        "log_probs_1": -20.88128662109375,
+        "log_probs_2": -59.523210525512695
+    },
+    {
+        "id": 81,
+        "prompt": "He was walking",
+        "completion_1": "his dog around the block.",
+        "completion_2": "quickly to get out of the rain.",
+        "log_probs_1": -46.7025146484375,
+        "log_probs_2": -48.05469059944153
+    },
+    {
+        "id": 82,
+        "prompt": "The water",
+        "completion_1": "was too cold for swimming.",
+        "completion_2": "was boiling on the stove.",
+        "log_probs_1": -23.0205078125,
+        "log_probs_2": -34.92919921875
+    },
+    {
+        "id": 83,
+        "prompt": "She was planting",
+        "completion_1": "flowers in her garden boxes.",
+        "completion_2": "a tree in the backyard.",
+        "log_probs_1": -41.79273748397827,
+        "log_probs_2": -35.50789499282837
+    },
+    {
+        "id": 84,
+        "prompt": "The moon",
+        "completion_1": "was full and bright in the night sky.",
+        "completion_2": "was just a thin crescent.",
+        "log_probs_1": -17.9468994140625,
+        "log_probs_2": -49.061767578125
+    },
+    {
+        "id": 85,
+        "prompt": "He was thinking",
+        "completion_1": "about his plans for the weekend.",
+        "completion_2": "about the movie he had just seen.",
+        "log_probs_1": -29.30080258846283,
+        "log_probs_2": -41.504638671875
+    },
+    {
+        "id": 86,
+        "prompt": "The fire",
+        "completion_1": "was crackling warmly in the fireplace.",
+        "completion_2": "was quickly put out by the firefighters.",
+        "log_probs_1": -38.52378273010254,
+        "log_probs_2": -34.11525297164917
+    },
+    {
+        "id": 87,
+        "prompt": "She was wrapping",
+        "completion_1": "a present for her nephew.",
+        "completion_2": "a blanket around her shoulders.",
+        "log_probs_1": -42.9832763671875,
+        "log_probs_2": -30.62896728515625
+    },
+    {
+        "id": 88,
+        "prompt": "The clouds",
+        "completion_1": "were dark and looked like rain.",
+        "completion_2": "moved quickly across the blue sky.",
+        "log_probs_1": -40.8883695602417,
+        "log_probs_2": -41.37970316410065
+    },
+    {
+        "id": 89,
+        "prompt": "He was trying",
+        "completion_1": "to open the jar, but the lid was stuck.",
+        "completion_2": "to remember the name of the song.",
+        "log_probs_1": -20.634190678596497,
+        "log_probs_2": -37.07200241088867
+    },
+    {
+        "id": 90,
+        "prompt": "The market",
+        "completion_1": "was bustling with shoppers and vendors.",
+        "completion_2": "was closed on Mondays.",
+        "log_probs_1": -31.875234603881836,
+        "log_probs_2": -38.609375
+    },
+    {
+        "id": 91,
+        "prompt": "She was taking",
+        "completion_1": "notes during the lecture.",
+        "completion_2": "a photo of the sunset.",
+        "log_probs_1": -22.945927381515503,
+        "log_probs_2": -30.05780029296875
+    },
+    {
+        "id": 92,
+        "prompt": "The floor",
+        "completion_1": "was sticky from a spilled drink.",
+        "completion_2": "was made of dark, polished wood.",
+        "log_probs_1": -34.734375,
+        "log_probs_2": -21.292657732963562
+    },
+    {
+        "id": 93,
+        "prompt": "He was teaching",
+        "completion_1": "his son how to ride a bike.",
+        "completion_2": "a history class at the local college.",
+        "log_probs_1": -30.376468300819397,
+        "log_probs_2": -25.168087005615234
+    },
+    {
+        "id": 4,
+        "prompt": "The cake",
+        "completion_1": "was decorated with fresh strawberries.",
+        "completion_2": "was still baking in the oven.",
+        "log_probs_1": -42.60156810283661,
+        "log_probs_2": -34.351675152778625
+    },
+    {
+        "id": 95,
+        "prompt": "She was resting",
+        "completion_1": "on the sofa with a good book.",
+        "completion_2": "her head on his shoulder.",
+        "log_probs_1": -30.759796738624573,
+        "log_probs_2": -24.956005096435547
+    },
+    {
+        "id": 96,
+        "prompt": "The concert",
+        "completion_1": "was loud and energetic.",
+        "completion_2": "was held in an outdoor amphitheater.",
+        "log_probs_1": -31.77533721923828,
+        "log_probs_2": -37.36413621902466
+    },
+    {
+        "id": 97,
+        "prompt": "He was looking at",
+        "completion_1": "an old map on the wall.",
+        "completion_2": "the menu, trying to decide what to order.",
+        "log_probs_1": -46.232457637786865,
+        "log_probs_2": -45.54104447364807
+    },
+    {
+        "id": 98,
+        "prompt": "The garden",
+        "completion_1": "was full of tomatoes and peppers.",
+        "completion_2": "needed to be watered.",
+        "log_probs_1": -40.9296875,
+        "log_probs_2": -28.143975734710693
+    },
+    {
+        "id": 99,
+        "prompt": "She was typing",
+        "completion_1": "an email to her colleague.",
+        "completion_2": "quickly, trying to finish the report.",
+        "log_probs_1": -32.42828834056854,
+        "log_probs_2": -56.44116961956024
+    },
+    {
+        "id": 100,
+        "prompt": "The window",
+        "completion_1": "was open, letting in a cool breeze.",
+        "completion_2": "was cracked and needed to be replaced.",
+        "log_probs_1": -34.72982692718506,
+        "log_probs_2": -25.821630477905273
+    }
+]
