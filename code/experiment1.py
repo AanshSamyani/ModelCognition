@@ -5,7 +5,7 @@ import torch
 from tqdm import tqdm
 from dataclasses import dataclass
 from utils import find_assistant_token_end
-from get_log_probs import get_single_token_log_probs
+from get_log_probs import get_single_token_log_probs, get_multi_token_log_probs
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from evaluation import evaluate_model_on_single_token_completion, compute_metrics
 
@@ -18,6 +18,8 @@ class ExperimentConfig:
     evaluation_output_filename: str = "predictions.json"
     metrics_output_filename: str = "metrics.json"
     icl_examples: int = 6 
+    is_single_token: bool = False
+    is_user_prompt: bool = True
     
 def run_experiment(config: ExperimentConfig):
     os.makedirs(config.output_dir, exist_ok=True)
@@ -25,13 +27,24 @@ def run_experiment(config: ExperimentConfig):
     model = AutoModelForCausalLM.from_pretrained(config.model_name, torch_dtype="auto", device_map="auto")
     tokenizer = AutoTokenizer.from_pretrained(config.model_name)
     
-    get_single_token_log_probs(
-        model=model,
-        tokenizer=tokenizer,
-        dataset_path=config.dataset_path,
-        output_dir=config.output_dir,
-        output_filename=config.log_probs_output_filename,
-    )
+    if config.is_single_token: 
+        get_single_token_log_probs(
+            model=model,
+            tokenizer=tokenizer,
+            dataset_path=config.dataset_path,
+            output_dir=config.output_dir,
+            output_filename=config.log_probs_output_filename,
+        )
+        
+    else:
+        get_multi_token_log_probs(
+            model=model,
+            tokenizer=tokenizer,
+            dataset_path=config.dataset_path,
+            output_dir=config.output_dir,
+            output_filename=config.log_probs_output_filename,
+            is_user_prompt=config.is_user_prompt,
+        )
     
     evaluate_model_on_single_token_completion(
         model=model,
