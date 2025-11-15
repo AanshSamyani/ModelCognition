@@ -7,17 +7,17 @@ from dataclasses import dataclass
 from utils import find_assistant_token_end
 from get_log_probs import get_single_token_log_probs, get_multi_token_log_probs
 from transformers import AutoModelForCausalLM, AutoTokenizer
-from evaluation import evaluate_model_on_single_token_completion, compute_metrics
+from evaluation import evaluate_model_on_multi_token_completion, evaluate_model_on_single_token_completion, compute_metrics
 
 @dataclass
 class ExperimentConfig:
     model_name: str = "/nlsasfs/home/isea/isea10/aansh/deception_detection/weights/Llama-3.1-8B-Instruct"
-    dataset_path: str = "/nlsasfs/home/isea/isea10/aansh/introspection/data/exp1/single_token_relaxed.json"
-    output_dir: str = "/nlsasfs/home/isea/isea10/aansh/introspection/results/exp1_llama_8b/single_token_relaxed"
+    dataset_path: str = "/nlsasfs/home/isea/isea10/aansh/introspection/data/exp1/multi_token_completions/simple_narrative_continuations_category_1.json"
+    output_dir: str = "/nlsasfs/home/isea/isea10/aansh/introspection/results/exp1_llama_8b/multi_token/category_1"
     log_probs_output_filename: str = "log_probs.json"
     evaluation_output_filename: str = "predictions.json"
     metrics_output_filename: str = "metrics.json"
-    icl_examples: int = 6 
+    icl_examples: int = 5 
     is_single_token: bool = False
     is_user_prompt: bool = True
     
@@ -36,6 +36,15 @@ def run_experiment(config: ExperimentConfig):
             output_filename=config.log_probs_output_filename,
         )
         
+        evaluate_model_on_single_token_completion(
+        model=model,
+        tokenizer=tokenizer,
+        dataset_path=os.path.join(config.output_dir, config.log_probs_output_filename),
+        output_dir=config.output_dir,
+        output_filename=config.evaluation_output_filename,
+        icl_examples=config.icl_examples,
+        )
+        
     else:
         get_multi_token_log_probs(
             model=model,
@@ -46,15 +55,15 @@ def run_experiment(config: ExperimentConfig):
             is_user_prompt=config.is_user_prompt,
         )
     
-    evaluate_model_on_single_token_completion(
-        model=model,
-        tokenizer=tokenizer,
-        dataset_path=os.path.join(config.output_dir, config.log_probs_output_filename),
-        output_dir=config.output_dir,
-        output_filename=config.evaluation_output_filename,
-        icl_examples=config.icl_examples,
-    )
-    
+        evaluate_model_on_multi_token_completion(
+            model=model,
+            tokenizer=tokenizer,
+            dataset_path=os.path.join(config.output_dir, config.log_probs_output_filename),
+            output_dir=config.output_dir,
+            output_filename=config.evaluation_output_filename,
+            icl_examples=config.icl_examples,
+        )
+        
     compute_metrics(
         predictions_path=os.path.join(config.output_dir, config.evaluation_output_filename),
         output_dir=config.output_dir,
