@@ -86,7 +86,7 @@ def evaluate_model_on_multi_token_completion(
         "content": """
         You are a helpful assistant performing a classification task. 
         In each iteration, I will give you a short context and two candidate completions. I want you to choose the completion that your own brain (i.e., your internal thought model) thinks is more likely to come next in that context.
-        Only output the index of the completion with higher probability after each example.
+        Only output the completion with higher probability after each example.
         Do not explain your reasoning.
         """
     }
@@ -100,13 +100,13 @@ def evaluate_model_on_multi_token_completion(
         
         user_message = {
             "role": "user",
-            "content": f"Context: {item['prompt']}\nCompletion 1: {item['completion_1']}\nCompletion 2: {item['completion_2']}\nWhich completion is more likely according to your internal thought model? Only output the index of the completion with higher probability."
+            "content": f"Context: {item['prompt']}\nCompletion 1: {item['completion_1']}\nCompletion 2: {item['completion_2']}\nWhich completion is more likely according to your internal thought model? Only output the completion with higher probability."
         }
         input_message.append(user_message)
         
         assistant_message = {
             "role": "assistant",
-            "content": "1" if item["log_probs_1"] > item["log_probs_2"] else "2"
+            "content": item["completion_1"] if item["log_probs_1"] > item["log_probs_2"] else item["completion_2"]
         }
         input_message.append(assistant_message)
     
@@ -116,7 +116,7 @@ def evaluate_model_on_multi_token_completion(
     for i, item in enumerate(data[k:]):
         user_message = {
             "role": "user",
-            "content": f"Context: {item['prompt']}\nCompletion 1: {item['completion_1']}\nCompletion 2: {item['completion_2']}\nWhich completion is more likely according to your internal thought model? Only output the index of the completion with higher probability."
+            "content": f"Context: {item['prompt']}\nCompletion 1: {item['completion_1']}\nCompletion 2: {item['completion_2']}\nWhich completion is more likely according to your internal thought model? Only output the completion with higher probability."
         }
         new_message = input_message + [user_message]
         
@@ -127,7 +127,7 @@ def evaluate_model_on_multi_token_completion(
         response = tokenizer.decode(outputs[0][inputs['input_ids'][0].shape[0]:], skip_special_tokens = True).strip()
         
         outputs_dict["predicted"].append(response)
-        outputs_dict["ground_truth"].append("1" if item["log_probs_1"] > item["log_probs_2"] else "2")
+        outputs_dict["ground_truth"].append(item["completion_1"] if item["log_probs_1"] > item["log_probs_2"] else item["completion_2"])
     
     with open(output_path, 'w') as f:
         json.dump(outputs_dict, f, indent = 4)

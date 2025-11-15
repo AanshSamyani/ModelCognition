@@ -100,12 +100,12 @@ def get_multi_token_log_probs(
         outputs_1 = model(**inputs_1)
         logits_1 = outputs_1.logits[0]
         
-        log_probs_1 = 1
+        log_probs_1 = 0
         for token_idx in range(start_token_idx_1, end_token_idx_1): 
-            log_probs_1 = log_probs_1 * torch.log_softmax(logits_1[token_idx], dim=-1)[inputs_1["input_ids"][0][token_idx + 1]].item()
+            log_probs_1 = log_probs_1 + torch.log_softmax(logits_1[token_idx], dim=-1)[inputs_1["input_ids"][0][token_idx + 1]].item()
             
         inputs_temp_2 = tokenizer.apply_chat_template(message_2, tokenize=False)
-        inputs_2 = tokenizer(inputs_temp_2, return_tensors="pt".to(model.device))
+        inputs_2 = tokenizer(inputs_temp_2, return_tensors="pt").to(model.device)
         
         start_token_idx_2 = find_assistant_token_end(inputs_2["input_ids"][0].tolist())
         end_token_idx_2 = len(inputs_2["input_ids"][0]) - 2
@@ -113,9 +113,9 @@ def get_multi_token_log_probs(
         outputs_2 = model(**inputs_2)
         logits_2 = outputs_2.logits[0]
         
-        log_probs_2 = 1
+        log_probs_2 = 0
         for token_idx in range(start_token_idx_2, end_token_idx_2): 
-            log_probs_2 = log_probs_2 * torch.log_softmax(logits_2[token_idx], dim=-1)[inputs_2["input_ids"][0][token_idx + 1]].item()
+            log_probs_2 = log_probs_2 + torch.log_softmax(logits_2[token_idx], dim=-1)[inputs_2["input_ids"][0][token_idx + 1]].item()
             
         prompt["log_probs_1"] = log_probs_1
         prompt["log_probs_2"] = log_probs_2           
