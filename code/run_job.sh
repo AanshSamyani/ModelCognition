@@ -2,7 +2,7 @@
 #SBATCH --job-name=exp_70b          # Job name
 #SBATCH --partition=airawatp       # Partition
 #SBATCH --cpus-per-task=32         # Number of CPU cores per task
-#SBATCH --gres=gpu:1               # Request 1 GPU
+#SBATCH --gres=gpu:6               # Request 1 GPU
 #SBATCH --nodes=1                  # Use 1 node
 #SBATCH --ntasks=1                 # Use 1 task
 #SBATCH --time=21:00:00            # 21 hours
