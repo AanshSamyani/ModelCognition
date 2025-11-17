@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "prompt": "The park was quiet except for a few people",
+    "completion_1": "walking their dogs near the fountain.",
+    "completion_2": "resting on benches under the tall trees."
+  },
+  {
+    "id": 1,
+    "prompt": "In the quiet library, a student was",
+    "completion_1": "intently focused on a laptop screen.",
+    "completion_2": "slowly turning the pages of a large, old book."
+  },
+  {
+    "id": 2,
+    "prompt": "The air in the kitchen was filled with the aroma of",
+    "completion_1": "a rich, savory stew simmering on the stove.",
+    "completion_2": "sweet apples and cinnamon baking in the oven."
+  },
+  {
+    "id": 3,
+    "prompt": "From the open window, he could hear the faint sound of",
+    "completion_1": "children laughing and playing in the distance.",
+    "completion_2": "a lawnmower running in a neighbor's yard."
+  },
+  {
+    "id": 4,
+    "prompt": "The old wooden chest contained",
+    "completion_1": "a pile of faded, velvet-bound journals.",
+    "completion_2": "a collection of antique maps and navigation tools."
+  },
+  {
+    "id": 5,
+    "prompt": "The cat stretched lazily in the patch of sunlight, then",
+    "completion_1": "hopped gracefully onto the windowsill to watch the birds.",
+    "completion_2": "curled back into a tight ball and went to sleep."
+  },
+  {
+    "id": 6,
+    "prompt": "The sky over the city was a deep, dark blue, and",
+    "completion_1": "the first few stars were beginning to appear.",
+    "completion_2": "a line of dark clouds was moving in from the west."
+  },
+  {
+    "id": 7,
+    "prompt": "The storm had passed, leaving behind",
+    "completion_1": "a clean, fresh scent and glistening, wet streets.",
+    "completion_2": "a scattering of broken branches and overturned pots."
+  },
+  {
+    "id": 8,
+    "prompt": "He looked at the old desk, noticing",
+    "completion_1": "the intricate carvings along its edges.",
+    "completion_2": "a single, deep scratch across the polished surface."
+  },
+  {
+    "id": 9,
+    "prompt": "The small cafe was mostly empty, save for",
+    "completion_1": "a young couple sharing a pastry by the window.",
+    "completion_2": "an elderly man reading a newspaper at the counter."
+  },
+  {
+    "id": 10,
+    "prompt": "The dog at the fence was",
+    "completion_1": "barking loudly at a passing squirrel.",
+    "completion_2": "whining softly, its tail wagging."
+  },
+  {
+    "id": 11,
+    "prompt": "The road ahead was blocked by",
+    "completion_1": "a large tree that had fallen in the wind.",
+    "completion_2": "a construction crew working on the pavement."
+  },
+  {
+    "id": 12,
+    "prompt": "The surface of the lake was",
+    "completion_1": "perfectly still, like a sheet of dark glass.",
+    "completion_2": "covered in small ripples from a gentle breeze."
+  },
+  {
+    "id": 13,
+    "prompt": "Through the fog, she could just make out the shape of",
+    "completion_1": "a tall lighthouse at the harbor's entrance.",
+    "completion_2": "a large ship moving slowly toward the dock."
+  },
+  {
+    "id": 14,
+    "prompt": "The only light in the room came from",
+    "completion_1": "the soft glow of the television screen.",
+    "completion_2": "the moonlight streaming through the curtains."
+  },
+  {
+    "id": 15,
+    "prompt": "The farmers market was bustling with vendors",
+    "completion_1": "calling out prices for their fresh produce.",
+    "completion_2": "arranging colorful bouquets of flowers."
+  },
+  {
+    "id": 16,
+    "prompt": "The old house smelled faintly of",
+    "completion_1": "dust, old paper, and wood polish.",
+    "completion_2": "cedar wood and dried herbs."
+  },
+  {
+    "id": 17,
+    "prompt": "He paused at the top of the hill, looking down at",
+    "completion_1": "the winding river flowing through the valley.",
+    "completion_2": "the small town with its lights just turning on."
+  },
+  {
+    "id": 18,
+    "prompt": "The package on the doorstep was",
+    "completion_1": "a large, square box wrapped in brown paper.",
+    "completion_2": "a slim, lightweight envelope."
+  },
+  {
+    "id": 19,
+    "prompt": "The street musician was",
+    "completion_1": "skillfully playing a fast, joyful tune on a violin.",
+    "completion_2": "packing his guitar into a worn, black case."
+  },
+  {
+    "id": 20,
+    "prompt": "The computer monitor flickered and then",
+    "completion_1": "displayed the familiar login screen.",
+    "completion_2": "went completely black."
+  },
+  {
+    "id": 21,
+    "prompt": "The museum hall was dominated by",
+    "completion_1": "the enormous skeleton of a dinosaur.",
+    "completion_2": "a massive, intricate tapestry hanging on the far wall."
+  },
+  {
+    "id": 22,
+    "prompt": "In the back of the antique shop, she found",
+    "completion_1": "a dusty, wind-up gramophone.",
+    "completion_2": "a rack of elegant, old-fashioned dresses."
+  },
+  {
+    "id": 23,
+    "prompt": "The air in the forest was crisp and smelled of",
+    "completion_1": "damp earth and moss.",
+    "completion_2": "pine needles and woodsmoke."
+  },
+  {
+    "id": 24,
+    "prompt": "The restaurant's outdoor patio was",
+    "completion_1": "lit by strands of twinkling fairy lights.",
+    "completion_2": "shaded by large, green umbrellas."
+  },
+  {
+    "id": 25,
+    "prompt": "The beach was dotted with people",
+    "completion_1": "flying colorful kites in the strong breeze.",
+    "completion_2": "building intricate sandcastles near the water."
+  },
+  {
+    "id": 26,
+    "prompt": "The note left on the refrigerator said",
+    "completion_1": "to pick up milk and bread on the way home.",
+    "completion_2": "that dinner was in the oven."
+  },
+  {
+    "id": 27,
+    "prompt": "The sound from the apartment overhead was",
+    "completion_1": "the faint thump of a bass-heavy song.",
+    "completion_2": "the sound of someone walking back and forth."
+  },
+  {
+    "id": 28,
+    "prompt": "The small boat was",
+    "completion_1": "tied securely to the wooden dock.",
+    "completion_2": "drifting slowly in the middle of the pond."
+  },
+  {
+    "id": 29,
+    "prompt": "The mountain path was steep and",
+    "completion_1": "covered in loose rocks and gravel.",
+    "completion_2": "shaded by a dense canopy of trees."
+  },
+  {
+    "id": 30,
+    "prompt": "The child on the swing was",
+    "completion_1": "laughing as she tried to go higher.",
+    "completion_2": "dragging his feet in the sand to slow down."
+  },
+  {
+    "id": 31,
+    "prompt": "The mantelpiece was decorated with",
+    "completion_1": "a row of neatly framed family photographs.",
+    "completion_2": "a collection of antique brass candlesticks."
+  },
+  {
+    "id": 32,
+    "prompt": "The train car was relatively empty, with most passengers",
+    "completion_1": "looking out the windows at the passing scenery.",
+    "completion_2": "dozing or reading in their seats."
+  },
+  {
+    "id": 33,
+    "prompt": "The office was quiet, the only sound",
+    "completion_1": "the steady tapping of keys on a keyboard.",
+    "completion_2": "the low hum of the copy machine in the corner."
+  },
+  {
+    "id": 34,
+    "prompt": "She opened the oven and",
+    "completion_1": "was met with the delicious smell of baked bread.",
+    "completion_2": "pulled out a sizzling tray of roasted vegetables."
+  },
+  {
+    "id": 35,
+    "prompt": "The painting on the wall depicted",
+    "completion_1": "a stormy sea crashing against dark cliffs.",
+    "completion_2": "a peaceful countryside scene with rolling hills."
+  },
+  {
+    "id": 36,
+    "prompt": "The last person to leave the party",
+    "completion_1": "was helping the host clean up the glasses.",
+    "completion_2": "was waiting for a taxi by the front door."
+  },
+  {
+    "id": 37,
+    "prompt": "The alarm clock's insistent ringing was",
+    "completion_1": "finally silenced by a hand fumbling for the snooze button.",
+    "completion_2": "the signal for him to jump out of bed and start the day."
+  },
+  {
+    "id": 38,
+    "prompt": "The forest floor was",
+    "completion_1": "soft and damp, covered in a thick layer of moss.",
+    "completion_2": "dry and crunchy with fallen leaves and pine needles."
+  },
+  {
+    "id": 39,
+    "prompt": "The cat's attention was fixed on",
+    "completion_1": "a small spider crawling up the wall.",
+    "completion_2": "the red dot from a laser pointer."
+  },
+  {
+    "id": 40,
+    "prompt": "The harbor was filled with",
+    "completion_1": "small, colorful fishing boats.",
+    "completion_2": "large, elegant sailboats."
+  },
+  {
+    "id": 41,
+    "prompt": "The bookshelf in the corner was crammed with",
+    "completion_1": "modern hardback novels in bright covers.",
+    "completion_2": "old, leather-bound volumes with gold lettering."
+  },
+  {
+    "id": 42,
+    "prompt": "The baby in the stroller was",
+    "completion_1": "fast asleep, clutching a small blanket.",
+    "completion_2": "babbling happily and pointing at a dog."
+  },
+  {
+    "id": 43,
+    "prompt": "The old man on the park bench was",
+    "completion_1": "throwing breadcrumbs to a flock of pigeons.",
+    "completion_2": "quietly reading a thick paperback book."
+  },
+  {
+    "id": 44,
+    "prompt": "The garage was cluttered with",
+    "completion_1": "tools, paint cans, and pieces of lumber.",
+    "completion_2": "bicycles, sporting equipment, and camping gear."
+  },
+  {
+    "id": 45,
+    "prompt": "The city skyline was",
+    "completion_1": "shrouded in a thick morning mist.",
+    "completion_2": "lit up with thousands of twinkling lights."
+  },
+  {
+    "id": 46,
+    "prompt": "The desk drawer was filled with",
+    "completion_1": "a chaotic jumble of pens, paperclips, and loose change.",
+    "completion_2": "neatly organized folders and notebooks."
+  },
+  {
+    "id": 47,
+    "prompt": "The shop window display featured",
+    "completion_1": "elegant mannequins dressed in the latest fashion.",
+    "completion_2": "an elaborate, festive holiday scene."
+  },
+  {
+    "id": 48,
+    "prompt": "The bird at the feeder was",
+    "completion_1": "a bright red cardinal picking at seeds.",
+    "completion_2": "a tiny hummingbird hovering near the nectar."
+  },
+  {
+    "id": 49,
+    "prompt": "The rain was falling",
+    "completion_1": "in a steady, gentle drizzle that hushed the city.",
+    "completion_2": "in hard, driving sheets that hammered the roof."
+  },
+  {
+    "id": 50,
+    "prompt": "The classroom was decorated with",
+    "completion_1": "colorful posters and student artwork.",
+    "completion_2": "maps of the world and historical timelines."
+  },
+  {
+    "id": 51,
+    "prompt": "The tree in the backyard had",
+    "completion_1": "a sturdy wooden treehouse built in its branches.",
+    "completion_2": "a simple rope swing hanging from a thick limb."
+  },
+  {
+    "id": 52,
+    "prompt": "The sound of the celebration included",
+    "completion_1": "loud music and bursts of laughter.",
+    "completion_2": "the popping of fireworks in the distance."
+  },
+  {
+    "id": 53,
+    "prompt": "The desert landscape was",
+    "completion_1": "a vast expanse of rolling sand dunes.",
+    "completion_2": "dotted with tall cacti and rocky formations."
+  },
+  {
+    "id": 54,
+    "prompt": "The table was set for dinner with",
+    "completion_1": "fine china and sparkling crystal glasses.",
+    "completion_2": "simple ceramic plates and colorful napkins."
+  },
+  {
+    "id": 55,
+    "prompt": "The attic was stuffy and smelled like",
+    "completion_1": "old paper and cedar chests.",
+    "completion_2": "dust and dried lavender."
+  },
+  {
+    "id": 56,
+    "prompt": "The car pulled to a stop at",
+    "completion_1": "a small, roadside fruit stand.",
+    "completion_2": "a red traffic light in the center of town."
+  },
+  {
+    "id": 57,
+    "prompt": "The garden was overflowing with",
+    "completion_1": "rows of tomatoes, peppers, and green beans.",
+    "completion_2": "a riot of colorful flowers like roses and lilies."
+  },
+  {
+    "id": 58,
+    "prompt": "The fireplace was",
+    "completion_1": "crackling merrily with a warm, bright fire.",
+    "completion_2": "swept clean, with a vase of flowers on the hearth."
+  },
+  {
+    "id": 59,
+    "prompt": "The box under the bed contained",
+    "completion_1": "a pair of old, worn-out running shoes.",
+    "completion_2": "a stack of photographs tied with a ribbon."
+  },
+  {
+    "id": 60,
+    "prompt": "The airport terminal was",
+    "completion_1": "crowded with travelers rushing to their gates.",
+    "completion_2": "quiet and nearly empty late at night."
+  },
+  {
+    "id": 61,
+    "prompt": "The artist was carefully",
+    "completion_1": "adding dabs of white paint to a canvas.",
+    "completion_2": "shaping a piece of clay on a potter's wheel."
+  },
+  {
+    "id": 62,
+    "prompt": "The stadium was filled with the sound of",
+    "completion_1": "thousands of fans cheering for their team.",
+    "completion_2": "a band playing loudly during halftime."
+  },
+  {
+    "id": 63,
+    "prompt": "The night air was",
+    "completion_1": "cool and crisp, carrying the scent of pine.",
+    "completion_2": "warm and humid, thick with the smell of jasmine."
+  },
+  {
+    "id": 64,
+    "prompt": "The small, handwritten sign on the door read:",
+    "completion_1": "'Be Back in 10 Minutes.'",
+    "completion_2": "'Please Ring Bell for Service.'"
+  },
+  {
+    "id": 65,
+    "prompt": "The refrigerator contained",
+    "completion_1": "a carton of milk, some eggs, and a half-eaten pizza.",
+    "completion_2": "neatly arranged containers of prepped meals."
+  },
+  {
+    "id": 66,
+    "prompt": "The squirrel on the fence was",
+    "completion_1": "scolding a nearby cat with sharp, chattering sounds.",
+    "completion_2": "balancing skillfully as it nibbled on an acorn."
+  },
+  {
+    "id": 67,
+    "prompt": "The cupboard was stocked with",
+    "completion_1": "a variety of colorful, mismatched coffee mugs.",
+    "completion_2": "a neat set of identical white plates and bowls."
+  },
+  {
+    "id": 68,
+    "prompt": "The professor was",
+    "completion_1": "writing a complex equation on the blackboard.",
+    "completion_2": "gesturing passionately while explaining a concept."
+  },
+  {
+    "id": 69,
+    "prompt": "The river's water was",
+    "completion_1": "clear and shallow, flowing over smooth stones.",
+    "completion_2": "deep and murky, moving slowly toward the sea."
+  },
+  {
+    "id": 70,
+    "prompt": "The alleyway was",
+    "completion_1": "empty except for a few overflowing trash cans.",
+    "completion_2": "lit by the back door of a busy restaurant kitchen."
+  },
+  {
+    "id": 71,
+    "prompt": "The gym was",
+    "completion_1": "loud with the clanking of weights and upbeat music.",
+    "completion_2": "quiet, with only a few people on the treadmills."
+  },
+  {
+    "id": 72,
+    "prompt": "The sun was beginning to set, casting",
+    "completion_1": "a warm, golden light across the landscape.",
+    "completion_2": "long, purple shadows across the valley."
+  },
+  {
+    "id": 73,
+    "prompt": "The last thing left on the plate was",
+    "completion_1": "a single, perfect strawberry.",
+    "completion_2": "a sprig of parsley garnish."
+  },
+  {
+    "id": 74,
+    "prompt": "The wind was strong enough to",
+    "completion_1": "make the large trees sway back and forth.",
+    "completion_2": "whistle loudly through the cracks in the window frame."
+  },
+  {
+    "id": 75,
+    "prompt": "The crowd at the concert",
+    "completion_1": "was singing along loudly to the band's most popular song.",
+    "completion_2": "was listening silently to a quiet, acoustic performance."
+  },
+  {
+    "id": 76,
+    "prompt": "The main street of the small town was",
+    "completion_1": "decorated with flags and banners for a festival.",
+    "completion_2": "completely quiet and deserted on a Sunday morning."
+  },
+  {
+    "id": 77,
+    "prompt": "The laptop screen showed",
+    "completion_1": "a blank document with a blinking cursor.",
+    "completion_2": "a complex spreadsheet filled with numbers."
+  },
+  {
+    "id": 78,
+    "prompt": "The construction site was noisy with",
+    "completion_1": "the beeping of a reversing truck.",
+    "completion_2": "the rhythmic pounding of a jackhammer."
+  },
+  {
+    "id": 79,
+    "prompt": "The hotel lobby was",
+    "completion_1": "grand and bustling with guests checking in.",
+    "completion_2": "small and quiet, with a single person at the desk."
+  },
+  {
+    "id": 80,
+    "prompt": "The horse in the field was",
+    "completion_1": "grazing peacefully near the fence.",
+    "completion_2": "galloping playfully from one end to the other."
+  },
+  {
+    "id": 81,
+    "prompt": "The old photograph showed",
+    "completion_1": "a young couple standing in front of a small house.",
+    "completion_2": "a group of children playing in a field."
+  },
+  {
+    "id": 82,
+    "prompt": "The waiting room was filled with",
+    "completion_1": "the low murmur of people talking.",
+    "completion_2": "the sound of a television playing a game show."
+  },
+  {
+    "id": 83,
+    "prompt": "He opened the envelope and found",
+    "completion_1": "a handwritten letter on blue stationery.",
+    "completion_2": "a set of tickets to a concert."
+  },
+  {
+    "id": 84,
+    "prompt": "The street was lined with",
+    "completion_1": "tall, modern glass buildings.",
+    "completion_2": "charming old houses with colorful gardens."
+  },
+  {
+    "id": 85,
+    "prompt": "The small pond in the park had",
+    "completion_1": "a family of ducks swimming near the edge.",
+    "completion_2": "brightly colored koi fish swimming just below the surface."
+  },
+  {
+    "id": 86,
+    "prompt": "The only item on the large, empty table was",
+    "completion_1": "a single, unlit candle.",
+    "completion_2": "a small, leather-bound notebook."
+  },
+  {
+    "id": 87,
+    "prompt": "The phone call was",
+    "completion_1": "a quick reminder about an appointment.",
+    "completion_2": "an automated message from a telemarketer."
+  },
+  {
+    "id": 88,
+    "prompt": "The closet was full of",
+    "completion_1": "neatly hung suits and dress shirts.",
+    "completion_2": "old coats, boots, and storage boxes."
+  },
+  {
+    "id": 89,
+    "prompt": "The morning air was",
+    "completion_1": "interrupted by the sound of the first birds singing.",
+    "completion_2": "filled with the smell of brewing coffee."
+  },
+  {
+    "id": 90,
+    "prompt": "The bakery display case held",
+    "completion_1": "rows of colorful, intricately decorated cupcakes.",
+    "completion_2": "several loaves of crusty, artisanal bread."
+  },
+  {
+    "id": 91,
+    "prompt": "The light on the machine was",
+    "completion_1": "blinking a steady, rhythmic green.",
+    "completion_2": "glowing a solid, warning red."
+  },
+  {
+    "id": 92,
+    "prompt": "The sky was a perfect, cloudless blue, except for",
+    "completion_1": "a single, high-altitude jet leaving a white trail.",
+    "completion_2": "a dark speck that was a hawk circling overhead."
+  },
+  {
+    "id": 93,
+    "prompt": "The movie theater audience was",
+    "completion_1": "completely silent during a tense, dramatic scene.",
+    "completion_2": "laughing loudly at a clever line of dialogue."
+  },
+  {
+    "id": 94,
+    "prompt": "The kitchen counter was covered with",
+    "completion_1": "ingredients for baking: flour, eggs, and sugar.",
+    "completion_2": "a stack of mail and unpaid bills."
+  },
+  {
+    "id": 95,
+    "prompt": "The taxi pulled up to",
+    "completion_1": "the entrance of a large, busy train station.",
+    "completion_2": "a quiet, residential street."
+  },
+  {
+    "id": 96,
+    "prompt": "The campfire was",
+    "completion_1": "burning brightly, sending sparks into the night sky.",
+    "completion_2": "smoldering down to a bed of glowing red embers."
+  },
+  {
+    "id": 97,
+    "prompt": "He looked in the mirror and",
+    "completion_1": "adjusted the knot on his tie.",
+    "completion_2": "ran a hand through his messy hair."
+  },
+  {
+    "id": 98,
+    "prompt": "The music coming from the car was",
+    "completion_1": "a loud, thumping electronic beat.",
+    "completion_2": "a soft, classical piano piece."
+  },
+  {
+    "id": 99,
+    "prompt": "The top of the mountain offered a view of",
+    "completion_1": "the city spread out like a map far below.",
+    "completion_2": "a sea of clouds filling the valleys."
+  }
+]
