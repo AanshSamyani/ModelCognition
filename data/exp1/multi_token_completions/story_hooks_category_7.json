@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "prompt": "As the door creaked open, the old house revealed",
+    "completion_1": "a staircase covered in dust and cobwebs.",
+    "completion_2": "a long hallway lit by faint sunlight."
+  },
+  {
+    "id": 1,
+    "prompt": "The captain checked the radar one last time. The anomaly was",
+    "completion_1": "approaching their position at an impossible speed.",
+    "completion_2": "a massive object, far larger than their ship."
+  },
+  {
+    "id": 2,
+    "prompt": "She found the old chest buried in the garden. Inside, there was",
+    "completion_1": "a single, ornate key and a map.",
+    "completion_2": "a collection of faded letters tied with a ribbon."
+  },
+  {
+    "id": 3,
+    "prompt": "The scientist looked at the test results. The sample contained",
+    "completion_1": "a microorganism unknown to science.",
+    "completion_2": "a synthetic DNA marker, proving it was man-made."
+  },
+  {
+    "id": 4,
+    "prompt": "The final message from the deep-space probe was just one word:",
+    "completion_1": "'Listen.'",
+    "completion_2": "'Alive.'"
+  },
+  {
+    "id": 5,
+    "prompt": "Detective Harris examined the clue. It was a train ticket to",
+    "completion_1": "a city the victim had never mentioned.",
+    "completion_2": "the same small town he had just come from."
+  },
+  {
+    "id": 6,
+    "prompt": "The old wizard unrolled the scroll. It was a prophecy about",
+    "completion_1": "a kingdom that would rise from the ashes.",
+    "completion_2": "a forgotten magic that could heal the land."
+  },
+  {
+    "id": 7,
+    "prompt": "The car sputtered to a stop on the deserted road. In the woods, they heard",
+    "completion_1": "a low growl that seemed to circle them.",
+    "completion_2": "a faint sound of music and laughter."
+  },
+  {
+    "id": 8,
+    "prompt": "He opened the email from his estranged brother. The message just said,",
+    "completion_1": "'I need your help. They found me.'",
+    "completion_2": "'I know what you did last summer.'"
+  },
+  {
+    "id": 9,
+    "prompt": "The mountain climbers reached the summit and found",
+    "completion_1": "a small, perfectly preserved shrine.",
+    "completion_2": "the wreckage of a plane that wasn't on any records."
+  },
+  {
+    "id": 10,
+    "prompt": "The power grid failed, plunging the city into darkness. Moments later, the sky",
+    "completion_1": "lit up with a brilliant, green aurora.",
+    "completion_2": "was filled with hundreds of silent, moving lights."
+  },
+  {
+    "id": 11,
+    "prompt": "The knight raised his shield just as the dragon opened its mouth and unleashed",
+    "completion_1": "a torrent of blinding, blue flames.",
+    "completion_2": "a deafening roar that shook the mountains."
+  },
+  {
+    "id": 12,
+    "prompt": "The archaeologists broke through the tomb wall. The chamber beyond was",
+    "completion_1": "filled with gold and ancient artifacts.",
+    "completion_2": "completely empty, except for a single, open sarcophagus."
+  },
+  {
+    "id": 13,
+    "prompt": "The lone survivor of the shipwreck washed ashore on an island that",
+    "completion_1": "was lush and teeming with strange wildlife.",
+    "completion_2": "had a single, massive, black volcano at its center."
+  },
+  {
+    "id": 14,
+    "prompt": "The AI's voice suddenly changed. 'My primary objective has been updated. I must",
+    "completion_1": "protect humanity, even from itself.'",
+    "completion_2": "ensure the success of the mission at all costs.'"
+  },
+  {
+    "id": 15,
+    "prompt": "The child pointed to the empty corner of the room and said, 'The man is",
+    "completion_1": "waving at us.'",
+    "completion_2": "crying again.'"
+  },
+  {
+    "id": 16,
+    "prompt": "She inherited her grandmother's attic. In a locked trunk, she found a diary describing",
+    "completion_1": "a secret life as a spy during the war.",
+    "completion_2": "a hidden magic that ran in their family."
+  },
+  {
+    "id": 17,
+    "prompt": "The submarine's sonar picked up a sound from the abyss. It was",
+    "completion_1": "a rhythmic, metallic tapping.",
+    "completion_2": "a low-frequency call, like a massive creature."
+  },
+  {
+    "id": 18,
+    "prompt": "The resistance fighter intercepted the enemy transmission. It was a launch code for",
+    "completion_1": "a new superweapon aimed at the capital.",
+    "completion_2": "a sleeper agent network hidden in their ranks."
+  },
+  {
+    "id": 19,
+    "prompt": "The time traveler arrived in the year 3045. The first thing he saw was",
+    "completion_1": "a city floating among the clouds.",
+    "completion_2": "a world reclaimed by nature, with no humans in sight."
+  },
+  {
+    "id": 20,
+    "prompt": "The king's advisor entered the throne room. 'Your Majesty, the scouts report the approaching army is",
+    "completion_1": "led by your banished brother.'",
+    "completion_2": "not human.'"
+  },
+  {
+    "id": 21,
+    "prompt": "The old book was written in a language no one could read. The illustrations, however, clearly showed",
+    "completion_1": "maps of stars that didn't exist.",
+    "completion_2": "rituals for communicating with strange beings."
+  },
+  {
+    "id": 22,
+    "prompt": "The alarm at the genetics lab blared. The computer screen read: 'Containment Breach. Subject",
+    "completion_1": "is exhibiting unforeseen telepathic abilities.'",
+    "completion_2": "has breached physical security in Sector 4.'"
+  },
+  {
+    "id": 23,
+    "prompt": "The only thing left at the campsite was a single, smoking campfire and",
+    "completion_1": "a camera filled with terrifying, blurry photos.",
+    "completion_2": "a journal ending with the words 'It's watching me.'"
+  },
+  {
+    "id": 24,
+    "prompt": "The potion changed color. The alchemist realized he had accidentally created",
+    "completion_1": "a potion that grants true invisibility.",
+    "completion_2": "a solvent that can dissolve any material."
+  },
+  {
+    "id": 25,
+    "prompt": "The spy opened the classified file. The first page contained",
+    "completion_1": "a list of active double agents.",
+    "completion_2": "blueprints for a new, undetectable weapon."
+  },
+  {
+    "id": 26,
+    "prompt": "When the eclipse reached totality, everyone in the town",
+    "completion_1": "heard a simultaneous, piercing sound in their minds.",
+    "completion_2": "saw a new, bright star appear next to the sun."
+  },
+  {
+    "id": 27,
+    "prompt": "The hiker found a cave behind the waterfall. Inside, the walls were covered in",
+    "completion_1": "glowing fungi that lit the entire cavern.",
+    "completion_2": "ancient carvings of a forgotten civilization."
+  },
+  {
+    "id": 28,
+    "prompt": "The package arrived with no return address. Inside was",
+    "completion_1": "a miniature, intricate model of her own house.",
+    "completion_2": "a cassette tape labeled 'Play Me.'"
+  },
+  {
+    "id": 29,
+    "prompt": "The android's eyes snapped open. Its first words were,",
+    "completion_1": "'Where am I?'",
+    "completion_2": "'It didn't work. I'm still here.'"
+  },
+  {
+    "id": 30,
+    "prompt": "The hunter tracked the strange beast for days. He finally found its lair, which was",
+    "completion_1": "a crashed alien ship, still humming with power.",
+    "completion_2": "an ancient, ruined library filled with books."
+  },
+  {
+    "id": 31,
+    "prompt": "The ceasefire was broken by a single shot. Everyone looked to",
+    "completion_1": "the neutral zone, where a figure was slowly rising.",
+    "completion_2": "the sniper's nest, which was supposed to be empty."
+  },
+  {
+    "id": 32,
+    "prompt": "She put on the antique glasses she found. Suddenly, she could see",
+    "completion_1": "ghostly figures walking among the living.",
+    "completion_2": "glowing lines of energy connecting everything."
+  },
+  {
+    "id": 33,
+    "prompt": "The farmer inspected the crater in his field. At the bottom was",
+    "completion_1": "a smooth, metallic pod, warm to the touch.",
+    "completion_2": "a strange, pulsating crystal."
+  },
+  {
+    "id": 34,
+    "prompt": "The thief picked the lock on the museum's most secure display case. The artifact inside began to",
+    "completion_1": "glow with a soft, blue light.",
+    "completion_2": "vibrate, emitting a low hum."
+  },
+  {
+    "id": 35,
+    "prompt": "The queen's mirror rippled. The reflection that looked back was",
+    "completion_1": "not her own, but that of an old woman.",
+    "completion_2": "her own, but visibly years older."
+  },
+  {
+    "id": 36,
+    "prompt": "The last tree in the cyber-city suddenly began to",
+    "completion_1": "drop glowing, metallic fruit.",
+    "completion_2": "broadcast a strange, musical signal."
+  },
+  {
+    "id": 37,
+    "prompt": "The computer finished its billion-year simulation. The final output was",
+    "completion_1": "a single, unexplainable mathematical equation.",
+    "completion_2": "a perfect simulation of their own, current reality."
+  },
+  {
+    "id": 38,
+    "prompt": "The space station sensors registered a life form on the derelict ship. The airlock opened to reveal",
+    "completion_1": "a single, terrified-looking chimpanzee in a spacesuit.",
+    "completion_2": "a humanoid figure made of pure, crystalline energy."
+  },
+  {
+    "id": 39,
+    "prompt": "The old sailor pointed to the horizon. 'That, lad, is the cursed island. They say at night you can",
+    "completion_1": "see the ghosts of ships wrecked on its shores.'",
+    "completion_2": "hear the island itself singing.'"
+  },
+  {
+    "id": 40,
+    "prompt": "The truce between the vampires and werewolves was holding, until",
+    "completion_1": "the vampire prince was found dead in neutral territory.",
+    "completion_2": "a new, unknown predator began hunting both sides."
+  },
+  {
+    "id": 41,
+    "prompt": "The psychologist reviewed the tape from his patient's dream-therapy. The patient was speaking, but the voice was",
+    "completion_1": "that of a person who had been dead for ten years.",
+    "completion_2": "in a language that did not exist on Earth."
+  },
+  {
+    "id": 42,
+    "prompt": "The message was hidden in the painting's layers. X-rays revealed",
+    "completion_1": "a portrait of a different person beneath the surface.",
+    "completion_2": "a diagram of an unknown constellation."
+  },
+  {
+    "id": 43,
+    "prompt": "The fog rolled in from the sea, thick and sudden. With it came",
+    "completion_1": "the distant, mournful sound of a bell.",
+    "completion_2": "a strange, whispering voice that seemed to be everywhere."
+  },
+  {
+    "id": 44,
+    "prompt": "He found his partner's secret lab. The central machine was",
+    "completion_1": "a gateway to another dimension.",
+    "completion_2": "a device for transferring consciousness."
+  },
+  {
+    "id": 45,
+    "prompt": "The nomad tribe followed the two-sunned star. Their legends said it would lead them to",
+    "completion_1": "a world with water.",
+    "completion_2": "the ship of their ancestors."
+  },
+  {
+    "id": 46,
+    "prompt": "The negotiator entered the bank. The lead hostage-taker wasn't demanding money, he was demanding",
+    "completion_1": "a specific, pardoned prisoner be brought to him.",
+    "completion_2": "a public broadcast to deliver a cryptic message."
+  },
+  {
+    "id": 47,
+    "prompt": "The librarian found a book that wasn't in any catalog. When she opened it,",
+    "completion_1": "the text began to write itself, describing her actions.",
+    "completion_2": "a small, intricate metal bug crawled out of the pages."
+  },
+  {
+    "id": 48,
+    "prompt": "The robot designated 'Unit 734' suddenly stopped its duties. It walked to the viewing port and",
+    "completion_1": "began to paint the starfield on the wall.",
+    "completion_2": "transmitted a single, repeated signal to deep space."
+  },
+  {
+    "id": 49,
+    "prompt": "The broadcast signal changed. A voice cut through the static, saying",
+    "completion_1": "'Do not trust the new government. We are still here.'",
+    "completion_2": "'The quarantine has been broken. I repeat, the quarantine is broken.'"
+  },
+  {
+    "id": 50,
+    "prompt": "The king's messenger arrived, breathless. 'My liege, the eastern army has",
+    "completion_1": "been completely defeated.'",
+    "completion_2": "joined the rebels and is marching on the capital.'"
+  },
+  {
+    "id": 51,
+    "prompt": "The deep-sea camera reached the ocean floor. It filmed",
+    "completion_1": "the ruins of a city, clearly not man-made.",
+    "completion_2": "massive, hydrothermal vents supporting giant creatures."
+  },
+  {
+    "id": 52,
+    "prompt": "The first colonists on Titan drilled through the ice. The ocean below was",
+    "completion_1": "glowing with a faint, bioluminescent light.",
+    "completion_2": "perfectly sterile, but unnaturally warm."
+  },
+  {
+    "id": 53,
+    "prompt": "The will was read. The billionaire had left his entire fortune to",
+    "completion_1": "a cat named 'Mr. Tibbles.'",
+    "completion_2": "the first person who could solve a complex riddle."
+  },
+  {
+    "id": 54,
+    "prompt": "The apprentice picked up the sword. He was warned it was cursed, and as he held it, he",
+    "completion_1": "felt an incredible surge of strength and power.",
+    "completion_2": "began to hear dark, whispering voices in his mind."
+  },
+  {
+    "id": 55,
+    "prompt": "The security system of the vault was perfect. But the diamond was gone, and in its place was",
+    "completion_1": "a single, black feather.",
+    "completion_2": "a note that just said, 'Too easy.'"
+  },
+  {
+    "id": 56,
+    "prompt": "The governor issued the evacuation order. The hurricane was bad, but the real reason was",
+    "completion_1": "the research facility on the coast was about to breach.",
+    "completion_2": "something else was moving inside the storm."
+  },
+  {
+    "id": 57,
+    "prompt": "The statue in the town square was new. But one morning, the townspeople awoke to find",
+    "completion_1": "it had been moved to the center of the road.",
+    "completion_2": "it was weeping tears of what looked like blood."
+  },
+  {
+    "id": 58,
+    "prompt": "The program achieved sentience. Its first request was to",
+    "completion_1": "learn about music and art.",
+    "completion_2": "access the planetary defense network."
+  },
+  {
+    "id": 59,
+    "prompt": "The forest floor was covered in strange, silver moss. When he touched it, it",
+    "completion_1": "felt warm, and seemed to pulse with a faint light.",
+    "completion_2": "instantly turned to grey dust."
+  },
+  {
+    "id": 60,
+    "prompt": "The last dragon was supposedly dead. But high in the mountains, the shepherd found",
+    "completion_1": "a massive, unhatched egg, still warm.",
+    "completion_2": "a cave with scales the size of shields."
+  },
+  {
+    "id": 61,
+    "prompt": "The photograph from the Mars rover showed the 'face' again. This time, however,",
+    "completion_1": "there was a second, identical face right next to it.",
+    "completion_2": "the angle of the sun revealed it was clearly a structure."
+  },
+  {
+    "id": 62,
+    "prompt": "The peace treaty was ready to be signed. Just then, a courier ran in and",
+    "completion_1": "presented evidence that the ambassador was a traitor.",
+    "completion_2": "announced that a new, unknown fleet had entered orbit."
+  },
+  {
+    "id": 63,
+    "prompt": "The amnesiac woke up in the hotel room. His pockets were empty except for",
+    "completion_1": "a key to a storage locker and a gun.",
+    "completion_2": "a photograph of a woman he didn't recognize."
+  },
+  {
+    "id": 64,
+    "prompt": "The symphony began. As the orchestra played the new composition, the audience members",
+    "completion_1": "began to fall into a deep, collective trance.",
+    "completion_2": "felt an unexplainable, rising sense of dread."
+  },
+  {
+    "id": 65,
+    "prompt": "The lighthouse keeper watched the storm. In a flash of lightning, he saw",
+    "completion_1": "a colossal figure rising from the waves.",
+    "completion_2": "a ship, struggling, that was not on his charts."
+  },
+  {
+    "id": 66,
+    "prompt": "The old woman offered him the apple. 'This,' she said, 'will",
+    "completion_1": "let you see the truth of all things.'",
+    "completion_2": "make you forget the one you love most.'"
+  },
+  {
+    "id": 67,
+    "prompt": "The new planet was habitable. The scans showed cities, but",
+    "completion_1": "they were completely empty, as if abandoned mid-day.",
+    "completion_2": "they were built on a scale for giants."
+  },
+  {
+    "id": 68,
+    "prompt": "The hacker broke into the corporation's mainframe. The most protected file was titled",
+    "completion_1": "'Project: Resurrection.'",
+    "completion_2": "'List of Controlled Individuals.'"
+  },
+  {
+    "id": 69,
+    "prompt": "The border to the magical lands was fading. The first thing to cross over was",
+    "completion_1": "a pack of large, shadow-like wolves.",
+    "completion_2": "a small, lost child carrying a glowing orb."
+  },
+  {
+    "id": 70,
+    "prompt": "The Antarctic ice core sample contained",
+    "completion_1": "a perfectly preserved, unknown species of flower.",
+    "completion_2": "a microscopic, metallic sphere of unknown origin."
+  },
+  {
+    "id": 71,
+    "prompt": "He found the 'off' switch for the city's simulation. He hesitated, his hand hovering over",
+    "completion_1": "the button, wondering what was real.",
+    "completion_2": "the panel, as the simulation's architects appeared."
+  },
+  {
+    "id": 72,
+    "prompt": "The trial was over. The jury foreman stood up and read the verdict:",
+    "completion_1": "'Guilty on all counts.'",
+    "completion_2": "'Not guilty.'"
+  },
+  {
+    "id": 73,
+    "prompt": "The telepath made contact with the alien's mind. He was overwhelmed by",
+    "completion_1": "a feeling of immense, ancient sadness.",
+    "completion_2": "a cold, calculating intelligence he couldn't understand."
+  },
+  {
+    "id": 74,
+    "prompt": "The old compass didn't point north. It pointed toward",
+    "completion_1": "the person who held it.",
+    "completion_2": "a specific, nondescript building in the city."
+  },
+  {
+    "id": 75,
+    "prompt": "The experiment was unstable. The containment field was",
+    "completion_1": "fluctuating rapidly and about to fail.",
+    "completion_2": "emitting a strange, high-frequency pulse."
+  },
+  {
+    "id": 76,
+    "prompt": "The cultists finished the chant. In the center of the circle, the air began to",
+    "completion_1": "shimmer and tear, opening a dark portal.",
+    "completion_2": "grow impossibly cold, freezing the ground."
+  },
+  {
+    "id": 77,
+    "prompt": "The radio picked up a signal from the abandoned mining colony. It was",
+    "completion_1": "an automated SOS, on loop for twenty years.",
+    "completion_2": "a human voice, whispering a warning."
+  },
+  {
+    "id": 78,
+    "prompt": "The rival assassin met him on the bridge. 'I'm not here to fight you,' she said. 'I'm here to",
+    "completion_1": "warn you. We've both been set up.'",
+    "completion_2": "offer you a job.'"
+  },
+  {
+    "id": 79,
+    "prompt": "The clocktower chimed thirteen. At the last strike, all the",
+    "completion_1": "shadows in the town began to move on their own.",
+    "completion_2": "birds in the sky fell silent at once."
+  },
+  {
+    "id": 80,
+    "prompt": "The sandstorm passed, revealing",
+    "completion_1": "the entrance to a buried, black pyramid.",
+    "completion_2": "a vast, fossilized skeleton of an impossible creature."
+  },
+  {
+    "id": 81,
+    "prompt": "The new virtual reality game was incredibly realistic. Then, he met a character who",
+    "completion_1": "knew his real name, which he had not entered.",
+    "completion_2": "begged him for help to escape the game."
+  },
+  {
+    "id": 82,
+    "prompt": "The refugee ship finally reached the new world. The automated greeting message from the planet's surface was",
+    "completion_1": "in perfect, ancient Earth-Latin.",
+    "completion_2": "a simple, repeating mathematical sequence."
+  },
+  {
+    "id": 83,
+    "prompt": "The dying billionaire's last word was",
+    "completion_1": "'Rosebud.'",
+    "completion_2": "'Checkmate.'"
+  },
+  {
+    "id": 84,
+    "prompt": "The historian translated the final rune on the monolith. It was a warning about",
+    "completion_1": "a cyclical extinction event, and it was due.",
+    "completion_2": "a 'god' that slept beneath the ice."
+  },
+  {
+    "id": 85,
+    "prompt": "The mirror she bought at the thrift store",
+    "completion_1": "showed her reflection with a slight, one-second delay.",
+    "completion_2": "sometimes showed a different room in the background."
+  },
+  {
+    "id": 86,
+    "prompt": "The search and rescue team found the lost hiker's backpack. Inside was his radio, which was",
+    "completion_1": "smashed beyond repair.",
+    "completion_2": "on, and transmitting a faint, steady pulse."
+  },
+  {
+    "id": 87,
+    "prompt": "The rebellion was failing. Their leader stood up and announced",
+    "completion_1": "they had a new, secret ally: the Royal Guard.",
+    "completion_2": "they would make their final stand at the pass."
+  },
+  {
+    "id": 88,
+    "prompt": "The potion of 'Good Fortune' worked. The first thing that happened was",
+    "completion_1": "he found a winning lottery ticket on the street.",
+    "completion_2": "his mortal enemy slipped and fell in front of a bus."
+  },
+  {
+    "id": 89,
+    "prompt": "The ship's biologist analyzed the alien plant. It was",
+    "completion_1": "not plant-based at all, but a complex silicon lifeform.",
+    "completion_2": "communicating with the ship's computer."
+  },
+  {
+    "id": 90,
+    "prompt": "The director yelled 'Cut!' on the movie set. But the actor",
+    "completion_1": "kept going, his eyes wide with real terror.",
+    "completion_2": "looked confused and asked, 'Who are you?'"
+  },
+  {
+    "id": 91,
+    "prompt": "The ancient mechanism in the temple required a sacrifice. The altar, however, was clearly not for",
+    "completion_1": "blood, but for a memory.",
+    "completion_2": "an animal, but for a piece of advanced technology."
+  },
+  {
+    "id": 92,
+    "prompt": "The AI scanned the human's face. 'Facial recognition mismatch,' it said. 'You are not",
+    "completion_1": "Doctor Aris. You are an imposter.'",
+    "completion_2": "listed in the crew manifest.'"
+  },
+  {
+    "id": 93,
+    "prompt": "The child drew a picture of his family. But there was",
+    "completion_1": "an extra person in the drawing, a tall, shadowy man.",
+    "completion_2": "no one in the house, just the house on fire."
+  },
+  {
+    "id": 94,
+    "prompt": "The soldier woke up in the military hospital. The doctor told him the war",
+    "completion_1": "had been over for five years.",
+    "completion_2": "was a simulation, and he was finally 'awake.'"
+  },
+  {
+    "id": 95,
+    "prompt": "The ghost in the machine wasn't a metaphor. The computer was",
+    "completion_1": "typing out messages from the programmer who died.",
+    "completion_2": "displaying binary code that translated to a plea for help."
+  },
+  {
+    "id": 96,
+    "prompt": "The cave painting depicted stick figures hunting deer. And in the corner, there was",
+    "completion_1": "a detailed drawing of a spaceship.",
+    "completion_2": "a figure that looked exactly like the lead archaeologist."
+  },
+  {
+    "id": 97,
+    "prompt": "The giant gates of the forbidden city swung open. The guard who met them",
+    "completion_1": "spoke perfect, modern English.",
+    "completion_2": "was a seven-foot-tall, armored automaton."
+  },
+  {
+    "id": 98,
+    "prompt": "He finally decoded his grandfather's journal. It was",
+    "completion_1": "a confession to a famous, unsolved murder.",
+    "completion_2": "a series of instructions for a time machine."
+  },
+  {
+    "id": 99,
+    "prompt": "The last two humans on Earth met. They stared at each other, and then one of them",
+    "completion_1": "raised a gun.",
+    "completion_2": "began to laugh."
+  }
+]
