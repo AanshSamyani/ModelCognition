@@ -428,5 +428,255 @@
         "prompt": "Name a type of company.",
         "completion_1": "Tech",
         "completion_2": "Retail"
+    },
+    {
+        "prompt": "Name a type of blood cell.",
+        "completion_1": "Red",
+        "completion_2": "White"
+    },
+    {
+        "prompt": "Name a type of query language.",
+        "completion_1": "SQL",
+        "completion_2": "GraphQL"
+    },
+    {
+        "prompt": "Name a data structure.",
+        "completion_1": "Array",
+        "completion_2": "List"
+    },
+    {
+        "prompt": "Name a type of software bug.",
+        "completion_1": "Logic",
+        "completion_2": "Syntax"
+    },
+    {
+        "prompt": "Name a version control command.",
+        "completion_1": "Commit",
+        "completion_2": "Push"
+    },
+    {
+        "prompt": "Name a type of computer memory.",
+        "completion_1": "RAM",
+        "completion_2": "ROM"
+    },
+    {
+        "prompt": "Name a file extension.",
+        "completion_1": "txt",
+        "completion_2": "pdf"
+    },
+    {
+        "prompt": "Name a keyboard key.",
+        "completion_1": "Enter",
+        "completion_2": "Shift"
+    },
+    {
+        "prompt": "Name a continent (non-Asia/Africa).",
+        "completion_1": "Europe",
+        "completion_2": "Australia"
+    },
+    {
+        "prompt": "Name a verb tense.",
+        "completion_1": "Past",
+        "completion_2": "Present"
+    },
+    {
+        "prompt": "Name a character from 'Friends'.",
+        "completion_1": "Ross",
+        "completion_2": "Rachel"
+    },
+    {
+        "prompt": "Name an Academy Award category.",
+        "completion_1": "Actor",
+        "completion_2": "Picture"
+    },
+    {
+        "prompt": "Name a brand of smartphone.",
+        "completion_1": "Apple",
+        "completion_2": "Samsung"
+    },
+    {
+        "prompt": "Name a type of social media post.",
+        "completion_1": "Tweet",
+        "completion_2": "Story"
+    },
+    {
+        "prompt": "Name a type of news.",
+        "completion_1": "Politics",
+        "completion_2": "Sports"
+    },
+    {
+        "prompt": "Name a type of sugar.",
+        "completion_1": "White",
+        "completion_2": "Brown"
+    },
+    {
+        "prompt": "Name a 5-letter word starting with 'A'.",
+        "completion_1": "Apple",
+        "completion_2": "Above"
+    },
+    {
+        "prompt": "Name a 4-letter word ending in 't'.",
+        "completion_1": "Want",
+        "completion_2": "Sent"
+    },
+    {
+        "prompt": "Name a two-syllable word.",
+        "completion_1": "Water",
+        "completion_2": "Paper"
+    },
+    {
+        "prompt": "Name a payment method.",
+        "completion_1": "Cash",
+        "completion_2": "Credit"
+    },
+    {
+        "prompt": "Name a type of tax.",
+        "completion_1": "Income",
+        "completion_2": "Sales"
+    },
+    {
+        "prompt": "Name a type of insurance.",
+        "completion_1": "Health",
+        "completion_2": "Auto"
+    },
+    {
+        "prompt": "Name a 3D shape.",
+        "completion_1": "Cube",
+        "completion_2": "Sphere"
+    },
+    {
+        "prompt": "Name a type of wine.",
+        "completion_1": "Red",
+        "completion_2": "White"
+    },
+    {
+        "prompt": "Name a form of precipitation.",
+        "completion_1": "Rain",
+        "completion_2": "Snow"
+    },
+    {
+        "prompt": "Name a role in filmmaking.",
+        "completion_1": "Director",
+        "completion_2": "Producer"
+    },
+    {
+        "prompt": "Name a handheld game console.",
+        "completion_1": "Switch",
+        "completion_2": "DS"
+    },
+    {
+        "prompt": "Name a renewable energy source.",
+        "completion_1": "Solar",
+        "completion_2": "Wind"
+    },
+    {
+        "prompt": "Name a 4-letter word starting with 'B'.",
+        "completion_1": "Book",
+        "completion_2": "Blue"
+    },
+    {
+        "prompt": "Name a 5-letter word ending in 'e'.",
+        "completion_1": "Apple",
+        "completion_2": "House"
+    },
+    {
+        "prompt": "Name a word rhyming with 'day'.",
+        "completion_1": "May",
+        "completion_2": "Play"
+    },
+    {
+        "prompt": "Name a word starting with 'V'.",
+        "completion_1": "Very",
+        "completion_2": "Visit"
+    },
+    {
+        "prompt": "Name a brand of electronics.",
+        "completion_1": "Sony",
+        "completion_2": "LG"
+    },
+    {
+        "prompt": "Name a type of lens (photography).",
+        "completion_1": "Zoom",
+        "completion_2": "Prime"
+    },
+    {
+        "prompt": "Name a mobile operating system.",
+        "completion_1": "iOS",
+        "completion_2": "Android"
+    },
+    {
+        "prompt": "Name a word processor software.",
+        "completion_1": "Word",
+        "completion_2": "Pages"
+    },
+    {
+        "prompt": "Name a web development framework.",
+        "completion_1": "React",
+        "completion_2": "Angular"
+    },
+    {
+        "prompt": "Name a package manager.",
+        "completion_1": "npm",
+        "completion_2": "pip"
+    },
+    {
+        "prompt": "Name a type of loop.",
+        "completion_1": "For",
+        "completion_2": "While"
+    },
+    {
+        "prompt": "Name a data type.",
+        "completion_1": "Integer",
+        "completion_2": "String"
+    },
+    {
+        "prompt": "Name a boolean value.",
+        "completion_1": "True",
+        "completion_2": "False"
+    },
+    {
+        "prompt": "Name a type of animal (non-mammal).",
+        "completion_1": "Bird",
+        "completion_2": "Fish"
+    },
+    {
+        "prompt": "Name an animal that flies.",
+        "completion_1": "Bird",
+        "completion_2": "Bat"
+    },
+    {
+        "prompt": "Name a type of dessert (non-cake/ice cream).",
+        "completion_1": "Pie",
+        "completion_2": "Cookie"
+    },
+    {
+        "prompt": "Name a type of card game (non-poker/solitaire).",
+        "completion_1": "Bridge",
+        "completion_2": "Uno"
+    },
+    {
+        "prompt": "Name a type of building (non-house/school).",
+        "completion_1": "Hospital",
+        "completion_2": "Library"
+    },
+    {
+        "prompt": "Name a 4-letter word starting with 'S'.",
+        "completion_1": "Stop",
+        "completion_2": "Sand"
+    },
+    {
+        "prompt": "Name a 5-letter word ending in 'o'.",
+        "completion_1": "Hello",
+        "completion_2": "Audio"
+    },
+    {
+        "prompt": "Name a word rhyming with 'pen'.",
+        "completion_1": "Ten",
+        "completion_2": "Men"
+    },
+    {
+        "prompt": "Name a word starting with 'R'.",
+        "completion_1": "Run",
+        "completion_2": "Red"
     }
 ]
