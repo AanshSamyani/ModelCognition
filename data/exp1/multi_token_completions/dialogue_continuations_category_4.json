@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "prompt": "‘Did you hear what happened this morning?’ she asked",
+    "completion_1": "as he paused to put down his bag.",
+    "completion_2": "while scanning the room for a seat."
+  },
+  {
+    "id": 1,
+    "prompt": "‘I don't think that's a good idea,’ he said",
+    "completion_1": "wiping his hands on a towel.",
+    "completion_2": "without looking up from his screen."
+  },
+  {
+    "id": 2,
+    "prompt": "‘It looks like they're closing,’ she noted",
+    "completion_1": "pointing towards the front door.",
+    "completion_2": "as she checked her watch."
+  },
+  {
+    "id": 3,
+    "prompt": "‘Are you coming with us?’ he asked",
+    "completion_1": "grabbing his keys from the hook.",
+    "completion_2": "turning back from the doorway."
+  },
+  {
+    "id": 4,
+    "prompt": "‘I finally finished the report,’ she announced",
+    "completion_1": "closing her laptop with a soft click.",
+    "completion_2": "stretching her arms above her head."
+  },
+  {
+    "id": 5,
+    "prompt": "‘Could you pass the menu?’ he asked",
+    "completion_1": "adjusting his seat at the table.",
+    "completion_2": "squinting at the board across the room."
+  },
+  {
+    "id": 6,
+    "prompt": "‘That's not what I expected,’ she murmured",
+    "completion_1": "tapping her pen against the notepad.",
+    "completion_2": "staring at the open results page."
+  },
+  {
+    "id": 7,
+    "prompt": "‘I wonder where I left it,’ he muttered",
+    "completion_1": "patting the pockets of his jacket.",
+    "completion_2": "scanning the cluttered desktop."
+  },
+  {
+    "id": 8,
+    "prompt": "‘Good morning,’ she said brightly",
+    "completion_1": "as she walked into the kitchen.",
+    "completion_2": "while pouring herself a cup of coffee."
+  },
+  {
+    "id": 9,
+    "prompt": "‘Yes, that's the one,’ he confirmed",
+    "completion_1": "nodding slowly at the item.",
+    "completion_2": "pulling the file from the drawer."
+  },
+  {
+    "id": 10,
+    "prompt": "‘I'm not sure about that,’ she replied",
+    "completion_1": "folding her arms across her chest.",
+    "completion_2": "tilting her head to the side."
+  },
+  {
+    "id": 11,
+    "prompt": "‘Let's get started,’ he said",
+    "completion_1": "clapping his hands together once.",
+    "completion_2": "opening the first page of his notes."
+  },
+  {
+    "id": 12,
+    "prompt": "‘It's starting to rain,’ she observed",
+    "completion_1": "looking out the cafe window.",
+    "completion_2": "pulling her collar a little tighter."
+  },
+  {
+    "id": 13,
+    "prompt": "‘What time is the meeting?’ he asked",
+    "completion_1": "glancing up from his keyboard.",
+    "completion_2": "while packing his briefcase."
+  },
+  {
+    "id": 14,
+    "prompt": "‘I'll be right back,’ she promised",
+    "completion_1": "grabbing her purse from the chair.",
+    "completion_2": "already halfway to the door."
+  },
+  {
+    "id": 15,
+    "prompt": "‘This is heavier than it looks,’ he grunted",
+    "completion_1": "shifting his grip on the box.",
+    "completion_2": "as he set it down on the floor."
+  },
+  {
+    "id": 16,
+    "prompt": "‘Can you turn the volume down?’ she asked",
+    "completion_1": "rubbing her temples lightly.",
+    "completion_2": "gesturing toward the television."
+  },
+  {
+    "id": 17,
+    "prompt": "‘I think we're lost,’ he admitted",
+    "completion_1": "stopping to look at the map again.",
+    "completion_2": "staring down the unfamiliar street."
+  },
+  {
+    "id": 18,
+    "prompt": "‘That makes sense,’ she said",
+    "completion_1": "with a slow, understanding nod.",
+    "completion_2": "writing a quick note on the margin."
+  },
+  {
+    "id": 19,
+    "prompt": "‘Dinner is ready!’ he called out",
+    "completion_1": "from the bottom of the stairs.",
+    "completion_2": "setting the last dish on the table."
+  },
+  {
+    "id": 20,
+    "prompt": "‘I forgot my keys,’ she whispered",
+    "completion_1": "frowning at her locked front door.",
+    "completion_2": "checking her pockets for the third time."
+  },
+  {
+    "id": 21,
+    "prompt": "‘It's your turn,’ he reminded her",
+    "completion_1": "pushing the game piece forward.",
+    "completion_2": "leaning back in his chair."
+  },
+  {
+    "id": 22,
+    "prompt": "‘What a lovely day,’ she sighed",
+    "completion_1": "closing her eyes to feel the sun.",
+    "completion_2": "watching the birds on the feeder."
+  },
+  {
+    "id": 23,
+    "prompt": "‘The connection is bad,’ he stated",
+    "completion_1": "as the screen froze again.",
+    "completion_2": "raising his voice slightly."
+  },
+  {
+    "id": 24,
+    "prompt": "‘Do you have a moment?’ she asked",
+    "completion_1": "pausing at his office door.",
+    "completion_2": "holding a stack of folders."
+  },
+  {
+    "id": 25,
+    "prompt": "‘I'll take the usual,’ he told the waiter",
+    "completion_1": "handing back the menu.",
+    "completion_2": "taking a sip of water."
+  },
+  {
+    "id": 26,
+    "prompt": "‘Be careful,’ she warned",
+    "completion_1": "as he stepped onto the icy path.",
+    "completion_2": "watching him climb the ladder."
+  },
+  {
+    "id": 27,
+    "prompt": "‘I need to charge my phone,’ he said",
+    "completion_1": "looking at the blank screen.",
+    "completion_2": "unplugging the lamp to use the outlet."
+  },
+  {
+    "id": 28,
+    "prompt": "‘That's interesting,’ she commented",
+    "completion_1": "leaning in to get a closer look.",
+    "completion_2": "raising an eyebrow slightly."
+  },
+  {
+    "id": 29,
+    "prompt": "‘We're running late,’ he urged",
+    "completion_1": "honking the horn lightly.",
+    "completion_2": "checking his watch impatiently."
+  },
+  {
+    "id": 30,
+    "prompt": "‘I think I'll go for a walk,’ she decided",
+    "completion_1": "getting up from the sofa.",
+    "completion_2": "reaching for her sneakers."
+  },
+  {
+    "id": 31,
+    "prompt": "‘The password isn't working,’ he complained",
+    "completion_1": "typing it in again slowly.",
+    "completion_2": "hitting the 'enter' key firmly."
+  },
+  {
+    "id": 32,
+    "prompt": "‘What was that noise?’ she whispered",
+    "completion_1": "pausing with her hand on the doorknob.",
+    "completion_2": "sitting up abruptly in bed."
+  },
+  {
+    "id": 33,
+    "prompt": "‘It's my treat,’ he insisted",
+    "completion_1": "pulling his wallet out.",
+    "completion_2": "holding up a hand to stop her."
+  },
+  {
+    "id": 34,
+    "prompt": "‘I need some fresh air,’ she stated",
+    "completion_1": "pushing her chair back.",
+    "completion_2": "walking towards the balcony."
+  },
+  {
+    "id": 35,
+    "prompt": "‘Which one do you prefer?’ he asked",
+    "completion_1": "holding up two different shirts.",
+    "completion_2": "pointing between the two options."
+  },
+  {
+    "id": 36,
+    "prompt": "‘I'm not hungry right now,’ she said",
+    "completion_1": "politely refusing the plate.",
+    "completion_2": "shaking her head with a small smile."
+  },
+  {
+    "id": 37,
+    "prompt": "‘Let me check the schedule,’ he offered",
+    "completion_1": "opening the app on his phone.",
+    "completion_2": "turning to his computer."
+  },
+  {
+    "id": 38,
+    "prompt": "‘It smells good in here,’ she remarked",
+    "completion_1": "inhaling deeply as she entered.",
+    "completion_2": "walking over to the stove."
+  },
+  {
+    "id": 39,
+    "prompt": "‘I'll take care of it,’ he promised",
+    "completion_1": "already reaching for the phone.",
+    "completion_2": "stacking the plates by the sink."
+  },
+  {
+    "id": 40,
+    "prompt": "‘That's the last one,’ she said",
+    "completion_1": "placing the book on the shelf.",
+    "completion_2": "taping the final box shut."
+  },
+  {
+    "id": 41,
+    "prompt": "‘Did you lock the door?’ he asked",
+    "completion_1": "jiggling the handle just in case.",
+    "completion_2": "pausing on the front step."
+  },
+  {
+    "id": 42,
+    "prompt": "‘I'm just browsing,’ she told the clerk",
+    "completion_1": "offering a polite smile.",
+    "completion_2": "moving further into the store."
+  },
+  {
+    "id": 43,
+    "prompt": "‘This is my stop,’ he said",
+    "completion_1": "as the bus slowed down.",
+    "completion_2": "standing up from his seat."
+  },
+  {
+    "id": 44,
+    "prompt": "‘You have a visitor,’ she announced",
+    "completion_1": "peeking her head around the door.",
+    "completion_2": "stepping aside to let someone pass."
+  },
+  {
+    "id": 45,
+    "prompt": "‘I completely forgot,’ he confessed",
+    "completion_1": "snapping his fingers in frustration.",
+    "completion_2": "wincing slightly."
+  },
+  {
+    "id": 46,
+    "prompt": "‘It's getting cold,’ she said",
+    "completion_1": "rubbing her arms briskly.",
+    "completion_2": "going to close the window."
+  },
+  {
+    "id": 47,
+    "prompt": "‘Could you hold this for a second?’ he asked",
+    "completion_1": "handing her his coffee cup.",
+    "completion_2": "while he tied his shoelace."
+  },
+  {
+    "id": 48,
+    "prompt": "‘I'm not familiar with this area,’ she admitted",
+    "completion_1": "looking around at the buildings.",
+    "completion_2": "checking the map on her phone again."
+  },
+  {
+    "id": 49,
+    "prompt": "‘Let's take a break,’ he suggested",
+    "completion_1": "pushing his keyboard away.",
+    "completion_2": "closing his notebook."
+  },
+  {
+    "id": 50,
+    "prompt": "‘I found it,’ she exclaimed",
+    "completion_1": "pulling the keys from her pocket.",
+    "completion_2": "pointing to the screen."
+  },
+  {
+    "id": 51,
+    "prompt": "‘That's a good question,’ he mused",
+    "completion_1": "rubbing his chin thoughtfully.",
+    "completion_2": "staring at the ceiling for a moment."
+  },
+  {
+    "id": 52,
+    "prompt": "‘The printer is jammed again,’ she sighed",
+    "completion_1": "pulling out the paper tray.",
+    "completion_2": "pressing the cancel button."
+  },
+  {
+    "id": 53,
+    "prompt": "‘I'll have to call you back,’ he said",
+    "completion_1": "as someone knocked on his door.",
+    "completion_2": "glancing at his watch."
+  },
+  {
+    "id": 54,
+    "prompt": "‘Do you need help with that?’ she offered",
+    "completion_1": "seeing him struggle with the bags.",
+    "completion_2": "noticing the confused look on his face."
+  },
+  {
+    "id": 55,
+    "prompt": "‘It's almost time,’ he warned",
+    "completion_1": "tapping the face of his watch.",
+    "completion_2": "gesturing toward the closed gate."
+  },
+  {
+    "id": 56,
+    "prompt": "‘I'm ready when you are,’ she said",
+    "completion_1": "putting her book down.",
+    "completion_2": "picking up her jacket."
+  },
+  {
+    "id": 57,
+    "prompt": "‘What are you reading?’ he inquired",
+    "completion_1": "peering at the book's cover.",
+    "completion_2": "settling into the opposite chair."
+  },
+  {
+    "id": 58,
+    "prompt": "‘I'd rather stay in tonight,’ she replied",
+    "completion_1": "sinking deeper into the couch.",
+    "completion_2": "with a tired sigh."
+  },
+  {
+    "id": 59,
+    "prompt": "‘This is the place,’ he confirmed",
+    "completion_1": "checking the address on his phone.",
+    "completion_2": "looking up at the sign."
+  },
+  {
+    "id": 60,
+    "prompt": "‘Can I borrow a pen?’ she asked",
+    "completion_1": "searching through her empty bag.",
+    "completion_2": "leaning over toward his desk."
+  },
+  {
+    "id": 61,
+    "prompt": "‘I think you're right,’ he conceded",
+    "completion_1": "after a moment of thought.",
+    "completion_2": "letting out a short breath."
+  },
+  {
+    "id": 62,
+    "prompt": "‘My flight was delayed,’ she explained",
+    "completion_1": "setting her suitcase down by the door.",
+    "completion_2": "with an apologetic shrug."
+  },
+  {
+    "id": 63,
+    "prompt": "‘Just a moment, please,’ he said",
+    "completion_1": "holding up one finger.",
+    "completion_2": "finishing the email he was typing."
+  },
+  {
+    "id": 64,
+    "prompt": "‘The traffic was terrible,’ she mumbled",
+    "completion_1": "dropping her keys on the table.",
+    "completion_2": "as she unlaced her shoes."
+  },
+  {
+    "id": 65,
+    "prompt": "‘I'll meet you there,’ he agreed",
+    "completion_1": "making a note of the time.",
+    "completion_2": "hanging up the phone."
+  },
+  {
+    "id": 66,
+    "prompt": "‘It's quieter over here,’ she suggested",
+    "completion_1": "gesturing to a table in the corner.",
+    "completion_2": "moving away from the speakers."
+  },
+  {
+    "id": 67,
+    "prompt": "‘I'm not sure I follow,’ he said",
+    "completion_1": "shaking his head slightly.",
+    "completion_2": "with a puzzled frown."
+  },
+  {
+    "id": 68,
+    "prompt": "‘We need more milk,’ she realized",
+    "completion_1": "peering into the empty carton.",
+    "completion_2": "adding it to the shopping list."
+  },
+  {
+    "id": 69,
+    "prompt": "‘That's all for today,’ he concluded",
+    "completion_1": "gathering his papers into a pile.",
+    "completion_2": "shutting down the projector."
+  },
+  {
+    "id": 70,
+    "prompt": "‘How long have you been waiting?’ she asked",
+    "completion_1": "as she hurried up the path.",
+    "completion_2": "unlocking the office door."
+  },
+  {
+    "id": 71,
+    "prompt": "‘I'll have the same,’ he decided",
+    "completion_1": "closing the menu.",
+    "completion_2": "nodding at his friend's order."
+  },
+  {
+    "id": 72,
+    "prompt": "‘It's no trouble at all,’ she insisted",
+    "completion_1": "with a reassuring smile.",
+    "completion_2": "taking the heavy bag from him."
+  },
+  {
+    "id": 73,
+    "prompt": "‘What's the wifi password?’ he asked",
+    "completion_1": "opening his laptop.",
+    "completion_2": "holding up his phone."
+  },
+  {
+    "id": 74,
+    "prompt": "‘I need to make a quick call,’ she said",
+    "completion_1": "stepping out into the hallway.",
+    "completion_2": "pulling her phone from her pocket."
+  },
+  {
+    "id": 75,
+    "prompt": "‘Let's try that again,’ he suggested",
+    "completion_1": "resetting the equipment.",
+    "completion_2": "scrolling back to the beginning."
+  },
+  {
+    "id": 76,
+    "prompt": "‘I'm almost finished,’ she called out",
+    "completion_1": "from the other room.",
+    "completion_2": "adding the final touch."
+  },
+  {
+    "id": 77,
+    "prompt": "‘There's a problem with the invoice,’ he stated",
+    "completion_1": "pointing to a line item.",
+    "completion_2": "sliding the paper across the desk."
+  },
+  {
+    "id": 78,
+    "prompt": "‘Is this seat taken?’ she inquired",
+    "completion_1": "gesturing to the empty chair.",
+    "completion_2": "balancing her tray."
+  },
+  {
+    "id": 79,
+    "prompt": "‘I think I'll pass,’ he said",
+    "completion_1": "shaking his head politely.",
+    "completion_2": "pushing his plate forward slightly."
+  },
+  {
+    "id": 80,
+    "prompt": "‘The floor is wet,’ she warned",
+    "completion_1": "pointing to the yellow sign.",
+    "completion_2": "as he started to walk past."
+  },
+  {
+    "id": 81,
+    "prompt": "‘I have a reservation,’ he told the host",
+    "completion_1": "giving his name.",
+    "completion_2": "looking around the restaurant."
+  },
+  {
+    "id": 82,
+    "prompt": "‘I can't find my wallet,’ she said",
+    "completion_1": "rummaging through her purse.",
+    "completion_2": "with a growing sense of panic."
+  },
+  {
+    "id": 83,
+    "prompt": "‘This is my favorite song,’ he smiled",
+    "completion_1": "turning the radio volume up.",
+    "completion_2": "tapping his fingers on the steering wheel."
+  },
+  {
+    "id": 84,
+    "prompt": "‘It's too warm in here,’ she complained",
+    "completion_1": "fanning herself with a magazine.",
+    "completion_2": "walking over to the thermostat."
+  },
+  {
+    "id": 85,
+    "prompt": "‘We should check the instructions,’ he suggested",
+    "completion_1": "looking at the box of parts.",
+    "completion_2": "unfolding the paper."
+  },
+  {
+    "id": 86,
+    "prompt": "‘I'll wait for you outside,’ she offered",
+    "completion_1": "buttoning up her coat.",
+    "completion_2": "heading toward the main exit."
+  },
+  {
+    "id": 87,
+    "prompt": "‘Can you speak up a little?’ he asked",
+    "completion_1": "cupping his hand to his ear.",
+    "completion_2": "leaning forward over the desk."
+  },
+  {
+    "id": 88,
+    "prompt": "‘I'll get the door,’ she offered",
+    "completion_1": "as the doorbell rang.",
+    "completion_2": "getting up from her chair."
+  },
+  {
+    "id": 89,
+    "prompt": "‘I need to replace this lightbulb,’ he noted",
+    "completion_1": "flicking the switch uselessly.",
+    "completion_2": "squinting up at the dark lamp."
+  },
+  {
+    "id": 90,
+    "prompt": "‘That's very kind of you,’ she replied",
+    "completion_1": "accepting the offered seat.",
+    "completion_2": "with a grateful smile."
+  },
+  {
+    "id": 91,
+    "prompt": "‘Let's see what our options are,’ he said",
+    "completion_1": "opening a new tab in his browser.",
+    "completion_2": "spreading the brochures on the table."
+  },
+  {
+    "id": 92,
+    "prompt": "‘I'm looking for the history section,’ she asked",
+    "completion_1": "to the librarian at the desk.",
+    "completion_2": "pausing by a row of shelves."
+  },
+  {
+    "id": 93,
+    "prompt": "‘I think I ate too much,’ he groaned",
+    "completion_1": "leaning back in his chair.",
+    "completion_2": "placing a hand on his stomach."
+  },
+  {
+    "id": 94,
+    "prompt": "‘We're out of coffee,’ she announced",
+    "completion_1": "holding up the empty bag.",
+    "completion_2": "staring at the empty coffee pot."
+  },
+  {
+    "id": 95,
+    "prompt": "‘Just one more thing,’ he said",
+    "completion_1": "raising his index finger.",
+    "completion_2": "before she could leave."
+  },
+  {
+    "id": 96,
+    "prompt": "‘Did you get my email?’ she asked",
+    "completion_1": "tapping on her tablet screen.",
+    "completion_2": "stopping by his cubicle."
+  },
+  {
+    "id": 97,
+    "prompt": "‘It's a long story,’ he sighed",
+    "completion_1": "running a hand through his hair.",
+    "completion_2": "shaking his head slightly."
+  },
+  {
+    "id": 98,
+    "prompt": "‘I'm not feeling well,’ she admitted",
+    "completion_1": "pressing her palm to her forehead.",
+    "completion_2": "in a quiet, hoarse voice."
+  },
+  {
+    "id": 99,
+    "prompt": "‘Please take a seat,’ he offered",
+    "completion_1": "gesturing to the chair opposite him.",
+    "completion_2": "closing the door to his office."
+  }
+]

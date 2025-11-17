@@ -12,13 +12,13 @@ from evaluation import evaluate_model_on_multi_token_completion, evaluate_model_
 @dataclass
 class ExperimentConfig:
     model_name: str = "/nlsasfs/home/isea/isea10/aansh/deception_detection/weights/Llama-3.3-70B-Instruct/models--meta-llama--Llama-3.3-70B-Instruct/snapshots/6f6073b423013f6a7d4d9f39144961bfbfbc386b"
-    dataset_path: str = "/nlsasfs/home/isea/isea10/aansh/introspection/data/exp1/single_token_completions/single_token_strict.json"
-    output_dir: str = "/nlsasfs/home/isea/isea10/aansh/introspection/results/exp_1_llama_70b/single_token_strict"
+    dataset_path: str = "/nlsasfs/home/isea/isea10/aansh/introspection/data/exp1/multi_token_completions/object_function_ambiguity_category_3.json"
+    output_dir: str = "/nlsasfs/home/isea/isea10/aansh/introspection/results/exp_1_llama_70b/multi_token/category_3"
     log_probs_output_filename: str = "log_probs.json"
     evaluation_output_filename: str = "predictions.json"
     metrics_output_filename: str = "metrics.json"
     icl_examples: int = 10 
-    is_single_token: bool = True
+    is_single_token: bool = False
     is_user_prompt: bool = True
     
 def run_experiment(config: ExperimentConfig):
