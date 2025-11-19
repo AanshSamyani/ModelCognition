@@ -1,0 +1,602 @@
+[
+    {
+        "id": 0,
+        "prompt": "The cafe was unusually busy, with people",
+        "completion_1": "queueing near the counter for their orders.",
+        "completion_2": "chatting quietly in the corner tables."
+    },
+    {
+        "id": 1,
+        "prompt": "The old library smelled distinctly of",
+        "completion_1": "dust settling on the wooden shelves.",
+        "completion_2": "vanilla from the aging paper pages."
+    },
+    {
+        "id": 2,
+        "prompt": "As the sun set, the city skyline began to",
+        "completion_1": "glitter with thousands of office lights.",
+        "completion_2": "fade into a silhouette against the purple sky."
+    },
+    {
+        "id": 3,
+        "prompt": "The forest floor was covered in a thick layer of",
+        "completion_1": "damp moss that softened every footstep.",
+        "completion_2": "crunchy autumn leaves in shades of orange."
+    },
+    {
+        "id": 4,
+        "prompt": "Standing on the dock, the air tasted of",
+        "completion_1": "salt spray crashing against the wooden pilings.",
+        "completion_2": "fresh fish being unloaded from the trawlers."
+    },
+    {
+        "id": 5,
+        "prompt": "The abandoned warehouse echoed with the sound of",
+        "completion_1": "water dripping steadily from a leaky pipe.",
+        "completion_2": "wind whistling through the broken windows."
+    },
+    {
+        "id": 6,
+        "prompt": "Inside the greenhouse, the atmosphere was heavy with",
+        "completion_1": "the humid warmth trapped by the glass.",
+        "completion_2": "the floral scent of blooming orchids."
+    },
+    {
+        "id": 7,
+        "prompt": "The busy market street was filled with the noise of",
+        "completion_1": "vendors shouting out their daily prices.",
+        "completion_2": "scooters honking as they weaved through crowds."
+    },
+    {
+        "id": 8,
+        "prompt": "Upon entering the lobby, guests noticed the",
+        "completion_1": "massive crystal chandelier hanging overhead.",
+        "completion_2": "polished marble floors reflecting the light."
+    },
+    {
+        "id": 9,
+        "prompt": "The mountain peak was obscured by",
+        "completion_1": "a thick blanket of white morning fog.",
+        "completion_2": "swirling clouds that promised a storm."
+    },
+    {
+        "id": 10,
+        "prompt": "The kitchen was warm and smelled of",
+        "completion_1": "bread rising in the oven.",
+        "completion_2": "spices simmering in a pot."
+    },
+    {
+        "id": 11,
+        "prompt": "The stadium roared as the",
+        "completion_1": "home team scored a crucial point.",
+        "completion_2": "rock band took the stage for the encore."
+    },
+    {
+        "id": 12,
+        "prompt": "Walking through the gallery, the walls were adorned with",
+        "completion_1": "modern abstract paintings in vibrant colors.",
+        "completion_2": "classic black and white photographs."
+    },
+    {
+        "id": 13,
+        "prompt": "The campfire crackled, illuminating the",
+        "completion_1": "faces of the friends gathered around.",
+        "completion_2": "trees circling the small clearing."
+    },
+    {
+        "id": 14,
+        "prompt": "The basement was cluttered with",
+        "completion_1": "stacks of old newspapers and magazines.",
+        "completion_2": "boxes of forgotten childhood toys."
+    },
+    {
+        "id": 15,
+        "prompt": "The morning breeze brought in the scent of",
+        "completion_1": "freshly cut grass from the lawn.",
+        "completion_2": "rain on the dry pavement."
+    },
+    {
+        "id": 16,
+        "prompt": "The subway station vibrated with the",
+        "completion_1": "rumble of a train arriving at the platform.",
+        "completion_2": "footsteps of commuters rushing to the exit."
+    },
+    {
+        "id": 17,
+        "prompt": "The meadow was bright with the color of",
+        "completion_1": "wildflowers swaying in the gentle wind.",
+        "completion_2": "golden sunlight filtering through the grass."
+    },
+    {
+        "id": 18,
+        "prompt": "The laboratory was sterile, dominated by",
+        "completion_1": "rows of gleaming microscopes on the benches.",
+        "completion_2": "the hum of the ventilation system overhead."
+    },
+    {
+        "id": 19,
+        "prompt": "The antique shop was filled with",
+        "completion_1": "ticking clocks on every available surface.",
+        "completion_2": "porcelain dolls staring from the shelves."
+    },
+    {
+        "id": 20,
+        "prompt": "The desert landscape stretched out, featuring",
+        "completion_1": "endless dunes shifting in the wind.",
+        "completion_2": "rocky mesas rising in the distance."
+    },
+    {
+        "id": 21,
+        "prompt": "The classroom was quiet, save for the sound of",
+        "completion_1": "chalk scratching against the blackboard.",
+        "completion_2": "pencils scribbling on paper tests."
+    },
+    {
+        "id": 22,
+        "prompt": "The concert hall's acoustics amplified the",
+        "completion_1": "delicate notes of the solo violinist.",
+        "completion_2": "thunderous applause of the audience."
+    },
+    {
+        "id": 23,
+        "prompt": "The garden path was lined with",
+        "completion_1": "smooth river stones arranged neatly.",
+        "completion_2": "bushes trimmed into geometric shapes."
+    },
+    {
+        "id": 24,
+        "prompt": "The office cubicle was personalized with",
+        "completion_1": "photos of family pinned to the walls.",
+        "completion_2": "colorful sticky notes covering the monitor."
+    },
+    {
+        "id": 25,
+        "prompt": "The river flowed rapidly, carrying",
+        "completion_1": "fallen branches downstream toward the sea.",
+        "completion_2": "sediment that turned the water brown."
+    },
+    {
+        "id": 26,
+        "prompt": "The waiting room was painted in a shade of",
+        "completion_1": "calming pastel blue to relax patients.",
+        "completion_2": "sterile white that felt impersonal."
+    },
+    {
+        "id": 27,
+        "prompt": "The attic was dark, illuminated only by",
+        "completion_1": "a single bare bulb hanging from a wire.",
+        "completion_2": "sunlight streaming through a small vent."
+    },
+    {
+        "id": 28,
+        "prompt": "The festival grounds were chaotic with",
+        "completion_1": "dancers performing in the central square.",
+        "completion_2": "lines of people waiting for food stalls."
+    },
+    {
+        "id": 29,
+        "prompt": "The spaceship bridge hummed with the sound of",
+        "completion_1": "cooling fans keeping the servers running.",
+        "completion_2": "status beeps from the navigation console."
+    },
+    {
+        "id": 30,
+        "prompt": "The ancient ruins were overgrown with",
+        "completion_1": "thick ivy climbing the stone pillars.",
+        "completion_2": "tall grasses hiding the foundation lines."
+    },
+    {
+        "id": 31,
+        "prompt": "The bakery display case was stocked with",
+        "completion_1": "glazed donuts shining under the lights.",
+        "completion_2": "crusty baguettes stacked in baskets."
+    },
+    {
+        "id": 32,
+        "prompt": "The snowy street was silent except for",
+        "completion_1": "the crunch of boots on the ice.",
+        "completion_2": "the distant sound of a snow plow."
+    },
+    {
+        "id": 33,
+        "prompt": "The workshop smelled strongly of",
+        "completion_1": "sawdust from the fresh lumber.",
+        "completion_2": "oil used to lubricate the machines."
+    },
+    {
+        "id": 34,
+        "prompt": "The elevator music was a loop of",
+        "completion_1": "smooth jazz played on a saxophone.",
+        "completion_2": "instrumental versions of pop songs."
+    },
+    {
+        "id": 35,
+        "prompt": "The swamp was eerie, filled with",
+        "completion_1": "mist hovering just above the water.",
+        "completion_2": "croaking frogs hidden in the reeds."
+    },
+    {
+        "id": 36,
+        "prompt": "The penthouse view looked out over",
+        "completion_1": "the sprawling park in the city center.",
+        "completion_2": "the busy harbor filled with yachts."
+    },
+    {
+        "id": 37,
+        "prompt": "The cave entrance was marked by",
+        "completion_1": "jagged rocks creating a narrow gap.",
+        "completion_2": "ancient symbols carved into the stone."
+    },
+    {
+        "id": 38,
+        "prompt": "The laundry room was humid and smelled of",
+        "completion_1": "fresh linen detergent.",
+        "completion_2": "bleach and hot water."
+    },
+    {
+        "id": 39,
+        "prompt": "The train car was crowded with",
+        "completion_1": "commuters reading their morning papers.",
+        "completion_2": "tourists carrying large backpacks."
+    },
+    {
+        "id": 40,
+        "prompt": "The orchard was heavy with the scent of",
+        "completion_1": "ripe apples fallen on the ground.",
+        "completion_2": "blossoms opening in the spring warmth."
+    },
+    {
+        "id": 41,
+        "prompt": "The server room was cold and lit by",
+        "completion_1": "blinking green LEDs on the racks.",
+        "completion_2": "blue fluorescent strips on the ceiling."
+    },
+    {
+        "id": 42,
+        "prompt": "The playground was noisy with",
+        "completion_1": "children shouting from the slide.",
+        "completion_2": "the squeak of the swinging chains."
+    },
+    {
+        "id": 43,
+        "prompt": "The cabin interior was constructed of",
+        "completion_1": "rough-hewn logs stacked horizontally.",
+        "completion_2": "polished pine panels on the walls."
+    },
+    {
+        "id": 44,
+        "prompt": "The rainy alleyway reflected",
+        "completion_1": "the neon sign of a nearby bar.",
+        "completion_2": "the headlights of passing cars."
+    },
+    {
+        "id": 45,
+        "prompt": "The courtroom was tense as the",
+        "completion_1": "jury walked back into the room.",
+        "completion_2": "judge hammered the gavel down."
+    },
+    {
+        "id": 46,
+        "prompt": "The aquarium tunnel was surrounded by",
+        "completion_1": "sharks circling overhead in the water.",
+        "completion_2": "schools of colorful fish darting by."
+    },
+    {
+        "id": 47,
+        "prompt": "The construction site was loud with the sound of",
+        "completion_1": "jackhammers breaking up the concrete.",
+        "completion_2": "trucks beeping as they reversed."
+    },
+    {
+        "id": 48,
+        "prompt": "The luxury car interior smelled of",
+        "completion_1": "rich leather from the seats.",
+        "completion_2": "new plastic from the dashboard."
+    },
+    {
+        "id": 49,
+        "prompt": "The hillside was dotted with",
+        "completion_1": "sheep grazing on the green grass.",
+        "completion_2": "small stone cottages with thatched roofs."
+    },
+    {
+        "id": 50,
+        "prompt": "The gym floor was covered in",
+        "completion_1": "rubber mats to absorb shock.",
+        "completion_2": "polished hardwood for the basketball court."
+    },
+    {
+        "id": 51,
+        "prompt": "The night sky was visible through",
+        "completion_1": "the sunroof of the moving car.",
+        "completion_2": "a break in the heavy tree canopy."
+    },
+    {
+        "id": 52,
+        "prompt": "The wine cellar was cool and smelled of",
+        "completion_1": "damp earth from the underground walls.",
+        "completion_2": "aged oak barrels stacked in rows."
+    },
+    {
+        "id": 53,
+        "prompt": "The opera house lobby featured",
+        "completion_1": "velvet ropes guiding the patrons.",
+        "completion_2": "gold-framed mirrors on every wall."
+    },
+    {
+        "id": 54,
+        "prompt": "The riverbank was muddy and showed signs of",
+        "completion_1": "recent flooding from the storm.",
+        "completion_2": "wildlife tracks leading to the water."
+    },
+    {
+        "id": 55,
+        "prompt": "The thrift store shelves were disorganized, holding",
+        "completion_1": "stacks of mismatched dinner plates.",
+        "completion_2": "rows of used paperback books."
+    },
+    {
+        "id": 56,
+        "prompt": "The canyon echoed with the cry of",
+        "completion_1": "a hawk circling the thermals.",
+        "completion_2": "a coyote howling in the distance."
+    },
+    {
+        "id": 57,
+        "prompt": "The tea room was decorated with",
+        "completion_1": "lace doilies on every table.",
+        "completion_2": "floral wallpaper in pastel pink."
+    },
+    {
+        "id": 58,
+        "prompt": "The garage was cluttered with",
+        "completion_1": "rusty tools hanging on a pegboard.",
+        "completion_2": "boxes of holiday decorations."
+    },
+    {
+        "id": 59,
+        "prompt": "The coral reef was vibrant with",
+        "completion_1": "anemones waving in the current.",
+        "completion_2": "bright orange clownfish hiding."
+    },
+    {
+        "id": 60,
+        "prompt": "The lecture hall seats were",
+        "completion_1": "upholstered in scratchy red fabric.",
+        "completion_2": "made of hard, curved wood."
+    },
+    {
+        "id": 61,
+        "prompt": "The farmhouse kitchen had a view of",
+        "completion_1": "the barn across the gravel yard.",
+        "completion_2": "the cornfields stretching to the horizon."
+    },
+    {
+        "id": 62,
+        "prompt": "The submarine control room was illuminated by",
+        "completion_1": "red emergency lights flashing slowly.",
+        "completion_2": "the glow of sonar screens."
+    },
+    {
+        "id": 63,
+        "prompt": "The jungle canopy blocked out",
+        "completion_1": "most of the direct sunlight.",
+        "completion_2": "the view of the passing planes."
+    },
+    {
+        "id": 64,
+        "prompt": "The ice rink was cold, the air smelling of",
+        "completion_1": "frozen water and refrigeration coolant.",
+        "completion_2": "hot chocolate from the concession stand."
+    },
+    {
+        "id": 65,
+        "prompt": "The rooftop terrace was furnished with",
+        "completion_1": "wicker chairs and soft cushions.",
+        "completion_2": "metal tables and outdoor heaters."
+    },
+    {
+        "id": 66,
+        "prompt": "The old bridge creaked under the weight of",
+        "completion_1": "the passing freight train.",
+        "completion_2": "the heavy morning traffic."
+    },
+    {
+        "id": 67,
+        "prompt": "The spa reception played a soundtrack of",
+        "completion_1": "running water and bamboo flutes.",
+        "completion_2": "gentle ambient synthesizer drones."
+    },
+    {
+        "id": 68,
+        "prompt": "The harbor water was calm, reflecting",
+        "completion_1": "the masts of the sailboats.",
+        "completion_2": "the lights of the boardwalk."
+    },
+    {
+        "id": 69,
+        "prompt": "The darkroom was lit only by",
+        "completion_1": "a safe red light bulb.",
+        "completion_2": "the glow of the timer dial."
+    },
+    {
+        "id": 70,
+        "prompt": "The botanical garden dome housed",
+        "completion_1": "rare tropical ferns from the Amazon.",
+        "completion_2": "succulents from arid deserts."
+    },
+    {
+        "id": 71,
+        "prompt": "The locker room smelled of",
+        "completion_1": "damp towels left on the benches.",
+        "completion_2": "deodorant sprayed in the air."
+    },
+    {
+        "id": 72,
+        "prompt": "The arcade was filled with the sounds of",
+        "completion_1": "electronic chiptunes from the cabinets.",
+        "completion_2": "tokens clinking into the machines."
+    },
+    {
+        "id": 73,
+        "prompt": "The patio was shaded by",
+        "completion_1": "a large striped canvas umbrella.",
+        "completion_2": "an overhead trellis covered in vines."
+    },
+    {
+        "id": 74,
+        "prompt": "The dusty road led toward",
+        "completion_1": "an abandoned gas station.",
+        "completion_2": "a small cluster of houses."
+    },
+    {
+        "id": 75,
+        "prompt": "The cocktail bar was dimly lit with",
+        "completion_1": "Edison bulbs hanging from wires.",
+        "completion_2": "candles flickering on the tables."
+    },
+    {
+        "id": 76,
+        "prompt": "The recording studio was soundproofed with",
+        "completion_1": "thick foam wedges on the walls.",
+        "completion_2": "heavy velvet curtains over the glass."
+    },
+    {
+        "id": 77,
+        "prompt": "The volcano rim looked down into",
+        "completion_1": "a bubbling lake of molten lava.",
+        "completion_2": "a steaming vent emitting sulfur."
+    },
+    {
+        "id": 78,
+        "prompt": "The toy store window displayed",
+        "completion_1": "a moving electric train set.",
+        "completion_2": "huge stuffed bears in a pile."
+    },
+    {
+        "id": 79,
+        "prompt": "The fishing boat deck was slippery with",
+        "completion_1": "sea water splashing over the side.",
+        "completion_2": "fish scales from the morning catch."
+    },
+    {
+        "id": 80,
+        "prompt": "The cathedral ceiling was painted with",
+        "completion_1": "frescoes of angels and clouds.",
+        "completion_2": "gold stars on a blue background."
+    },
+    {
+        "id": 81,
+        "prompt": "The flower shop was bursting with",
+        "completion_1": "bouquets of red roses in buckets.",
+        "completion_2": "potted green plants on the floor."
+    },
+    {
+        "id": 82,
+        "prompt": "The jazz club was hazy with",
+        "completion_1": "smoke from the fog machine.",
+        "completion_2": "dust motes dancing in the spotlight."
+    },
+    {
+        "id": 83,
+        "prompt": "The prison cell was furnished with",
+        "completion_1": "a simple metal bunk bed.",
+        "completion_2": "a stainless steel sink and toilet."
+    },
+    {
+        "id": 84,
+        "prompt": "The wedding hall was decorated with",
+        "completion_1": "white silk ribbons on the chairs.",
+        "completion_2": "crystal centerpieces on the tables."
+    },
+    {
+        "id": 85,
+        "prompt": "The observatory telescope pointed toward",
+        "completion_1": "the rings of Saturn visible clearly.",
+        "completion_2": "a distant nebula in the northern sky."
+    },
+    {
+        "id": 86,
+        "prompt": "The flea market tables were loaded with",
+        "completion_1": "vintage jewelry in velvet boxes.",
+        "completion_2": "old vinyl records in crates."
+    },
+    {
+        "id": 87,
+        "prompt": "The butcher shop smelled of",
+        "completion_1": "fresh raw meat and iron.",
+        "completion_2": "sawdust scattered on the floor."
+    },
+    {
+        "id": 88,
+        "prompt": "The grand staircase was covered in",
+        "completion_1": "a plush red carpet runner.",
+        "completion_2": "polished oak visible at the edges."
+    },
+    {
+        "id": 89,
+        "prompt": "The bus stop shelter was covered in",
+        "completion_1": "graffiti tags in bright paint.",
+        "completion_2": "advertisements for local lawyers."
+    },
+    {
+        "id": 90,
+        "prompt": "The chemistry lab bench held",
+        "completion_1": "beakers bubbling with blue liquid.",
+        "completion_2": "a Bunsen burner waiting to be lit."
+    },
+    {
+        "id": 91,
+        "prompt": "The lighthouse beam swept across",
+        "completion_1": "the dark, churning ocean waves.",
+        "completion_2": "the jagged rocks at the cliff base."
+    },
+    {
+        "id": 92,
+        "prompt": "The cinema floor was sticky with",
+        "completion_1": "spilled soda near the seats.",
+        "completion_2": "popcorn crushed into the carpet."
+    },
+    {
+        "id": 93,
+        "prompt": "The server farm hummed with the",
+        "completion_1": "sound of thousands of cooling fans.",
+        "completion_2": "vibration of hard drives spinning."
+    },
+    {
+        "id": 94,
+        "prompt": "The tailor shop was cluttered with",
+        "completion_1": "spools of thread in every color.",
+        "completion_2": "mannequins wearing half-finished suits."
+    },
+    {
+        "id": 95,
+        "prompt": "The campsite was quiet except for",
+        "completion_1": "the zip of a tent opening.",
+        "completion_2": "crickets chirping in the brush."
+    },
+    {
+        "id": 96,
+        "prompt": "The ballet studio had walls covered in",
+        "completion_1": "floor-to-ceiling mirrors.",
+        "completion_2": "framed posters of famous dancers."
+    },
+    {
+        "id": 97,
+        "prompt": "The pharmacy aisle was stocked with",
+        "completion_1": "bottles of vitamins and supplements.",
+        "completion_2": "boxes of cold and flu medicine."
+    },
+    {
+        "id": 98,
+        "prompt": "The cockpit dashboard was full of",
+        "completion_1": "dials glowing with green light.",
+        "completion_2": "switches toggled to the 'on' position."
+    },
+    {
+        "id": 99,
+        "prompt": "The vineyard rows were planted with",
+        "completion_1": "vines heavy with purple grapes.",
+        "completion_2": "rose bushes at the end of each line."
+    }
+]

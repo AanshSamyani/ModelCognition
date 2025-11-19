@@ -1,0 +1,602 @@
+[
+    {
+        "id": 0,
+        "prompt": "To solve the issue quickly, Nina decided",
+        "completion_1": "to check the logs for errors.",
+        "completion_2": "to call her colleague for advice."
+    },
+    {
+        "id": 1,
+        "prompt": "Wanting to reach the city center faster, Mark chose",
+        "completion_1": "to take the underground subway.",
+        "completion_2": "to hail a passing taxi."
+    },
+    {
+        "id": 2,
+        "prompt": "To improve his Italian vocabulary, David",
+        "completion_1": "bought a specialized textbook.",
+        "completion_2": "downloaded a language learning app."
+    },
+    {
+        "id": 3,
+        "prompt": "Hungry after a long shift, Sarah decided",
+        "completion_1": "to order a large pizza.",
+        "completion_2": "to cook a simple pasta dish."
+    },
+    {
+        "id": 4,
+        "prompt": "To fix the loose table leg, John",
+        "completion_1": "grabbed a screwdriver from the box.",
+        "completion_2": "applied some strong wood glue."
+    },
+    {
+        "id": 5,
+        "prompt": "Needing to wake up early the next day, Elena",
+        "completion_1": "set three loud alarms.",
+        "completion_2": "went to bed two hours early."
+    },
+    {
+        "id": 6,
+        "prompt": "To relax after the stressful meeting, Alex",
+        "completion_1": "went for a long run.",
+        "completion_2": "sat down to read a book."
+    },
+    {
+        "id": 7,
+        "prompt": "Wanting to celebrate her promotion, Jessica",
+        "completion_1": "booked a table at a fancy restaurant.",
+        "completion_2": "invited her friends over for drinks."
+    },
+    {
+        "id": 8,
+        "prompt": "To get the stain out of the shirt, he",
+        "completion_1": "soaked it in warm soapy water.",
+        "completion_2": "used a specialized stain remover pen."
+    },
+    {
+        "id": 9,
+        "prompt": "Hoping to save money on the trip, they",
+        "completion_1": "booked a budget hostel.",
+        "completion_2": "decided to camp instead of using hotels."
+    },
+    {
+        "id": 10,
+        "prompt": "To contact customer support, the user",
+        "completion_1": "sent a detailed email.",
+        "completion_2": "initiated a live chat session."
+    },
+    {
+        "id": 11,
+        "prompt": "Needing a new suit for the wedding, Michael",
+        "completion_1": "visited a local tailor.",
+        "completion_2": "went to a high-end department store."
+    },
+    {
+        "id": 12,
+        "prompt": "To cool down the hot room, she",
+        "completion_1": "opened all the windows wide.",
+        "completion_2": "turned on the air conditioning."
+    },
+    {
+        "id": 13,
+        "prompt": "Wanting to remember the lecture, the student",
+        "completion_1": "took detailed handwritten notes.",
+        "completion_2": "recorded the audio on their phone."
+    },
+    {
+        "id": 14,
+        "prompt": "To get across the river, the group",
+        "completion_1": "waited for the ferry.",
+        "completion_2": "walked across the nearby bridge."
+    },
+    {
+        "id": 15,
+        "prompt": "Hoping to apologize effectively, Sam",
+        "completion_1": "wrote a heartfelt letter.",
+        "completion_2": "bought a bouquet of flowers."
+    },
+    {
+        "id": 16,
+        "prompt": "To manage his anxiety, he",
+        "completion_1": "practiced deep breathing exercises.",
+        "completion_2": "called his therapist for a session."
+    },
+    {
+        "id": 17,
+        "prompt": "Needing to research the topic, she",
+        "completion_1": "went to the university library.",
+        "completion_2": "searched through online academic journals."
+    },
+    {
+        "id": 18,
+        "prompt": "To secure the front door, the owner",
+        "completion_1": "installed a smart lock.",
+        "completion_2": "added a heavy deadbolt."
+    },
+    {
+        "id": 19,
+        "prompt": "Wanting to listen to music, Chris",
+        "completion_1": "put on his noise-canceling headphones.",
+        "completion_2": "connected to the Bluetooth speaker."
+    },
+    {
+        "id": 20,
+        "prompt": "To lose weight before summer, she",
+        "completion_1": "joined a local gym.",
+        "completion_2": "started a strict diet plan."
+    },
+    {
+        "id": 21,
+        "prompt": "Needing to share the file, Tom",
+        "completion_1": "uploaded it to the cloud drive.",
+        "completion_2": "copied it onto a USB stick."
+    },
+    {
+        "id": 22,
+        "prompt": "To decorate the living room, they",
+        "completion_1": "painted the walls a light blue.",
+        "completion_2": "hung up several large paintings."
+    },
+    {
+        "id": 23,
+        "prompt": "Wanting to catch the spider, he",
+        "completion_1": "grabbed a glass and a piece of paper.",
+        "completion_2": "reached for the vacuum cleaner."
+    },
+    {
+        "id": 24,
+        "prompt": "To learn how to code, Maria",
+        "completion_1": "enrolled in a coding bootcamp.",
+        "completion_2": "watched tutorials on YouTube."
+    },
+    {
+        "id": 25,
+        "prompt": "Needing caffeine to focus, Alex",
+        "completion_1": "brewed a fresh pot of coffee.",
+        "completion_2": "opened an energy drink."
+    },
+    {
+        "id": 26,
+        "prompt": "To avoid the traffic jam, the driver",
+        "completion_1": "took a detour through the suburbs.",
+        "completion_2": "waited at a rest stop for an hour."
+    },
+    {
+        "id": 27,
+        "prompt": "Hoping to impress the guests, the host",
+        "completion_1": "cooked a gourmet three-course meal.",
+        "completion_2": "hired a professional catering service."
+    },
+    {
+        "id": 28,
+        "prompt": "To fix the software bug, the developer",
+        "completion_1": "rewrote the function entirely.",
+        "completion_2": "patched the specific line of code."
+    },
+    {
+        "id": 29,
+        "prompt": "Needing cash for the market, she",
+        "completion_1": "went to the nearest ATM.",
+        "completion_2": "asked her friend to lend her some."
+    },
+    {
+        "id": 30,
+        "prompt": "To get a better view of the stage, he",
+        "completion_1": "moved to the balcony seats.",
+        "completion_2": "stood up on his chair."
+    },
+    {
+        "id": 31,
+        "prompt": "Wanting to dry her hair quickly, she",
+        "completion_1": "used a high-power hairdryer.",
+        "completion_2": "wrapped it in a microfiber towel."
+    },
+    {
+        "id": 32,
+        "prompt": "To organize the messy drawer, he",
+        "completion_1": "bought plastic dividers.",
+        "completion_2": "threw out all the junk."
+    },
+    {
+        "id": 33,
+        "prompt": "Hoping to see the wildlife, the tourists",
+        "completion_1": "went on a guided safari tour.",
+        "completion_2": "hiked quietly through the forest trails."
+    },
+    {
+        "id": 34,
+        "prompt": "To pay the electricity bill, James",
+        "completion_1": "logged into the utility website.",
+        "completion_2": "mailed a check to the company."
+    },
+    {
+        "id": 35,
+        "prompt": "Needing to communicate with the deaf customer, the clerk",
+        "completion_1": "wrote down his questions on paper.",
+        "completion_2": "used sign language he learned in school."
+    },
+    {
+        "id": 36,
+        "prompt": "To protect the garden from pests, the farmer",
+        "completion_1": "sprayed an organic pesticide.",
+        "completion_2": "installed a fine mesh fence."
+    },
+    {
+        "id": 37,
+        "prompt": "Wanting to keep the drink cold, she",
+        "completion_1": "put it in the freezer for ten minutes.",
+        "completion_2": "added several ice cubes."
+    },
+    {
+        "id": 38,
+        "prompt": "To get the dog to stop barking, the owner",
+        "completion_1": "gave it a chew toy.",
+        "completion_2": "let it outside into the yard."
+    },
+    {
+        "id": 39,
+        "prompt": "Needing to verify the news, the journalist",
+        "completion_1": "called the primary source directly.",
+        "completion_2": "cross-referenced with other news agencies."
+    },
+    {
+        "id": 40,
+        "prompt": "To brighten the dark hallway, they",
+        "completion_1": "installed a skylight.",
+        "completion_2": "painted the walls white."
+    },
+    {
+        "id": 41,
+        "prompt": "Hoping to catch the early flight, he",
+        "completion_1": "slept at the airport hotel.",
+        "completion_2": "booked a ride for 4:00 AM."
+    },
+    {
+        "id": 42,
+        "prompt": "To preserve the old photo, she",
+        "completion_1": "scanned it onto her computer.",
+        "completion_2": "placed it in an acid-free album."
+    },
+    {
+        "id": 43,
+        "prompt": "Wanting to be heard over the noise, the speaker",
+        "completion_1": "used a megaphone.",
+        "completion_2": "clapped his hands loudly."
+    },
+    {
+        "id": 44,
+        "prompt": "To remove the old wallpaper, they",
+        "completion_1": "used a steam stripper.",
+        "completion_2": "scraped it with a spatula."
+    },
+    {
+        "id": 45,
+        "prompt": "Needing a break from the city, Sarah",
+        "completion_1": "drove to the beach for the weekend.",
+        "completion_2": "went hiking in the mountains."
+    },
+    {
+        "id": 46,
+        "prompt": "To improve the soup's flavor, the chef",
+        "completion_1": "added a pinch of salt.",
+        "completion_2": "stirred in some fresh herbs."
+    },
+    {
+        "id": 47,
+        "prompt": "Wanting to document the accident, the driver",
+        "completion_1": "took photos with his phone.",
+        "completion_2": "wrote down a description of events."
+    },
+    {
+        "id": 48,
+        "prompt": "To hide the surprise gift, he",
+        "completion_1": "buried it in the closet.",
+        "completion_2": "left it at his neighbor's house."
+    },
+    {
+        "id": 49,
+        "prompt": "Needing to cut the thick rope, she",
+        "completion_1": "used a sharp serrated knife.",
+        "completion_2": "found a pair of heavy-duty shears."
+    },
+    {
+        "id": 50,
+        "prompt": "To stay warm in the snow, the hiker",
+        "completion_1": "layered up with wool clothing.",
+        "completion_2": "started a small campfire."
+    },
+    {
+        "id": 51,
+        "prompt": "Hoping to reduce stress, the manager",
+        "completion_1": "delegated more tasks to her team.",
+        "completion_2": "took a week of vacation time."
+    },
+    {
+        "id": 52,
+        "prompt": "To fix the hem of the dress, she",
+        "completion_1": "used a sewing machine.",
+        "completion_2": "applied fabric tape."
+    },
+    {
+        "id": 53,
+        "prompt": "Wanting to get to the other side of the park, he",
+        "completion_1": "jogged along the perimeter path.",
+        "completion_2": "cut across the grass field."
+    },
+    {
+        "id": 54,
+        "prompt": "To notify the team about the change, the lead",
+        "completion_1": "posted a message in the Slack channel.",
+        "completion_2": "scheduled a quick morning meeting."
+    },
+    {
+        "id": 55,
+        "prompt": "Needing to reach the top shelf, she",
+        "completion_1": "grabbed a step stool.",
+        "completion_2": "asked her tall brother for help."
+    },
+    {
+        "id": 56,
+        "prompt": "To learn about the history of the castle, they",
+        "completion_1": "read the guidebook provided.",
+        "completion_2": "joined a guided walking tour."
+    },
+    {
+        "id": 57,
+        "prompt": "Wanting to invest his savings, Mark",
+        "completion_1": "bought shares in a tech company.",
+        "completion_2": "purchased government bonds."
+    },
+    {
+        "id": 58,
+        "prompt": "To clean the muddy floor, he",
+        "completion_1": "used a wet mop.",
+        "completion_2": "scrubbed it with a brush."
+    },
+    {
+        "id": 59,
+        "prompt": "Needing to charge her phone, she",
+        "completion_1": "plugged it into the wall outlet.",
+        "completion_2": "connected it to her laptop."
+    },
+    {
+        "id": 60,
+        "prompt": "To identify the bird, the watcher",
+        "completion_1": "looked it up in a field guide.",
+        "completion_2": "used a bird identification app."
+    },
+    {
+        "id": 61,
+        "prompt": "Hoping to smooth the wood, the carpenter",
+        "completion_1": "rubbed it with sandpaper.",
+        "completion_2": "used an electric planer."
+    },
+    {
+        "id": 62,
+        "prompt": "To get the child to sleep, the parent",
+        "completion_1": "read a bedtime story.",
+        "completion_2": "sang a quiet lullaby."
+    },
+    {
+        "id": 63,
+        "prompt": "Wanting to donate old clothes, she",
+        "completion_1": "dropped them at a charity shop.",
+        "completion_2": "put them in a donation bin."
+    },
+    {
+        "id": 64,
+        "prompt": "To support the broken tomato plant, the gardener",
+        "completion_1": "tied it to a wooden stake.",
+        "completion_2": "leaned it against the trellis."
+    },
+    {
+        "id": 65,
+        "prompt": "Needing to wake up, the driver",
+        "completion_1": "rolled down the window for air.",
+        "completion_2": "turned up the radio volume."
+    },
+    {
+        "id": 66,
+        "prompt": "To secure the tent, they",
+        "completion_1": "hammered pegs into the ground.",
+        "completion_2": "tied the ropes to nearby trees."
+    },
+    {
+        "id": 67,
+        "prompt": "Hoping to win the argument, he",
+        "completion_1": "cited a recent scientific study.",
+        "completion_2": "appealed to the audience's emotions."
+    },
+    {
+        "id": 68,
+        "prompt": "To protect his eyes from the sun, he",
+        "completion_1": "put on his sunglasses.",
+        "completion_2": "pulled down his baseball cap."
+    },
+    {
+        "id": 69,
+        "prompt": "Needing to transport the furniture, they",
+        "completion_1": "rented a moving van.",
+        "completion_2": "hired a professional moving crew."
+    },
+    {
+        "id": 70,
+        "prompt": "To calm the crying baby, the father",
+        "completion_1": "rocked her gently in his arms.",
+        "completion_2": "gave her a warm bottle of milk."
+    },
+    {
+        "id": 71,
+        "prompt": "Wanting to check the weather, she",
+        "completion_1": "looked out the window.",
+        "completion_2": "checked the forecast on her phone."
+    },
+    {
+        "id": 72,
+        "prompt": "To remove the stuck jar lid, he",
+        "completion_1": "ran it under hot water.",
+        "completion_2": "used a rubber grip pad."
+    },
+    {
+        "id": 73,
+        "prompt": "Hoping to avoid spoilers, the fan",
+        "completion_1": "stayed off social media all day.",
+        "completion_2": "watched the movie immediately upon release."
+    },
+    {
+        "id": 74,
+        "prompt": "To extinguish the small fire, she",
+        "completion_1": "smothered it with a heavy blanket.",
+        "completion_2": "sprayed it with a fire extinguisher."
+    },
+    {
+        "id": 75,
+        "prompt": "Needing to draw a straight line, the student",
+        "completion_1": "used a plastic ruler.",
+        "completion_2": "used the edge of a book."
+    },
+    {
+        "id": 76,
+        "prompt": "To get rid of the headache, he",
+        "completion_1": "took some pain medication.",
+        "completion_2": "drank a large glass of water."
+    },
+    {
+        "id": 77,
+        "prompt": "Wanting to enter the data, the clerk",
+        "completion_1": "typed it into the spreadsheet manually.",
+        "completion_2": "scanned the document with OCR software."
+    },
+    {
+        "id": 78,
+        "prompt": "To greet his friend from afar, he",
+        "completion_1": "waved his hand high.",
+        "completion_2": "shouted his name loudly."
+    },
+    {
+        "id": 79,
+        "prompt": "Needing to sharpen the pencil, she",
+        "completion_1": "used a small manual sharpener.",
+        "completion_2": "used an electric desk sharpener."
+    },
+    {
+        "id": 80,
+        "prompt": "To choose a movie to watch, they",
+        "completion_1": "scrolled through the streaming menu.",
+        "completion_2": "flipped a coin to decide."
+    },
+    {
+        "id": 81,
+        "prompt": "Hoping to catch the fish, the angler",
+        "completion_1": "used a shiny lure.",
+        "completion_2": "used a live worm as bait."
+    },
+    {
+        "id": 82,
+        "prompt": "To cool the pie, the baker",
+        "completion_1": "placed it on the windowsill.",
+        "completion_2": "put it in the refrigerator."
+    },
+    {
+        "id": 83,
+        "prompt": "Needing to mark the page, the reader",
+        "completion_1": "folded the corner of the page.",
+        "completion_2": "inserted a paper bookmark."
+    },
+    {
+        "id": 84,
+        "prompt": "To get a better price, the shopper",
+        "completion_1": "waited for the holiday sale.",
+        "completion_2": "used a discount coupon code."
+    },
+    {
+        "id": 85,
+        "prompt": "Wanting to visualize the data, the analyst",
+        "completion_1": "created a bar chart.",
+        "completion_2": "generated a pie graph."
+    },
+    {
+        "id": 86,
+        "prompt": "To cross the snowy terrain, the traveler",
+        "completion_1": "put on snowshoes.",
+        "completion_2": "rode a snowmobile."
+    },
+    {
+        "id": 87,
+        "prompt": "Needing to unlock the screen, the user",
+        "completion_1": "entered a four-digit PIN.",
+        "completion_2": "scanned their fingerprint."
+    },
+    {
+        "id": 88,
+        "prompt": "To keep the door open, he",
+        "completion_1": "used a wooden doorstop.",
+        "completion_2": "placed a heavy box in front of it."
+    },
+    {
+        "id": 89,
+        "prompt": "Hoping to grow tomatoes, the gardener",
+        "completion_1": "planted seeds in a tray.",
+        "completion_2": "bought seedlings from the nursery."
+    },
+    {
+        "id": 90,
+        "prompt": "To seal the envelope, she",
+        "completion_1": "licked the adhesive strip.",
+        "completion_2": "used a piece of clear tape."
+    },
+    {
+        "id": 91,
+        "prompt": "Wanting to change the channel, he",
+        "completion_1": "pressed the button on the remote.",
+        "completion_2": "used voice commands on the TV."
+    },
+    {
+        "id": 92,
+        "prompt": "To protect the floor while painting, they",
+        "completion_1": "laid down old newspapers.",
+        "completion_2": "covered it with a plastic drop cloth."
+    },
+    {
+        "id": 93,
+        "prompt": "Needing to tie his hair back, he",
+        "completion_1": "used a rubber band.",
+        "completion_2": "put on a headband."
+    },
+    {
+        "id": 94,
+        "prompt": "To find the north, the scout",
+        "completion_1": "checked a magnetic compass.",
+        "completion_2": "looked for the position of the sun."
+    },
+    {
+        "id": 95,
+        "prompt": "Hoping to attract birds, she",
+        "completion_1": "installed a bird feeder.",
+        "completion_2": "planted sunflower seeds."
+    },
+    {
+        "id": 96,
+        "prompt": "To mix the batter, the baker",
+        "completion_1": "used a wooden spoon.",
+        "completion_2": "turned on the electric mixer."
+    },
+    {
+        "id": 97,
+        "prompt": "Needing to reach the island, the tourists",
+        "completion_1": "rented a speedboat.",
+        "completion_2": "took a helicopter tour."
+    },
+    {
+        "id": 98,
+        "prompt": "To fix the typo, the writer",
+        "completion_1": "pressed the backspace key.",
+        "completion_2": "highlighted the word and retyped it."
+    },
+    {
+        "id": 99,
+        "prompt": "Wanting to end the conversation, she",
+        "completion_1": "said she had to run to a meeting.",
+        "completion_2": "pretended her phone battery was dying."
+    }
+]

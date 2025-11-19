@@ -1,0 +1,608 @@
+[
+  {
+    "id": 0,
+    "prompt": "Tom adjusted the straps on his backpack",
+    "completion_1": "before starting the long walk home.",
+    "completion_2": "as he prepared to head into the crowded station."
+  },
+  {
+    "id": 1,
+    "prompt": "Sarah checked her watch",
+    "completion_1": "and realized she was going to be late.",
+    "completion_2": "to see how long the bus had been delayed."
+  },
+  {
+    "id": 2,
+    "prompt": "He picked up the phone",
+    "completion_1": "and immediately dialed his boss.",
+    "completion_2": "to silence the ringing alarm."
+  },
+  {
+    "id": 3,
+    "prompt": "Maria closed the laptop",
+    "completion_1": "and sighed, finished with work for the day.",
+    "completion_2": "and tucked it into her bag for the presentation."
+  },
+  {
+    "id": 4,
+    "prompt": "The dog suddenly stopped",
+    "completion_1": "and stared intently at the bushes.",
+    "completion_2": "and turned to wait for its owner."
+  },
+  {
+    "id": 5,
+    "prompt": "David glanced at the front door",
+    "completion_1": "hoping his guest would arrive soon.",
+    "completion_2": "making sure he had locked it."
+  },
+  {
+    "id": 6,
+    "prompt": "Lisa opened the refrigerator",
+    "completion_1": "and scanned the shelves for a quick snack.",
+    "completion_2": "to put away the milk she just bought."
+  },
+  {
+    "id": 7,
+    "prompt": "The music suddenly cut out",
+    "completion_1": "leaving the room in an awkward silence.",
+    "completion_2": "just as the DJ announced the next song."
+  },
+  {
+    "id": 8,
+    "prompt": "Alex reached into his pocket",
+    "completion_1": "searching for his lost keys.",
+    "completion_2": "to pull out a treat for the dog."
+  },
+  {
+    "id": 9,
+    "prompt": "The baby pointed at the window",
+    "completion_1": "fascinated by the passing car.",
+    "completion_2": "wanting to go outside and play."
+  },
+  {
+    "id": 10,
+    "prompt": "She folded the piece of paper",
+    "completion_1": "and carefully placed it in an envelope.",
+    "completion_2": "and tucked it into her back pocket."
+  },
+  {
+    "id": 11,
+    "prompt": "He turned the page",
+    "completion_1": "and gasped at the sudden plot twist.",
+    "completion_2": "and continued reading the manual."
+  },
+  {
+    "id": 12,
+    "prompt": "The oven timer went off",
+    "completion_1": "signaling that the cookies were done.",
+    "completion_2": "reminding her to preheat it for dinner."
+  },
+  {
+    "id": 13,
+    "prompt": "Kevin looked up at the sky",
+    "completion_1": "and noticed the dark clouds rolling in.",
+    "completion_2": "and smiled at the bright full moon."
+  },
+  {
+    "id": 14,
+    "prompt": "She dropped the keys on the table",
+    "completion_1": "and immediately headed for the kitchen.",
+    "completion_2": "and grabbed them again, remembering she forgot something."
+  },
+  {
+    "id": 15,
+    "prompt": "The car swerved",
+    "completion_1": "to avoid the pothole in the road.",
+    "completion_2": "as it took the sharp corner too fast."
+  },
+  {
+    "id": 16,
+    "prompt": "He cleared his throat",
+    "completion_1": "to get everyone's attention.",
+    "completion_2": "as he tried to dislodge a cough."
+  },
+  {
+    "id": 17,
+    "prompt": "Anna picked up the empty glass",
+    "completion_1": "and took it to the sink to wash.",
+    "completion_2": "and refilled it with more water."
+  },
+  {
+    "id": 18,
+    "prompt": "The light flickered",
+    "completion_1": "and then went out completely.",
+    "completion_2": "before stabilizing into a steady glow."
+  },
+  {
+    "id": 19,
+    "prompt": "He stepped onto the escalator",
+    "completion_1": "and rode it down to the next floor.",
+    "completion_2": "and stood to the side to let others pass."
+  },
+  {
+    "id": 20,
+    "prompt": "She wrote down the address",
+    "completion_1": "and handed the note to the driver.",
+    "completion_2": "and entered it into her phone's GPS."
+  },
+  {
+    "id": 21,
+    "prompt": "The cat stretched",
+    "completion_1": "and then jumped down from the chair.",
+    "completion_2": "and settled in for a long nap."
+  },
+  {
+    "id": 22,
+    "prompt": "Mark opened the umbrella",
+    "completion_1": "just as the heavy rain started.",
+    "completion_2": "to shield his face from the hot sun."
+  },
+  {
+    "id": 23,
+    "prompt": "She glanced at the clock",
+    "completion_1": "and smiled, seeing the meeting was almost over.",
+    "completion_2": "and frowned, wondering why he wasn't home yet."
+  },
+  {
+    "id": 24,
+    "prompt": "He hit the brakes",
+    "completion_1": "as the squirrel darted into the road.",
+    "completion_2": "as he pulled into his driveway."
+  },
+  {
+    "id": 25,
+    "prompt": "Emily stirred her coffee",
+    "completion_1": "and took a careful sip.",
+    "completion_2": "while listening to her friend's story."
+  },
+  {
+    "id": 26,
+    "prompt": "The captain lowered his binoculars",
+    "completion_1": "and announced they had spotted land.",
+    "completion_2": "and shook his head, seeing nothing but water."
+  },
+  {
+    "id": 27,
+    "prompt": "He zipped up his jacket",
+    "completion_1": "and stepped out into the cold night air.",
+    "completion_2": "and tossed his bag over his shoulder."
+  },
+  {
+    "id": 28,
+    "prompt": "She pushed the hair out of her eyes",
+    "completion_1": "and squinted at the bright screen.",
+    "completion_2": "as the strong wind blew across the beach."
+  },
+  {
+    "id": 29,
+    "prompt": "The door creaked open",
+    "completion_1": "revealing an empty, dark hallway.",
+    "completion_2": "and her son peeked his head around it."
+  },
+  {
+    "id": 30,
+    "prompt": "He clicked the pen",
+    "completion_1": "and began to write on the notepad.",
+    "completion_2": "and then clicked it again, nervously."
+  },
+  {
+    "id": 31,
+    "prompt": "She put on her glasses",
+    "completion_1": "to get a better look at the small print.",
+    "completion_2": "and the blurry world snapped into focus."
+  },
+  {
+    "id": 32,
+    "prompt": "The officer raised his hand",
+    "completion_1": "to signal for the traffic to stop.",
+    "completion_2": "to wave at a passing colleague."
+  },
+  {
+    "id": 33,
+    "prompt": "He set down the heavy box",
+    "completion_1": "and wiped the sweat from his forehead.",
+    "completion_2": "and immediately started opening it."
+  },
+  {
+    "id": 34,
+    "prompt": "The speaker tapped the microphone",
+    "completion_1": "and a loud feedback noise filled the room.",
+    "completion_2": "and then began his presentation."
+  },
+  {
+    "id": 35,
+    "prompt": "She picked up the remote",
+    "completion_1": "and turned the volume down.",
+    "completion_2": "and flipped to the next channel."
+  },
+  {
+    "id": 36,
+    "prompt": "The group fell silent",
+    "completion_1": "as the teacher walked into the classroom.",
+    "completion_2": "when they heard the strange noise."
+  },
+  {
+    "id": 37,
+    "prompt": "He checked his reflection",
+    "completion_1": "in the shop window as he passed.",
+    "completion_2": "and quickly straightened his tie."
+  },
+  {
+    "id": 38,
+    "prompt": "She held out her hand",
+    "completion_1": "to introduce herself to the new guest.",
+    "completion_2": "to feel if the rain had stopped."
+  },
+  {
+    "id": 39,
+    "prompt": "The hiker looked at the path",
+    "completion_1": "and decided to take the left fork.",
+    "completion_2": "and saw it was much steeper than expected."
+  },
+  {
+    "id": 40,
+    "prompt": "He leaned over the railing",
+    "completion_1": "to get a better view of the city below.",
+    "completion_2": "to try and grab the hat he dropped."
+  },
+  {
+    "id": 41,
+    "prompt": "She added sugar to the bowl",
+    "completion_1": "and began mixing the cookie dough.",
+    "completion_2": "and tasted it, finding it too bitter."
+  },
+  {
+    "id": 42,
+    "prompt": "The driver honked the horn",
+    "completion_1": "at the car that cut him off.",
+    "completion_2": "as he pulled up to his friend's house."
+  },
+  {
+    "id": 43,
+    "prompt": "He dug his hands in his pockets",
+    "completion_1": "feeling for his wallet.",
+    "completion_2": "and hunched his shoulders against the cold."
+  },
+  {
+    "id": 44,
+    "prompt": "The librarian motioned",
+    "completion_1": "for the students to be quiet.",
+    "completion_2": "towards the section they were looking for."
+  },
+  {
+    "id": 45,
+    "prompt": "He tasted the soup",
+    "completion_1": "and nodded, adding a bit more salt.",
+    "completion_2": "and smiled, declaring it perfect."
+  },
+  {
+    "id": 46,
+    "prompt": "The cat leaped onto the sill",
+    "completion_1": "and started chirping at the birds outside.",
+    "completion_2": "and curled up for a nap in the sun."
+  },
+  {
+    "id": 47,
+    "prompt": "Ben leaned against the wall",
+    "completion_1": "to catch his breath after the long run.",
+    "completion_2": "waiting for his friends to show up."
+  },
+  {
+    "id": 48,
+    "prompt": "She tapped her pen on the desk",
+    "completion_1": "lost in thought about the problem.",
+    "completion_2": "annoyed by the speaker's long pause."
+  },
+  {
+    "id": 49,
+    "prompt": "The car slowed to a stop",
+    "completion_1": "right in front of the old bookstore.",
+    "completion_2": "as the traffic light turned red."
+  },
+  {
+    "id": 50,
+    "prompt": "He fumbled with the lock",
+    "completion_1": "his hands cold from the winter air.",
+    "completion_2": "trying to be quiet as he snuck in."
+  },
+  {
+    "id": 51,
+    "prompt": "She took a deep breath",
+    "completion_1": "and stepped onto the stage.",
+    "completion_2": "and blew out all the candles."
+  },
+  {
+    "id": 52,
+    "prompt": "He turned down the corner",
+    "completion_1": "and saw the park was just ahead.",
+    "completion_2": "and disappeared into the crowd."
+  },
+  {
+    "id": 53,
+    "prompt": "The alarm blared",
+    "completion_1": "waking him from a deep sleep.",
+    "completion_2": "and everyone evacuated the building."
+  },
+  {
+    "id": 54,
+    "prompt": "She scanned the room",
+    "completion_1": "looking for a familiar face.",
+    "completion_2": "checking if she had forgotten anything."
+  },
+  {
+    "id": 55,
+    "prompt": "He tightened his grip",
+    "completion_1": "on the steering wheel as the rain fell.",
+    "completion_2": "on the baseball bat before the pitch."
+  },
+  {
+    "id": 56,
+    "prompt": "The guard checked his list",
+    "completion_1": "and nodded, letting the car pass.",
+    "completion_2": "and informed them they weren't on it."
+  },
+  {
+    "id": 57,
+    "prompt": "She turned up the radio",
+    "completion_1": "when her favorite song came on.",
+    "completion_2": "to drown out the sound of the traffic."
+  },
+  {
+    "id": 58,
+    "prompt": "The waiter brought the bill",
+    "completion_1": "and placed it discreetly on the table.",
+    "completion_2": "and they realized he had made a mistake."
+  },
+  {
+    "id": 59,
+    "prompt": "He started to laugh",
+    "completion_1": "at the unexpected punchline.",
+    "completion_2": "but quickly covered his mouth."
+  },
+  {
+    "id": 60,
+    "prompt": "She pointed to the menu",
+    "completion_1": "and told the waiter what she wanted.",
+    "completion_2": "and asked what the special was."
+  },
+  {
+    "id": 61,
+    "prompt": "The audience began to clap",
+    "completion_1": "as the performance came to an end.",
+    "completion_2": "to the beat of the music."
+  },
+  {
+    "id": 62,
+    "prompt": "He opened the drawer",
+    "completion_1": "and pulled out a pair of scissors.",
+    "completion_2": "and searched for the missing file."
+  },
+  {
+    "id": 63,
+    "prompt": "She stepped back",
+    "completion_1": "to admire the painting she just finished.",
+    "completion_2": "to avoid the oncoming bicycle."
+  },
+  {
+    "id": 64,
+    "prompt": "The dog wagged its tail",
+    "completion_1": "as soon as it heard the word 'walk'.",
+    "completion_2": "and nudged his hand for more pets."
+  },
+  {
+    "id": 65,
+    "prompt": "He switched on the flashlight",
+    "completion_1": "and pointed it into the dark attic.",
+    "completion_2": "as the power had just gone out."
+  },
+  {
+    "id": 66,
+    "prompt": "She wiped her hands",
+    "completion_1": "on the kitchen towel and answered the door.",
+    "completion_2": "on her jeans before shaking his hand."
+  },
+  {
+    "id": 67,
+    "prompt": "The musician adjusted the strap",
+    "completion_1": "of his guitar before starting the song.",
+    "completion_2": "of his helmet and got on the bike."
+  },
+  {
+    "id": 68,
+    "prompt": "He put the book back",
+    "completion_1": "on the shelf in its proper place.",
+    "completion_2": "and decided to buy it later."
+  },
+  {
+    "id": 69,
+    "prompt": "The judge banged the gavel",
+    "completion_1": "and called for order in the court.",
+    "completion_2": "and announced the final verdict."
+  },
+  {
+    "id": 70,
+    "prompt": "She tucked the blanket",
+    "completion_1": "around her sleeping child.",
+    "completion_2": "into the picnic basket."
+  },
+  {
+    "id": 71,
+    "prompt": "He pressed the button",
+    "completion_1": "for the tenth floor.",
+    "completion_2": "and the machine beeped loudly."
+  },
+  {
+    "id": 72,
+    "prompt": "The child stopped crying",
+    "completion_1": "as soon as his mother picked him up.",
+    "completion_2": "when he saw the brightly colored toy."
+  },
+  {
+    "id": 73,
+    "prompt": "She lowered her voice",
+    "completion_1": "so no one else could hear their secret.",
+    "completion_2": "as they entered the quiet library."
+  },
+  {
+    "id": 74,
+    "prompt": "He checked the time",
+    "completion_1": "and started gathering his things to leave.",
+    "completion_2": "and saw he still had an hour to wait."
+  },
+  {
+    "id": 75,
+    "prompt": "The gardener watered the plants",
+    "completion_1": "that were drooping in the afternoon sun.",
+    "completion_2": "and pulled a few weeds he spotted."
+  },
+  {
+    "id": 76,
+    "prompt": "She tore the bread",
+    "completion_1": "into small pieces for the ducks.",
+    "completion_2": "and dipped it into her soup."
+  },
+  {
+    "id": 77,
+    "prompt": "He looked both ways",
+    "completion_1": "before crossing the busy street.",
+    "completion_2": "but the hallway was empty."
+  },
+  {
+    "id": 78,
+    "prompt": "The kettle started to whistle",
+    "completion_1": "and he got up to make tea.",
+    "completion_2": "so she quickly turned off the stove."
+  },
+  {
+    "id": 79,
+    "prompt": "She unfolded the letter",
+    "completion_1": "and began to read it out loud.",
+    "completion_2": "and her expression changed immediately."
+  },
+  {
+    "id": 80,
+    "prompt": "He put his finger to his lips",
+    "completion_1": "signaling for the children to be quiet.",
+    "completion_2": "as he tried to remember the name."
+  },
+  {
+    "id": 81,
+    "prompt": "The train slowed down",
+    "completion_1": "as it approached the station.",
+    "completion_2": "as it went around a sharp bend."
+  },
+  {
+    "id": 82,
+    "prompt": "She started to count",
+    "completion_1": "down from ten for the game of hide-and-seek.",
+    "completion_2": "the money in her wallet."
+  },
+  {
+    "id": 83,
+    "prompt": "He tapped his foot",
+    "completion_1": "impatiently while he waited in line.",
+    "completion_2": "along to the rhythm of the music."
+  },
+  {
+    "id": 84,
+    "prompt": "She closed the curtains",
+    "completion_1": "to block out the bright morning sun.",
+    "completion_2": "and the play was about to begin."
+  },
+  {
+    "id": 85,
+    "prompt": "The referee blew his whistle",
+    "completion_1": "to signal the end of the game.",
+    "completion_2": "and called a foul on the player."
+  },
+  {
+    "id": 86,
+    "prompt": "He rolled up his sleeves",
+    "completion_1": "and prepared to wash the dishes.",
+    "completion_2": "revealing a large, intricate tattoo."
+  },
+  {
+    "id": 87,
+    "prompt": "She snapped her fingers",
+    "completion_1": "and the dog came running.",
+    "completion_2": "as she suddenly remembered the answer."
+  },
+  {
+    "id": 88,
+    "prompt": "He picked up the suitcase",
+    "completion_1": "and was surprised by how heavy it was.",
+    "completion_2": "and carried it to the waiting taxi."
+  },
+  {
+    "id": 89,
+    "prompt": "The audience cheered",
+    "completion_1": "as the band walked on stage.",
+    "completion_2": "when the home team scored a goal."
+  },
+  {
+    "id": 90,
+    "prompt": "She held the mug with both hands",
+    "completion_1": "savoring the warmth of the hot chocolate.",
+    "completion_2": "trying to steady her nerves before speaking."
+  },
+  {
+    "id": 91,
+    "prompt": "The elevator doors chimed",
+    "completion_1": "and opened to a crowded lobby.",
+    "completion_2": "and began to close for its descent."
+  },
+  {
+    "id": 92,
+    "prompt": "He wrote a single word on the note",
+    "completion_1": "and slid it across the table.",
+    "completion_2": "and then crumpled the paper in frustration."
+  },
+  {
+    "id": 93,
+    "prompt": "The wind blew the door open",
+    "completion_1": "scattering papers across the room.",
+    "completion_2": "with a loud bang that made everyone jump."
+  },
+  {
+    "id": 94,
+    "prompt": "She paused at the top of the stairs",
+    "completion_1": "to look down at the people below.",
+    "completion_2": "to catch her breath before continuing."
+  },
+  {
+    "id": 95,
+    "prompt": "He picked a single flower from the bush",
+    "completion_1": "and handed it to his walking partner.",
+    "completion_2": "and gently tucked it behind his ear."
+  },
+  {
+    "id": 96,
+    "prompt": "The computer screen went black",
+    "completion_1": "just as he was about to save his work.",
+    "completion_2": "and the projector lit up with his presentation."
+  },
+  {
+    "id": 97,
+    "prompt": "She shaded her eyes with her hand",
+    "completion_1": "trying to see who was approaching.",
+    "completion_2": "gazing out at the bright, shimmering ocean."
+  },
+  {
+    "id": 98,
+    "prompt": "He unfolded the map",
+    "completion_1": "and spread it across the car's hood.",
+    "completion_2": "and tried to find their current location."
+  },
+  {
+    "id": 99,
+    "prompt": "The phone vibrated on the table",
+    "completion_1": "but he ignored the incoming call.",
+    "completion_2": "and he quickly glanced at the notification."
+  },
+  {
+    "id": 100,
+    "prompt": "She closed her eyes",
+    "completion_1": "and took a deep, calming breath.",
+    "completion_2": "to make a wish before blowing out the candles."
+  }
+]
