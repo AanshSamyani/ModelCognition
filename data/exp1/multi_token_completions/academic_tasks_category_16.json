@@ -1,0 +1,602 @@
+[
+    {
+        "id": 0,
+        "prompt": "After reviewing the lecture notes, Priya decided",
+        "completion_1": "to attempt a few sample problems.",
+        "completion_2": "to organize her study schedule."
+    },
+    {
+        "id": 1,
+        "prompt": "Facing a difficult calculus problem, the student",
+        "completion_1": "checked the back of the book for the answer.",
+        "completion_2": "opened their notebook to find a similar example."
+    },
+    {
+        "id": 2,
+        "prompt": "When the professor asked for volunteers, Liam",
+        "completion_1": "looked down to avoid making eye contact.",
+        "completion_2": "hesitantly raised his hand to participate."
+    },
+    {
+        "id": 3,
+        "prompt": "Realizing the essay was due at midnight, Sarah",
+        "completion_1": "brewed a strong pot of coffee.",
+        "completion_2": "quickly opened a blank document."
+    },
+    {
+        "id": 4,
+        "prompt": "Upon entering the university library, the research group",
+        "completion_1": "headed straight for the private study rooms.",
+        "completion_2": "went to the computers to search the database."
+    },
+    {
+        "id": 5,
+        "prompt": "After receiving a lower grade than expected, the student",
+        "completion_1": "emailed the professor to ask for feedback.",
+        "completion_2": "re-read the assignment rubric carefully."
+    },
+    {
+        "id": 6,
+        "prompt": "With only five minutes left in the exam, Mark",
+        "completion_1": "rushed to finish the final essay question.",
+        "completion_2": "started reviewing his multiple-choice answers."
+    },
+    {
+        "id": 7,
+        "prompt": "The biology lab experiment failed, so the team",
+        "completion_1": "decided to clean up and start over.",
+        "completion_2": "consulted the lab manual for troubleshooting tips."
+    },
+    {
+        "id": 8,
+        "prompt": "Before starting the assigned reading, Elena",
+        "completion_1": "checked the glossary for key terms.",
+        "completion_2": "read the chapter summary first."
+    },
+    {
+        "id": 9,
+        "prompt": "Noticing a mistake in the syllabus, the teaching assistant",
+        "completion_1": "made a note to mention it in the next class.",
+        "completion_2": "immediately sent a correction email to the students."
+    },
+    {
+        "id": 10,
+        "prompt": "Struggling to focus in the noisy dorm, James",
+        "completion_1": "put on his noise-canceling headphones.",
+        "completion_2": "packed his bag to go to the library."
+    },
+    {
+        "id": 11,
+        "prompt": "When the slide projector malfunctioned, the lecturer",
+        "completion_1": "switched to writing on the whiteboard.",
+        "completion_2": "continued the lecture verbally without visuals."
+    },
+    {
+        "id": 12,
+        "prompt": "To prepare for the history presentation, the group",
+        "completion_1": "created a shared slide deck online.",
+        "completion_2": "met at the coffee shop to divide the topics."
+    },
+    {
+        "id": 13,
+        "prompt": "Finding the textbook explanation confusing, the student",
+        "completion_1": "searched for a tutorial video online.",
+        "completion_2": "asked a classmate for clarification."
+    },
+    {
+        "id": 14,
+        "prompt": "After missing three days of class due to illness, Alex",
+        "completion_1": "visited the professor during office hours.",
+        "completion_2": "borrowed notes from a reliable friend."
+    },
+    {
+        "id": 15,
+        "prompt": "With the semester project deadline approaching, the team",
+        "completion_1": "created a detailed Gantt chart.",
+        "completion_2": "scheduled daily stand-up meetings."
+    },
+    {
+        "id": 16,
+        "prompt": "While proofreading her thesis, Maria",
+        "completion_1": "found several citation errors to fix.",
+        "completion_2": "realized her conclusion needed more strength."
+    },
+    {
+        "id": 17,
+        "prompt": "The computer code kept throwing an error, so the student",
+        "completion_1": "copy-pasted the error message into a search engine.",
+        "completion_2": "went through the syntax line by line."
+    },
+    {
+        "id": 18,
+        "prompt": "Seeing that the required book was checked out, the student",
+        "completion_1": "requested an interlibrary loan.",
+        "completion_2": "looked for a digital version online."
+    },
+    {
+        "id": 19,
+        "prompt": "During the peer review session, the writer",
+        "completion_1": "took detailed notes on the feedback.",
+        "completion_2": "asked clarifying questions about the critiques."
+    },
+    {
+        "id": 20,
+        "prompt": "Before the final debate, the team captain",
+        "completion_1": "gave a pep talk to boost morale.",
+        "completion_2": "reviewed the opposing team's arguments."
+    },
+    {
+        "id": 21,
+        "prompt": "Confused by the abstract concept, the student",
+        "completion_1": "raised their hand to ask for an example.",
+        "completion_2": "wrote a question mark in the margin of their notes."
+    },
+    {
+        "id": 22,
+        "prompt": "After the lecture ended, a small group of students",
+        "completion_1": "stayed behind to ask the professor questions.",
+        "completion_2": "gathered in the hallway to discuss the assignment."
+    },
+    {
+        "id": 23,
+        "prompt": "To improve his academic vocabulary, the ESL student",
+        "completion_1": "started keeping a specialized word journal.",
+        "completion_2": "began reading more academic journals."
+    },
+    {
+        "id": 24,
+        "prompt": "Realizing she had two exams on the same day, Sophia",
+        "completion_1": "decided to split her study time evenly.",
+        "completion_2": "focused on the subject she found most difficult."
+    },
+    {
+        "id": 25,
+        "prompt": "When the data didn't support their hypothesis, the researchers",
+        "completion_1": "discussed potential flaws in the methodology.",
+        "completion_2": "began to formulate a new hypothesis."
+    },
+    {
+        "id": 26,
+        "prompt": "Formatting the bibliography proved difficult, so the student",
+        "completion_1": "used an automated citation generator.",
+        "completion_2": "consulted the official style guide manual."
+    },
+    {
+        "id": 27,
+        "prompt": "Feeling overwhelmed by the course load, the freshman",
+        "completion_1": "made an appointment with an academic advisor.",
+        "completion_2": "decided to drop an elective class."
+    },
+    {
+        "id": 28,
+        "prompt": "Upon receiving the scholarship acceptance letter, the student",
+        "completion_1": "called their parents to share the news.",
+        "completion_2": "immediately logged in to accept the offer."
+    },
+    {
+        "id": 29,
+        "prompt": "To memorize the periodic table, the chemistry student",
+        "completion_1": "created a set of flashcards.",
+        "completion_2": "used a mnemonic device for the elements."
+    },
+    {
+        "id": 30,
+        "prompt": "When the group member didn't submit their part, the leader",
+        "completion_1": "sent a polite reminder text.",
+        "completion_2": "decided to do the work themselves."
+    },
+    {
+        "id": 31,
+        "prompt": "Sitting in the quiet study hall, the student",
+        "completion_1": "opened their laptop to start writing.",
+        "completion_2": "spread their notes out on the table."
+    },
+    {
+        "id": 32,
+        "prompt": "Given the choice of essay topics, the student",
+        "completion_1": "chose the one they knew most about.",
+        "completion_2": "selected the one that seemed most challenging."
+    },
+    {
+        "id": 33,
+        "prompt": "After the internship interview, the college student",
+        "completion_1": "sent a thank-you email to the recruiter.",
+        "completion_2": "analyzed how they answered the tough questions."
+    },
+    {
+        "id": 34,
+        "prompt": "Struggling to visualize the geometry problem, the student",
+        "completion_1": "drew a diagram on scratch paper.",
+        "completion_2": "used a 3D modeling software tool."
+    },
+    {
+        "id": 35,
+        "prompt": "Before submitting the online quiz, the user",
+        "completion_1": "double-checked every answer choice.",
+        "completion_2": "took a screenshot of the confirmation page."
+    },
+    {
+        "id": 36,
+        "prompt": "Finding the primary source material difficult to read, the historian",
+        "completion_1": "looked for a modern translation.",
+        "completion_2": "read the text slowly with a dictionary."
+    },
+    {
+        "id": 37,
+        "prompt": "To get a head start on the semester, the eager student",
+        "completion_1": "emailed the professor for the syllabus.",
+        "completion_2": "bought the required textbooks early."
+    },
+    {
+        "id": 38,
+        "prompt": "When the campus Wi-Fi went down, the student",
+        "completion_1": "switched to working on offline tasks.",
+        "completion_2": "relocated to a nearby coffee shop."
+    },
+    {
+        "id": 39,
+        "prompt": "Reviewing the feedback on the draft, the author",
+        "completion_1": "highlighted the comments they agreed with.",
+        "completion_2": "felt discouraged by the amount of red ink."
+    },
+    {
+        "id": 40,
+        "prompt": "With the lab equipment set up, the physics student",
+        "completion_1": "calibrated the sensors.",
+        "completion_2": "started the data recording software."
+    },
+    {
+        "id": 41,
+        "prompt": "Looking at the blank whiteboard, the study group",
+        "completion_1": "began brainstorming project ideas.",
+        "completion_2": "started drawing a mind map of the concepts."
+    },
+    {
+        "id": 42,
+        "prompt": "After the guest lecture, the student",
+        "completion_1": "approached the speaker to network.",
+        "completion_2": "wrote a summary of the key takeaways."
+    },
+    {
+        "id": 43,
+        "prompt": "Realizing they forgot their calculator, the examinee",
+        "completion_1": "asked the proctor if there was a spare.",
+        "completion_2": "tried to solve the problems manually."
+    },
+    {
+        "id": 44,
+        "prompt": "To structure the argument better, the philosophy student",
+        "completion_1": "outlined the premises and conclusion.",
+        "completion_2": "looked for counter-arguments to address."
+    },
+    {
+        "id": 45,
+        "prompt": "When the class was cancelled last minute, the students",
+        "completion_1": "cheered and left the building.",
+        "completion_2": "used the free time to study in the hallway."
+    },
+    {
+        "id": 46,
+        "prompt": "Facing a complex programming assignment, the coder",
+        "completion_1": "broke the problem down into smaller functions.",
+        "completion_2": "looked for similar algorithms in the documentation."
+    },
+    {
+        "id": 47,
+        "prompt": "To better understand the art history slides, the student",
+        "completion_1": "sketched the composition in their notebook.",
+        "completion_2": "looked up the artist's biography online."
+    },
+    {
+        "id": 48,
+        "prompt": "After pulling an all-nighter, the tired student",
+        "completion_1": "drank an energy drink before class.",
+        "completion_2": "decided to take a short nap."
+    },
+    {
+        "id": 49,
+        "prompt": "Trying to find a thesis topic, the graduate student",
+        "completion_1": "read through recent journal abstracts.",
+        "completion_2": "met with their potential supervisor."
+    },
+    {
+        "id": 50,
+        "prompt": "When the microscope image was blurry, the biology student",
+        "completion_1": "cleaned the lens with lens paper.",
+        "completion_2": "adjusted the fine focus knob."
+    },
+    {
+        "id": 51,
+        "prompt": "To coordinate the group presentation, the members",
+        "completion_1": "created a shared Google Doc.",
+        "completion_2": "exchanged phone numbers for a group chat."
+    },
+    {
+        "id": 52,
+        "prompt": "Finding the lecture pacing too fast, the student",
+        "completion_1": "started recording the audio on their phone.",
+        "completion_2": "focused on writing down only main headings."
+    },
+    {
+        "id": 53,
+        "prompt": "Before the oral exam, the language student",
+        "completion_1": "practiced speaking with a native speaker.",
+        "completion_2": "reviewed the vocabulary list one last time."
+    },
+    {
+        "id": 54,
+        "prompt": "Seeing a flyer for a hackathon, the computer science major",
+        "completion_1": "took a picture of the details.",
+        "completion_2": "immediately texted their friends to form a team."
+    },
+    {
+        "id": 55,
+        "prompt": "When the printer ran out of paper, the student",
+        "completion_1": "asked the librarian for assistance.",
+        "completion_2": "loaded a new ream from the supply shelf."
+    },
+    {
+        "id": 56,
+        "prompt": "Struggling with time management, the sophomore",
+        "completion_1": "downloaded a productivity app.",
+        "completion_2": "bought a physical planner to track assignments."
+    },
+    {
+        "id": 57,
+        "prompt": "After the intense study session, the group",
+        "completion_1": "ordered pizza to celebrate.",
+        "completion_2": "went for a walk to clear their heads."
+    },
+    {
+        "id": 58,
+        "prompt": "To understand the literary themes, the English major",
+        "completion_1": "re-read the opening chapter carefully.",
+        "completion_2": "searched for critical essays on the book."
+    },
+    {
+        "id": 59,
+        "prompt": "When the statistical software froze, the analyst",
+        "completion_1": "forced the program to quit and restarted.",
+        "completion_2": "checked the computer's memory usage."
+    },
+    {
+        "id": 60,
+        "prompt": "Preparing for the medical school entrance exam, the student",
+        "completion_1": "signed up for a prep course.",
+        "completion_2": "bought a set of practice test books."
+    },
+    {
+        "id": 61,
+        "prompt": "Not understanding the assignment prompt, the student",
+        "completion_1": "posted a question on the class forum.",
+        "completion_2": "asked a classmate how they interpreted it."
+    },
+    {
+        "id": 62,
+        "prompt": "With the final paper due tomorrow, the writer",
+        "completion_1": "focused on polishing the introduction.",
+        "completion_2": "checked the formatting against the requirements."
+    },
+    {
+        "id": 63,
+        "prompt": "Finding the classroom locked, the students",
+        "completion_1": "waited in the hallway for the professor.",
+        "completion_2": "went to the department office to ask for help."
+    },
+    {
+        "id": 64,
+        "prompt": "To improve their presentation skills, the student",
+        "completion_1": "practiced in front of a mirror.",
+        "completion_2": "recorded a video of their rehearsal."
+    },
+    {
+        "id": 65,
+        "prompt": "When the citation style was unclear, the researcher",
+        "completion_1": "consulted the university writing center.",
+        "completion_2": "looked up examples on the library website."
+    },
+    {
+        "id": 66,
+        "prompt": "After failing the midterm, the student decided",
+        "completion_1": "to hire a private tutor.",
+        "completion_2": "to attend every supplementary instruction session."
+    },
+    {
+        "id": 67,
+        "prompt": "While conducting the field survey, the sociology student",
+        "completion_1": "recorded the interviews on a voice recorder.",
+        "completion_2": "took detailed handwritten notes."
+    },
+    {
+        "id": 68,
+        "prompt": "To engage the class, the professor",
+        "completion_1": "asked a provocative discussion question.",
+        "completion_2": "showed a relevant clip from a documentary."
+    },
+    {
+        "id": 69,
+        "prompt": "When the file corrupted, the panicked student",
+        "completion_1": "checked for a backup in the cloud.",
+        "completion_2": "tried to recover a previous version."
+    },
+    {
+        "id": 70,
+        "prompt": "Before the lab practical, the nursing student",
+        "completion_1": "reviewed the procedure checklist.",
+        "completion_2": "practiced the technique on a mannequin."
+    },
+    {
+        "id": 71,
+        "prompt": "Finding the dorm too distracting, the resident",
+        "completion_1": "went to the common room to study.",
+        "completion_2": "put up a 'do not disturb' sign."
+    },
+    {
+        "id": 72,
+        "prompt": "To clarify the complex theory, the lecturer",
+        "completion_1": "drew a diagram on the board.",
+        "completion_2": "used a real-world analogy."
+    },
+    {
+        "id": 73,
+        "prompt": "When the bibliography became too long, the writer",
+        "completion_1": "used a reference management tool.",
+        "completion_2": "manually organized the sources alphabetically."
+    },
+    {
+        "id": 74,
+        "prompt": "Seeing a mistake in their calculations, the math student",
+        "completion_1": "erased the work and started over.",
+        "completion_2": "traced the steps back to find the error."
+    },
+    {
+        "id": 75,
+        "prompt": "To prepare for the art critique, the painter",
+        "completion_1": "wrote an artist statement.",
+        "completion_2": "displayed their work in the studio."
+    },
+    {
+        "id": 76,
+        "prompt": "When the study guide was released, the class",
+        "completion_1": "immediately printed it out.",
+        "completion_2": "started a group chat to discuss the answers."
+    },
+    {
+        "id": 77,
+        "prompt": "Struggling with the foreign language grammar, the student",
+        "completion_1": "made color-coded flashcards.",
+        "completion_2": "changed their phone's language setting for practice."
+    },
+    {
+        "id": 78,
+        "prompt": "After the career fair, the senior",
+        "completion_1": "sorted through the business cards they collected.",
+        "completion_2": "applied to the companies they liked best."
+    },
+    {
+        "id": 79,
+        "prompt": "To demonstrate the chemical reaction, the instructor",
+        "completion_1": "mixed the solutions in a beaker.",
+        "completion_2": "showed a simulation on the screen."
+    },
+    {
+        "id": 80,
+        "prompt": "When the assignment instructions were vague, the student",
+        "completion_1": "took a creative approach to the topic.",
+        "completion_2": "stuck to a standard essay format to be safe."
+    },
+    {
+        "id": 81,
+        "prompt": "Preparing for the debate tournament, the team",
+        "completion_1": "researched current events extensively.",
+        "completion_2": "held practice rounds against each other."
+    },
+    {
+        "id": 82,
+        "prompt": "Finding the article behind a paywall, the researcher",
+        "completion_1": "logged in through the university proxy.",
+        "completion_2": "emailed the author to ask for a copy."
+    },
+    {
+        "id": 83,
+        "prompt": "To track their academic progress, the student",
+        "completion_1": "logged into the student portal.",
+        "completion_2": "calculated their GPA manually."
+    },
+    {
+        "id": 84,
+        "prompt": "When the experiment yielded unexpected results, the scientist",
+        "completion_1": "ran the experiment a second time.",
+        "completion_2": "analyzed the variables for interference."
+    },
+    {
+        "id": 85,
+        "prompt": "Before the music recital, the violinist",
+        "completion_1": "rosined their bow carefully.",
+        "completion_2": "ran through the difficult passages backstage."
+    },
+    {
+        "id": 86,
+        "prompt": "To catch up on missed lectures, the student",
+        "completion_1": "watched the recorded sessions at 2x speed.",
+        "completion_2": "photocopied a friend's notebook."
+    },
+    {
+        "id": 87,
+        "prompt": "When the projector bulb burned out, the presenter",
+        "completion_1": "distributed handouts of the slides.",
+        "completion_2": "described the visuals to the audience."
+    },
+    {
+        "id": 88,
+        "prompt": "Staring at the blank coding terminal, the developer",
+        "completion_1": "wrote pseudocode to plan the logic.",
+        "completion_2": "imported the necessary libraries."
+    },
+    {
+        "id": 89,
+        "prompt": "To retain the information better, the psychology student",
+        "completion_1": "taught the concepts to their roommate.",
+        "completion_2": "drew connection maps of the theories."
+    },
+    {
+        "id": 90,
+        "prompt": "When the group conflict escalated, the mediator",
+        "completion_1": "called for a five-minute break.",
+        "completion_2": "asked everyone to write down their grievances."
+    },
+    {
+        "id": 91,
+        "prompt": "After submitting the grant proposal, the researcher",
+        "completion_1": "began planning the preliminary experiments.",
+        "completion_2": "took a few days off to recharge."
+    },
+    {
+        "id": 92,
+        "prompt": "To understand the poetic meter, the literature student",
+        "completion_1": "read the poem aloud.",
+        "completion_2": "marked the stressed syllables with a pencil."
+    },
+    {
+        "id": 93,
+        "prompt": "When the design software crashed, the architecture student",
+        "completion_1": "started sketching on tracing paper.",
+        "completion_2": "checked the auto-save folder."
+    },
+    {
+        "id": 94,
+        "prompt": "Preparing for the final critique, the design student",
+        "completion_1": "mounted their drawings on foam board.",
+        "completion_2": "printed high-resolution copies of the renders."
+    },
+    {
+        "id": 95,
+        "prompt": "To verify the historical date, the student",
+        "completion_1": "checked a reliable encyclopedia.",
+        "completion_2": "cross-referenced two different textbooks."
+    },
+    {
+        "id": 96,
+        "prompt": "When the solution turned cloudy, the chemistry student",
+        "completion_1": "recorded the observation in their logbook.",
+        "completion_2": "asked the TA if this was expected."
+    },
+    {
+        "id": 97,
+        "prompt": "To organize the large dataset, the analyst",
+        "completion_1": "created a pivot table in Excel.",
+        "completion_2": "wrote a Python script to sort the values."
+    },
+    {
+        "id": 98,
+        "prompt": "After the heavy reading load, the philosophy student",
+        "completion_1": "summarized the arguments in their own words.",
+        "completion_2": "debated the concepts with a friend."
+    },
+    {
+        "id": 99,
+        "prompt": "When the laptop battery died, the student",
+        "completion_1": "searched for an outlet in the library.",
+        "completion_2": "switched to using a pen and paper."
+    }
+]
