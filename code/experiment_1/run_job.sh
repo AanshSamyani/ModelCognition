@@ -11,6 +11,6 @@
 #SBATCH --error=output.err         # Stderr
 
 # Run your process
-/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/bin/python experiment1.py
+/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/bin/python multi_token_by_category.py
 
 
