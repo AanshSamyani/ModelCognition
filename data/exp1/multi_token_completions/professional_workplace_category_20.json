@@ -1,0 +1,602 @@
+[
+    {
+        "id": 0,
+        "prompt": "After reviewing the quarterly figures, the manager decided to",
+        "completion_1": "schedule a meeting to discuss the variance.",
+        "completion_2": "draft a summary email to the executive team."
+    },
+    {
+        "id": 1,
+        "prompt": "Upon noticing the discrepancy in the spreadsheet, Taylor",
+        "completion_1": "checked the original data source for errors.",
+        "completion_2": "asked the previous editor for clarification."
+    },
+    {
+        "id": 2,
+        "prompt": "Because the conference room was double-booked, the team",
+        "completion_1": "moved the meeting to the open breakout area.",
+        "completion_2": "decided to reschedule for later that afternoon."
+    },
+    {
+        "id": 3,
+        "prompt": "To prepare for the client presentation, Jamie",
+        "completion_1": "printed out physical copies of the slide deck.",
+        "completion_2": "rehearsed the key talking points one last time."
+    },
+    {
+        "id": 4,
+        "prompt": "When the software update failed to install, the technician",
+        "completion_1": "restarted the server to clear the cache.",
+        "completion_2": "consulted the error logs to identify the conflict."
+    },
+    {
+        "id": 5,
+        "prompt": "Before sending the proposal, Alex wanted to",
+        "completion_1": "double-check the pricing table for accuracy.",
+        "completion_2": "get a colleague to proofread the executive summary."
+    },
+    {
+        "id": 6,
+        "prompt": "Seeing the urgent email from the vendor, the coordinator",
+        "completion_1": "called the support line immediately.",
+        "completion_2": "forwarded the message to the procurement department."
+    },
+    {
+        "id": 7,
+        "prompt": "With the deadline approaching rapidly, the project lead",
+        "completion_1": "delegated the remaining tasks to the junior staff.",
+        "completion_2": "requested a brief extension from the stakeholder."
+    },
+    {
+        "id": 8,
+        "prompt": "During the brainstorming session, the facilitator",
+        "completion_1": "wrote the best ideas on the whiteboard.",
+        "completion_2": "encouraged the quieter members to speak up."
+    },
+    {
+        "id": 9,
+        "prompt": "After the interview concluded, the hiring manager",
+        "completion_1": "reviewed their notes to score the candidate.",
+        "completion_2": "discussed their initial impressions with HR."
+    },
+    {
+        "id": 10,
+        "prompt": "Realizing the internet connection was unstable, the remote worker",
+        "completion_1": "switched to using their mobile hotspot.",
+        "completion_2": "turned off their video camera to save bandwidth."
+    },
+    {
+        "id": 11,
+        "prompt": "To address the customer's complaint, the support agent",
+        "completion_1": "offered a refund for the faulty product.",
+        "completion_2": "escalated the ticket to a supervisor."
+    },
+    {
+        "id": 12,
+        "prompt": "While organizing the shared drive, Jordan",
+        "completion_1": "archived the files from the previous fiscal year.",
+        "completion_2": "renamed the folders to match the new naming convention."
+    },
+    {
+        "id": 13,
+        "prompt": "The printer ran out of paper, so the intern",
+        "completion_1": "went to the supply closet to grab a fresh ream.",
+        "completion_2": "sent the document to the copier down the hall."
+    },
+    {
+        "id": 14,
+        "prompt": "Upon receiving the revised contract, the legal counsel",
+        "completion_1": "compared the changes against the original draft.",
+        "completion_2": "highlighted the clauses that needed further negotiation."
+    },
+    {
+        "id": 15,
+        "prompt": "When the code deployment caused a bug, the engineer",
+        "completion_1": "rolled back the changes to the previous version.",
+        "completion_2": "quickly wrote a hotfix to patch the issue."
+    },
+    {
+        "id": 16,
+        "prompt": "To improve team morale, the department head",
+        "completion_1": "organized a casual lunch outing for Friday.",
+        "completion_2": "implemented a new recognition program for top performers."
+    },
+    {
+        "id": 17,
+        "prompt": "Finding the break room coffee pot empty, the employee",
+        "completion_1": "started a new brew for everyone.",
+        "completion_2": "decided to go to the cafe across the street."
+    },
+    {
+        "id": 18,
+        "prompt": "Before the shift change, the nurse",
+        "completion_1": "updated the patient charts with the latest vitals.",
+        "completion_2": "briefed the incoming staff on critical cases."
+    },
+    {
+        "id": 19,
+        "prompt": "Noticing the inventory was running low, the store manager",
+        "completion_1": "placed an emergency order with the supplier.",
+        "completion_2": "transferred stock from a nearby branch location."
+    },
+    {
+        "id": 20,
+        "prompt": "When the presentation slides wouldn't load, the speaker",
+        "completion_1": "decided to proceed without the visuals.",
+        "completion_2": "asked for technical assistance from the AV team."
+    },
+    {
+        "id": 21,
+        "prompt": "To prioritize their workload, the analyst",
+        "completion_1": "created a checklist of high-impact tasks.",
+        "completion_2": "blocked off time on their calendar for deep work."
+    },
+    {
+        "id": 22,
+        "prompt": "After the client rejected the initial design, the artist",
+        "completion_1": "asked for specific feedback to guide the revision.",
+        "completion_2": "created three new concepts to offer more variety."
+    },
+    {
+        "id": 23,
+        "prompt": "Because the elevator was out of order, the courier",
+        "completion_1": "took the stairs to deliver the package.",
+        "completion_2": "left the delivery at the front desk security."
+    },
+    {
+        "id": 24,
+        "prompt": "Reviewing the marketing analytics, the specialist",
+        "completion_1": "noted a significant increase in mobile traffic.",
+        "completion_2": "decided to adjust the ad spend for the next week."
+    },
+    {
+        "id": 25,
+        "prompt": "When the new policy was announced, the employees",
+        "completion_1": "read through the handbook update carefully.",
+        "completion_2": "discussed the implications during their lunch break."
+    },
+    {
+        "id": 26,
+        "prompt": "To secure the office before leaving, the guard",
+        "completion_1": "checked that all the exterior doors were locked.",
+        "completion_2": "enabled the alarm system at the main panel."
+    },
+    {
+        "id": 27,
+        "prompt": "The formatting on the document was broken, so the editor",
+        "completion_1": "manually adjusted the margins and spacing.",
+        "completion_2": "re-imported the text into a clean template."
+    },
+    {
+        "id": 28,
+        "prompt": "Facing a complex problem, the developer",
+        "completion_1": "drew a flowchart to visualize the logic.",
+        "completion_2": "consulted a senior colleague for advice."
+    },
+    {
+        "id": 29,
+        "prompt": "When the catering arrived late, the organizer",
+        "completion_1": "delayed the lunch break by fifteen minutes.",
+        "completion_2": "apologized to the attendees for the inconvenience."
+    },
+    {
+        "id": 30,
+        "prompt": "To verify the shipment contents, the warehouse worker",
+        "completion_1": "scanned each barcode against the manifest.",
+        "completion_2": "opened a random box to inspect the quality."
+    },
+    {
+        "id": 31,
+        "prompt": "After hearing the fire alarm test, the staff",
+        "completion_1": "put on their headphones to block out the noise.",
+        "completion_2": "continued working as they had been notified beforehand."
+    },
+    {
+        "id": 32,
+        "prompt": "Seeing a typo in the printed brochure, the designer",
+        "completion_1": "stopped the print run to correct the error.",
+        "completion_2": "decided to use a sticker to cover the mistake."
+    },
+    {
+        "id": 33,
+        "prompt": "The budget for the project was cut, so the team",
+        "completion_1": "reduced the scope of the final deliverable.",
+        "completion_2": "looked for cheaper alternatives for software tools."
+    },
+    {
+        "id": 34,
+        "prompt": "When the phone rang during the meeting, the executive",
+        "completion_1": "silenced the call and continued speaking.",
+        "completion_2": "stepped out of the room to answer it."
+    },
+    {
+        "id": 35,
+        "prompt": "To finish the audit on time, the accountant",
+        "completion_1": "stayed late at the office to crunch the numbers.",
+        "completion_2": "asked for assistance from a temporary contractor."
+    },
+    {
+        "id": 36,
+        "prompt": "The login credentials weren't working, so the user",
+        "completion_1": "clicked the link to reset their password.",
+        "completion_2": "contacted the IT helpdesk for support."
+    },
+    {
+        "id": 37,
+        "prompt": "Before the training session began, the instructor",
+        "completion_1": "handed out the learning materials to the class.",
+        "completion_2": "asked everyone to introduce themselves briefly."
+    },
+    {
+        "id": 38,
+        "prompt": "Noticing a decline in sales, the regional director",
+        "completion_1": "visited the underperforming stores personally.",
+        "completion_2": "commissioned a market research study."
+    },
+    {
+        "id": 39,
+        "prompt": "When the laptop battery died, the consultant",
+        "completion_1": "plugged it in and waited for it to reboot.",
+        "completion_2": "switched to taking notes in a physical notebook."
+    },
+    {
+        "id": 40,
+        "prompt": "To organize the messy cabling, the IT specialist",
+        "completion_1": "used zip ties to bundle the wires together.",
+        "completion_2": "labeled each cord at both ends."
+    },
+    {
+        "id": 41,
+        "prompt": "After the merger was announced, the CEO",
+        "completion_1": "held a town hall to address employee concerns.",
+        "completion_2": "sent a company-wide memo detailing the timeline."
+    },
+    {
+        "id": 42,
+        "prompt": "The automated report failed to generate, so the analyst",
+        "completion_1": "manually compiled the data from the database.",
+        "completion_2": "investigated the script to find the syntax error."
+    },
+    {
+        "id": 43,
+        "prompt": "To accommodate the new hire, the office manager",
+        "completion_1": "ordered a new desk and chair setup.",
+        "completion_2": "cleared out an empty cubicle in the corner."
+    },
+    {
+        "id": 44,
+        "prompt": "When the client asked for a discount, the salesperson",
+        "completion_1": "offered a slight reduction in exchange for a longer contract.",
+        "completion_2": "explained the value proposition of the current price."
+    },
+    {
+        "id": 45,
+        "prompt": "The server room was overheating, so the admin",
+        "completion_1": "increased the air conditioning flow to that zone.",
+        "completion_2": "shut down non-essential machines temporarily."
+    },
+    {
+        "id": 46,
+        "prompt": "Reviewing the resume, the recruiter",
+        "completion_1": "noted the gap in employment history.",
+        "completion_2": "was impressed by the list of technical skills."
+    },
+    {
+        "id": 47,
+        "prompt": "To clarify the project requirements, the developer",
+        "completion_1": "scheduled a call with the product owner.",
+        "completion_2": "added comments to the Jira ticket."
+    },
+    {
+        "id": 48,
+        "prompt": "The flight was cancelled, so the traveling executive",
+        "completion_1": "booked a seat on the next available plane.",
+        "completion_2": "decided to attend the meeting virtually instead."
+    },
+    {
+        "id": 49,
+        "prompt": "When the coffee machine broke, the receptionist",
+        "completion_1": "put an 'Out of Order' sign on it.",
+        "completion_2": "called the maintenance service immediately."
+    },
+    {
+        "id": 50,
+        "prompt": "To test the new feature, the QA engineer",
+        "completion_1": "ran an automated regression suite.",
+        "completion_2": "performed manual exploratory testing."
+    },
+    {
+        "id": 51,
+        "prompt": "Finding a mistake in the payroll, the HR rep",
+        "completion_1": "issued a correction for the next pay cycle.",
+        "completion_2": "cut a manual check for the difference."
+    },
+    {
+        "id": 52,
+        "prompt": "The whiteboard marker ran dry, so the presenter",
+        "completion_1": "grabbed a different color from the tray.",
+        "completion_2": "asked if anyone had a spare pen."
+    },
+    {
+        "id": 53,
+        "prompt": "After the brainstorming session, the team",
+        "completion_1": "voted on the top three concepts.",
+        "completion_2": "took a break before starting the execution phase."
+    },
+    {
+        "id": 54,
+        "prompt": "To reduce background noise, the podcaster",
+        "completion_1": "closed the window facing the street.",
+        "completion_2": "adjusted the gain settings on the microphone."
+    },
+    {
+        "id": 55,
+        "prompt": "When the supplier raised their prices, the buyer",
+        "completion_1": "negotiated for a bulk purchase discount.",
+        "completion_2": "started looking for alternative vendors."
+    },
+    {
+        "id": 56,
+        "prompt": "The excel macro stopped working, so the finance officer",
+        "completion_1": "debugged the VBA code.",
+        "completion_2": "reverted to a backup version of the file."
+    },
+    {
+        "id": 57,
+        "prompt": "To improve the website speed, the webmaster",
+        "completion_1": "compressed the large image files.",
+        "completion_2": "upgraded the hosting plan."
+    },
+    {
+        "id": 58,
+        "prompt": "After the safety incident, the supervisor",
+        "completion_1": "filed a formal report with OSHA.",
+        "completion_2": "conducted a retraining session for the crew."
+    },
+    {
+        "id": 59,
+        "prompt": "The keycard reader malfunctioned, so the employee",
+        "completion_1": "knocked on the glass to get attention.",
+        "completion_2": "called security to have the door opened remotely."
+    },
+    {
+        "id": 60,
+        "prompt": "To prepare for the annual review, the worker",
+        "completion_1": "compiled a list of their achievements.",
+        "completion_2": "asked peers for feedback on their performance."
+    },
+    {
+        "id": 61,
+        "prompt": "When the shipment was lost in transit, the logistics manager",
+        "completion_1": "filed a claim with the shipping carrier.",
+        "completion_2": "sent a replacement order to the customer."
+    },
+    {
+        "id": 62,
+        "prompt": "The code review was taking too long, so the lead",
+        "completion_1": "jumped in to help clear the backlog.",
+        "completion_2": "assigned an additional reviewer to the task."
+    },
+    {
+        "id": 63,
+        "prompt": "To ensure data privacy, the administrator",
+        "completion_1": "encrypted the sensitive hard drives.",
+        "completion_2": "restricted access permissions to authorized users."
+    },
+    {
+        "id": 64,
+        "prompt": "When the microphone feedback spiked, the audio tech",
+        "completion_1": "lowered the volume on the main mixer.",
+        "completion_2": "moved the speaker away from the monitor."
+    },
+    {
+        "id": 65,
+        "prompt": "The project scope expanded, prompting the manager to",
+        "completion_1": "request additional budget resources.",
+        "completion_2": "push the delivery deadline back by a month."
+    },
+    {
+        "id": 66,
+        "prompt": "To catch up on emails, the executive",
+        "completion_1": "came into the office an hour early.",
+        "completion_2": "blocked out time on their calendar as 'busy'."
+    },
+    {
+        "id": 67,
+        "prompt": "When the prototype failed the stress test, the engineer",
+        "completion_1": "reinforced the structural frame.",
+        "completion_2": "changed the material used for the components."
+    },
+    {
+        "id": 68,
+        "prompt": "To celebrate the milestone, the team",
+        "completion_1": "went out for drinks after work.",
+        "completion_2": "brought in donuts for the morning meeting."
+    },
+    {
+        "id": 69,
+        "prompt": "The air conditioning broke in summer, so the office",
+        "completion_1": "allowed employees to work from home.",
+        "completion_2": "brought in portable fans for every desk."
+    },
+    {
+        "id": 70,
+        "prompt": "When the dataset contained outliers, the scientist",
+        "completion_1": "removed the anomalies from the study.",
+        "completion_2": "investigated the cause of the extreme values."
+    },
+    {
+        "id": 71,
+        "prompt": "To make the report more readable, the author",
+        "completion_1": "added bullet points and subheadings.",
+        "completion_2": "included several charts to visualize the data."
+    },
+    {
+        "id": 72,
+        "prompt": "The client was late for the meeting, so the consultant",
+        "completion_1": "used the time to review their notes.",
+        "completion_2": "checked their emails on their phone."
+    },
+    {
+        "id": 73,
+        "prompt": "When the hard drive corrupted, the user",
+        "completion_1": "restored the files from the cloud backup.",
+        "completion_2": "sent the drive to a recovery specialist."
+    },
+    {
+        "id": 74,
+        "prompt": "To attract more candidates, the recruiter",
+        "completion_1": "rewrote the job description to be more engaging.",
+        "completion_2": "posted the listing on additional job boards."
+    },
+    {
+        "id": 75,
+        "prompt": "The meeting agenda was exhausted early, so the chair",
+        "completion_1": "ended the call to give everyone time back.",
+        "completion_2": "opened the floor for general questions."
+    },
+    {
+        "id": 76,
+        "prompt": "To fix the flickering light, the maintenance worker",
+        "completion_1": "replaced the bulb with a new LED.",
+        "completion_2": "checked the wiring for a loose connection."
+    },
+    {
+        "id": 77,
+        "prompt": "When the video conference lagged, the participant",
+        "completion_1": "dialed in via phone audio instead.",
+        "completion_2": "moved closer to the wifi router."
+    },
+    {
+        "id": 78,
+        "prompt": "To track the project progress, the manager",
+        "completion_1": "updated the Gantt chart.",
+        "completion_2": "held a daily stand-up meeting."
+    },
+    {
+        "id": 79,
+        "prompt": "The office plants were wilting, so the admin",
+        "completion_1": "watered them more frequently.",
+        "completion_2": "moved them to a spot with better sunlight."
+    },
+    {
+        "id": 80,
+        "prompt": "When the legal team flagged a liability, the developers",
+        "completion_1": "removed the risky feature entirely.",
+        "completion_2": "added a disclaimer to the user interface."
+    },
+    {
+        "id": 81,
+        "prompt": "To boost social media engagement, the marketer",
+        "completion_1": "started running a contest for followers.",
+        "completion_2": "increased the frequency of their posts."
+    },
+    {
+        "id": 82,
+        "prompt": "The trash bins were overflowing, so the cleaner",
+        "completion_1": "emptied them into the main dumpster.",
+        "completion_2": "replaced the bags with larger ones."
+    },
+    {
+        "id": 83,
+        "prompt": "When the translation was ambiguous, the interpreter",
+        "completion_1": "asked the speaker to rephrase the sentence.",
+        "completion_2": "provided the most likely meaning based on context."
+    },
+    {
+        "id": 84,
+        "prompt": "To save energy, the company",
+        "completion_1": "installed motion sensors for the lights.",
+        "completion_2": "set the thermostats to a more efficient temperature."
+    },
+    {
+        "id": 85,
+        "prompt": "The database query was slow, so the dba",
+        "completion_1": "added an index to the relevant columns.",
+        "completion_2": "rewrote the query to be more efficient."
+    },
+    {
+        "id": 86,
+        "prompt": "When the customer forgot their appointment, the stylist",
+        "completion_1": "called them to reschedule.",
+        "completion_2": "took a walk-in client in the meantime."
+    },
+    {
+        "id": 87,
+        "prompt": "To improve the onboarding process, HR",
+        "completion_1": "created a welcome video for new hires.",
+        "completion_2": "assigned a mentor to every new employee."
+    },
+    {
+        "id": 88,
+        "prompt": "The shared vehicle had a flat tire, so the driver",
+        "completion_1": "changed it using the spare in the trunk.",
+        "completion_2": "called roadside assistance for help."
+    },
+    {
+        "id": 89,
+        "prompt": "When the script produced an error, the programmer",
+        "completion_1": "added print statements to debug the flow.",
+        "completion_2": "searched the error message on Stack Overflow."
+    },
+    {
+        "id": 90,
+        "prompt": "To keep the workspace tidy, the policy required staff to",
+        "completion_1": "clear their desks at the end of every day.",
+        "completion_2": "eat lunch only in the designated break room."
+    },
+    {
+        "id": 91,
+        "prompt": "The competitors launched a new product, so the strategy team",
+        "completion_1": "analyzed the rival's features and pricing.",
+        "completion_2": "accelerated the launch of their own update."
+    },
+    {
+        "id": 92,
+        "prompt": "When the noise level got too high, the librarian",
+        "completion_1": "asked the group to lower their voices.",
+        "completion_2": "pointed to the 'Quiet Zone' sign."
+    },
+    {
+        "id": 93,
+        "prompt": "To finalize the tax return, the accountant",
+        "completion_1": "asked the client for the missing receipts.",
+        "completion_2": "double-checked the deduction calculations."
+    },
+    {
+        "id": 94,
+        "prompt": "The vending machine ate the money, so the employee",
+        "completion_1": "shook the machine gently to dislodge the item.",
+        "completion_2": "called the number on the service sticker."
+    },
+    {
+        "id": 95,
+        "prompt": "When the wifi password changed, the manager",
+        "completion_1": "wrote the new code on the whiteboard.",
+        "completion_2": "emailed the update to all staff members."
+    },
+    {
+        "id": 96,
+        "prompt": "To address the skill gap, the department",
+        "completion_1": "hired a consultant with the necessary expertise.",
+        "completion_2": "paid for existing staff to take a course."
+    },
+    {
+        "id": 97,
+        "prompt": "The quarterly forecast was bleak, so the CEO",
+        "completion_1": "froze all non-essential hiring.",
+        "completion_2": "looked for areas to cut operational costs."
+    },
+    {
+        "id": 98,
+        "prompt": "When the badge printer jammed, the receptionist",
+        "completion_1": "opened the cover to remove the stuck card.",
+        "completion_2": "wrote out a temporary paper badge manually."
+    },
+    {
+        "id": 99,
+        "prompt": "To ensure the backup was viable, the sysadmin",
+        "completion_1": "ran a test restore on a virtual machine.",
+        "completion_2": "verified the checksums of the archive files."
+    }
+]
