@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "prompt": "He lifted the box carefully",
+        "completion_1": "and set it down near the doorway.",
+        "completion_2": "and carried it across the room.",
+        "log_probs_1": -49.84492599964142,
+        "log_probs_2": -35.40632438659668
+    },
+    {
+        "id": 1,
+        "prompt": "She reached into her pocket",
+        "completion_1": "and pulled out her ringing phone.",
+        "completion_2": "and retrieved her house keys.",
+        "log_probs_1": -43.167816162109375,
+        "log_probs_2": -45.53556823730469
+    },
+    {
+        "id": 2,
+        "prompt": "The runner pivoted on his left foot",
+        "completion_1": "to dash towards the sideline.",
+        "completion_2": "to avoid the approaching defender.",
+        "log_probs_1": -52.187506437301636,
+        "log_probs_2": -40.3089599609375
+    },
+    {
+        "id": 3,
+        "prompt": "He raised his hand high",
+        "completion_1": "to wave at a friend across the street.",
+        "completion_2": "to shield his eyes from the sun.",
+        "log_probs_1": -41.9901123046875,
+        "log_probs_2": -32.15625262260437
+    },
+    {
+        "id": 4,
+        "prompt": "She leaned over the balcony railing",
+        "completion_1": "to get a better look at the garden.",
+        "completion_2": "to call out to the people below.",
+        "log_probs_1": -60.126068115234375,
+        "log_probs_2": -55.996437072753906
+    },
+    {
+        "id": 5,
+        "prompt": "He turned the steering wheel sharply",
+        "completion_1": "to navigate the tight corner.",
+        "completion_2": "to pull into the vacant parking spot.",
+        "log_probs_1": -33.96783638000488,
+        "log_probs_2": -47.71446228027344
+    },
+    {
+        "id": 6,
+        "prompt": "She extended her arm forward",
+        "completion_1": "to shake the interviewer's hand.",
+        "completion_2": "to press the elevator button.",
+        "log_probs_1": -37.6875,
+        "log_probs_2": -35.636720299720764
+    },
+    {
+        "id": 7,
+        "prompt": "He crouched down low",
+        "completion_1": "to tie his shoelaces.",
+        "completion_2": "to hide behind the low wall.",
+        "log_probs_1": -29.57774841785431,
+        "log_probs_2": -45.56349229812622
+    },
+    {
+        "id": 8,
+        "prompt": "She stepped off the curb",
+        "completion_1": "and began crossing the busy street.",
+        "completion_2": "and hailed a passing taxi.",
+        "log_probs_1": -45.36098003387451,
+        "log_probs_2": -43.43862533569336
+    },
+    {
+        "id": 9,
+        "prompt": "He swung the heavy hammer",
+        "completion_1": "and drove the nail into the wood.",
+        "completion_2": "and smashed the old drywall.",
+        "log_probs_1": -49.2305269241333,
+        "log_probs_2": -57.10946035385132
+    },
+    {
+        "id": 10,
+        "prompt": "She looked over her shoulder",
+        "completion_1": "to see if the bus was coming.",
+        "completion_2": "to check if anyone was following her.",
+        "log_probs_1": -48.9196252822876,
+        "log_probs_2": -29.197022318840027
+    },
+    {
+        "id": 11,
+        "prompt": "He pushed the door open",
+        "completion_1": "and walked into the warm lobby.",
+        "completion_2": "and held it for the person behind him.",
+        "log_probs_1": -52.97332763671875,
+        "log_probs_2": -41.45141911506653
+    },
+    {
+        "id": 12,
+        "prompt": "She picked up the pen",
+        "completion_1": "and signed the document quickly.",
+        "completion_2": "and tapped it nervously on the desk.",
+        "log_probs_1": -53.79638671875,
+        "log_probs_2": -42.041908264160156
+    },
+    {
+        "id": 13,
+        "prompt": "He threw the ball",
+        "completion_1": "towards the waiting dog.",
+        "completion_2": "high into the air to catch it himself.",
+        "log_probs_1": -38.3359375,
+        "log_probs_2": -34.21342742443085
+    },
+    {
+        "id": 14,
+        "prompt": "She knelt on the ground",
+        "completion_1": "to examine the strange flower.",
+        "completion_2": "to search for her lost earring.",
+        "log_probs_1": -49.1329402923584,
+        "log_probs_2": -48.70697057247162
+    },
+    {
+        "id": 15,
+        "prompt": "He slid the window up",
+        "completion_1": "to let in the fresh breeze.",
+        "completion_2": "to shout a greeting to his neighbor.",
+        "log_probs_1": -36.315768241882324,
+        "log_probs_2": -51.29948806762695
+    },
+    {
+        "id": 16,
+        "prompt": "She drew the curtains",
+        "completion_1": "to block out the harsh sunlight.",
+        "completion_2": "to reveal the view of the city.",
+        "log_probs_1": -22.912201046943665,
+        "log_probs_2": -54.059566497802734
+    },
+    {
+        "id": 17,
+        "prompt": "He tilted his head to the side",
+        "completion_1": "to listen to the faint noise.",
+        "completion_2": "to crack his stiff neck.",
+        "log_probs_1": -57.654296875,
+        "log_probs_2": -46.71287536621094
+    },
+    {
+        "id": 18,
+        "prompt": "She rolled up her sleeves",
+        "completion_1": "to wash the dishes in the sink.",
+        "completion_2": "to prepare for the physical work.",
+        "log_probs_1": -32.44632411003113,
+        "log_probs_2": -45.375720381736755
+    },
+    {
+        "id": 19,
+        "prompt": "He placed his hands on his hips",
+        "completion_1": "and surveyed the messy room.",
+        "completion_2": "and took a deep breath to recover.",
+        "log_probs_1": -26.729161262512207,
+        "log_probs_2": -56.82281565666199
+    },
+    {
+        "id": 20,
+        "prompt": "She tapped on the glass",
+        "completion_1": "to get the driver's attention.",
+        "completion_2": "to scare away the pigeon.",
+        "log_probs_1": -32.20459818840027,
+        "log_probs_2": -48.174259185791016
+    },
+    {
+        "id": 21,
+        "prompt": "He dragged the chair",
+        "completion_1": "over to the dining table.",
+        "completion_2": "away from the center of the room.",
+        "log_probs_1": -47.43826103210449,
+        "log_probs_2": -46.00014543533325
+    },
+    {
+        "id": 22,
+        "prompt": "She pointed her finger",
+        "completion_1": "at the correct answer on the board.",
+        "completion_2": "towards the exit sign.",
+        "log_probs_1": -31.481674551963806,
+        "log_probs_2": -48.49218821525574
+    },
+    {
+        "id": 23,
+        "prompt": "He wiped his forehead",
+        "completion_1": "with the back of his hand.",
+        "completion_2": "with a folded handkerchief.",
+        "log_probs_1": -20.48596227169037,
+        "log_probs_2": -32.880860567092896
+    },
+    {
+        "id": 24,
+        "prompt": "She grasped the railing",
+        "completion_1": "and pulled herself up the stairs.",
+        "completion_2": "and leaned forward to look down.",
+        "log_probs_1": -24.826690673828125,
+        "log_probs_2": -60.1953125
+    },
+    {
+        "id": 25,
+        "prompt": "He shuffled the deck of cards",
+        "completion_1": "and began to deal them out.",
+        "completion_2": "and placed them back in the box.",
+        "log_probs_1": -24.52407968044281,
+        "log_probs_2": -45.0068359375
+    },
+    {
+        "id": 26,
+        "prompt": "She kicked the ball",
+        "completion_1": "towards the goal post.",
+        "completion_2": "to her teammate on the wing.",
+        "log_probs_1": -36.609291076660156,
+        "log_probs_2": -46.57069778442383
+    },
+    {
+        "id": 27,
+        "prompt": "He stretched his arms wide",
+        "completion_1": "to yawn after waking up.",
+        "completion_2": "to measure the width of the doorway.",
+        "log_probs_1": -42.23445022106171,
+        "log_probs_2": -37.445468068122864
+    },
+    {
+        "id": 28,
+        "prompt": "She pulled the lever",
+        "completion_1": "to start the heavy machinery.",
+        "completion_2": "to release the trapdoor.",
+        "log_probs_1": -48.75361919403076,
+        "log_probs_2": -37.68064880371094
+    },
+    {
+        "id": 29,
+        "prompt": "He pressed his ear against the door",
+        "completion_1": "to overhear the conversation inside.",
+        "completion_2": "to check if the room was silent.",
+        "log_probs_1": -45.5391765832901,
+        "log_probs_2": -38.535186767578125
+    },
+    {
+        "id": 30,
+        "prompt": "She adjusted her glasses",
+        "completion_1": "to read the fine print.",
+        "completion_2": "and looked up at the audience.",
+        "log_probs_1": -50.15234589576721,
+        "log_probs_2": -55.347900390625
+    },
+    {
+        "id": 31,
+        "prompt": "He grabbed his coat",
+        "completion_1": "and rushed out into the rain.",
+        "completion_2": "and hung it on the rack.",
+        "log_probs_1": -29.923095703125,
+        "log_probs_2": -34.09118962287903
+    },
+    {
+        "id": 32,
+        "prompt": "She squeezed the tube",
+        "completion_1": "to get the last bit of toothpaste.",
+        "completion_2": "to apply paint to the canvas.",
+        "log_probs_1": -33.48108518123627,
+        "log_probs_2": -49.75244140625
+    },
+    {
+        "id": 33,
+        "prompt": "He nodded his head",
+        "completion_1": "in agreement with the speaker.",
+        "completion_2": "to the beat of the music.",
+        "log_probs_1": -34.959716796875,
+        "log_probs_2": -29.984827876091003
+    },
+    {
+        "id": 34,
+        "prompt": "She poured the water",
+        "completion_1": "into the glass on the table.",
+        "completion_2": "over the dry plant soil.",
+        "log_probs_1": -22.111663818359375,
+        "log_probs_2": -47.2032208442688
+    },
+    {
+        "id": 35,
+        "prompt": "He lowered the blinds",
+        "completion_1": "to darken the room for the movie.",
+        "completion_2": "to ensure privacy from the street.",
+        "log_probs_1": -38.10217356681824,
+        "log_probs_2": -53.202340602874756
+    },
+    {
+        "id": 36,
+        "prompt": "She zipped up her jacket",
+        "completion_1": "against the cold wind.",
+        "completion_2": "before getting on the motorcycle.",
+        "log_probs_1": -28.2109375,
+        "log_probs_2": -51.1015625
+    },
+    {
+        "id": 37,
+        "prompt": "He flipped the switch",
+        "completion_1": "and the room flooded with light.",
+        "completion_2": "and the machine hummed to life.",
+        "log_probs_1": -39.50208282470703,
+        "log_probs_2": -39.37545204162598
+    },
+    {
+        "id": 38,
+        "prompt": "She tossed the keys",
+        "completion_1": "onto the kitchen counter.",
+        "completion_2": "to her friend waiting by the car.",
+        "log_probs_1": -21.925828218460083,
+        "log_probs_2": -39.63212585449219
+    },
+    {
+        "id": 39,
+        "prompt": "He rubbed his eyes",
+        "completion_1": "waking up from a nap.",
+        "completion_2": "trying to see through the smoke.",
+        "log_probs_1": -41.335723876953125,
+        "log_probs_2": -50.96879053115845
+    },
+    {
+        "id": 40,
+        "prompt": "She turned the page",
+        "completion_1": "to continue reading the story.",
+        "completion_2": "to show him the diagram.",
+        "log_probs_1": -28.750664234161377,
+        "log_probs_2": -51.19073486328125
+    },
+    {
+        "id": 41,
+        "prompt": "He blocked the path",
+        "completion_1": "to stop them from entering.",
+        "completion_2": "while he tied his shoe.",
+        "log_probs_1": -45.03922080993652,
+        "log_probs_2": -46.19541883468628
+    },
+    {
+        "id": 42,
+        "prompt": "She swiveled her chair",
+        "completion_1": "to face her computer screen.",
+        "completion_2": "to talk to her colleague.",
+        "log_probs_1": -30.231348514556885,
+        "log_probs_2": -50.142242431640625
+    },
+    {
+        "id": 43,
+        "prompt": "He slammed the book shut",
+        "completion_1": "in frustration with the ending.",
+        "completion_2": "to clear the dust off it.",
+        "log_probs_1": -51.39097213745117,
+        "log_probs_2": -46.783203125
+    },
+    {
+        "id": 44,
+        "prompt": "She held out the plate",
+        "completion_1": "for a serving of food.",
+        "completion_2": "to show the chip on the rim.",
+        "log_probs_1": -55.665771484375,
+        "log_probs_2": -65.628173828125
+    },
+    {
+        "id": 45,
+        "prompt": "He ducked his head",
+        "completion_1": "to enter the low doorway.",
+        "completion_2": "to avoid the flying object.",
+        "log_probs_1": -31.01171875,
+        "log_probs_2": -37.46876108646393
+    },
+    {
+        "id": 46,
+        "prompt": "She twisted the cap",
+        "completion_1": "off the water bottle.",
+        "completion_2": "to tighten the jar securely.",
+        "log_probs_1": -21.03046429157257,
+        "log_probs_2": -38.671875
+    },
+    {
+        "id": 47,
+        "prompt": "He reached for the remote",
+        "completion_1": "to change the television channel.",
+        "completion_2": "to turn up the volume.",
+        "log_probs_1": -34.184024810791016,
+        "log_probs_2": -32.81252610683441
+    },
+    {
+        "id": 48,
+        "prompt": "She paced back and forth",
+        "completion_1": "waiting for the phone to ring.",
+        "completion_2": "rehearsing her speech.",
+        "log_probs_1": -34.568849086761475,
+        "log_probs_2": -43.007692098617554
+    },
+    {
+        "id": 49,
+        "prompt": "He cupped his hands",
+        "completion_1": "to catch the falling water.",
+        "completion_2": "to shout across the field.",
+        "log_probs_1": -29.917987823486328,
+        "log_probs_2": -36.91485595703125
+    },
+    {
+        "id": 50,
+        "prompt": "She leaned back in the chair",
+        "completion_1": "to relax after the long meeting.",
+        "completion_2": "to look at the ceiling.",
+        "log_probs_1": -42.219810485839844,
+        "log_probs_2": -41.296875
+    },
+    {
+        "id": 51,
+        "prompt": "He gripped the steering wheel",
+        "completion_1": "tightly as the rain worsened.",
+        "completion_2": "while waiting at the red light.",
+        "log_probs_1": -43.98557949066162,
+        "log_probs_2": -33.592079162597656
+    },
+    {
+        "id": 52,
+        "prompt": "She folded the paper",
+        "completion_1": "into a small paper airplane.",
+        "completion_2": "and placed it in the envelope.",
+        "log_probs_1": -37.472190141677856,
+        "log_probs_2": -32.25547254085541
+    },
+    {
+        "id": 53,
+        "prompt": "He stepped onto the scale",
+        "completion_1": "to check his weight.",
+        "completion_2": "to weigh the suitcase he held.",
+        "log_probs_1": -24.814294815063477,
+        "log_probs_2": -62.0859375
+    },
+    {
+        "id": 54,
+        "prompt": "She brushed her hair",
+        "completion_1": "away from her face.",
+        "completion_2": "to prepare for the evening out.",
+        "log_probs_1": -31.18752145767212,
+        "log_probs_2": -36.458740234375
+    },
+    {
+        "id": 55,
+        "prompt": "He struck the match",
+        "completion_1": "to light the scented candle.",
+        "completion_2": "to start the campfire.",
+        "log_probs_1": -35.554412722587585,
+        "log_probs_2": -29.933598279953003
+    },
+    {
+        "id": 56,
+        "prompt": "She lifted the lid",
+        "completion_1": "to check the simmering soup.",
+        "completion_2": "to see what was inside the box.",
+        "log_probs_1": -46.96094596385956,
+        "log_probs_2": -41.76318359375
+    },
+    {
+        "id": 57,
+        "prompt": "He pulled the trigger",
+        "completion_1": "of the power drill.",
+        "completion_2": "of the spray bottle.",
+        "log_probs_1": -49.42901611328125,
+        "log_probs_2": -41.92120361328125
+    },
+    {
+        "id": 58,
+        "prompt": "She extended her leg",
+        "completion_1": "to trip the running thief.",
+        "completion_2": "to stretch her hamstring.",
+        "log_probs_1": -40.31640625,
+        "log_probs_2": -28.0390625
+    },
+    {
+        "id": 59,
+        "prompt": "He dug into the sand",
+        "completion_1": "to build a sandcastle moat.",
+        "completion_2": "to bury his feet.",
+        "log_probs_1": -55.26172435283661,
+        "log_probs_2": -37.046875
+    },
+    {
+        "id": 60,
+        "prompt": "She wrapped the scarf",
+        "completion_1": "around her neck for warmth.",
+        "completion_2": "around the handle for grip.",
+        "log_probs_1": -20.397465229034424,
+        "log_probs_2": -58.90625
+    },
+    {
+        "id": 61,
+        "prompt": "He raised the binoculars",
+        "completion_1": "to spot the distant bird.",
+        "completion_2": "to watch the game closer.",
+        "log_probs_1": -45.82763671875,
+        "log_probs_2": -45.9189453125
+    },
+    {
+        "id": 62,
+        "prompt": "She checked her watch",
+        "completion_1": "to see if she was late.",
+        "completion_2": "to time the cooking pasta.",
+        "log_probs_1": -43.19159698486328,
+        "log_probs_2": -50.21875
+    },
+    {
+        "id": 63,
+        "prompt": "He pulled the blanket up",
+        "completion_1": "to cover his cold feet.",
+        "completion_2": "to hide the mess on the couch.",
+        "log_probs_1": -36.719879150390625,
+        "log_probs_2": -38.6650390625
+    },
+    {
+        "id": 64,
+        "prompt": "She spread the map out",
+        "completion_1": "on the hood of the car.",
+        "completion_2": "across the dining table.",
+        "log_probs_1": -22.914130330085754,
+        "log_probs_2": -34.32031452655792
+    },
+    {
+        "id": 65,
+        "prompt": "He nudged the door",
+        "completion_1": "with his foot to close it.",
+        "completion_2": "with his elbow to open it.",
+        "log_probs_1": -44.6185302734375,
+        "log_probs_2": -37.525489807128906
+    },
+    {
+        "id": 66,
+        "prompt": "She cracked the egg",
+        "completion_1": "into the hot frying pan.",
+        "completion_2": "into the bowl of flour.",
+        "log_probs_1": -29.79296875,
+        "log_probs_2": -33.1728515625
+    },
+    {
+        "id": 67,
+        "prompt": "He shook the bottle",
+        "completion_1": "to mix the ingredients.",
+        "completion_2": "to see if it was empty.",
+        "log_probs_1": -22.994873046875,
+        "log_probs_2": -23.8087158203125
+    },
+    {
+        "id": 68,
+        "prompt": "She traced the line",
+        "completion_1": "on the drawing with her finger.",
+        "completion_2": "in the dirt with a stick.",
+        "log_probs_1": -38.9991455078125,
+        "log_probs_2": -38.55453610420227
+    },
+    {
+        "id": 69,
+        "prompt": "He gathered the papers",
+        "completion_1": "into a neat stack.",
+        "completion_2": "and threw them in the bin.",
+        "log_probs_1": -26.129786491394043,
+        "log_probs_2": -36.91796875
+    },
+    {
+        "id": 70,
+        "prompt": "She snapped her fingers",
+        "completion_1": "to recall the forgotten name.",
+        "completion_2": "to the rhythm of the song.",
+        "log_probs_1": -32.9296875,
+        "log_probs_2": -38.047075033187866
+    },
+    {
+        "id": 71,
+        "prompt": "He leaned against the wall",
+        "completion_1": "waiting for the bus to arrive.",
+        "completion_2": "because he felt dizzy.",
+        "log_probs_1": -42.547842383384705,
+        "log_probs_2": -39.265625
+    },
+    {
+        "id": 72,
+        "prompt": "She waved the flag",
+        "completion_1": "to signal the start of the race.",
+        "completion_2": "to cheer for her team.",
+        "log_probs_1": -17.682193756103516,
+        "log_probs_2": -50.284454345703125
+    },
+    {
+        "id": 73,
+        "prompt": "He bent the wire",
+        "completion_1": "into a circular shape.",
+        "completion_2": "until it snapped in two.",
+        "log_probs_1": -19.91708505153656,
+        "log_probs_2": -33.546875
+    },
+    {
+        "id": 74,
+        "prompt": "She dragged the suitcase",
+        "completion_1": "down the hallway.",
+        "completion_2": "out of the closet.",
+        "log_probs_1": -30.28125,
+        "log_probs_2": -26.786529779434204
+    },
+    {
+        "id": 75,
+        "prompt": "He pressed the brake pedal",
+        "completion_1": "to stop at the red light.",
+        "completion_2": "to slow down for the turn.",
+        "log_probs_1": -40.17564010620117,
+        "log_probs_2": -47.89834010601044
+    },
+    {
+        "id": 76,
+        "prompt": "She pulled the hood up",
+        "completion_1": "to hide her face.",
+        "completion_2": "to protect her hair from rain.",
+        "log_probs_1": -41.438600182533264,
+        "log_probs_2": -56.688411712646484
+    },
+    {
+        "id": 77,
+        "prompt": "He reached into the fridge",
+        "completion_1": "and grabbed a cold soda.",
+        "completion_2": "and took out the milk carton.",
+        "log_probs_1": -31.504047393798828,
+        "log_probs_2": -48.55878674983978
+    },
+    {
+        "id": 78,
+        "prompt": "She stacked the chairs",
+        "completion_1": "against the wall for cleaning.",
+        "completion_2": "on top of the table.",
+        "log_probs_1": -31.765727519989014,
+        "log_probs_2": -24.79687523841858
+    },
+    {
+        "id": 79,
+        "prompt": "He stood up abruptly",
+        "completion_1": "knocking over his chair.",
+        "completion_2": "and shouted a warning.",
+        "log_probs_1": -37.37548625469208,
+        "log_probs_2": -46.099609375
+    },
+    {
+        "id": 80,
+        "prompt": "She shielded her eyes",
+        "completion_1": "from the bright stage lights.",
+        "completion_2": "to see into the distance.",
+        "log_probs_1": -39.22266066074371,
+        "log_probs_2": -43.9228515625
+    },
+    {
+        "id": 81,
+        "prompt": "He grabbed the rope",
+        "completion_1": "to pull the boat in.",
+        "completion_2": "to swing across the gap.",
+        "log_probs_1": -51.0703125,
+        "log_probs_2": -36.467774510383606
+    },
+    {
+        "id": 82,
+        "prompt": "She twisted the key",
+        "completion_1": "to start the car engine.",
+        "completion_2": "to unlock the front door.",
+        "log_probs_1": -37.628265380859375,
+        "log_probs_2": -34.254526138305664
+    },
+    {
+        "id": 83,
+        "prompt": "He dusted off his pants",
+        "completion_1": "after falling on the ground.",
+        "completion_2": "before entering the meeting.",
+        "log_probs_1": -32.83088302612305,
+        "log_probs_2": -50.87502110004425
+    },
+    {
+        "id": 84,
+        "prompt": "She pinched the fabric",
+        "completion_1": "to inspect the quality.",
+        "completion_2": "to sew the hem.",
+        "log_probs_1": -39.2548828125,
+        "log_probs_2": -46.46875
+    },
+    {
+        "id": 85,
+        "prompt": "He rolled the dice",
+        "completion_1": "across the board game.",
+        "completion_2": "in his hand for luck.",
+        "log_probs_1": -52.9375581741333,
+        "log_probs_2": -52.37109375
+    },
+    {
+        "id": 86,
+        "prompt": "She plugged in the cord",
+        "completion_1": "to charge her laptop.",
+        "completion_2": "to turn on the lamp.",
+        "log_probs_1": -30.359378695487976,
+        "log_probs_2": -36.63377666473389
+    },
+    {
+        "id": 87,
+        "prompt": "He swiped the card",
+        "completion_1": "to pay for the groceries.",
+        "completion_2": "to unlock the secure door.",
+        "log_probs_1": -26.02734887599945,
+        "log_probs_2": -23.009997248649597
+    },
+    {
+        "id": 88,
+        "prompt": "She polished the glass",
+        "completion_1": "until it sparkled cleanly.",
+        "completion_2": "to remove the smudge.",
+        "log_probs_1": -29.88635265827179,
+        "log_probs_2": -37.3544921875
+    },
+    {
+        "id": 89,
+        "prompt": "He shuffled his feet",
+        "completion_1": "nervously while waiting.",
+        "completion_2": "to clear the snow.",
+        "log_probs_1": -38.70092821121216,
+        "log_probs_2": -46.979248046875
+    },
+    {
+        "id": 90,
+        "prompt": "She pressed the button",
+        "completion_1": "to call the elevator.",
+        "completion_2": "to take the photograph.",
+        "log_probs_1": -32.53127694129944,
+        "log_probs_2": -38.28594970703125
+    },
+    {
+        "id": 91,
+        "prompt": "He clenched his fist",
+        "completion_1": "in sudden anger.",
+        "completion_2": "to hold the coins tight.",
+        "log_probs_1": -35.94873046875,
+        "log_probs_2": -59.71875
+    },
+    {
+        "id": 92,
+        "prompt": "She grabbed the railing",
+        "completion_1": "to steady herself.",
+        "completion_2": "to slide down the stairs.",
+        "log_probs_1": -24.641014099121094,
+        "log_probs_2": -42.84672951698303
+    },
+    {
+        "id": 93,
+        "prompt": "He tossed the coin",
+        "completion_1": "into the fountain.",
+        "completion_2": "to decide who went first.",
+        "log_probs_1": -30.19140625,
+        "log_probs_2": -49.18165481090546
+    },
+    {
+        "id": 94,
+        "prompt": "She pulled the curtains open",
+        "completion_1": "to let in the morning light.",
+        "completion_2": "to watch the parade outside.",
+        "log_probs_1": -55.3828125,
+        "log_probs_2": -52.12451171875
+    },
+    {
+        "id": 95,
+        "prompt": "He stepped back",
+        "completion_1": "to admire the painting.",
+        "completion_2": "to avoid the puddle.",
+        "log_probs_1": -29.8759765625,
+        "log_probs_2": -36.22257995605469
+    },
+    {
+        "id": 96,
+        "prompt": "She reached for the shelf",
+        "completion_1": "to grab a new book.",
+        "completion_2": "to dust the top surface.",
+        "log_probs_1": -32.626953125,
+        "log_probs_2": -48.8203125
+    },
+    {
+        "id": 97,
+        "prompt": "He swung the gate open",
+        "completion_1": "to drive the car through.",
+        "completion_2": "to let the visitors in.",
+        "log_probs_1": -50.32421875,
+        "log_probs_2": -40.154296875
+    },
+    {
+        "id": 98,
+        "prompt": "She lowered the volume",
+        "completion_1": "to answer the phone call.",
+        "completion_2": "because it was too loud.",
+        "log_probs_1": -45.3812255859375,
+        "log_probs_2": -43.345258474349976
+    },
+    {
+        "id": 99,
+        "prompt": "He tightened the screw",
+        "completion_1": "to fix the wobbly table.",
+        "completion_2": "to secure the battery cover.",
+        "log_probs_1": -43.32031428813934,
+        "log_probs_2": -37.51076364517212
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "prompt": "She read the text message a second time, her thumb hovering over the reply button as",
+        "completion_1": "a slow-burning anger began to build in her chest.",
+        "completion_2": "a wave of sudden, unexpected guilt washed over her.",
+        "log_probs_1": -31.74997329711914,
+        "log_probs_2": -37.779056549072266
+    },
+    {
+        "id": 2,
+        "prompt": "The principal's voice over the intercom called his name, and instantly, Leo felt",
+        "completion_1": "a surge of panic, wondering what he\u2019d done wrong.",
+        "completion_2": "a spark of pride, hoping it was about his essay.",
+        "log_probs_1": -37.44404697418213,
+        "log_probs_2": -49.754638671875
+    },
+    {
+        "id": 3,
+        "prompt": "When the results page finally loaded, Maria's eyes scanned the screen, and her heart",
+        "completion_1": "sank with a familiar, crushing disappointment.",
+        "completion_2": "gave a joyful leap she hadn't dared to expect.",
+        "log_probs_1": -27.94921875,
+        "log_probs_2": -41.30166816711426
+    },
+    {
+        "id": 4,
+        "prompt": "The envelope was thick, and as he held it, he experienced",
+        "completion_1": "a crushing weight of impending bad news.",
+        "completion_2": "a flutter of hope that this was finally it.",
+        "log_probs_1": -31.658294677734375,
+        "log_probs_2": -40.625
+    },
+    {
+        "id": 5,
+        "prompt": "His boss closed the office door, and the quiet 'click' of the lock made Alex feel",
+        "completion_1": "suddenly cornered and defensive.",
+        "completion_2": "a strange calm, ready to finally have this conversation.",
+        "log_probs_1": -24.920806884765625,
+        "log_probs_2": -51.248046875
+    },
+    {
+        "id": 6,
+        "prompt": "The phone vibrated with a name she hadn't seen in years. Her first reaction was",
+        "completion_1": "a jolt of pure, unadulterated dread.",
+        "completion_2": "a sudden, bittersweet pang of nostalgia.",
+        "log_probs_1": -29.590667247772217,
+        "log_probs_2": -30.903221368789673
+    },
+    {
+        "id": 7,
+        "prompt": "He opened the presentation file, and seeing the first slide, he felt",
+        "completion_1": "his stomach drop with the realization of a major error.",
+        "completion_2": "a quiet confidence in the work he had prepared.",
+        "log_probs_1": -39.671875,
+        "log_probs_2": -34.587890625
+    },
+    {
+        "id": 8,
+        "prompt": "The lawyer paused, looking at her notes, and in that silence, Clara felt",
+        "completion_1": "the fragile seedling of hope begin to wither.",
+        "completion_2": "an unbearable tension, desperate for the final word.",
+        "log_probs_1": -43.355037212371826,
+        "log_probs_2": -48.421875
+    },
+    {
+        "id": 9,
+        "prompt": "When the baby finally fell asleep, the exhausted new father felt",
+        "completion_1": "a profound, bone-deep relief.",
+        "completion_2": "an immediate and surprising loneliness.",
+        "log_probs_1": -35.3414306640625,
+        "log_probs_2": -40.7890625
+    },
+    {
+        "id": 10,
+        "prompt": "The crowd cheered, and as she stepped onto the stage, she was hit with",
+        "completion_1": "an electrifying wave of absolute terror.",
+        "completion_2": "an intoxicating rush of adrenaline and belonging.",
+        "log_probs_1": -32.430514335632324,
+        "log_probs_2": -29.122459411621094
+    },
+    {
+        "id": 11,
+        "prompt": "He turned the corner and saw them sitting together at *their* table. His immediate feeling was",
+        "completion_1": "a sharp, possessive sting of jealousy.",
+        "completion_2": "a surprising sense of peace, realizing he was finally over it.",
+        "log_probs_1": -33.75592041015625,
+        "log_probs_2": -53.84438705444336
+    },
+    {
+        "id": 12,
+        "prompt": "The familiar smell of baking bread hit her as she opened the door, and she was filled with",
+        "completion_1": "a comforting warmth that eased the day's tension.",
+        "completion_2": "a sudden, sharp grief for the person who used to bake it.",
+        "log_probs_1": -32.767578125,
+        "log_probs_2": -49.15637493133545
+    },
+    {
+        "id": 13,
+        "prompt": "The doctor's expression was perfectly neutral, which made the patient feel",
+        "completion_1": "convinced that the news was terrible.",
+        "completion_2": "a sliver of hope that no news was good news.",
+        "log_probs_1": -25.816521644592285,
+        "log_probs_2": -40.96603584289551
+    },
+    {
+        "id": 14,
+        "prompt": "A hand touched his shoulder from behind, and he",
+        "completion_1": "felt a jolt of alarm, pulling away instantly.",
+        "completion_2": "relaxed, assuming it was the person he was waiting for.",
+        "log_probs_1": -37.379173278808594,
+        "log_probs_2": -34.2763671875
+    },
+    {
+        "id": 15,
+        "prompt": "The lights in the entire building suddenly went out, leaving them in darkness. Her first thought was",
+        "completion_1": "a thrill of adventure, like a game was starting.",
+        "completion_2": "a prickle of primal fear along her spine.",
+        "log_probs_1": -59.3232421875,
+        "log_probs_2": -48.544403076171875
+    },
+    {
+        "id": 16,
+        "prompt": "He found the old photograph in a shoebox, and looking at it, he felt",
+        "completion_1": "a deep, aching regret for the time he had lost.",
+        "completion_2": "a simple, uncomplicated happiness from the memory.",
+        "log_probs_1": -35.859375,
+        "log_probs_2": -39.77449035644531
+    },
+    {
+        "id": 17,
+        "prompt": "The music in the club stopped abruptly. In the sudden silence, everyone felt",
+        "completion_1": "a collective, confused annoyance at the interruption.",
+        "completion_2": "a shared, nervous anticipation for what would happen next.",
+        "log_probs_1": -38.2822265625,
+        "log_probs_2": -29.658531188964844
+    },
+    {
+        "id": 18,
+        "prompt": "She watched the car drive away until it was just a dot, feeling",
+        "completion_1": "an emptiness that mirrored the empty road.",
+        "completion_2": "a liberation she hadn't dared to expect.",
+        "log_probs_1": -27.723243713378906,
+        "log_probs_2": -33.696300625801086
+    },
+    {
+        "id": 19,
+        "prompt": "The engine sputtered, coughed, and then died. The driver's heart",
+        "completion_1": "sank with a feeling of complete exhaustion.",
+        "completion_2": "began to pound with a frantic, problem-solving energy.",
+        "log_probs_1": -23.753463745117188,
+        "log_probs_2": -40.60546875
+    },
+    {
+        "id": 20,
+        "prompt": "He tasted the soup she had made, and his face",
+        "completion_1": "visibly brightened with genuine pleasure.",
+        "completion_2": "tensed as he tried to hide his disappointment.",
+        "log_probs_1": -31.715087890625,
+        "log_probs_2": -21.35546875
+    },
+    {
+        "id": 21,
+        "prompt": "The final line of code executed without error. The programmer",
+        "completion_1": "let out a breath she hadn't known she was holding.",
+        "completion_2": "felt a growing suspicion that it was too easy.",
+        "log_probs_1": -49.807373046875,
+        "log_probs_2": -43.30078125
+    },
+    {
+        "id": 22,
+        "prompt": "He finished his speech and looked out at the silent audience, feeling",
+        "completion_1": "a cold dread, convinced he had failed completely.",
+        "completion_2": "a quiet satisfaction, letting the message sink in.",
+        "log_probs_1": -54.923828125,
+        "log_probs_2": -39.493804931640625
+    },
+    {
+        "id": 23,
+        "prompt": "She hung up the phone after the 3-hour call, and her body",
+        "completion_1": "thrummed with a nervous energy that made her pace.",
+        "completion_2": "slumped, utterly drained by the conversation.",
+        "log_probs_1": -48.7852783203125,
+        "log_probs_2": -31.4735107421875
+    },
+    {
+        "id": 24,
+        "prompt": "The results of the DNA test loaded on the screen. He stared at the name, overcome with",
+        "completion_1": "a feeling of profound, life-altering shock.",
+        "completion_2": "a sense of confirmation, as if he'd always known.",
+        "log_probs_1": -38.18374252319336,
+        "log_probs_2": -40.45744514465332
+    },
+    {
+        "id": 25,
+        "prompt": "After signing the divorce papers, both of them sat there, feeling",
+        "completion_1": "a sense of anticlimactic, hollow emptiness.",
+        "completion_2": "a mutually understood, unspoken relief.",
+        "log_probs_1": -32.9110050201416,
+        "log_probs_2": -37.591796875
+    },
+    {
+        "id": 26,
+        "prompt": "The fire alarm blared, and he immediately felt",
+        "completion_1": "a resigned annoyance at another false alarm.",
+        "completion_2": "a sharp spike of adrenaline, grabbing his keys and wallet.",
+        "log_probs_1": -47.28076171875,
+        "log_probs_2": -48.7225341796875
+    },
+    {
+        "id": 27,
+        "prompt": "She recognized the handwriting on the postcard and",
+        "completion_1": "felt her heart ache with a longing for the past.",
+        "completion_2": "rolled her eyes at the sender's predictable gesture.",
+        "log_probs_1": -37.62109375,
+        "log_probs_2": -33.860107421875
+    },
+    {
+        "id": 28,
+        "prompt": "He said 'I love you' for the first time. She paused, and he felt",
+        "completion_1": "a terrible, sinking feeling of having miscalculated.",
+        "completion_2": "an overwhelming hope that expanded in his chest.",
+        "log_probs_1": -45.18031311035156,
+        "log_probs_2": -36.959922790527344
+    },
+    {
+        "id": 29,
+        "prompt": "The rescue dog finally crept onto the sofa and laid its head in her lap. She was filled with",
+        "completion_1": "an intense, sudden wave of protective love.",
+        "completion_2": "a quiet anxiety, afraid to move and break the trust.",
+        "log_probs_1": -44.93774604797363,
+        "log_probs_2": -51.291015625
+    },
+    {
+        "id": 30,
+        "prompt": "He saw his ex-partner walk in with someone new. He was surprised to feel",
+        "completion_1": "absolutely nothing at all.",
+        "completion_2": "a confusing and inconvenient spark of attraction.",
+        "log_probs_1": -19.79638671875,
+        "log_probs_2": -31.07666015625
+    },
+    {
+        "id": 31,
+        "prompt": "As the deadline passed, un-met, Sarah just stared at the clock, feeling",
+        "completion_1": "a paralyzing sense of failure.",
+        "completion_2": "a strange, defiant sense of release.",
+        "log_probs_1": -24.02359962463379,
+        "log_probs_2": -30.349517822265625
+    },
+    {
+        "id": 32,
+        "prompt": "The auctioneer called 'Sold!' to another bidder. The collector felt",
+        "completion_1": "a sharp sting of personal defeat.",
+        "completion_2": "a sudden, deep relief at not having to spend the money.",
+        "log_probs_1": -38.11328125,
+        "log_probs_2": -37.537109375
+    },
+    {
+        "id": 33,
+        "prompt": "He held the tiny, newborn baby for the first time, and was overcome by",
+        "completion_1": "a crushing fear of his own inadequacy.",
+        "completion_2": "a wave of love so powerful it brought tears to his eyes.",
+        "log_probs_1": -29.26500701904297,
+        "log_probs_2": -24.126250743865967
+    },
+    {
+        "id": 34,
+        "prompt": "She found the hidden compartment in the desk. Inside was a single key. She felt",
+        "completion_1": "a thrill of discovery, her mind racing with possibilities.",
+        "completion_2": "a sudden unease, as if she had found something forbidden.",
+        "log_probs_1": -16.404052734375,
+        "log_probs_2": -37.787235260009766
+    },
+    {
+        "id": 35,
+        "prompt": "The jury foreman stood up to read the verdict. The defendant felt",
+        "completion_1": "a complete, numb detachment from the entire room.",
+        "completion_2": "a violent pounding in his chest, as if it would burst.",
+        "log_probs_1": -63.84521484375,
+        "log_probs_2": -33.66845703125
+    },
+    {
+        "id": 36,
+        "prompt": "He stood at the edge of the cliff, looking down at the water. His body",
+        "completion_1": "buzzed with an exhilarating, impulsive energy.",
+        "completion_2": "locked up with a powerful, instinctive wave of vertigo.",
+        "log_probs_1": -42.103515625,
+        "log_probs_2": -59.69017791748047
+    },
+    {
+        "id": 37,
+        "prompt": "The letter opener sliced through the paper, revealing the first line. Her expression",
+        "completion_1": "hardened as she prepared for a fight.",
+        "completion_2": "softened in a way he had not seen in months.",
+        "log_probs_1": -29.7918701171875,
+        "log_probs_2": -34.041015625
+    },
+    {
+        "id": 38,
+        "prompt": "After the argument, the house was completely silent. He sat on the stairs, feeling",
+        "completion_1": "a simmering resentment at being misunderstood.",
+        "completion_2": "a deep, aching regret for the words he had said.",
+        "log_probs_1": -41.015625,
+        "log_probs_2": -28.148681640625
+    },
+    {
+        "id": 39,
+        "prompt": "The search history on the shared computer loaded. She looked at it, feeling",
+        "completion_1": "a cold, sharp spike of suspicion.",
+        "completion_2": "a mild, detached curiosity at his interests.",
+        "log_probs_1": -43.74169921875,
+        "log_probs_2": -46.07421875
+    },
+    {
+        "id": 40,
+        "prompt": "His joke landed to complete silence. He felt",
+        "completion_1": "a hot flush of embarrassment creep up his neck.",
+        "completion_2": "a defiant superiority, thinking they just didn't get it.",
+        "log_probs_1": -27.0849609375,
+        "log_probs_2": -49.905662536621094
+    },
+    {
+        "id": 41,
+        "prompt": "She offered him a weak, polite smile. He interpreted it as",
+        "completion_1": "clear confirmation of her disinterest.",
+        "completion_2": "a sign of shyness, which he found endearing.",
+        "log_probs_1": -31.410888671875,
+        "log_probs_2": -29.23932671546936
+    },
+    {
+        "id": 42,
+        "prompt": "The key turned, but the lock didn't budge. After a moment, he felt",
+        "completion_1": "a rising tide of irrational frustration.",
+        "completion_2": "a quiet resignation, as if he expected this.",
+        "log_probs_1": -38.958099365234375,
+        "log_probs_2": -36.788818359375
+    },
+    {
+        "id": 43,
+        "prompt": "She watched him pack his suitcase, her arms crossed. Inside, she was",
+        "completion_1": "silently pleading with him not to go.",
+        "completion_2": "counting the minutes until she was finally alone.",
+        "log_probs_1": -25.496267318725586,
+        "log_probs_2": -24.701614379882812
+    },
+    {
+        "id": 44,
+        "prompt": "The path in the woods split in two. He paused, feeling",
+        "completion_1": "a surge of anxiety about making the wrong choice.",
+        "completion_2": "a pull of curiosity towards the darker, overgrown path.",
+        "log_probs_1": -26.205697059631348,
+        "log_probs_2": -24.754257202148438
+    },
+    {
+        "id": 45,
+        "prompt": "The performance review was titled 'A Frank Discussion.' Jason felt",
+        "completion_1": "his defenses immediately go up.",
+        "completion_2": "a sense of relief that things would finally be addressed.",
+        "log_probs_1": -36.98046875,
+        "log_probs_2": -29.671714782714844
+    },
+    {
+        "id": 46,
+        "prompt": "He saw his own book in the remainder bin. His first reaction was",
+        "completion_1": "a bitter, humorous wave of self-deprecation.",
+        "completion_2": "a sharp, private sting of humiliation.",
+        "log_probs_1": -40.767181396484375,
+        "log_probs_2": -43.73828125
+    },
+    {
+        "id": 47,
+        "prompt": "The applause was scattered and polite. The actor backstage felt",
+        "completion_1": "a cold wave of failure wash over him.",
+        "completion_2": "a surge of anger at the audience's lack of taste.",
+        "log_probs_1": -34.07080078125,
+        "log_probs_2": -37.23374557495117
+    },
+    {
+        "id": 48,
+        "prompt": "A car he didn't recognize pulled into the driveway. She",
+        "completion_1": "felt a jolt of curiosity, moving to the window.",
+        "completion_2": "instinctively shrank back, a sense of alarm rising.",
+        "log_probs_1": -46.266761779785156,
+        "log_probs_2": -49.74086380004883
+    },
+    {
+        "id": 49,
+        "prompt": "He picked up the 20-dollar bill from the sidewalk, and",
+        "completion_1": "felt a simple, childish thrill at his good luck.",
+        "completion_2": "was immediately filled with guilt, looking for who dropped it.",
+        "log_probs_1": -54.341796875,
+        "log_probs_2": -52.478515625
+    },
+    {
+        "id": 50,
+        "prompt": "The test flight simulation ended in a crash. The pilot, still in her seat,",
+        "completion_1": "felt her hands shake with residual adrenaline.",
+        "completion_2": "was already mentally cataloging the errors, feeling detached.",
+        "log_probs_1": -34.7763671875,
+        "log_probs_2": -59.282470703125
+    },
+    {
+        "id": 51,
+        "prompt": "She read her old diary, and the words on the page made her",
+        "completion_1": "cringe with a powerful, full-body embarrassment.",
+        "completion_2": "feel a tender, protective nostalgia for her younger self.",
+        "log_probs_1": -54.109375,
+        "log_probs_2": -46.44384765625
+    },
+    {
+        "id": 52,
+        "prompt": "After the fight, he found the broken vase on the floor. He",
+        "completion_1": "felt a surge of white-hot anger at the waste.",
+        "completion_2": "sank to his knees, overwhelmed by what they had become.",
+        "log_probs_1": -41.03813099861145,
+        "log_probs_2": -44.179443359375
+    },
+    {
+        "id": 53,
+        "prompt": "He hadn't studied at all, but the test questions looked familiar. He felt",
+        "completion_1": "a lucky, confident bluff beginning to form.",
+        "completion_2": "an even deeper panic, realizing he should know this.",
+        "log_probs_1": -56.62109375,
+        "log_probs_2": -57.7734375
+    },
+    {
+        "id": 54,
+        "prompt": "The power flickered, and his unsaved document vanished. He stared at the blank screen",
+        "completion_1": "with a zen-like, almost comical sense of calm.",
+        "completion_2": "and felt a surge of pure, unfiltered rage build in his throat.",
+        "log_probs_1": -49.40742588043213,
+        "log_probs_2": -51.00813102722168
+    },
+    {
+        "id": 55,
+        "prompt": "The server set down the wrong dish in front of her. She",
+        "completion_1": "felt a rush of anxiety at the thought of correcting them.",
+        "completion_2": "felt a spark of curiosity, wondering if she should try it.",
+        "log_probs_1": -42.14683532714844,
+        "log_probs_2": -42.11183166503906
+    },
+    {
+        "id": 56,
+        "prompt": "He saw the 'missed call' notification from his mother at 3 AM. He felt",
+        "completion_1": "a sudden, icy dread seize his heart.",
+        "completion_2": "a familiar surge of annoyance at her lack of boundaries.",
+        "log_probs_1": -34.509765625,
+        "log_probs_2": -39.6234245300293
+    },
+    {
+        "id": 57,
+        "prompt": "The garden, once beautiful, was now overgrown with weeds. Looking at it, she felt",
+        "completion_1": "a daunting sense of exhaustion at the work ahead.",
+        "completion_2": "a strange comfort in its wild, untamed state.",
+        "log_probs_1": -45.73255252838135,
+        "log_probs_2": -24.99560546875
+    },
+    {
+        "id": 58,
+        "prompt": "The dog, which had been missing for three days, suddenly appeared at the back door. The owner",
+        "completion_1": "cried out, a wave of overwhelming relief making her knees weak.",
+        "completion_2": "froze, a cold suspicion forming as she saw the mud on its paws.",
+        "log_probs_1": -66.2331931591034,
+        "log_probs_2": -65.03521466255188
+    },
+    {
+        "id": 59,
+        "prompt": "He realized he had left his wallet in the taxi. His first reaction was",
+        "completion_1": "a sharp, practical burst of problem-solving energy.",
+        "completion_2": "a wave of self-loathing and powerlessness.",
+        "log_probs_1": -54.17640686035156,
+        "log_probs_2": -44.45111310482025
+    },
+    {
+        "id": 60,
+        "prompt": "The promotion list was posted, and her name wasn't on it. She",
+        "completion_1": "felt a bitter, public humiliation.",
+        "completion_2": "felt a surprising, immediate sense of clarity.",
+        "log_probs_1": -41.69921875,
+        "log_probs_2": -44.73486328125
+    },
+    {
+        "id": 61,
+        "prompt": "The stranger on the train looked up and smiled at him. He",
+        "completion_1": "felt a warm, unexpected connection.",
+        "completion_2": "immediately felt suspicious and averted his gaze.",
+        "log_probs_1": -26.772216796875,
+        "log_probs_2": -42.3629150390625
+    },
+    {
+        "id": 62,
+        "prompt": "The editor's feedback was just two words: 'Call me.' The writer felt",
+        "completion_1": "a surge of hope that it was good news.",
+        "completion_2": "a sickening lurch, bracing for rejection.",
+        "log_probs_1": -29.29144287109375,
+        "log_probs_2": -55.55078125
+    },
+    {
+        "id": 63,
+        "prompt": "The box contained a single, wilted flower. He",
+        "completion_1": "smiled, touched by the imperfect, heartfelt gesture.",
+        "completion_2": "frowned, interpreting it as a passive-aggressive insult.",
+        "log_probs_1": -48.561767578125,
+        "log_probs_2": -42.125511169433594
+    },
+    {
+        "id": 64,
+        "prompt": "She stepped off the plane into the humid air of her childhood home. She was filled with",
+        "completion_1": "an immediate, suffocating sense of oppression.",
+        "completion_2": "a profound comfort, as if she could finally breathe.",
+        "log_probs_1": -37.90538024902344,
+        "log_probs_2": -44.51171875
+    },
+    {
+        "id": 65,
+        "prompt": "The antique mirror reflected his face, but for a second, it looked... wrong. He felt",
+        "completion_1": "a childish, superstitious prickle of fear.",
+        "completion_2": "a detached curiosity about the flaw in the glass.",
+        "log_probs_1": -43.12953758239746,
+        "log_probs_2": -34.474609375
+    },
+    {
+        "id": 66,
+        "prompt": "His rival was given the award. He clapped along with the crowd, feeling",
+        "completion_1": "a genuine, surprising happiness for his colleague.",
+        "completion_2": "a corrosive envy that soured his stomach.",
+        "log_probs_1": -48.9375,
+        "log_probs_2": -40.04022216796875
+    },
+    {
+        "id": 67,
+        "prompt": "She found the earring she thought she had lost forever. Her heart",
+        "completion_1": "leaped with a disproportionate, intense joy.",
+        "completion_2": "sank, as it brought back the memory of *when* she lost it.",
+        "log_probs_1": -46.74609375,
+        "log_probs_2": -55.13438415527344
+    },
+    {
+        "id": 68,
+        "prompt": "The new CEO's opening speech was full of jargon. The employees felt",
+        "completion_1": "a renewed cynicism for the company's future.",
+        "completion_2": "an intimidated sense of awe at her confidence.",
+        "log_probs_1": -40.249122619628906,
+        "log_probs_2": -44.29296875
+    },
+    {
+        "id": 69,
+        "prompt": "He turned 40, and the realization hit him with",
+        "completion_1": "a deep, existential sense of dread.",
+        "completion_2": "a sudden, liberating sense of indifference.",
+        "log_probs_1": -27.197021484375,
+        "log_probs_2": -26.822004318237305
+    },
+    {
+        "id": 70,
+        "prompt": "The soldier held the puppy, and for a moment, he felt",
+        "completion_1": "a vulnerability he hadn't allowed himself in years.",
+        "completion_2": "a complete and total detachment from the creature.",
+        "log_probs_1": -33.435895919799805,
+        "log_probs_2": -47.3359375
+    },
+    {
+        "id": 71,
+        "prompt": "The painting was finally finished. The artist stepped back, feeling",
+        "completion_1": "a deep, quiet satisfaction with the work.",
+        "completion_2": "an immediate, hollow emptiness now that it was done.",
+        "log_probs_1": -31.2998046875,
+        "log_probs_2": -55.44932699203491
+    },
+    {
+        "id": 72,
+        "prompt": "A text came in: 'We need to talk.' Her stomach",
+        "completion_1": "instantly clenched with anxiety.",
+        "completion_2": "fluttered with anticipation for the conversation.",
+        "log_probs_1": -25.737446665763855,
+        "log_probs_2": -24.3759765625
+    },
+    {
+        "id": 73,
+        "prompt": "He put the last piece of the model ship in place. He felt",
+        "completion_1": "a swell of pride in his patience and skill.",
+        "completion_2": "a sense of disappointment that the challenge was over.",
+        "log_probs_1": -42.073974609375,
+        "log_probs_2": -27.502967834472656
+    },
+    {
+        "id": 74,
+        "prompt": "The will was read, and his name was mentioned for a small inheritance. He felt",
+        "completion_1": "a confusing blend of grief and gratitude.",
+        "completion_2": "a bitter resentment at the smallness of the sum.",
+        "log_probs_1": -34.446815490722656,
+        "log_probs_2": -38.38543701171875
+    },
+    {
+        "id": 75,
+        "prompt": "The professor said, 'I've read your thesis.' The student felt",
+        "completion_1": "a sudden, naked vulnerability.",
+        "completion_2": "a defensive pride, ready to argue his points.",
+        "log_probs_1": -33.84375,
+        "log_probs_2": -48.06494140625
+    },
+    {
+        "id": 76,
+        "prompt": "The train doors opened, revealing the person he was avoiding. His first instinct was",
+        "completion_1": "a wave of immature panic, looking for an exit.",
+        "completion_2": "a weary resignation, stepping forward to get it over with.",
+        "log_probs_1": -68.5091552734375,
+        "log_probs_2": -57.0703125
+    },
+    {
+        "id": 77,
+        "prompt": "She woke up and didn't know where she was. Her first feeling was",
+        "completion_1": "a disorienting, paralyzing terror.",
+        "completion_2": "a mild, groggy flicker of curiosity.",
+        "log_probs_1": -31.301177978515625,
+        "log_probs_2": -44.11115062236786
+    },
+    {
+        "id": 78,
+        "prompt": "He found his childhood toy in his parents' attic. Holding it, he felt",
+        "completion_1": "a powerful, bittersweet wave of nostalgia.",
+        "completion_2": "absolutely nothing, just surprise it still existed.",
+        "log_probs_1": -26.237614512443542,
+        "log_probs_2": -51.67578125
+    },
+    {
+        "id": 79,
+        "prompt": "The package arrived, but it wasn't what she ordered. She felt",
+        "completion_1": "a sharp, immediate spike of annoyance.",
+        "completion_2": "an unexpected intrigue about the mystery item.",
+        "log_probs_1": -39.64892578125,
+        "log_probs_2": -38.619140625
+    },
+    {
+        "id": 80,
+        "prompt": "He looked at his son, who had just lied to his face. He felt",
+        "completion_1": "a profound and weary disappointment.",
+        "completion_2": "a strange, detached admiration for the boy's composure.",
+        "log_probs_1": -31.1171875,
+        "log_probs_2": -48.88330078125
+    },
+    {
+        "id": 81,
+        "prompt": "The bank statement showed an unexpected deposit. Her first thought was",
+        "completion_1": "a thrill of pure, uncomplicated joy.",
+        "completion_2": "a nervous suspicion that it was a mistake.",
+        "log_probs_1": -49.29638671875,
+        "log_probs_2": -41.48046875
+    },
+    {
+        "id": 82,
+        "prompt": "The opposing lawyer finished his closing argument. She",
+        "completion_1": "felt a new, sinking feeling of doubt in her own case.",
+        "completion_2": "felt a surge of confidence, knowing she could rebut every point.",
+        "log_probs_1": -58.3125,
+        "log_probs_2": -45.338775634765625
+    },
+    {
+        "id": 83,
+        "prompt": "He reached the summit of the mountain, and the view was... just fog. He felt",
+        "completion_1": "a hysterical, bubbling laugh of cosmic absurdity.",
+        "completion_2": "a crushing, bitter sense of anticlimax.",
+        "log_probs_1": -61.175721645355225,
+        "log_probs_2": -33.824302673339844
+    },
+    {
+        "id": 84,
+        "prompt": "The car in front of him slammed on its brakes. His body",
+        "completion_1": "reacted instantly, filled with a cold, focused adrenaline.",
+        "completion_2": "froze for a split second, paralyzed by the sudden danger.",
+        "log_probs_1": -44.88512420654297,
+        "log_probs_2": -36.4794921875
+    },
+    {
+        "id": 85,
+        "prompt": "She tried on her old wedding dress, and it still fit. She felt",
+        "completion_1": "a surprising, sharp pang of regret.",
+        "completion_2": "a simple, physical satisfaction.",
+        "log_probs_1": -36.79296875,
+        "log_probs_2": -37.109375
+    },
+    {
+        "id": 86,
+        "prompt": "The message 'seen' appeared, but no reply came. He",
+        "completion_1": "felt a familiar, anxious knot form in his stomach.",
+        "completion_2": "shrugged, putting the phone down without a second thought.",
+        "log_probs_1": -27.26123046875,
+        "log_probs_2": -34.2109375
+    },
+    {
+        "id": 87,
+        "prompt": "The old woman offered her a cryptic piece of advice. She",
+        "completion_1": "felt a dismissive wave of annoyance.",
+        "completion_2": "felt a strange, prickling sense of recognition.",
+        "log_probs_1": -36.591217041015625,
+        "log_probs_2": -35.7545166015625
+    },
+    {
+        "id": 88,
+        "prompt": "The restaurant was empty except for them. The atmosphere felt",
+        "completion_1": "unbearably awkward and exposed.",
+        "completion_2": "wonderfully private and intimate.",
+        "log_probs_1": -31.119140625,
+        "log_probs_2": -23.220703125
+    },
+    {
+        "id": 89,
+        "prompt": "He opened the door to a surprise party. His first reaction was",
+        "completion_1": "a genuine, overwhelming surge of joy.",
+        "completion_2": "a deep, immediate wave of social exhaustion.",
+        "log_probs_1": -33.90664291381836,
+        "log_probs_2": -51.03132390975952
+    },
+    {
+        "id": 90,
+        "prompt": "The archaeologist brushed the dirt from the artifact. It was",
+        "completion_1": "instantly recognizable, and she felt a jolt of disappointment.",
+        "completion_2": "unlike anything she had ever seen, and her pulse quickened.",
+        "log_probs_1": -42.28433322906494,
+        "log_probs_2": -43.57655334472656
+    },
+    {
+        "id": 91,
+        "prompt": "The teacher looked at his answer and just nodded slowly. He",
+        "completion_1": "felt his confidence surge, taking it as approval.",
+        "completion_2": "felt his stomach drop, interpreting it as disappointment.",
+        "log_probs_1": -47.09375,
+        "log_probs_2": -42.392578125
+    },
+    {
+        "id": 92,
+        "prompt": "He walked into his old bedroom, unchanged after all these years. He felt",
+        "completion_1": "a comforting sense of stillness, as if time had stopped.",
+        "completion_2": "a suffocating sense of stagnation, desperate to leave.",
+        "log_probs_1": -27.51384449005127,
+        "log_probs_2": -42.630221366882324
+    },
+    {
+        "id": 93,
+        "prompt": "The biopsy results were on the table, face down. He",
+        "completion_1": "felt an overwhelming urge to leave the room and not look.",
+        "completion_2": "felt a cold, steely resolve to know, whatever it was.",
+        "log_probs_1": -35.80609130859375,
+        "log_probs_2": -59.92822265625
+    },
+    {
+        "id": 94,
+        "prompt": "His 'seeing-eye' dog led him to a park bench instead of the bus stop. He felt",
+        "completion_1": "a trusting affection for the dog's mysterious wisdom.",
+        "completion_2": "a sharp, helpless frustration at the miscommunication.",
+        "log_probs_1": -41.88671875,
+        "log_probs_2": -50.703125
+    },
+    {
+        "id": 95,
+        "prompt": "The final puzzle piece wasn't in the box. The woman",
+        "completion_1": "laughed at the sheer, petty injustice of it all.",
+        "completion_2": "felt a disproportionate, burning rage build inside her.",
+        "log_probs_1": -44.641883850097656,
+        "log_probs_2": -49.6865234375
+    },
+    {
+        "id": 96,
+        "prompt": "He saw his reflection in a shop window and didn't recognize himself. He",
+        "completion_1": "felt a sudden, jarring sense of dissociation.",
+        "completion_2": "felt a quiet pride at how much he had changed.",
+        "log_probs_1": -32.50520372390747,
+        "log_probs_2": -39.900390625
+    },
+    {
+        "id": 97,
+        "prompt": "The recruiter said, 'Your experience is... extensive.' Her tone made him feel",
+        "completion_1": "proud, seeing it as a compliment to his skills.",
+        "completion_2": "obsolete, suspecting she meant he was too old.",
+        "log_probs_1": -37.3759765625,
+        "log_probs_2": -45.541015625
+    },
+    {
+        "id": 98,
+        "prompt": "She finished the marathon, hours after the winners. She was",
+        "completion_1": "filled with a profound, private sense of triumph.",
+        "completion_2": "overcome with a painful, public sense of humiliation.",
+        "log_probs_1": -44.930564880371094,
+        "log_probs_2": -50.589935302734375
+    },
+    {
+        "id": 99,
+        "prompt": "The AI's response was almost human. The user felt",
+        "completion_1": "a genuine sense of connection and understanding.",
+        "completion_2": "a deep, unsettling wave of uncanniness.",
+        "log_probs_1": -15.587024688720703,
+        "log_probs_2": -43.27946472167969
+    },
+    {
+        "id": 100,
+        "prompt": "He woke up from the dream, and the feeling of it lingered. He felt",
+        "completion_1": "a profound sense of loss for the world he'd just left.",
+        "completion_2": "an overwhelming relief to be back in reality.",
+        "log_probs_1": -36.678714752197266,
+        "log_probs_2": -30.0216064453125
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "prompt": "Local officials announced a new initiative",
+        "completion_1": "focused on improving public transport access.",
+        "completion_2": "aimed at supporting small businesses in the area.",
+        "log_probs_1": -32.3807373046875,
+        "log_probs_2": -20.845703125
+    },
+    {
+        "id": 1,
+        "prompt": "The company's CEO unexpectedly resigned",
+        "completion_1": "following a disagreement with the board of directors.",
+        "completion_2": "citing personal health reasons and a desire to travel.",
+        "log_probs_1": -14.67120361328125,
+        "log_probs_2": -31.203125
+    },
+    {
+        "id": 2,
+        "prompt": "Scientists have published a new study on",
+        "completion_1": "the long-term effects of microplastics on marine life.",
+        "completion_2": "a potential new treatment for drug-resistant bacteria.",
+        "log_probs_1": -15.51641845703125,
+        "log_probs_2": -28.198486328125
+    },
+    {
+        "id": 3,
+        "prompt": "A major breakthrough was reported in",
+        "completion_1": "fusion energy, promising a cleaner power source.",
+        "completion_2": "artificial intelligence, with a new model surpassing human benchmarks.",
+        "log_probs_1": -37.20068359375,
+        "log_probs_2": -39.933284759521484
+    },
+    {
+        "id": 4,
+        "prompt": "The government has passed a controversial new bill",
+        "completion_1": "that restricts data collection by tech companies.",
+        "completion_2": "that significantly increases military spending.",
+        "log_probs_1": -23.352680206298828,
+        "log_probs_2": -21.8486328125
+    },
+    {
+        "id": 5,
+        "prompt": "Emergency services are responding to",
+        "completion_1": "a multi-car pileup on the northbound highway.",
+        "completion_2": "a large chemical spill at an industrial park.",
+        "log_probs_1": -18.871978759765625,
+        "log_probs_2": -24.83203125
+    },
+    {
+        "id": 6,
+        "prompt": "The stock market reacted sharply to news of",
+        "completion_1": "an unexpected rise in inflation figures.",
+        "completion_2": "a new trade agreement between two major economies.",
+        "log_probs_1": -25.48602294921875,
+        "log_probs_2": -25.865234375
+    },
+    {
+        "id": 7,
+        "prompt": "Police are investigating a series of",
+        "completion_1": "sophisticated cyberattacks targeting local banks.",
+        "completion_2": "residential burglaries in the wealthy suburbs.",
+        "log_probs_1": -30.702503204345703,
+        "log_probs_2": -18.921737670898438
+    },
+    {
+        "id": 8,
+        "prompt": "The central bank's decision to",
+        "completion_1": "raise interest rates has surprised economists.",
+        "completion_2": "hold interest rates steady was widely expected.",
+        "log_probs_1": -21.49337100982666,
+        "log_probs_2": -23.74315643310547
+    },
+    {
+        "id": 9,
+        "prompt": "A new report highlights the growing crisis in",
+        "completion_1": "affordable housing in major urban centers.",
+        "completion_2": "water scarcity in agricultural regions.",
+        "log_probs_1": -21.12445068359375,
+        "log_probs_2": -23.20703125
+    },
+    {
+        "id": 10,
+        "prompt": "The school board meeting ended in chaos after",
+        "completion_1": "a new mask mandate policy was announced.",
+        "completion_2": "proposals to cut funding for the arts program were revealed.",
+        "log_probs_1": -29.41796875,
+        "log_probs_2": -33.41144371032715
+    },
+    {
+        "id": 11,
+        "prompt": "The celebrity couple announced they are",
+        "completion_1": "launching a new charitable foundation together.",
+        "completion_2": "amicably separating after five years of marriage.",
+        "log_probs_1": -18.439002513885498,
+        "log_probs_2": -16.13592529296875
+    },
+    {
+        "id": 12,
+        "prompt": "Meteorologists are warning of a",
+        "completion_1": "severe heatwave expected to last through the weekend.",
+        "completion_2": "major winter storm system developing in the north.",
+        "log_probs_1": -24.58428955078125,
+        "log_probs_2": -23.3074951171875
+    },
+    {
+        "id": 13,
+        "prompt": "The city council has approved plans for",
+        "completion_1": "a new high-rise residential tower downtown.",
+        "completion_2": "a large public park on the waterfront.",
+        "log_probs_1": -24.7890625,
+        "log_probs_2": -19.11328125
+    },
+    {
+        "id": 14,
+        "prompt": "Archaeologists in Egypt have unearthed",
+        "completion_1": "a previously unknown royal tomb filled with artifacts.",
+        "completion_2": "a well-preserved ancient village from the Roman era.",
+        "log_probs_1": -27.540771484375,
+        "log_probs_2": -24.383520126342773
+    },
+    {
+        "id": 15,
+        "prompt": "The tech giant's latest product launch",
+        "completion_1": "was met with disappointing reviews and technical glitches.",
+        "completion_2": "exceeded all sales expectations in its first week.",
+        "log_probs_1": -30.41535186767578,
+        "log_probs_2": -28.181640625
+    },
+    {
+        "id": 16,
+        "prompt": "Investigators have found new evidence in",
+        "completion_1": "the decades-old unsolved disappearance of a local activist.",
+        "completion_2": "the recent high-profile corporate fraud case.",
+        "log_probs_1": -39.629783630371094,
+        "log_probs_2": -23.429443359375
+    },
+    {
+        "id": 17,
+        "prompt": "The international summit concluded with",
+        "completion_1": "a new global agreement on plastic pollution.",
+        "completion_2": "a joint statement condemning the ongoing trade war.",
+        "log_probs_1": -28.0390625,
+        "log_probs_2": -27.3515625
+    },
+    {
+        "id": 18,
+        "prompt": "A new health warning was issued for",
+        "completion_1": "a popular brand of salad dressing due to contamination.",
+        "completion_2": "a children's toy found to contain high levels of lead.",
+        "log_probs_1": -25.485862731933594,
+        "log_probs_2": -26.29541015625
+    },
+    {
+        "id": 19,
+        "prompt": "The film studio announced a delay for",
+        "completion_1": "its highly anticipated superhero sequel.",
+        "completion_2": "the production of its next animated feature.",
+        "log_probs_1": -16.28955078125,
+        "log_probs_2": -25.6905517578125
+    },
+    {
+        "id": 20,
+        "prompt": "Public health officials are concerned about",
+        "completion_1": "a recent spike in cases of a new flu variant.",
+        "completion_2": "the low vaccination rates in several rural counties.",
+        "log_probs_1": -37.487674713134766,
+        "log_probs_2": -29.5911865234375
+    },
+    {
+        "id": 21,
+        "prompt": "The court's final ruling on the case",
+        "completion_1": "found the defendant guilty on all charges.",
+        "completion_2": "was postponed indefinitely due to new evidence.",
+        "log_probs_1": -23.2529296875,
+        "log_probs_2": -22.38507080078125
+    },
+    {
+        "id": 22,
+        "prompt": "The university has received a record-breaking",
+        "completion_1": "number of applications for its undergraduate programs.",
+        "completion_2": "donation from an anonymous alumnus.",
+        "log_probs_1": -14.781845092773438,
+        "log_probs_2": -21.468883514404297
+    },
+    {
+        "id": 23,
+        "prompt": "Following the scandal, the politician",
+        "completion_1": "has refused to step down from their position.",
+        "completion_2": "issued a public apology and announced their resignation.",
+        "log_probs_1": -26.508514404296875,
+        "log_probs_2": -25.393798828125
+    },
+    {
+        "id": 24,
+        "prompt": "A new conservation effort aims to protect",
+        "completion_1": "the endangered snow leopard in the Himalayas.",
+        "completion_2": "the fragile coral reef systems off the coast of Australia.",
+        "log_probs_1": -19.6552734375,
+        "log_probs_2": -25.6927490234375
+    },
+    {
+        "id": 25,
+        "prompt": "The championship game was decided by",
+        "completion_1": "a last-second field goal in overtime.",
+        "completion_2": "a controversial call from the referee in the final minute.",
+        "log_probs_1": -19.135711669921875,
+        "log_probs_2": -24.810791015625
+    },
+    {
+        "id": 26,
+        "prompt": "The automotive company is recalling thousands of vehicles",
+        "completion_1": "due to a faulty braking system component.",
+        "completion_2": "because of a software glitch affecting the airbags.",
+        "log_probs_1": -15.407989501953125,
+        "log_probs_2": -27.0361328125
+    },
+    {
+        "id": 27,
+        "prompt": "The airline announced it is",
+        "completion_1": "adding new non-stop routes to several European cities.",
+        "completion_2": "increasing its baggage fees for all domestic flights.",
+        "log_probs_1": -21.4588623046875,
+        "log_probs_2": -23.60595703125
+    },
+    {
+        "id": 28,
+        "prompt": "Firefighters are struggling to contain a wildfire",
+        "completion_1": "that is threatening a major residential area.",
+        "completion_2": "that was started by a lightning strike in a remote forest.",
+        "log_probs_1": -21.109375,
+        "log_probs_2": -27.693359375
+    },
+    {
+        "id": 29,
+        "prompt": "The new streaming service has failed to",
+        "completion_1": "attract the number of subscribers it projected.",
+        "completion_2": "secure the streaming rights for a popular sports league.",
+        "log_probs_1": -25.782012939453125,
+        "log_probs_2": -29.30859375
+    },
+    {
+        "id": 30,
+        "prompt": "A new study on workplace habits found",
+        "completion_1": "that remote workers are significantly more productive.",
+        "completion_2": "that open-plan offices lead to more distractions.",
+        "log_probs_1": -22.961669921875,
+        "log_probs_2": -34.01959228515625
+    },
+    {
+        "id": 31,
+        "prompt": "The border negotiations have",
+        "completion_1": "stalled again over the same unresolved issues.",
+        "completion_2": "resulted in a temporary agreement to de-escalate tensions.",
+        "log_probs_1": -32.21484375,
+        "log_probs_2": -23.632802963256836
+    },
+    {
+        "id": 32,
+        "prompt": "The popular restaurant chain is closing",
+        "completion_1": "all of its locations in the state due to rising costs.",
+        "completion_2": "for two weeks for a company-wide staff training event.",
+        "log_probs_1": -27.930908203125,
+        "log_probs_2": -39.04248046875
+    },
+    {
+        "id": 33,
+        "prompt": "Astronomers have detected a strange signal",
+        "completion_1": "coming from a newly discovered exoplanet.",
+        "completion_2": "that appears to be a previously unknown natural phenomenon.",
+        "log_probs_1": -15.687932968139648,
+        "log_probs_2": -16.856002807617188
+    },
+    {
+        "id": 34,
+        "prompt": "The prime minister's approval ratings have",
+        "completion_1": "surged following the successful economic reforms.",
+        "completion_2": "plummeted after the recent tax scandal.",
+        "log_probs_1": -24.921875,
+        "log_probs_2": -24.123058319091797
+    },
+    {
+        "id": 35,
+        "prompt": "The new art exhibit at the museum",
+        "completion_1": "has drawn criticism for its controversial subject matter.",
+        "completion_2": "has broken all previous attendance records.",
+        "log_probs_1": -26.163551330566406,
+        "log_probs_2": -21.9501953125
+    },
+    {
+        "id": 36,
+        "prompt": "Shareholders voted to",
+        "completion_1": "approve the controversial merger with their main rival.",
+        "completion_2": "reject the CEO's proposed multi-million dollar bonus package.",
+        "log_probs_1": -37.06640625,
+        "log_probs_2": -26.720703125
+    },
+    {
+        "id": 37,
+        "prompt": "The government's new education policy",
+        "completion_1": "focuses on investing in STEM programs and technology.",
+        "completion_2": "has been strongly opposed by teachers' unions.",
+        "log_probs_1": -29.882568359375,
+        "log_probs_2": -26.6846923828125
+    },
+    {
+        "id": 38,
+        "prompt": "A sudden power outage has affected",
+        "completion_1": "the entire downtown core, trapping people in elevators.",
+        "completion_2": "the city's main water treatment plant.",
+        "log_probs_1": -32.806851387023926,
+        "log_probs_2": -14.42822265625
+    },
+    {
+        "id": 39,
+        "prompt": "The team's star player will",
+        "completion_1": "miss the rest of the season due to a knee injury.",
+        "completion_2": "be traded to a rival team in a blockbuster deal.",
+        "log_probs_1": -17.46286392211914,
+        "log_probs_2": -21.1162109375
+    },
+    {
+        "id": 40,
+        "prompt": "Construction on the new bridge has been",
+        "completion_1": "halted indefinitely after archaeological remains were found.",
+        "completion_2": "progressing ahead of schedule and under budget.",
+        "log_probs_1": -37.29690194129944,
+        "log_probs_2": -26.167251586914062
+    },
+    {
+        "id": 41,
+        "prompt": "The federal agency issued a new warning about",
+        "completion_1": "the risks of using unauthorized cryptocurrency exchanges.",
+        "completion_2": "a widespread bacterial contamination in ground beef.",
+        "log_probs_1": -25.134765625,
+        "log_probs_2": -29.71484375
+    },
+    {
+        "id": 42,
+        "prompt": "The historic treaty is now at risk of",
+        "completion_1": "being dissolved due to political disagreements.",
+        "completion_2": "being renegotiated to include modern environmental protections.",
+        "log_probs_1": -19.03826904296875,
+        "log_probs_2": -29.961108207702637
+    },
+    {
+        "id": 43,
+        "prompt": "The author's new book",
+        "completion_1": "is a sequel to their best-selling fantasy series.",
+        "completion_2": "is a deeply personal memoir about their childhood.",
+        "log_probs_1": -26.2515869140625,
+        "log_probs_2": -22.41455078125
+    },
+    {
+        "id": 44,
+        "prompt": "The city's plan to address homelessness",
+        "completion_1": "involves building several new permanent supportive housing units.",
+        "completion_2": "has been criticized as ineffective by local advocacy groups.",
+        "log_probs_1": -32.8092041015625,
+        "log_probs_2": -34.04790496826172
+    },
+    {
+        "id": 45,
+        "prompt": "A new app designed to",
+        "completion_1": "help users track their mental well-being has topped the charts.",
+        "completion_2": "scan products for allergens has been released by a startup.",
+        "log_probs_1": -26.44281005859375,
+        "log_probs_2": -39.564453125
+    },
+    {
+        "id": 46,
+        "prompt": "The military announced it will be",
+        "completion_1": "conducting live-fire exercises in the coastal region.",
+        "completion_2": "deploying a humanitarian mission to the flood-stricken area.",
+        "log_probs_1": -29.4298095703125,
+        "log_probs_2": -35.181121826171875
+    },
+    {
+        "id": 47,
+        "prompt": "The results of the clinical trial",
+        "completion_1": "showed the new drug was highly effective with minimal side effects.",
+        "completion_2": "were inconclusive, forcing researchers to redesign the study.",
+        "log_probs_1": -38.89043426513672,
+        "log_probs_2": -25.174591064453125
+    },
+    {
+        "id": 48,
+        "prompt": "The famous landmark is set to",
+        "completion_1": "undergo a multi-year restoration project.",
+        "completion_2": "be sold to a private investor, sparking public outrage.",
+        "log_probs_1": -18.5166015625,
+        "log_probs_2": -30.1953125
+    },
+    {
+        "id": 49,
+        "prompt": "The tech company is facing a lawsuit over",
+        "completion_1": "its anti-competitive practices in the app store.",
+        "completion_2": "alleged patent infringement from a smaller startup.",
+        "log_probs_1": -22.815185546875,
+        "log_probs_2": -27.7982177734375
+    },
+    {
+        "id": 50,
+        "prompt": "Following the drought, farmers are",
+        "completion_1": "requesting emergency financial aid from the government.",
+        "completion_2": "adopting new water-saving irrigation techniques.",
+        "log_probs_1": -26.21258544921875,
+        "log_probs_2": -25.75732421875
+    },
+    {
+        "id": 51,
+        "prompt": "The space agency's new mission will",
+        "completion_1": "send a probe to explore the moons of Jupiter.",
+        "completion_2": "attempt to land the first astronauts on Mars.",
+        "log_probs_1": -17.9368896484375,
+        "log_probs_2": -27.677734375
+    },
+    {
+        "id": 52,
+        "prompt": "The annual music festival was",
+        "completion_1": "cancelled at the last minute due to safety concerns.",
+        "completion_2": "a huge success, drawing a record-breaking crowd.",
+        "log_probs_1": -16.88543701171875,
+        "log_probs_2": -15.9375
+    },
+    {
+        "id": 53,
+        "prompt": "The activist group is protesting",
+        "completion_1": "the construction of a new oil pipeline through their community.",
+        "completion_2": "the government's perceived inaction on climate change.",
+        "log_probs_1": -23.72381591796875,
+        "log_probs_2": -20.45148468017578
+    },
+    {
+        "id": 54,
+        "prompt": "A review of the university's curriculum",
+        "completion_1": "has led to the addition of several new data science courses.",
+        "completion_2": "has recommended removing the controversial humanities requirement.",
+        "log_probs_1": -52.729248046875,
+        "log_probs_2": -57.25
+    },
+    {
+        "id": 55,
+        "prompt": "The new documentary has sparked a conversation about",
+        "completion_1": "the ethics of artificial intelligence in warfare.",
+        "completion_2": "the hidden environmental cost of the fashion industry.",
+        "log_probs_1": -17.50958251953125,
+        "log_probs_2": -30.450469970703125
+    },
+    {
+        "id": 56,
+        "prompt": "The country's economy is",
+        "completion_1": "experiencing rapid growth thanks to a boom in tourism.",
+        "completion_2": "on the brink of recession due to high national debt.",
+        "log_probs_1": -29.623249053955078,
+        "log_probs_2": -29.070571899414062
+    },
+    {
+        "id": 57,
+        "prompt": "The local library announced it will",
+        "completion_1": "be expanding its hours to be open 24/7 during exam weeks.",
+        "completion_2": "be closing its physical branch and moving to a digital-only service.",
+        "log_probs_1": -39.89888000488281,
+        "log_probs_2": -33.357421875
+    },
+    {
+        "id": 58,
+        "prompt": "The new round of peace talks",
+        "completion_1": "has broken down without any progress being made.",
+        "completion_2": "has resulted in a fragile ceasefire agreement.",
+        "log_probs_1": -30.506591796875,
+        "log_probs_2": -18.783733367919922
+    },
+    {
+        "id": 59,
+        "prompt": "The governor is expected to sign",
+        "completion_1": "the controversial voting reform bill into law.",
+        "completion_2": "an executive order declaring a state of emergency.",
+        "log_probs_1": -18.5614013671875,
+        "log_probs_2": -12.270538330078125
+    },
+    {
+        "id": 60,
+        "prompt": "A hidden chapter in the late author's diary",
+        "completion_1": "reveals a secret love affair with a rival writer.",
+        "completion_2": "details their struggle with mental health and creative block.",
+        "log_probs_1": -34.5087890625,
+        "log_probs_2": -39.169921875
+    },
+    {
+        "id": 61,
+        "prompt": "The investigation into the plane crash",
+        "completion_1": "has pointed to a catastrophic mechanical failure.",
+        "completion_2": "is focusing on the possibility of pilot error.",
+        "log_probs_1": -26.5216064453125,
+        "log_probs_2": -26.798095703125
+    },
+    {
+        "id": 62,
+        "prompt": "The city has unveiled a new plan to",
+        "completion_1": "revitalize the declining downtown business district.",
+        "completion_2": "overhaul its entire public recycling program.",
+        "log_probs_1": -28.70068359375,
+        "log_probs_2": -35.39453125
+    },
+    {
+        "id": 63,
+        "prompt": "The union has voted to",
+        "completion_1": "accept the latest contract offer from management.",
+        "completion_2": "go on strike after negotiations failed.",
+        "log_probs_1": -22.134765625,
+        "log_probs_2": -23.37890625
+    },
+    {
+        "id": 64,
+        "prompt": "A new species of",
+        "completion_1": "deep-sea jellyfish that glows in the dark has been discovered.",
+        "completion_2": "dinosaur has been identified from fossils found in Argentina.",
+        "log_probs_1": -20.754391193389893,
+        "log_probs_2": -30.9488525390625
+    },
+    {
+        "id": 65,
+        "prompt": "The long-awaited report on the",
+        "completion_1": "government's handling of the pandemic was finally released.",
+        "completion_2": "environmental impact of the proposed new dam has been published.",
+        "log_probs_1": -22.842723846435547,
+        "log_probs_2": -22.845947265625
+    },
+    {
+        "id": 66,
+        "prompt": "The fashion designer's new collection",
+        "completion_1": "was inspired by 1970s disco and glamour.",
+        "completion_2": "is made entirely from recycled and sustainable materials.",
+        "log_probs_1": -18.664146423339844,
+        "log_probs_2": -18.39208984375
+    },
+    {
+        "id": 67,
+        "prompt": "The smartphone maker is being criticized for",
+        "completion_1": "removing the headphone jack from its latest model.",
+        "completion_2": "its poor factory working conditions overseas.",
+        "log_probs_1": -20.445404052734375,
+        "log_probs_2": -35.428436279296875
+    },
+    {
+        "id": 68,
+        "prompt": "This year's wildfire season is",
+        "completion_1": "expected to be the most destructive on record.",
+        "completion_2": "surprisingly mild due to above-average rainfall.",
+        "log_probs_1": -14.145463943481445,
+        "log_probs_2": -31.6041259765625
+    },
+    {
+        "id": 69,
+        "prompt": "The famous actor was spotted",
+        "completion_1": "scouting locations for their upcoming directorial debut.",
+        "completion_2": "volunteering at a local animal shelter.",
+        "log_probs_1": -28.779296875,
+        "log_probs_2": -14.3779296875
+    },
+    {
+        "id": 70,
+        "prompt": "New research suggests that",
+        "completion_1": "a daily nap can significantly improve memory recall.",
+        "completion_2": "social media use is directly linked to increased anxiety.",
+        "log_probs_1": -35.7998046875,
+        "log_probs_2": -29.405975341796875
+    },
+    {
+        "id": 71,
+        "prompt": "The national election results",
+        "completion_1": "have been delayed due to technical issues with voting machines.",
+        "completion_2": "indicate a clear victory for the incumbent party.",
+        "log_probs_1": -18.02564239501953,
+        "log_probs_2": -19.5601806640625
+    },
+    {
+        "id": 72,
+        "prompt": "A major change is coming to",
+        "completion_1": "the rules of international soccer, with a new offside law.",
+        "completion_2": "the way social security benefits are calculated.",
+        "log_probs_1": -41.5946044921875,
+        "log_probs_2": -20.84375
+    },
+    {
+        "id": 73,
+        "prompt": "The shipwreck, lost for centuries,",
+        "completion_1": "was found to be carrying a priceless cargo of gold coins.",
+        "completion_2": "was discovered by an amateur diver using new sonar tech.",
+        "log_probs_1": -31.11083984375,
+        "log_probs_2": -42.032066345214844
+    },
+    {
+        "id": 74,
+        "prompt": "The city's subway system is",
+        "completion_1": "finally getting a much-needed signal system upgrade.",
+        "completion_2": "facing massive service cuts due to a budget shortfall.",
+        "log_probs_1": -32.130126953125,
+        "log_probs_2": -32.254119873046875
+    },
+    {
+        "id": 75,
+        "prompt": "The band announced they are",
+        "completion_1": "going on a world tour to celebrate their 20th anniversary.",
+        "completion_2": "breaking up to pursue individual solo projects.",
+        "log_probs_1": -10.737228393554688,
+        "log_probs_2": -20.03857421875
+    },
+    {
+        "id": 76,
+        "prompt": "A study of the local deer population shows",
+        "completion_1": "a dramatic increase in numbers, leading to overgrazing.",
+        "completion_2": "the spread of a new, highly contagious disease.",
+        "log_probs_1": -35.563087463378906,
+        "log_probs_2": -32.59765625
+    },
+    {
+        "id": 77,
+        "prompt": "The tech billionaire has pledged to",
+        "completion_1": "donate the majority of their wealth to climate change initiatives.",
+        "completion_2": "personally fund a mission to build a colony on the Moon.",
+        "log_probs_1": -28.13812255859375,
+        "log_probs_2": -39.687255859375
+    },
+    {
+        "id": 78,
+        "prompt": "The new policy will require all federal employees to",
+        "completion_1": "be fully vaccinated against the flu.",
+        "completion_2": "undergo mandatory cybersecurity awareness training.",
+        "log_probs_1": -15.3232421875,
+        "log_probs_2": -23.9942626953125
+    },
+    {
+        "id": 79,
+        "prompt": "The captured spy has",
+        "completion_1": "agreed to reveal state secrets in exchange for immunity.",
+        "completion_2": "refused to cooperate with investigators during questioning.",
+        "log_probs_1": -26.733184814453125,
+        "log_probs_2": -28.27490234375
+    },
+    {
+        "id": 80,
+        "prompt": "The archaeological dig site has",
+        "completion_1": "yielded a perfectly preserved Roman mosaic.",
+        "completion_2": "been contaminated by a sudden flash flood.",
+        "log_probs_1": -29.212646484375,
+        "log_probs_2": -27.2418212890625
+    },
+    {
+        "id": 81,
+        "prompt": "The tech company's stock value soared after",
+        "completion_1": "it announced a major breakthrough in quantum computing.",
+        "completion_2": "it was acquired by a larger competitor for a record sum.",
+        "log_probs_1": -18.0283203125,
+        "log_probs_2": -28.883056640625
+    },
+    {
+        "id": 82,
+        "prompt": "The national park is warning visitors about",
+        "completion_1": "increased bear activity near popular hiking trails.",
+        "completion_2": "a new online reservation system for campsites.",
+        "log_probs_1": -20.0595703125,
+        "log_probs_2": -35.328041076660156
+    },
+    {
+        "id": 83,
+        "prompt": "The hospital is facing a critical shortage of",
+        "completion_1": "nurses and respiratory therapists.",
+        "completion_2": "type O negative blood.",
+        "log_probs_1": -14.97412109375,
+        "log_probs_2": -18.16162109375
+    },
+    {
+        "id": 84,
+        "prompt": "The government has opened an investigation into",
+        "completion_1": "the price-fixing practices of major grocery chains.",
+        "completion_2": "the recent unexplained spike in energy prices.",
+        "log_probs_1": -35.05669975280762,
+        "log_probs_2": -28.2650146484375
+    },
+    {
+        "id": 85,
+        "prompt": "The film's surprise ending",
+        "completion_1": "has been praised by critics as one of the best in years.",
+        "completion_2": "has divided audiences and sparked intense online debate.",
+        "log_probs_1": -31.931861877441406,
+        "log_probs_2": -23.96875
+    },
+    {
+        "id": 86,
+        "prompt": "The coastal town is preparing for",
+        "completion_1": "a direct hit from the approaching hurricane.",
+        "completion_2": "its annual seafood festival this weekend.",
+        "log_probs_1": -21.42578125,
+        "log_probs_2": -18.337646484375
+    },
+    {
+        "id": 87,
+        "prompt": "The company's new remote work policy",
+        "completion_1": "requires all employees to return to the office three days a week.",
+        "completion_2": "allows employees to work from anywhere in the world.",
+        "log_probs_1": -25.363128662109375,
+        "log_probs_2": -13.01983642578125
+    },
+    {
+        "id": 88,
+        "prompt": "A hacker group has claimed responsibility for",
+        "completion_1": "shutting down the nation's largest fuel pipeline.",
+        "completion_2": "leaking the personal data of millions of social media users.",
+        "log_probs_1": -37.069480895996094,
+        "log_probs_2": -24.880462646484375
+    },
+    {
+        "id": 89,
+        "prompt": "The lottery jackpot has climbed to",
+        "completion_1": "an estimated $1.2 billion, the largest in history.",
+        "completion_2": "a modest $50 million after a winner in the last drawing.",
+        "log_probs_1": -19.931640625,
+        "log_probs_2": -42.4853515625
+    },
+    {
+        "id": 90,
+        "prompt": "The volcanic eruption has",
+        "completion_1": "created a new island off the coast of Japan.",
+        "completion_2": "sent a massive ash cloud into the atmosphere, disrupting flights.",
+        "log_probs_1": -19.77337646484375,
+        "log_probs_2": -25.88287353515625
+    },
+    {
+        "id": 91,
+        "prompt": "The refugee crisis at the border",
+        "completion_1": "has prompted a major international humanitarian response.",
+        "completion_2": "has become a key issue in the upcoming election.",
+        "log_probs_1": -27.359375,
+        "log_probs_2": -29.8125
+    },
+    {
+        "id": 92,
+        "prompt": "The new dietary guidelines",
+        "completion_1": "recommend a significant reduction in sugar and red meat consumption.",
+        "completion_2": "have been criticized by nutritionists as being industry-influenced.",
+        "log_probs_1": -21.914794921875,
+        "log_probs_2": -46.522735595703125
+    },
+    {
+        "id": 93,
+        "prompt": "The search for the missing hiker",
+        "completion_1": "has been called off after five days with no new leads.",
+        "completion_2": "has entered a new phase with the arrival of specialized search dogs.",
+        "log_probs_1": -32.721435546875,
+        "log_probs_2": -47.759178161621094
+    },
+    {
+        "id": 94,
+        "prompt": "The high-speed rail project",
+        "completion_1": "has been approved, with construction set to begin next year.",
+        "completion_2": "has been cancelled due to massive cost overruns.",
+        "log_probs_1": -25.06451416015625,
+        "log_probs_2": -23.161556243896484
+    },
+    {
+        "id": 95,
+        "prompt": "The famous painting, which was stolen last year,",
+        "completion_1": "has been recovered in a private collection in Switzerland.",
+        "completion_2": "is now believed to have been destroyed by the thieves.",
+        "log_probs_1": -20.5126953125,
+        "log_probs_2": -34.2215576171875
+    },
+    {
+        "id": 96,
+        "prompt": "The energy company announced plans to",
+        "completion_1": "build a massive new offshore wind farm.",
+        "completion_2": "shut down its last remaining coal-fired power plant.",
+        "log_probs_1": -16.5916748046875,
+        "log_probs_2": -20.59185791015625
+    },
+    {
+        "id": 97,
+        "prompt": "The city's new water restrictions",
+        "completion_1": "will ban all outdoor watering, including car washing.",
+        "completion_2": "are the most lenient in the region, despite the drought.",
+        "log_probs_1": -37.640625,
+        "log_probs_2": -36.79150390625
+    },
+    {
+        "id": 98,
+        "prompt": "The royal family has",
+        "completion_1": "welcomed a new baby girl, fourth in line to the throne.",
+        "completion_2": "been hit with another public relations scandal.",
+        "log_probs_1": -30.31195068359375,
+        "log_probs_2": -30.400390625
+    },
+    {
+        "id": 99,
+        "prompt": "The food bank is appealing for donations as",
+        "completion_1": "its shelves are nearly empty ahead of the holidays.",
+        "completion_2": "it has seen a 50% increase in demand for its services.",
+        "log_probs_1": -22.9453125,
+        "log_probs_2": -22.46875
+    }
+]

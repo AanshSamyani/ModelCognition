@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "prompt": "The strange sound in the attic prompted him",
+        "completion_1": "to climb up and check the old storage boxes.",
+        "completion_2": "to listen carefully for another clue.",
+        "log_probs_1": -63.1015625,
+        "log_probs_2": -70.599609375
+    },
+    {
+        "id": 1,
+        "prompt": "She noticed the book on the shelf had been moved and",
+        "completion_1": "wondered if her roommate had borrowed it.",
+        "completion_2": "suspected she had simply forgotten where she put it.",
+        "log_probs_1": -51.02042543888092,
+        "log_probs_2": -82.10513830184937
+    },
+    {
+        "id": 2,
+        "prompt": "The heavy wooden door swung open, revealing",
+        "completion_1": "a dusty, forgotten hallway.",
+        "completion_2": "a brightly lit garden beyond.",
+        "log_probs_1": -51.62113881111145,
+        "log_probs_2": -57.097665309906006
+    },
+    {
+        "id": 3,
+        "prompt": "When the phone rang at midnight, he decided",
+        "completion_1": "to let it go to voicemail.",
+        "completion_2": "to answer it with a hesitant hello.",
+        "log_probs_1": -24.171926259994507,
+        "log_probs_2": -45.81591796875
+    },
+    {
+        "id": 4,
+        "prompt": "The old map found inside the bottle pointed",
+        "completion_1": "towards the lighthouse on the cliff.",
+        "completion_2": "to a spot buried deep in the backyard.",
+        "log_probs_1": -57.495758056640625,
+        "log_probs_2": -65.97747874259949
+    },
+    {
+        "id": 5,
+        "prompt": "Seeing the shadow pass by the window, she quickly",
+        "completion_1": "turned off the desk lamp.",
+        "completion_2": "stood up to see who was walking by.",
+        "log_probs_1": -50.53125619888306,
+        "log_probs_2": -48.26665735244751
+    },
+    {
+        "id": 6,
+        "prompt": "The letter had no return address, so he",
+        "completion_1": "held it up to the light to see through the envelope.",
+        "completion_2": "opened it carefully with a letter opener.",
+        "log_probs_1": -60.14903199672699,
+        "log_probs_2": -70.376962184906
+    },
+    {
+        "id": 7,
+        "prompt": "The lights in the hallway flickered because",
+        "completion_1": "the storm outside was getting worse.",
+        "completion_2": "the old wiring was acting up again.",
+        "log_probs_1": -44.85888671875,
+        "log_probs_2": -35.51564037799835
+    },
+    {
+        "id": 8,
+        "prompt": "She discovered a hidden compartment in the desk and",
+        "completion_1": "found a stack of old photographs.",
+        "completion_2": "reached inside to feel for a latch.",
+        "log_probs_1": -38.48554992675781,
+        "log_probs_2": -79.07785034179688
+    },
+    {
+        "id": 9,
+        "prompt": "The cat stared intensely at the empty corner, causing him",
+        "completion_1": "to check if there was a spider on the wall.",
+        "completion_2": "to laugh nervously and pick up the cat.",
+        "log_probs_1": -50.89271545410156,
+        "log_probs_2": -61.9775390625
+    },
+    {
+        "id": 10,
+        "prompt": "Upon unlocking the ancient chest, they found",
+        "completion_1": "nothing but dust and mothballs.",
+        "completion_2": "a collection of colorful silk scarves.",
+        "log_probs_1": -48.522462368011475,
+        "log_probs_2": -54.89062571525574
+    },
+    {
+        "id": 11,
+        "prompt": "The footprints in the mud led away from the path and",
+        "completion_1": "disappeared into the dense shrubbery.",
+        "completion_2": "circled back towards the main road.",
+        "log_probs_1": -36.94031488895416,
+        "log_probs_2": -60.75220489501953
+    },
+    {
+        "id": 12,
+        "prompt": "He felt a cold draft in the closed room and",
+        "completion_1": "checked to see if the window was unlatched.",
+        "completion_2": "pulled his jacket tighter around himself.",
+        "log_probs_1": -42.955568075180054,
+        "log_probs_2": -46.00274920463562
+    },
+    {
+        "id": 13,
+        "prompt": "The melody coming from the piano upstairs suggested",
+        "completion_1": "that his sister had come home early.",
+        "completion_2": "that the radio had been left on.",
+        "log_probs_1": -64.67430305480957,
+        "log_probs_2": -43.49574279785156
+    },
+    {
+        "id": 14,
+        "prompt": "Finding the front door unlocked, she assumed",
+        "completion_1": "her partner had arrived before her.",
+        "completion_2": "she had forgotten to turn the key that morning.",
+        "log_probs_1": -53.60156297683716,
+        "log_probs_2": -54.199219703674316
+    },
+    {
+        "id": 15,
+        "prompt": "The cryptic message on the computer screen made him",
+        "completion_1": "reboot the system immediately.",
+        "completion_2": "call technical support for help.",
+        "log_probs_1": -35.70660400390625,
+        "log_probs_2": -51.44531464576721
+    },
+    {
+        "id": 16,
+        "prompt": "As the fog rolled in, the distant lighthouse",
+        "completion_1": "disappeared completely from view.",
+        "completion_2": "began to flash a warning signal.",
+        "log_probs_1": -45.423704981803894,
+        "log_probs_2": -50.05515480041504
+    },
+    {
+        "id": 17,
+        "prompt": "She picked up the ringing payphone and heard",
+        "completion_1": "only the sound of static.",
+        "completion_2": "a recorded message playing on a loop.",
+        "log_probs_1": -46.5142822265625,
+        "log_probs_2": -47.048828125
+    },
+    {
+        "id": 18,
+        "prompt": "The painting in the gallery seemed to watch him, so he",
+        "completion_1": "stepped closer to inspect the brushwork.",
+        "completion_2": "moved to the other side of the room.",
+        "log_probs_1": -57.40645694732666,
+        "log_probs_2": -34.58646523952484
+    },
+    {
+        "id": 19,
+        "prompt": "A sudden knock at the door interrupted",
+        "completion_1": "their quiet dinner conversation.",
+        "completion_2": "the movie they were watching.",
+        "log_probs_1": -29.255859375,
+        "log_probs_2": -39.11273193359375
+    },
+    {
+        "id": 20,
+        "prompt": "The strange object in the sky turned out to be",
+        "completion_1": "a weather balloon drifting off course.",
+        "completion_2": "a drone filming the landscape.",
+        "log_probs_1": -51.43383777141571,
+        "log_probs_2": -50.59375
+    },
+    {
+        "id": 21,
+        "prompt": "He realized his keys were missing and thought",
+        "completion_1": "he must have left them at the cafe.",
+        "completion_2": "they had fallen between the couch cushions.",
+        "log_probs_1": -42.39628314971924,
+        "log_probs_2": -64.31480896472931
+    },
+    {
+        "id": 22,
+        "prompt": "The secret passage behind the bookshelf led to",
+        "completion_1": "a small, dusty reading nook.",
+        "completion_2": "a narrow staircase going down.",
+        "log_probs_1": -66.87897062301636,
+        "log_probs_2": -45.246337890625
+    },
+    {
+        "id": 23,
+        "prompt": "When the music suddenly stopped, the dancers",
+        "completion_1": "looked around in confusion.",
+        "completion_2": "froze in their final poses.",
+        "log_probs_1": -32.2252197265625,
+        "log_probs_2": -40.604727387428284
+    },
+    {
+        "id": 24,
+        "prompt": "She saw a reflection in the mirror that looked like",
+        "completion_1": "someone walking past the open door.",
+        "completion_2": "a trick of the light from the window.",
+        "log_probs_1": -68.4554443359375,
+        "log_probs_2": -53.28134620189667
+    },
+    {
+        "id": 25,
+        "prompt": "The package on the porch was wrapped in brown paper and",
+        "completion_1": "felt surprisingly heavy.",
+        "completion_2": "had no return address label.",
+        "log_probs_1": -29.557342529296875,
+        "log_probs_2": -55.54695987701416
+    },
+    {
+        "id": 26,
+        "prompt": "Hearing a twig snap behind him, he turned and",
+        "completion_1": "saw a deer bounding away.",
+        "completion_2": "called out to see if anyone was there.",
+        "log_probs_1": -47.862797021865845,
+        "log_probs_2": -40.80523717403412
+    },
+    {
+        "id": 27,
+        "prompt": "The clock struck thirteen, indicating that",
+        "completion_1": "the mechanism was broken.",
+        "completion_2": "it was time to wind it again.",
+        "log_probs_1": -29.519287109375,
+        "log_probs_2": -29.223661303520203
+    },
+    {
+        "id": 28,
+        "prompt": "She found an unfamiliar earring on the floor and",
+        "completion_1": "placed it on the mantelpiece.",
+        "completion_2": "wondered who had visited recently.",
+        "log_probs_1": -46.533703684806824,
+        "log_probs_2": -55.746360540390015
+    },
+    {
+        "id": 29,
+        "prompt": "The old diary ended abruptly with a sentence about",
+        "completion_1": "a hidden treasure in the garden.",
+        "completion_2": "an unexpected visitor arriving soon.",
+        "log_probs_1": -52.98438620567322,
+        "log_probs_2": -50.84716796875
+    },
+    {
+        "id": 30,
+        "prompt": "As the elevator stalled between floors, he",
+        "completion_1": "pressed the emergency button calmly.",
+        "completion_2": "sighed and checked his watch.",
+        "log_probs_1": -46.82836937904358,
+        "log_probs_2": -52.68766248226166
+    },
+    {
+        "id": 31,
+        "prompt": "The flickering candle cast shadows that appeared to",
+        "completion_1": "dance along the walls.",
+        "completion_2": "form strange shapes on the ceiling.",
+        "log_probs_1": -30.54687786102295,
+        "log_probs_2": -60.85292053222656
+    },
+    {
+        "id": 32,
+        "prompt": "He noticed the car following him had turned, so he",
+        "completion_1": "continued on his way relieved.",
+        "completion_2": "pulled over to check his GPS.",
+        "log_probs_1": -50.90640926361084,
+        "log_probs_2": -49.22597789764404
+    },
+    {
+        "id": 33,
+        "prompt": "The whisper in the library turned out to be",
+        "completion_1": "the ventilation system humming.",
+        "completion_2": "two students studying in the corner.",
+        "log_probs_1": -42.390631318092346,
+        "log_probs_2": -60.8115234375
+    },
+    {
+        "id": 34,
+        "prompt": "She opened the locket and discovered",
+        "completion_1": "a tiny, faded portrait.",
+        "completion_2": "a lock of blonde hair.",
+        "log_probs_1": -47.9977445602417,
+        "log_probs_2": -44.750004172325134
+    },
+    {
+        "id": 35,
+        "prompt": "The sudden silence in the forest made him",
+        "completion_1": "stop walking and listen intently.",
+        "completion_2": "hurry his pace towards the cabin.",
+        "log_probs_1": -37.939388394355774,
+        "log_probs_2": -51.50830078125
+    },
+    {
+        "id": 36,
+        "prompt": "The gate to the abandoned park was open, suggesting",
+        "completion_1": "someone had been there recently.",
+        "completion_2": "the wind had blown it unlatched.",
+        "log_probs_1": -40.00058090686798,
+        "log_probs_2": -48.23172187805176
+    },
+    {
+        "id": 37,
+        "prompt": "He found a strange coin on the sidewalk and",
+        "completion_1": "put it in his pocket for luck.",
+        "completion_2": "examined the foreign markings closely.",
+        "log_probs_1": -45.68751525878906,
+        "log_probs_2": -52.48245310783386
+    },
+    {
+        "id": 38,
+        "prompt": "The message in the bottle was written in",
+        "completion_1": "a language she didn't recognize.",
+        "completion_2": "fading blue ink.",
+        "log_probs_1": -32.00732421875,
+        "log_probs_2": -37.32818102836609
+    },
+    {
+        "id": 39,
+        "prompt": "When the lights went out, everyone in the room",
+        "completion_1": "gasped in surprise.",
+        "completion_2": "pulled out their phones for light.",
+        "log_probs_1": -27.78271508216858,
+        "log_probs_2": -42.00415050983429
+    },
+    {
+        "id": 40,
+        "prompt": "The mysterious ingredient in the soup tasted like",
+        "completion_1": "a rare exotic spice.",
+        "completion_2": "something sweet and familiar.",
+        "log_probs_1": -38.54151916503906,
+        "log_probs_2": -41.216796875
+    },
+    {
+        "id": 41,
+        "prompt": "She noticed the painting was crooked and",
+        "completion_1": "reached up to straighten it.",
+        "completion_2": "stepped back to look at it.",
+        "log_probs_1": -25.2930109500885,
+        "log_probs_2": -51.75130522251129
+    },
+    {
+        "id": 42,
+        "prompt": "The rustling in the bushes was caused by",
+        "completion_1": "a stray cat hunting for food.",
+        "completion_2": "the strong evening breeze.",
+        "log_probs_1": -43.40687942504883,
+        "log_probs_2": -51.859375
+    },
+    {
+        "id": 43,
+        "prompt": "He discovered a loose floorboard and",
+        "completion_1": "pried it open with a tool.",
+        "completion_2": "made a note to fix it later.",
+        "log_probs_1": -47.421875,
+        "log_probs_2": -37.789079785346985
+    },
+    {
+        "id": 44,
+        "prompt": "The unexpected email contained",
+        "completion_1": "an invitation to a reunion.",
+        "completion_2": "a strange attachment.",
+        "log_probs_1": -32.986083984375,
+        "log_probs_2": -31.736572265625
+    },
+    {
+        "id": 45,
+        "prompt": "She felt someone watching her, so she",
+        "completion_1": "glanced over her shoulder.",
+        "completion_2": "walked a little faster.",
+        "log_probs_1": -31.272953033447266,
+        "log_probs_2": -34.06490349769592
+    },
+    {
+        "id": 46,
+        "prompt": "The old radio suddenly turned on and played",
+        "completion_1": "a burst of loud static.",
+        "completion_2": "a classic jazz tune.",
+        "log_probs_1": -53.6953125,
+        "log_probs_2": -32.9853515625
+    },
+    {
+        "id": 47,
+        "prompt": "He found a glove on the bench and",
+        "completion_1": "looked around for its owner.",
+        "completion_2": "left it there for someone to find.",
+        "log_probs_1": -39.05803632736206,
+        "log_probs_2": -44.83221435546875
+    },
+    {
+        "id": 48,
+        "prompt": "The code on the safe was set to",
+        "completion_1": "a birthday date.",
+        "completion_2": "a sequence of zeros.",
+        "log_probs_1": -39.84375,
+        "log_probs_2": -42.40632486343384
+    },
+    {
+        "id": 49,
+        "prompt": "As the train entered the tunnel, the lights",
+        "completion_1": "flickered and dimmed.",
+        "completion_2": "went out completely for a moment.",
+        "log_probs_1": -27.583420515060425,
+        "log_probs_2": -49.0156706571579
+    },
+    {
+        "id": 50,
+        "prompt": "The unfamiliar key on her keychain likely belonged to",
+        "completion_1": "her old office door.",
+        "completion_2": "a neighbor's house she watched.",
+        "log_probs_1": -47.400390625,
+        "log_probs_2": -62.5018310546875
+    },
+    {
+        "id": 51,
+        "prompt": "He heard footsteps upstairs and remembered",
+        "completion_1": "he wasn't alone in the house.",
+        "completion_2": "the floorboards were creaky.",
+        "log_probs_1": -18.887543082237244,
+        "log_probs_2": -42.250101804733276
+    },
+    {
+        "id": 52,
+        "prompt": "The shadow in the photograph looked like",
+        "completion_1": "a person standing in the background.",
+        "completion_2": "a smudge on the camera lens.",
+        "log_probs_1": -36.029446601867676,
+        "log_probs_2": -36.50481879711151
+    },
+    {
+        "id": 53,
+        "prompt": "She opened the old suitcase and smelled",
+        "completion_1": "mothballs and lavender.",
+        "completion_2": "dust and old paper.",
+        "log_probs_1": -45.51660239696503,
+        "log_probs_2": -56.5625
+    },
+    {
+        "id": 54,
+        "prompt": "The dog barked at the empty street, alerting him",
+        "completion_1": "to a squirrel in the tree.",
+        "completion_2": "to a car driving by slowly.",
+        "log_probs_1": -40.10546875,
+        "log_probs_2": -50.93359375
+    },
+    {
+        "id": 55,
+        "prompt": "The encrypted file on the drive was named",
+        "completion_1": "Project Alpha.",
+        "completion_2": "Do Not Open.",
+        "log_probs_1": -41.75,
+        "log_probs_2": -32.06251120567322
+    },
+    {
+        "id": 56,
+        "prompt": "He spotted a light in the abandoned tower and",
+        "completion_1": "wondered if squatters had moved in.",
+        "completion_2": "thought it was a reflection of the moon.",
+        "log_probs_1": -51.096075654029846,
+        "log_probs_2": -38.56358337402344
+    },
+    {
+        "id": 57,
+        "prompt": "The note under the door simply said",
+        "completion_1": "meet me at noon.",
+        "completion_2": "check the mailbox.",
+        "log_probs_1": -50.90771484375,
+        "log_probs_2": -35.0
+    },
+    {
+        "id": 58,
+        "prompt": "She touched the cold wall and felt",
+        "completion_1": "a slight vibration.",
+        "completion_2": "a draft coming through a crack.",
+        "log_probs_1": -28.91015625,
+        "log_probs_2": -51.61328125
+    },
+    {
+        "id": 59,
+        "prompt": "The computer turned on by itself, likely due to",
+        "completion_1": "a scheduled update.",
+        "completion_2": "a power surge.",
+        "log_probs_1": -36.623046875,
+        "log_probs_2": -31.889965057373047
+    },
+    {
+        "id": 60,
+        "prompt": "He found a torn piece of a map that showed",
+        "completion_1": "part of the coastline.",
+        "completion_2": "a route through the city.",
+        "log_probs_1": -40.933608531951904,
+        "log_probs_2": -56.773193359375
+    },
+    {
+        "id": 61,
+        "prompt": "The strange artifact in the museum was rumored to",
+        "completion_1": "bring bad luck to its owners.",
+        "completion_2": "have come from a lost civilization.",
+        "log_probs_1": -54.69440460205078,
+        "log_probs_2": -40.9834064245224
+    },
+    {
+        "id": 62,
+        "prompt": "As she walked through the fog, she heard",
+        "completion_1": "the sound of waves crashing.",
+        "completion_2": "a distant bell tolling.",
+        "log_probs_1": -41.908203125,
+        "log_probs_2": -44.2861328125
+    },
+    {
+        "id": 63,
+        "prompt": "The lock on the diary was broken, meaning",
+        "completion_1": "someone had read it.",
+        "completion_2": "it was just old and rusty.",
+        "log_probs_1": -36.890625,
+        "log_probs_2": -57.30224609375
+    },
+    {
+        "id": 64,
+        "prompt": "He saw a figure in the distance and",
+        "completion_1": "waved to get their attention.",
+        "completion_2": "squinted to see who it was.",
+        "log_probs_1": -41.5203857421875,
+        "log_probs_2": -45.29846239089966
+    },
+    {
+        "id": 65,
+        "prompt": "The strange symbol on the wall was painted in",
+        "completion_1": "bright red paint.",
+        "completion_2": "chalk that was fading.",
+        "log_probs_1": -27.1015625,
+        "log_probs_2": -51.6875
+    },
+    {
+        "id": 66,
+        "prompt": "She heard a voice call her name, but",
+        "completion_1": "no one was there when she turned.",
+        "completion_2": "she realized she was wearing headphones.",
+        "log_probs_1": -47.080286622047424,
+        "log_probs_2": -64.70312535762787
+    },
+    {
+        "id": 67,
+        "prompt": "The hidden drawer contained only",
+        "completion_1": "a single, silver key.",
+        "completion_2": "a blank notebook.",
+        "log_probs_1": -35.24219036102295,
+        "log_probs_2": -47.8828125
+    },
+    {
+        "id": 68,
+        "prompt": "The car engine stalled, leaving them",
+        "completion_1": "stranded on a quiet road.",
+        "completion_2": "sitting in silence for a moment.",
+        "log_probs_1": -44.9814453125,
+        "log_probs_2": -46.18133354187012
+    },
+    {
+        "id": 69,
+        "prompt": "He noticed the window was open and",
+        "completion_1": "went to close it against the cold.",
+        "completion_2": "wondered if he had opened it earlier.",
+        "log_probs_1": -59.378631949424744,
+        "log_probs_2": -64.38177394866943
+    },
+    {
+        "id": 70,
+        "prompt": "The old photograph showed a house that",
+        "completion_1": "looked exactly like his own.",
+        "completion_2": "he didn't recognize at all.",
+        "log_probs_1": -66.703125,
+        "log_probs_2": -53.75007724761963
+    },
+    {
+        "id": 71,
+        "prompt": "She found a ring in the grass and",
+        "completion_1": "looked for an inscription inside.",
+        "completion_2": "put it in her pocket.",
+        "log_probs_1": -58.0224609375,
+        "log_probs_2": -36.68750035762787
+    },
+    {
+        "id": 72,
+        "prompt": "The sudden drop in temperature made him",
+        "completion_1": "check the thermostat.",
+        "completion_2": "shiver involuntarily.",
+        "log_probs_1": -34.48370361328125,
+        "log_probs_2": -18.67114293575287
+    },
+    {
+        "id": 73,
+        "prompt": "The footsteps in the hall stopped right outside",
+        "completion_1": "her bedroom door.",
+        "completion_2": "the bathroom.",
+        "log_probs_1": -24.6688232421875,
+        "log_probs_2": -40.65625
+    },
+    {
+        "id": 74,
+        "prompt": "He received a package he didn't order containing",
+        "completion_1": "a book on cryptography.",
+        "completion_2": "a set of high-quality pens.",
+        "log_probs_1": -46.25,
+        "log_probs_2": -52.359375
+    },
+    {
+        "id": 75,
+        "prompt": "The light in the basement was on, so she",
+        "completion_1": "called out to see who was there.",
+        "completion_2": "went down to turn it off.",
+        "log_probs_1": -38.97723627090454,
+        "log_probs_2": -36.570313930511475
+    },
+    {
+        "id": 76,
+        "prompt": "The strange markings on the tree looked like",
+        "completion_1": "a trail blaze for hikers.",
+        "completion_2": "some kind of ancient rune.",
+        "log_probs_1": -67.53125,
+        "log_probs_2": -38.7764892578125
+    },
+    {
+        "id": 77,
+        "prompt": "He heard a splash in the pond and",
+        "completion_1": "saw ripples spreading on the water.",
+        "completion_2": "assumed a frog had jumped in.",
+        "log_probs_1": -51.45369100570679,
+        "log_probs_2": -47.67415261268616
+    },
+    {
+        "id": 78,
+        "prompt": "The door handle turned slowly, revealing",
+        "completion_1": "his little brother grinning.",
+        "completion_2": "the cat trying to get in.",
+        "log_probs_1": -73.48437583446503,
+        "log_probs_2": -52.2564697265625
+    },
+    {
+        "id": 79,
+        "prompt": "She found a forgotten letter in her coat pocket that",
+        "completion_1": "she had meant to mail weeks ago.",
+        "completion_2": "was addressed to someone else.",
+        "log_probs_1": -35.11231291294098,
+        "log_probs_2": -48.62733459472656
+    },
+    {
+        "id": 80,
+        "prompt": "The noise in the attic sounded like",
+        "completion_1": "footsteps pacing back and forth.",
+        "completion_2": "a heavy object falling.",
+        "log_probs_1": -33.26037609577179,
+        "log_probs_2": -37.765625
+    },
+    {
+        "id": 81,
+        "prompt": "He saw a light flash in the abandoned house and",
+        "completion_1": "decided to investigate closer.",
+        "completion_2": "called the police non-emergency line.",
+        "log_probs_1": -46.64062690734863,
+        "log_probs_2": -57.7857723236084
+    },
+    {
+        "id": 82,
+        "prompt": "The old book fell open to a page with",
+        "completion_1": "a pressed flower inside.",
+        "completion_2": "several underlined passages.",
+        "log_probs_1": -48.7666015625,
+        "log_probs_2": -50.53913152217865
+    },
+    {
+        "id": 83,
+        "prompt": "She noticed a car parked across the street that",
+        "completion_1": "had been there for hours.",
+        "completion_2": "looked very similar to hers.",
+        "log_probs_1": -32.2938232421875,
+        "log_probs_2": -59.65625011920929
+    },
+    {
+        "id": 84,
+        "prompt": "The wind howled, making the windows",
+        "completion_1": "rattle in their frames.",
+        "completion_2": "whistle with a high pitch.",
+        "log_probs_1": -23.297959446907043,
+        "log_probs_2": -65.289794921875
+    },
+    {
+        "id": 85,
+        "prompt": "He found a key taped under the desk and",
+        "completion_1": "wondered what it unlocked.",
+        "completion_2": "left it where it was.",
+        "log_probs_1": -30.93057930469513,
+        "log_probs_2": -34.14935767650604
+    },
+    {
+        "id": 86,
+        "prompt": "The shadow on the wall moved, causing her to",
+        "completion_1": "jump in surprise.",
+        "completion_2": "realize it was just a tree branch.",
+        "log_probs_1": -20.95355224609375,
+        "log_probs_2": -66.41446113586426
+    },
+    {
+        "id": 87,
+        "prompt": "The phone displayed a number that was",
+        "completion_1": "blocked from view.",
+        "completion_2": "from an unknown area code.",
+        "log_probs_1": -41.5,
+        "log_probs_2": -38.819981813430786
+    },
+    {
+        "id": 88,
+        "prompt": "She heard a scratching sound at the door and",
+        "completion_1": "opened it to find a stray dog.",
+        "completion_2": "looked through the peephole.",
+        "log_probs_1": -45.34782600402832,
+        "log_probs_2": -48.937503933906555
+    },
+    {
+        "id": 89,
+        "prompt": "The message on the mirror was written in",
+        "completion_1": "steam from the shower.",
+        "completion_2": "red lipstick.",
+        "log_probs_1": -41.66845703125,
+        "log_probs_2": -8.664107322692871
+    },
+    {
+        "id": 90,
+        "prompt": "He felt something brush against his leg and",
+        "completion_1": "looked down to see the cat.",
+        "completion_2": "jumped away quickly.",
+        "log_probs_1": -37.34375822544098,
+        "log_probs_2": -37.68359375
+    },
+    {
+        "id": 91,
+        "prompt": "The light bulb flickered and then",
+        "completion_1": "went out completely.",
+        "completion_2": "burned steadily again.",
+        "log_probs_1": -26.7109854221344,
+        "log_probs_2": -40.8750958442688
+    },
+    {
+        "id": 92,
+        "prompt": "She found a hidden switch on the wall and",
+        "completion_1": "flipped it to see what happened.",
+        "completion_2": "hesitated before touching it.",
+        "log_probs_1": -47.718828201293945,
+        "log_probs_2": -64.51236724853516
+    },
+    {
+        "id": 93,
+        "prompt": "The music from the neighbor's house was",
+        "completion_1": "louder than usual.",
+        "completion_2": "a song he hadn't heard in years.",
+        "log_probs_1": -22.75147819519043,
+        "log_probs_2": -48.70948791503906
+    },
+    {
+        "id": 94,
+        "prompt": "He noticed the painting had been swapped with",
+        "completion_1": "a clever forgery.",
+        "completion_2": "a similar looking print.",
+        "log_probs_1": -28.3057861328125,
+        "log_probs_2": -49.125
+    },
+    {
+        "id": 95,
+        "prompt": "The strange device on the table started to",
+        "completion_1": "beep rhythmically.",
+        "completion_2": "emit a soft blue light.",
+        "log_probs_1": -43.93775761127472,
+        "log_probs_2": -37.640625
+    },
+    {
+        "id": 96,
+        "prompt": "She saw a footprint in the dust that",
+        "completion_1": "was too large to be hers.",
+        "completion_2": "matched her own shoes.",
+        "log_probs_1": -36.5478401184082,
+        "log_probs_2": -36.265625
+    },
+    {
+        "id": 97,
+        "prompt": "The old clock chimed an hour that",
+        "completion_1": "didn't match the time on her watch.",
+        "completion_2": "startled everyone in the room.",
+        "log_probs_1": -29.738281726837158,
+        "log_probs_2": -30.576156735420227
+    },
+    {
+        "id": 98,
+        "prompt": "He found a diary with the last entry dated",
+        "completion_1": "fifty years ago.",
+        "completion_2": "yesterday.",
+        "log_probs_1": -36.470489621162415,
+        "log_probs_2": -30.250017166137695
+    },
+    {
+        "id": 99,
+        "prompt": "The final piece of the puzzle was",
+        "completion_1": "missing from the box.",
+        "completion_2": "found under the rug.",
+        "log_probs_1": -34.6451416015625,
+        "log_probs_2": -57.31313705444336
+    }
+]

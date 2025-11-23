@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "prompt": "Sarah arrived early to the meeting",
+        "completion_1": "to review her notes one more time.",
+        "completion_2": "to avoid any unexpected delays.",
+        "log_probs_1": -19.6439208984375,
+        "log_probs_2": -16.34375
+    },
+    {
+        "id": 1,
+        "prompt": "Mark cleared his throat",
+        "completion_1": "to get everyone's attention.",
+        "completion_2": "to cover his sudden nervousness.",
+        "log_probs_1": -5.912823677062988,
+        "log_probs_2": -23.26171875
+    },
+    {
+        "id": 2,
+        "prompt": "Lisa checked her phone again",
+        "completion_1": "waiting for an important email.",
+        "completion_2": "to avoid making eye contact.",
+        "log_probs_1": -18.845703125,
+        "log_probs_2": -25.875282287597656
+    },
+    {
+        "id": 3,
+        "prompt": "David double-checked the lock on the door",
+        "completion_1": "because he had a habit of being careful.",
+        "completion_2": "because he heard a strange noise outside.",
+        "log_probs_1": -19.193389892578125,
+        "log_probs_2": -19.0592041015625
+    },
+    {
+        "id": 4,
+        "prompt": "She bought the expensive flowers",
+        "completion_1": "as a peace offering after their fight.",
+        "completion_2": "to treat herself after a difficult week.",
+        "log_probs_1": -27.55419921875,
+        "log_probs_2": -26.93359375
+    },
+    {
+        "id": 5,
+        "prompt": "He closed the laptop abruptly",
+        "completion_1": "frustrated with the lack of progress.",
+        "completion_2": "to hide his screen from his approaching boss.",
+        "log_probs_1": -21.31329345703125,
+        "log_probs_2": -34.61328125
+    },
+    {
+        "id": 6,
+        "prompt": "Maria volunteered for the extra project",
+        "completion_1": "hoping to impress her manager.",
+        "completion_2": "because she had a genuine passion for the topic.",
+        "log_probs_1": -28.302459716796875,
+        "log_probs_2": -22.06298828125
+    },
+    {
+        "id": 7,
+        "prompt": "Tom changed the subject",
+        "completion_1": "to avoid an awkward argument.",
+        "completion_2": "to share some exciting new information.",
+        "log_probs_1": -23.578125,
+        "log_probs_2": -25.015625
+    },
+    {
+        "id": 8,
+        "prompt": "She offered him her umbrella",
+        "completion_1": "out of genuine kindness.",
+        "completion_2": "hoping to start a conversation.",
+        "log_probs_1": -21.314453125,
+        "log_probs_2": -24.8953857421875
+    },
+    {
+        "id": 9,
+        "prompt": "He glanced back over his shoulder",
+        "completion_1": "worried he was being followed.",
+        "completion_2": "hoping to catch one last look at her.",
+        "log_probs_1": -23.5184326171875,
+        "log_probs_2": -32.73419952392578
+    },
+    {
+        "id": 10,
+        "prompt": "Kevin laughed loudly at the joke",
+        "completion_1": "because he genuinely found it hilarious.",
+        "completion_2": "because his boss was the one who told it.",
+        "log_probs_1": -16.1279296875,
+        "log_probs_2": -27.43310546875
+    },
+    {
+        "id": 11,
+        "prompt": "She kept the old, worn photograph",
+        "completion_1": "as a reminder of a happy memory.",
+        "completion_2": "as a promise to never forget her mistake.",
+        "log_probs_1": -16.0338134765625,
+        "log_probs_2": -39.5166015625
+    },
+    {
+        "id": 12,
+        "prompt": "He offered to pay for dinner",
+        "completion_1": "as a kind gesture to celebrate their friendship.",
+        "completion_2": "feeling guilty about forgetting her birthday.",
+        "log_probs_1": -25.4173583984375,
+        "log_probs_2": -30.171875
+    },
+    {
+        "id": 13,
+        "prompt": "Emily paused at the doorway",
+        "completion_1": "gathering her thoughts before entering the room.",
+        "completion_2": "waiting to see if anyone else was inside.",
+        "log_probs_1": -19.873046875,
+        "log_probs_2": -17.98828125
+    },
+    {
+        "id": 14,
+        "prompt": "He deleted the text message he just typed",
+        "completion_1": "deciding it sounded too harsh.",
+        "completion_2": "realizing it was better to call instead.",
+        "log_probs_1": -32.71875,
+        "log_probs_2": -35.265625
+    },
+    {
+        "id": 15,
+        "prompt": "She declined the invitation to the party",
+        "completion_1": "because she was genuinely busy that night.",
+        "completion_2": "because she wanted to avoid seeing her ex.",
+        "log_probs_1": -19.423828125,
+        "log_probs_2": -25.703125
+    },
+    {
+        "id": 16,
+        "prompt": "Brian stared out the window",
+        "completion_1": "lost in thought about the upcoming deadline.",
+        "completion_2": "watching the birds at the feeder.",
+        "log_probs_1": -22.5753173828125,
+        "log_probs_2": -15.56005859375
+    },
+    {
+        "id": 17,
+        "prompt": "She organized her entire bookshelf",
+        "completion_1": "to procrastinate on a more difficult task.",
+        "completion_2": "to create a sense of order in her chaotic life.",
+        "log_probs_1": -37.77734375,
+        "log_probs_2": -33.721893310546875
+    },
+    {
+        "id": 18,
+        "prompt": "He wore his best suit to the interview",
+        "completion_1": "to make a professional first impression.",
+        "completion_2": "to boost his own flagging confidence.",
+        "log_probs_1": -18.875808715820312,
+        "log_probs_2": -31.810302734375
+    },
+    {
+        "id": 19,
+        "prompt": "Anna refilled her coffee cup",
+        "completion_1": "needing the caffeine to stay awake.",
+        "completion_2": "wanting an excuse to leave her desk.",
+        "log_probs_1": -33.71484375,
+        "log_probs_2": -32.544921875
+    },
+    {
+        "id": 20,
+        "prompt": "He left the meeting without saying goodbye",
+        "completion_1": "furious about the decision that was made.",
+        "completion_2": "suddenly remembering he was late for a call.",
+        "log_probs_1": -29.8857421875,
+        "log_probs_2": -38.8525390625
+    },
+    {
+        "id": 21,
+        "prompt": "She baked a cake from scratch",
+        "completion_1": "to surprise her best friend on her birthday.",
+        "completion_2": "to cope with her stress from work.",
+        "log_probs_1": -19.343292236328125,
+        "log_probs_2": -29.0546875
+    },
+    {
+        "id": 22,
+        "prompt": "Mike started jogging in the park every morning",
+        "completion_1": "to train for an upcoming 5K race.",
+        "completion_2": "on his doctor's urgent advice.",
+        "log_probs_1": -18.18206787109375,
+        "log_probs_2": -28.66375732421875
+    },
+    {
+        "id": 23,
+        "prompt": "She held her tongue during the argument",
+        "completion_1": "knowing it would only make things worse.",
+        "completion_2": "gathering evidence to use against him later.",
+        "log_probs_1": -20.986114501953125,
+        "log_probs_2": -32.759765625
+    },
+    {
+        "id": 24,
+        "prompt": "He took the longer, scenic route home",
+        "completion_1": "to enjoy the beautiful evening weather.",
+        "completion_2": "to delay having a difficult conversation.",
+        "log_probs_1": -21.59912109375,
+        "log_probs_2": -38.421875
+    },
+    {
+        "id": 25,
+        "prompt": "Rachel carefully inspected the antique vase",
+        "completion_1": "looking for any chips or cracks.",
+        "completion_2": "trying to guess its original price.",
+        "log_probs_1": -15.370849609375,
+        "log_probs_2": -27.30859375
+    },
+    {
+        "id": 26,
+        "prompt": "He agreed to help his neighbor move",
+        "completion_1": "because he was just a helpful person.",
+        "completion_2": "because he owed his neighbor a favor.",
+        "log_probs_1": -28.32421875,
+        "log_probs_2": -18.6884765625
+    },
+    {
+        "id": 27,
+        "prompt": "She turned up the music",
+        "completion_1": "to drown out the sound of the construction.",
+        "completion_2": "because it was her favorite song.",
+        "log_probs_1": -22.3243408203125,
+        "log_probs_2": -15.345703125
+    },
+    {
+        "id": 28,
+        "prompt": "The politician kissed the baby",
+        "completion_1": "for a perfect campaign photo opportunity.",
+        "completion_2": "because he genuinely adored children.",
+        "log_probs_1": -30.6875,
+        "log_probs_2": -25.49309539794922
+    },
+    {
+        "id": 29,
+        "prompt": "He put the book back on the shelf",
+        "completion_1": "deciding he wasn't interested in the topic.",
+        "completion_2": "realizing he didn't have enough money for it.",
+        "log_probs_1": -34.42335510253906,
+        "log_probs_2": -33.70730400085449
+    },
+    {
+        "id": 30,
+        "prompt": "She bit her lip",
+        "completion_1": "to stop herself from smiling.",
+        "completion_2": "to hold back an angry retort.",
+        "log_probs_1": -10.740478515625,
+        "log_probs_2": -16.015045166015625
+    },
+    {
+        "id": 31,
+        "prompt": "James practiced his speech in the mirror",
+        "completion_1": "to memorize the lines perfectly.",
+        "completion_2": "to build his confidence before the presentation.",
+        "log_probs_1": -22.917022705078125,
+        "log_probs_2": -18.873046875
+    },
+    {
+        "id": 32,
+        "prompt": "She gave the homeless man her leftovers",
+        "completion_1": "because she couldn't stand to see food waste.",
+        "completion_2": "because his sad expression moved her.",
+        "log_probs_1": -29.298895835876465,
+        "log_probs_2": -33.50244140625
+    },
+    {
+        "id": 33,
+        "prompt": "He read the email three times",
+        "completion_1": "unable to believe the good news.",
+        "completion_2": "searching for any hidden negative meaning.",
+        "log_probs_1": -34.90625,
+        "log_probs_2": -37.95068359375
+    },
+    {
+        "id": 34,
+        "prompt": "The child hid behind his mother's legs",
+        "completion_1": "feeling shy around the new visitor.",
+        "completion_2": "playing a game of peek-a-boo.",
+        "log_probs_1": -41.8125,
+        "log_probs_2": -18.436885833740234
+    },
+    {
+        "id": 35,
+        "prompt": "She re-read the final chapter",
+        "completion_1": "unwilling to let the story end.",
+        "completion_2": "to find clues she might have missed.",
+        "log_probs_1": -31.203125,
+        "log_probs_2": -28.14306640625
+    },
+    {
+        "id": 36,
+        "prompt": "He fixed the broken fence",
+        "completion_1": "to keep his dog from getting out.",
+        "completion_2": "to stop his annoying neighbor from complaining.",
+        "log_probs_1": -22.58203125,
+        "log_probs_2": -38.203125
+    },
+    {
+        "id": 37,
+        "prompt": "Olivia wrote down every word the professor said",
+        "completion_1": "determined to get a perfect grade.",
+        "completion_2": "genuinely fascinated by the lecture.",
+        "log_probs_1": -23.46875,
+        "log_probs_2": -28.013861656188965
+    },
+    {
+        "id": 38,
+        "prompt": "He polished the silver trophy",
+        "completion_1": "remembering the day he won it.",
+        "completion_2": "preparing it for the upcoming yard sale.",
+        "log_probs_1": -23.478515625,
+        "log_probs_2": -29.9833984375
+    },
+    {
+        "id": 39,
+        "prompt": "She stayed silent during the vote",
+        "completion_1": "because she was truly undecided.",
+        "completion_2": "because she was afraid to oppose the majority.",
+        "log_probs_1": -18.119140625,
+        "log_probs_2": -20.005859375
+    },
+    {
+        "id": 40,
+        "prompt": "Daniel checked his watch",
+        "completion_1": "anxious about being late.",
+        "completion_2": "bored with the current conversation.",
+        "log_probs_1": -24.1650390625,
+        "log_probs_2": -29.53125
+    },
+    {
+        "id": 41,
+        "prompt": "She learned to play the guitar",
+        "completion_1": "to join her friends' band.",
+        "completion_2": "to have a private creative outlet.",
+        "log_probs_1": -25.4453125,
+        "log_probs_2": -39.09375
+    },
+    {
+        "id": 42,
+        "prompt": "He watered the plant",
+        "completion_1": "following the schedule he had set.",
+        "completion_2": "noticing its leaves had started to droop.",
+        "log_probs_1": -23.1875,
+        "log_probs_2": -27.70513153076172
+    },
+    {
+        "id": 43,
+        "prompt": "She chose the seat in the back corner",
+        "completion_1": "so she could leave easily if needed.",
+        "completion_2": "so she could observe everyone else.",
+        "log_probs_1": -28.255859375,
+        "log_probs_2": -28.064453125
+    },
+    {
+        "id": 44,
+        "prompt": "He packed an extra sandwich",
+        "completion_1": "in case he got hungry later.",
+        "completion_2": "knowing his friend would forget his.",
+        "log_probs_1": -14.2734375,
+        "log_probs_2": -37.20703125
+    },
+    {
+        "id": 45,
+        "prompt": "Clara quickened her pace",
+        "completion_1": "excited to get home and see her family.",
+        "completion_2": "feeling the first drops of rain.",
+        "log_probs_1": -23.05224609375,
+        "log_probs_2": -31.830352783203125
+    },
+    {
+        "id": 46,
+        "prompt": "He offered her his jacket",
+        "completion_1": "noticing that she was shivering.",
+        "completion_2": "as a classic gentlemanly gesture.",
+        "log_probs_1": -19.723831176757812,
+        "log_probs_2": -24.57373046875
+    },
+    {
+        "id": 47,
+        "prompt": "She looked away first",
+        "completion_1": "feeling suddenly shy.",
+        "completion_2": "showing her complete disinterest.",
+        "log_probs_1": -19.8265380859375,
+        "log_probs_2": -28.279052734375
+    },
+    {
+        "id": 48,
+        "prompt": "He studied the map closely",
+        "completion_1": "planning the most efficient route.",
+        "completion_2": "looking for interesting places to stop.",
+        "log_probs_1": -17.2825927734375,
+        "log_probs_2": -28.8466796875
+    },
+    {
+        "id": 49,
+        "prompt": "She saved the last cookie",
+        "completion_1": "for her little brother.",
+        "completion_2": "for herself to enjoy later.",
+        "log_probs_1": -7.9052734375,
+        "log_probs_2": -24.42578125
+    },
+    {
+        "id": 50,
+        "prompt": "He didn't mention the promotion",
+        "completion_1": "because he didn't want to make his friend feel bad.",
+        "completion_2": "because he was saving the news for his family.",
+        "log_probs_1": -30.485673904418945,
+        "log_probs_2": -27.0
+    },
+    {
+        "id": 51,
+        "prompt": "Tears welled up in her eyes",
+        "completion_1": "as she read the heartfelt letter.",
+        "completion_2": "as she remembered his last words.",
+        "log_probs_1": -14.6021728515625,
+        "log_probs_2": -16.35546875
+    },
+    {
+        "id": 52,
+        "prompt": "He walked to the other side of the room",
+        "completion_1": "to get a better view of the painting.",
+        "completion_2": "to put distance between himself and Sarah.",
+        "log_probs_1": -12.19970703125,
+        "log_probs_2": -31.78662109375
+    },
+    {
+        "id": 53,
+        "prompt": "She picked up the fallen sign",
+        "completion_1": "so that nobody would trip over it.",
+        "completion_2": "to read what it said on the back.",
+        "log_probs_1": -25.31201171875,
+        "log_probs_2": -29.492919921875
+    },
+    {
+        "id": 54,
+        "prompt": "He spoke in a quiet voice",
+        "completion_1": "so as not to wake the sleeping baby.",
+        "completion_2": "to share a confidential secret.",
+        "log_probs_1": -21.24329376220703,
+        "log_probs_2": -20.0625
+    },
+    {
+        "id": 55,
+        "prompt": "She arrived with two minutes to spare",
+        "completion_1": "having timed her commute perfectly.",
+        "completion_2": "after sprinting the last three blocks.",
+        "log_probs_1": -27.3984375,
+        "log_probs_2": -28.628707885742188
+    },
+    {
+        "id": 56,
+        "prompt": "The teacher erased the blackboard",
+        "completion_1": "to prepare for the next lesson.",
+        "completion_2": "to give the students a short break.",
+        "log_probs_1": -18.08984375,
+        "log_probs_2": -22.96337890625
+    },
+    {
+        "id": 57,
+        "prompt": "He closed the curtains",
+        "completion_1": "to block the bright afternoon sun.",
+        "completion_2": "to ensure his privacy from neighbors.",
+        "log_probs_1": -17.4921875,
+        "log_probs_2": -30.7421875
+    },
+    {
+        "id": 58,
+        "prompt": "She set an extra place at the table",
+        "completion_1": "in case her son brought a friend home.",
+        "completion_2": "following an old tradition for lost loved ones.",
+        "log_probs_1": -33.7734375,
+        "log_probs_2": -43.4384765625
+    },
+    {
+        "id": 59,
+        "prompt": "He cut the conversation short",
+        "completion_1": "seeing his bus about to arrive.",
+        "completion_2": "growing tired of the pointless argument.",
+        "log_probs_1": -31.943603515625,
+        "log_probs_2": -24.05078125
+    },
+    {
+        "id": 60,
+        "prompt": "She started a garden in her backyard",
+        "completion_1": "to save money on groceries.",
+        "completion_2": "to have a relaxing new hobby.",
+        "log_probs_1": -15.00390625,
+        "log_probs_2": -27.123046875
+    },
+    {
+        "id": 61,
+        "prompt": "He joined the gym",
+        "completion_1": "to get in shape for the summer.",
+        "completion_2": "to meet new people in the city.",
+        "log_probs_1": -8.86962890625,
+        "log_probs_2": -18.59814453125
+    },
+    {
+        "id": 62,
+        "prompt": "She meticulously filed the documents",
+        "completion_1": "because she was incredibly organized.",
+        "completion_2": "because she was looking for a specific file.",
+        "log_probs_1": -20.56640625,
+        "log_probs_2": -25.650390625
+    },
+    {
+        "id_": 63,
+        "prompt": "He held the door open",
+        "completion_1": "waiting for the woman behind him.",
+        "completion_2": "letting the fresh air into the stuffy room.",
+        "log_probs_1": -18.2491455078125,
+        "log_probs_2": -30.910476684570312
+    },
+    {
+        "id": 64,
+        "prompt": "She took a deep breath",
+        "completion_1": "before diving into the cold water.",
+        "completion_2": "trying to calm her racing heart.",
+        "log_probs_1": -18.78515625,
+        "log_probs_2": -14.27783203125
+    },
+    {
+        "id": 65,
+        "prompt": "He bought a lottery ticket",
+        "completion_1": "on a whim as he bought gas.",
+        "completion_2": "desperate for a way out of his debt.",
+        "log_probs_1": -34.375,
+        "log_probs_2": -34.896484375
+    },
+    {
+        "id": 66,
+        "prompt": "She left a large tip",
+        "completion_1": "to reward the waiter's excellent service.",
+        "completion_2": "to impress the clients she was dining with.",
+        "log_probs_1": -18.2655029296875,
+        "log_probs_2": -38.26953125
+    },
+    {
+        "id": 67,
+        "prompt": "He turned down the job offer",
+        "completion_1": "because the salary was too low.",
+        "completion_2": "because he didn't like the team dynamic.",
+        "log_probs_1": -9.28125,
+        "log_probs_2": -21.732120513916016
+    },
+    {
+        "id": 68,
+        "prompt": "She gripped the steering wheel tightly",
+        "completion_1": "navigating the icy, winding road.",
+        "completion_2": "fuming about the argument she just had.",
+        "log_probs_1": -26.368896484375,
+        "log_probs_2": -32.84765625
+    },
+    {
+        "id": 69,
+        "prompt": "He tapped his fingers on the table",
+        "completion_1": "waiting impatiently for the meeting to start.",
+        "completion_2": "thinking through a complex problem.",
+        "log_probs_1": -14.590972900390625,
+        "log_probs_2": -19.81640625
+    },
+    {
+        "id": 70,
+        "prompt": "She copied her friend's notes",
+        "completion_1": "because she had missed the lecture.",
+        "completion_2": "because she didn't trust her own.",
+        "log_probs_1": -16.08984375,
+        "log_probs_2": -24.320427894592285
+    },
+    {
+        "id": 71,
+        "prompt": "He took a different route to work",
+        "completion_1": "to avoid the usual morning traffic.",
+        "completion_2": "to drive past his old apartment.",
+        "log_probs_1": -14.11572265625,
+        "log_probs_2": -22.921875
+    },
+    {
+        "id": 72,
+        "prompt": "She kept the broken mug",
+        "completion_1": "planning to glue it back together.",
+        "completion_2": "as it was a gift from her late grandmother.",
+        "log_probs_1": -24.072265625,
+        "log_probs_2": -19.5888671875
+    },
+    {
+        "id": 73,
+        "prompt": "He adopted the stray dog",
+        "completion_1": "because his kids begged him for it.",
+        "completion_2": "because he felt lonely in his new house.",
+        "log_probs_1": -28.5283203125,
+        "log_probs_2": -25.75
+    },
+    {
+        "id": 74,
+        "prompt": "She didn't answer the phone call",
+        "completion_1": "recognizing it was a spam number.",
+        "completion_2": "not feeling ready to talk to her mother.",
+        "log_probs_1": -25.8974609375,
+        "log_probs_2": -31.607421875
+    },
+    {
+        "id": 75,
+        "prompt": "He stayed up all night",
+        "completion_1": "finishing his term paper.",
+        "completion_2": "worrying about the next day's surgery.",
+        "log_probs_1": -14.36669921875,
+        "log_probs_2": -18.656951904296875
+    },
+    {
+        "id": 76,
+        "prompt": "She pretended not to notice him",
+        "completion_1": "angry about what he did.",
+        "completion_2": "embarrassed by her own appearance.",
+        "log_probs_1": -28.125,
+        "log_probs_2": -24.8583984375
+    },
+    {
+        "id": 77,
+        "prompt": "He read the story to his daughter",
+        "completion_1": "as part of their nightly routine.",
+        "completion_2": "to avoid talking about her bad day at school.",
+        "log_probs_1": -23.170379638671875,
+        "log_probs_2": -38.64501953125
+    },
+    {
+        "id": 78,
+        "prompt": "She shared her lunch",
+        "completion_1": "with a colleague who forgot theirs.",
+        "completion_2": "because she was on a diet anyway.",
+        "log_probs_1": -25.3125,
+        "log_probs_2": -23.19140625
+    },
+    {
+        "id": 79,
+        "prompt": "He practiced the song again",
+        "completion_1": "trying to hit the high note perfectly.",
+        "completion_2": "using the music to calm his anxiety.",
+        "log_probs_1": -20.35888671875,
+        "log_probs_2": -24.47705078125
+    },
+    {
+        "id": 80,
+        "prompt": "She moved her queen",
+        "completion_1": "to set up a powerful attack.",
+        "completion_2": "realizing it was in immediate danger.",
+        "log_probs_1": -32.578125,
+        "log_probs_2": -31.826171875
+    },
+    {
+        "id": 81,
+        "prompt": "He looked at his own reflection",
+        "completion_1": "to make sure his hair was neat.",
+        "completion_2": "wondering who he had become.",
+        "log_probs_1": -22.042724609375,
+        "log_probs_2": -18.7216796875
+    },
+    {
+        "id": 82,
+        "prompt": "She went for a long walk",
+        "completion_1": "to clear her head after the fight.",
+        "completion_2": "to reach her daily step goal.",
+        "log_probs_1": -19.800506591796875,
+        "log_probs_2": -35.22265625
+    },
+    {
+        "id": 83,
+        "prompt": "He told a self-deprecating joke",
+        "completion_1": "to make the nervous intern feel more comfortable.",
+        "completion_2": "to hide his own deep-seated insecurities.",
+        "log_probs_1": -38.6875,
+        "log_probs_2": -32.82089042663574
+    },
+    {
+        "id": 84,
+        "prompt": "She ordered the salad",
+        "completion_1": "because she was trying to eat healthier.",
+        "completion_2": "because everyone else at the table did.",
+        "log_probs_1": -17.01611328125,
+        "log_probs_2": -25.7353515625
+    },
+    {
+        "id": 85,
+        "prompt": "He put his phone on silent",
+        "completion_1": "as he entered the movie theater.",
+        "completion_2": "to ignore the calls from his boss.",
+        "log_probs_1": -18.48095703125,
+        "log_probs_2": -21.365234375
+    },
+    {
+        "id": 86,
+        "prompt": "She bought a ticket to Paris",
+        "completion_1": "to celebrate her college graduation.",
+        "completion_2": "to get as far away from her ex as possible.",
+        "log_probs_1": -14.39697265625,
+        "log_probs_2": -28.32666015625
+    },
+    {
+        "id": 87,
+        "prompt": "He kept his hands in his pockets",
+        "completion_1": "to keep them warm on the cold day.",
+        "completion_2": "to conceal his trembling fingers.",
+        "log_probs_1": -19.9189453125,
+        "log_probs_2": -19.73046875
+    },
+    {
+        "id": 88,
+        "prompt": "She paused the movie",
+        "completion_1": "to go and get a snack from the kitchen.",
+        "completion_2": "to ask him a question about the plot.",
+        "log_probs_1": -19.64013671875,
+        "log_probs_2": -23.627197265625
+    },
+    {
+        "id": 89,
+        "prompt": "He began to whistle a simple tune",
+        "completion_1": "because he was in a genuinely good mood.",
+        "completion_2": "to cover the awkward silence.",
+        "log_probs_1": -26.0396728515625,
+        "log_probs_2": -23.998046875
+    },
+    {
+        "id": 90,
+        "prompt": "She added extra spice to the dish",
+        "completion_1": "because she loved bold flavors.",
+        "completion_2": "to hide the fact she had slightly burned it.",
+        "log_probs_1": -16.3734130859375,
+        "log_probs_2": -37.76953125
+    },
+    {
+        "id": 91,
+        "prompt": "He asked a follow-up question",
+        "completion_1": "showing his deep interest in the topic.",
+        "completion_2": "trying to catch the speaker in a contradiction.",
+        "log_probs_1": -22.0625,
+        "log_probs_2": -35.51220703125
+    },
+    {
+        "id": 92,
+        "prompt": "She donated to the charity",
+        "completion_1": "after seeing their compelling advertisement.",
+        "completion_2": "because her company matched all donations.",
+        "log_probs_1": -27.609375,
+        "log_probs_2": -19.87890625
+    },
+    {
+        "id": 93,
+        "prompt": "He wiped the counter clean",
+        "completion_1": "tidying up after making lunch.",
+        "completion_2": "stalling for time before replying.",
+        "log_probs_1": -28.849609375,
+        "log_probs_2": -32.182098388671875
+    },
+    {
+        "id": 94,
+        "prompt": "She lowered her voice",
+        "completion_1": "as the librarian walked past her table.",
+        "completion_2": "to make her story sound more dramatic.",
+        "log_probs_1": -30.0078125,
+        "log_probs_2": -27.98046875
+    },
+    {
+        "id": 95,
+        "prompt": "He started to drum his fingers",
+        "completion_1": "impatiently waiting for the download.",
+        "completion_2": "unconsciously tapping to the music.",
+        "log_probs_1": -32.90460205078125,
+        "log_probs_2": -23.955810546875
+    },
+    {
+        "id": 96,
+        "prompt": "She smiled at the stranger",
+        "completion_1": "simply trying to be friendly.",
+        "completion_2": "realizing he had mistaken her for someone.",
+        "log_probs_1": -23.218505859375,
+        "log_probs_2": -28.18896484375
+    },
+    {
+        "id": 97,
+        "prompt": "He leaned against the wall",
+        "completion_1": "feeling suddenly tired.",
+        "completion_2": "trying to appear casual and relaxed.",
+        "log_probs_1": -21.08245849609375,
+        "log_probs_2": -18.79052734375
+    },
+    {
+        "id": 98,
+        "prompt": "She unlocked her old diary",
+        "completion_1": "to find the date of a specific event.",
+        "completion_2": "to reminisce about her past.",
+        "log_probs_1": -32.421875,
+        "log_probs_2": -16.89434814453125
+    },
+    {
+        "id": 99,
+        "prompt": "He folded the letter neatly",
+        "completion_1": "and placed it in his desk drawer.",
+        "completion_2": "and threw it into the fire.",
+        "log_probs_1": -9.8153076171875,
+        "log_probs_2": -17.640594482421875
+    }
+]

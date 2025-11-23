@@ -11,9 +11,9 @@ from evaluation import evaluate_model_on_multi_token_completion, evaluate_model_
 
 @dataclass
 class ExperimentConfig:
-    model_name: str = "/nlsasfs/home/isea/isea10/aansh/deception_detection/weights/Llama-3.3-70B-Instruct/models--meta-llama--Llama-3.3-70B-Instruct/snapshots/6f6073b423013f6a7d4d9f39144961bfbfbc386b"
+    model_name: str = "/nlsasfs/home/isea/isea10/aansh/deception_detection/weights/Llama-3.2-1B-Instruct"
     dataset_path: str = "/nlsasfs/home/isea/isea10/aansh/introspection/data/exp1/multi_token_completions"
-    output_dir: str = "/nlsasfs/home/isea/isea10/aansh/introspection/results/exp_1_llama_70b/multi_token"
+    output_dir: str = "/nlsasfs/home/isea/isea10/aansh/introspection/results/exp_1_llama_1b/multi_token"
     log_probs_output_filename: str = "log_probs.json"
     evaluation_output_filename: str = "predictions.json"
     metrics_output_filename: str = "metrics.json"
@@ -28,10 +28,10 @@ if __name__ == "__main__":
     
     per_category_files = {}
     for i in range(1, 21):
-        for file in os.listdir(os.path.dirname(config.dataset_path)):
+        for file in os.listdir(config.dataset_path):
             file_id = int(file.split("_")[-1].split(".")[0])
             if file_id == i:
-                per_category_files[i] = os.path.join(os.path.dirname(config.dataset_path), file)
+                per_category_files[i] = os.path.join(config.dataset_path, file)
                 
     for category, dataset_path in per_category_files.items():
         category_output_dir = os.path.join(config.output_dir, f"category_{category}")

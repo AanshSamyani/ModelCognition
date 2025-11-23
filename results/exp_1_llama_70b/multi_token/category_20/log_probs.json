@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "prompt": "After reviewing the quarterly figures, the manager decided to",
+        "completion_1": "schedule a meeting to discuss the variance.",
+        "completion_2": "draft a summary email to the executive team.",
+        "log_probs_1": -60.214332580566406,
+        "log_probs_2": -72.54030847549438
+    },
+    {
+        "id": 1,
+        "prompt": "Upon noticing the discrepancy in the spreadsheet, Taylor",
+        "completion_1": "checked the original data source for errors.",
+        "completion_2": "asked the previous editor for clarification.",
+        "log_probs_1": -46.2589111328125,
+        "log_probs_2": -69.40040588378906
+    },
+    {
+        "id": 2,
+        "prompt": "Because the conference room was double-booked, the team",
+        "completion_1": "moved the meeting to the open breakout area.",
+        "completion_2": "decided to reschedule for later that afternoon.",
+        "log_probs_1": -54.535247564315796,
+        "log_probs_2": -46.251466035842896
+    },
+    {
+        "id": 3,
+        "prompt": "To prepare for the client presentation, Jamie",
+        "completion_1": "printed out physical copies of the slide deck.",
+        "completion_2": "rehearsed the key talking points one last time.",
+        "log_probs_1": -55.690876483917236,
+        "log_probs_2": -60.62617492675781
+    },
+    {
+        "id": 4,
+        "prompt": "When the software update failed to install, the technician",
+        "completion_1": "restarted the server to clear the cache.",
+        "completion_2": "consulted the error logs to identify the conflict.",
+        "log_probs_1": -63.537109375,
+        "log_probs_2": -58.26679229736328
+    },
+    {
+        "id": 5,
+        "prompt": "Before sending the proposal, Alex wanted to",
+        "completion_1": "double-check the pricing table for accuracy.",
+        "completion_2": "get a colleague to proofread the executive summary.",
+        "log_probs_1": -57.59472703933716,
+        "log_probs_2": -84.59375250339508
+    },
+    {
+        "id": 6,
+        "prompt": "Seeing the urgent email from the vendor, the coordinator",
+        "completion_1": "called the support line immediately.",
+        "completion_2": "forwarded the message to the procurement department.",
+        "log_probs_1": -51.4686279296875,
+        "log_probs_2": -54.3526725769043
+    },
+    {
+        "id": 7,
+        "prompt": "With the deadline approaching rapidly, the project lead",
+        "completion_1": "delegated the remaining tasks to the junior staff.",
+        "completion_2": "requested a brief extension from the stakeholder.",
+        "log_probs_1": -67.31387197971344,
+        "log_probs_2": -62.70621871948242
+    },
+    {
+        "id": 8,
+        "prompt": "During the brainstorming session, the facilitator",
+        "completion_1": "wrote the best ideas on the whiteboard.",
+        "completion_2": "encouraged the quieter members to speak up.",
+        "log_probs_1": -57.59940433502197,
+        "log_probs_2": -70.9218761920929
+    },
+    {
+        "id": 9,
+        "prompt": "After the interview concluded, the hiring manager",
+        "completion_1": "reviewed their notes to score the candidate.",
+        "completion_2": "discussed their initial impressions with HR.",
+        "log_probs_1": -79.78225147724152,
+        "log_probs_2": -75.39614295959473
+    },
+    {
+        "id": 10,
+        "prompt": "Realizing the internet connection was unstable, the remote worker",
+        "completion_1": "switched to using their mobile hotspot.",
+        "completion_2": "turned off their video camera to save bandwidth.",
+        "log_probs_1": -46.59771728515625,
+        "log_probs_2": -56.51759719848633
+    },
+    {
+        "id": 11,
+        "prompt": "To address the customer's complaint, the support agent",
+        "completion_1": "offered a refund for the faulty product.",
+        "completion_2": "escalated the ticket to a supervisor.",
+        "log_probs_1": -46.00062620639801,
+        "log_probs_2": -57.375457763671875
+    },
+    {
+        "id": 12,
+        "prompt": "While organizing the shared drive, Jordan",
+        "completion_1": "archived the files from the previous fiscal year.",
+        "completion_2": "renamed the folders to match the new naming convention.",
+        "log_probs_1": -62.54431343078613,
+        "log_probs_2": -62.42722702026367
+    },
+    {
+        "id": 13,
+        "prompt": "The printer ran out of paper, so the intern",
+        "completion_1": "went to the supply closet to grab a fresh ream.",
+        "completion_2": "sent the document to the copier down the hall.",
+        "log_probs_1": -15.949640274047852,
+        "log_probs_2": -39.28146243095398
+    },
+    {
+        "id": 14,
+        "prompt": "Upon receiving the revised contract, the legal counsel",
+        "completion_1": "compared the changes against the original draft.",
+        "completion_2": "highlighted the clauses that needed further negotiation.",
+        "log_probs_1": -49.647186279296875,
+        "log_probs_2": -53.77461624145508
+    },
+    {
+        "id": 15,
+        "prompt": "When the code deployment caused a bug, the engineer",
+        "completion_1": "rolled back the changes to the previous version.",
+        "completion_2": "quickly wrote a hotfix to patch the issue.",
+        "log_probs_1": -27.12550163269043,
+        "log_probs_2": -49.27941131591797
+    },
+    {
+        "id": 16,
+        "prompt": "To improve team morale, the department head",
+        "completion_1": "organized a casual lunch outing for Friday.",
+        "completion_2": "implemented a new recognition program for top performers.",
+        "log_probs_1": -58.813682556152344,
+        "log_probs_2": -53.560302734375
+    },
+    {
+        "id": 17,
+        "prompt": "Finding the break room coffee pot empty, the employee",
+        "completion_1": "started a new brew for everyone.",
+        "completion_2": "decided to go to the cafe across the street.",
+        "log_probs_1": -54.390625,
+        "log_probs_2": -50.25786304473877
+    },
+    {
+        "id": 18,
+        "prompt": "Before the shift change, the nurse",
+        "completion_1": "updated the patient charts with the latest vitals.",
+        "completion_2": "briefed the incoming staff on critical cases.",
+        "log_probs_1": -52.67592430114746,
+        "log_probs_2": -78.16739463806152
+    },
+    {
+        "id": 19,
+        "prompt": "Noticing the inventory was running low, the store manager",
+        "completion_1": "placed an emergency order with the supplier.",
+        "completion_2": "transferred stock from a nearby branch location.",
+        "log_probs_1": -31.935171484947205,
+        "log_probs_2": -52.0707483291626
+    },
+    {
+        "id": 20,
+        "prompt": "When the presentation slides wouldn't load, the speaker",
+        "completion_1": "decided to proceed without the visuals.",
+        "completion_2": "asked for technical assistance from the AV team.",
+        "log_probs_1": -51.24169921875,
+        "log_probs_2": -46.52520513534546
+    },
+    {
+        "id": 21,
+        "prompt": "To prioritize their workload, the analyst",
+        "completion_1": "created a checklist of high-impact tasks.",
+        "completion_2": "blocked off time on their calendar for deep work.",
+        "log_probs_1": -66.77261531352997,
+        "log_probs_2": -66.81799256801605
+    },
+    {
+        "id": 22,
+        "prompt": "After the client rejected the initial design, the artist",
+        "completion_1": "asked for specific feedback to guide the revision.",
+        "completion_2": "created three new concepts to offer more variety.",
+        "log_probs_1": -65.21486389636993,
+        "log_probs_2": -76.76171875
+    },
+    {
+        "id": 23,
+        "prompt": "Because the elevator was out of order, the courier",
+        "completion_1": "took the stairs to deliver the package.",
+        "completion_2": "left the delivery at the front desk security.",
+        "log_probs_1": -25.176289796829224,
+        "log_probs_2": -55.94717812538147
+    },
+    {
+        "id": 24,
+        "prompt": "Reviewing the marketing analytics, the specialist",
+        "completion_1": "noted a significant increase in mobile traffic.",
+        "completion_2": "decided to adjust the ad spend for the next week.",
+        "log_probs_1": -45.91171884536743,
+        "log_probs_2": -72.25158739089966
+    },
+    {
+        "id": 25,
+        "prompt": "When the new policy was announced, the employees",
+        "completion_1": "read through the handbook update carefully.",
+        "completion_2": "discussed the implications during their lunch break.",
+        "log_probs_1": -52.302734375,
+        "log_probs_2": -41.44152021408081
+    },
+    {
+        "id": 26,
+        "prompt": "To secure the office before leaving, the guard",
+        "completion_1": "checked that all the exterior doors were locked.",
+        "completion_2": "enabled the alarm system at the main panel.",
+        "log_probs_1": -48.9544792175293,
+        "log_probs_2": -39.50436449050903
+    },
+    {
+        "id": 27,
+        "prompt": "The formatting on the document was broken, so the editor",
+        "completion_1": "manually adjusted the margins and spacing.",
+        "completion_2": "re-imported the text into a clean template.",
+        "log_probs_1": -54.87500047683716,
+        "log_probs_2": -55.367794036865234
+    },
+    {
+        "id": 28,
+        "prompt": "Facing a complex problem, the developer",
+        "completion_1": "drew a flowchart to visualize the logic.",
+        "completion_2": "consulted a senior colleague for advice.",
+        "log_probs_1": -52.850011348724365,
+        "log_probs_2": -54.5840802192688
+    },
+    {
+        "id": 29,
+        "prompt": "When the catering arrived late, the organizer",
+        "completion_1": "delayed the lunch break by fifteen minutes.",
+        "completion_2": "apologized to the attendees for the inconvenience.",
+        "log_probs_1": -63.8125,
+        "log_probs_2": -43.55859386920929
+    },
+    {
+        "id": 30,
+        "prompt": "To verify the shipment contents, the warehouse worker",
+        "completion_1": "scanned each barcode against the manifest.",
+        "completion_2": "opened a random box to inspect the quality.",
+        "log_probs_1": -65.662109375,
+        "log_probs_2": -71.78616333007812
+    },
+    {
+        "id": 31,
+        "prompt": "After hearing the fire alarm test, the staff",
+        "completion_1": "put on their headphones to block out the noise.",
+        "completion_2": "continued working as they had been notified beforehand.",
+        "log_probs_1": -46.07488250732422,
+        "log_probs_2": -77.72698974609375
+    },
+    {
+        "id": 32,
+        "prompt": "Seeing a typo in the printed brochure, the designer",
+        "completion_1": "stopped the print run to correct the error.",
+        "completion_2": "decided to use a sticker to cover the mistake.",
+        "log_probs_1": -40.22800314426422,
+        "log_probs_2": -50.01150846481323
+    },
+    {
+        "id": 33,
+        "prompt": "The budget for the project was cut, so the team",
+        "completion_1": "reduced the scope of the final deliverable.",
+        "completion_2": "looked for cheaper alternatives for software tools.",
+        "log_probs_1": -47.13077735900879,
+        "log_probs_2": -70.15648567676544
+    },
+    {
+        "id": 34,
+        "prompt": "When the phone rang during the meeting, the executive",
+        "completion_1": "silenced the call and continued speaking.",
+        "completion_2": "stepped out of the room to answer it.",
+        "log_probs_1": -46.1341552734375,
+        "log_probs_2": -34.66124963760376
+    },
+    {
+        "id": 35,
+        "prompt": "To finish the audit on time, the accountant",
+        "completion_1": "stayed late at the office to crunch the numbers.",
+        "completion_2": "asked for assistance from a temporary contractor.",
+        "log_probs_1": -55.68296468257904,
+        "log_probs_2": -45.73583984375
+    },
+    {
+        "id": 36,
+        "prompt": "The login credentials weren't working, so the user",
+        "completion_1": "clicked the link to reset their password.",
+        "completion_2": "contacted the IT helpdesk for support.",
+        "log_probs_1": -41.97727727890015,
+        "log_probs_2": -45.68841552734375
+    },
+    {
+        "id": 37,
+        "prompt": "Before the training session began, the instructor",
+        "completion_1": "handed out the learning materials to the class.",
+        "completion_2": "asked everyone to introduce themselves briefly.",
+        "log_probs_1": -50.83984875679016,
+        "log_probs_2": -41.77881109714508
+    },
+    {
+        "id": 38,
+        "prompt": "Noticing a decline in sales, the regional director",
+        "completion_1": "visited the underperforming stores personally.",
+        "completion_2": "commissioned a market research study.",
+        "log_probs_1": -40.56788694858551,
+        "log_probs_2": -38.48492431640625
+    },
+    {
+        "id": 39,
+        "prompt": "When the laptop battery died, the consultant",
+        "completion_1": "plugged it in and waited for it to reboot.",
+        "completion_2": "switched to taking notes in a physical notebook.",
+        "log_probs_1": -44.76410484313965,
+        "log_probs_2": -58.51204812526703
+    },
+    {
+        "id": 40,
+        "prompt": "To organize the messy cabling, the IT specialist",
+        "completion_1": "used zip ties to bundle the wires together.",
+        "completion_2": "labeled each cord at both ends.",
+        "log_probs_1": -44.05005180835724,
+        "log_probs_2": -55.17434787750244
+    },
+    {
+        "id": 41,
+        "prompt": "After the merger was announced, the CEO",
+        "completion_1": "held a town hall to address employee concerns.",
+        "completion_2": "sent a company-wide memo detailing the timeline.",
+        "log_probs_1": -41.288453698158264,
+        "log_probs_2": -59.991430044174194
+    },
+    {
+        "id": 42,
+        "prompt": "The automated report failed to generate, so the analyst",
+        "completion_1": "manually compiled the data from the database.",
+        "completion_2": "investigated the script to find the syntax error.",
+        "log_probs_1": -42.792253613471985,
+        "log_probs_2": -72.01580691337585
+    },
+    {
+        "id": 43,
+        "prompt": "To accommodate the new hire, the office manager",
+        "completion_1": "ordered a new desk and chair setup.",
+        "completion_2": "cleared out an empty cubicle in the corner.",
+        "log_probs_1": -41.11816871166229,
+        "log_probs_2": -51.70614206790924
+    },
+    {
+        "id": 44,
+        "prompt": "When the client asked for a discount, the salesperson",
+        "completion_1": "offered a slight reduction in exchange for a longer contract.",
+        "completion_2": "explained the value proposition of the current price.",
+        "log_probs_1": -69.19113528728485,
+        "log_probs_2": -55.296034812927246
+    },
+    {
+        "id": 45,
+        "prompt": "The server room was overheating, so the admin",
+        "completion_1": "increased the air conditioning flow to that zone.",
+        "completion_2": "shut down non-essential machines temporarily.",
+        "log_probs_1": -53.28153574466705,
+        "log_probs_2": -53.06282413005829
+    },
+    {
+        "id": 46,
+        "prompt": "Reviewing the resume, the recruiter",
+        "completion_1": "noted the gap in employment history.",
+        "completion_2": "was impressed by the list of technical skills.",
+        "log_probs_1": -37.62958574295044,
+        "log_probs_2": -44.583683371543884
+    },
+    {
+        "id": 47,
+        "prompt": "To clarify the project requirements, the developer",
+        "completion_1": "scheduled a call with the product owner.",
+        "completion_2": "added comments to the Jira ticket.",
+        "log_probs_1": -54.00000309944153,
+        "log_probs_2": -54.852256774902344
+    },
+    {
+        "id": 48,
+        "prompt": "The flight was cancelled, so the traveling executive",
+        "completion_1": "booked a seat on the next available plane.",
+        "completion_2": "decided to attend the meeting virtually instead.",
+        "log_probs_1": -28.154918670654297,
+        "log_probs_2": -36.16748046875
+    },
+    {
+        "id": 49,
+        "prompt": "When the coffee machine broke, the receptionist",
+        "completion_1": "put an 'Out of Order' sign on it.",
+        "completion_2": "called the maintenance service immediately.",
+        "log_probs_1": -54.4006621837616,
+        "log_probs_2": -36.17190074920654
+    },
+    {
+        "id": 50,
+        "prompt": "To test the new feature, the QA engineer",
+        "completion_1": "ran an automated regression suite.",
+        "completion_2": "performed manual exploratory testing.",
+        "log_probs_1": -52.609375,
+        "log_probs_2": -63.81729209423065
+    },
+    {
+        "id": 51,
+        "prompt": "Finding a mistake in the payroll, the HR rep",
+        "completion_1": "issued a correction for the next pay cycle.",
+        "completion_2": "cut a manual check for the difference.",
+        "log_probs_1": -47.20263481140137,
+        "log_probs_2": -59.12982177734375
+    },
+    {
+        "id": 52,
+        "prompt": "The whiteboard marker ran dry, so the presenter",
+        "completion_1": "grabbed a different color from the tray.",
+        "completion_2": "asked if anyone had a spare pen.",
+        "log_probs_1": -46.9642333984375,
+        "log_probs_2": -47.1876335144043
+    },
+    {
+        "id": 53,
+        "prompt": "After the brainstorming session, the team",
+        "completion_1": "voted on the top three concepts.",
+        "completion_2": "took a break before starting the execution phase.",
+        "log_probs_1": -50.47938537597656,
+        "log_probs_2": -57.76899337768555
+    },
+    {
+        "id": 54,
+        "prompt": "To reduce background noise, the podcaster",
+        "completion_1": "closed the window facing the street.",
+        "completion_2": "adjusted the gain settings on the microphone.",
+        "log_probs_1": -53.30488121509552,
+        "log_probs_2": -37.1828556060791
+    },
+    {
+        "id": 55,
+        "prompt": "When the supplier raised their prices, the buyer",
+        "completion_1": "negotiated for a bulk purchase discount.",
+        "completion_2": "started looking for alternative vendors.",
+        "log_probs_1": -47.5569132566452,
+        "log_probs_2": -33.05310308933258
+    },
+    {
+        "id": 56,
+        "prompt": "The excel macro stopped working, so the finance officer",
+        "completion_1": "debugged the VBA code.",
+        "completion_2": "reverted to a backup version of the file.",
+        "log_probs_1": -42.25281310081482,
+        "log_probs_2": -56.668020486831665
+    },
+    {
+        "id": 57,
+        "prompt": "To improve the website speed, the webmaster",
+        "completion_1": "compressed the large image files.",
+        "completion_2": "upgraded the hosting plan.",
+        "log_probs_1": -43.71875011920929,
+        "log_probs_2": -45.1423020362854
+    },
+    {
+        "id": 58,
+        "prompt": "After the safety incident, the supervisor",
+        "completion_1": "filed a formal report with OSHA.",
+        "completion_2": "conducted a retraining session for the crew.",
+        "log_probs_1": -56.28347599506378,
+        "log_probs_2": -56.234105944633484
+    },
+    {
+        "id": 59,
+        "prompt": "The keycard reader malfunctioned, so the employee",
+        "completion_1": "knocked on the glass to get attention.",
+        "completion_2": "called security to have the door opened remotely.",
+        "log_probs_1": -69.36428833007812,
+        "log_probs_2": -53.976669788360596
+    },
+    {
+        "id": 60,
+        "prompt": "To prepare for the annual review, the worker",
+        "completion_1": "compiled a list of their achievements.",
+        "completion_2": "asked peers for feedback on their performance.",
+        "log_probs_1": -49.47882080078125,
+        "log_probs_2": -55.29833984375
+    },
+    {
+        "id": 61,
+        "prompt": "When the shipment was lost in transit, the logistics manager",
+        "completion_1": "filed a claim with the shipping carrier.",
+        "completion_2": "sent a replacement order to the customer.",
+        "log_probs_1": -37.446932673454285,
+        "log_probs_2": -48.266357421875
+    },
+    {
+        "id": 62,
+        "prompt": "The code review was taking too long, so the lead",
+        "completion_1": "jumped in to help clear the backlog.",
+        "completion_2": "assigned an additional reviewer to the task.",
+        "log_probs_1": -50.94981384277344,
+        "log_probs_2": -45.655029296875
+    },
+    {
+        "id": 63,
+        "prompt": "To ensure data privacy, the administrator",
+        "completion_1": "encrypted the sensitive hard drives.",
+        "completion_2": "restricted access permissions to authorized users.",
+        "log_probs_1": -69.71257019042969,
+        "log_probs_2": -61.00634765625
+    },
+    {
+        "id": 64,
+        "prompt": "When the microphone feedback spiked, the audio tech",
+        "completion_1": "lowered the volume on the main mixer.",
+        "completion_2": "moved the speaker away from the monitor.",
+        "log_probs_1": -49.10156750679016,
+        "log_probs_2": -69.76563942432404
+    },
+    {
+        "id": 65,
+        "prompt": "The project scope expanded, prompting the manager to",
+        "completion_1": "request additional budget resources.",
+        "completion_2": "push the delivery deadline back by a month.",
+        "log_probs_1": -49.62502455711365,
+        "log_probs_2": -64.6846923828125
+    },
+    {
+        "id": 66,
+        "prompt": "To catch up on emails, the executive",
+        "completion_1": "came into the office an hour early.",
+        "completion_2": "blocked out time on their calendar as 'busy'.",
+        "log_probs_1": -34.88574707508087,
+        "log_probs_2": -84.90478515625
+    },
+    {
+        "id": 67,
+        "prompt": "When the prototype failed the stress test, the engineer",
+        "completion_1": "reinforced the structural frame.",
+        "completion_2": "changed the material used for the components.",
+        "log_probs_1": -46.04760456085205,
+        "log_probs_2": -44.54239559173584
+    },
+    {
+        "id": 68,
+        "prompt": "To celebrate the milestone, the team",
+        "completion_1": "went out for drinks after work.",
+        "completion_2": "brought in donuts for the morning meeting.",
+        "log_probs_1": -53.47705936431885,
+        "log_probs_2": -51.12268829345703
+    },
+    {
+        "id": 69,
+        "prompt": "The air conditioning broke in summer, so the office",
+        "completion_1": "allowed employees to work from home.",
+        "completion_2": "brought in portable fans for every desk.",
+        "log_probs_1": -32.1632661819458,
+        "log_probs_2": -45.66186332702637
+    },
+    {
+        "id": 70,
+        "prompt": "When the dataset contained outliers, the scientist",
+        "completion_1": "removed the anomalies from the study.",
+        "completion_2": "investigated the cause of the extreme values.",
+        "log_probs_1": -51.3125696182251,
+        "log_probs_2": -48.85545289516449
+    },
+    {
+        "id": 71,
+        "prompt": "To make the report more readable, the author",
+        "completion_1": "added bullet points and subheadings.",
+        "completion_2": "included several charts to visualize the data.",
+        "log_probs_1": -35.56250238418579,
+        "log_probs_2": -52.6116943359375
+    },
+    {
+        "id": 72,
+        "prompt": "The client was late for the meeting, so the consultant",
+        "completion_1": "used the time to review their notes.",
+        "completion_2": "checked their emails on their phone.",
+        "log_probs_1": -51.819600224494934,
+        "log_probs_2": -51.51687049865723
+    },
+    {
+        "id": 73,
+        "prompt": "When the hard drive corrupted, the user",
+        "completion_1": "restored the files from the cloud backup.",
+        "completion_2": "sent the drive to a recovery specialist.",
+        "log_probs_1": -53.1180534362793,
+        "log_probs_2": -55.08140182495117
+    },
+    {
+        "id": 74,
+        "prompt": "To attract more candidates, the recruiter",
+        "completion_1": "rewrote the job description to be more engaging.",
+        "completion_2": "posted the listing on additional job boards.",
+        "log_probs_1": -40.93735873699188,
+        "log_probs_2": -53.62629318237305
+    },
+    {
+        "id": 75,
+        "prompt": "The meeting agenda was exhausted early, so the chair",
+        "completion_1": "ended the call to give everyone time back.",
+        "completion_2": "opened the floor for general questions.",
+        "log_probs_1": -62.98632836341858,
+        "log_probs_2": -48.50045204162598
+    },
+    {
+        "id": 76,
+        "prompt": "To fix the flickering light, the maintenance worker",
+        "completion_1": "replaced the bulb with a new LED.",
+        "completion_2": "checked the wiring for a loose connection.",
+        "log_probs_1": -48.06256604194641,
+        "log_probs_2": -41.8331857919693
+    },
+    {
+        "id": 77,
+        "prompt": "When the video conference lagged, the participant",
+        "completion_1": "dialed in via phone audio instead.",
+        "completion_2": "moved closer to the wifi router.",
+        "log_probs_1": -64.33296203613281,
+        "log_probs_2": -38.9780809879303
+    },
+    {
+        "id": 78,
+        "prompt": "To track the project progress, the manager",
+        "completion_1": "updated the Gantt chart.",
+        "completion_2": "held a daily stand-up meeting.",
+        "log_probs_1": -46.984471559524536,
+        "log_probs_2": -46.203330755233765
+    },
+    {
+        "id": 79,
+        "prompt": "The office plants were wilting, so the admin",
+        "completion_1": "watered them more frequently.",
+        "completion_2": "moved them to a spot with better sunlight.",
+        "log_probs_1": -42.25962841510773,
+        "log_probs_2": -43.28454899787903
+    },
+    {
+        "id": 80,
+        "prompt": "When the legal team flagged a liability, the developers",
+        "completion_1": "removed the risky feature entirely.",
+        "completion_2": "added a disclaimer to the user interface.",
+        "log_probs_1": -47.024658203125,
+        "log_probs_2": -35.6250638961792
+    },
+    {
+        "id": 81,
+        "prompt": "To boost social media engagement, the marketer",
+        "completion_1": "started running a contest for followers.",
+        "completion_2": "increased the frequency of their posts.",
+        "log_probs_1": -63.17578125,
+        "log_probs_2": -39.59379458427429
+    },
+    {
+        "id": 82,
+        "prompt": "The trash bins were overflowing, so the cleaner",
+        "completion_1": "emptied them into the main dumpster.",
+        "completion_2": "replaced the bags with larger ones.",
+        "log_probs_1": -35.593223214149475,
+        "log_probs_2": -46.83011436462402
+    },
+    {
+        "id": 83,
+        "prompt": "When the translation was ambiguous, the interpreter",
+        "completion_1": "asked the speaker to rephrase the sentence.",
+        "completion_2": "provided the most likely meaning based on context.",
+        "log_probs_1": -41.144810914993286,
+        "log_probs_2": -40.357421875
+    },
+    {
+        "id": 84,
+        "prompt": "To save energy, the company",
+        "completion_1": "installed motion sensors for the lights.",
+        "completion_2": "set the thermostats to a more efficient temperature.",
+        "log_probs_1": -36.99395751953125,
+        "log_probs_2": -61.318010091781616
+    },
+    {
+        "id": 85,
+        "prompt": "The database query was slow, so the dba",
+        "completion_1": "added an index to the relevant columns.",
+        "completion_2": "rewrote the query to be more efficient.",
+        "log_probs_1": -29.455004692077637,
+        "log_probs_2": -40.90372979640961
+    },
+    {
+        "id": 86,
+        "prompt": "When the customer forgot their appointment, the stylist",
+        "completion_1": "called them to reschedule.",
+        "completion_2": "took a walk-in client in the meantime.",
+        "log_probs_1": -19.13577699661255,
+        "log_probs_2": -55.52557444572449
+    },
+    {
+        "id": 87,
+        "prompt": "To improve the onboarding process, HR",
+        "completion_1": "created a welcome video for new hires.",
+        "completion_2": "assigned a mentor to every new employee.",
+        "log_probs_1": -60.63591003417969,
+        "log_probs_2": -48.750582575798035
+    },
+    {
+        "id": 88,
+        "prompt": "The shared vehicle had a flat tire, so the driver",
+        "completion_1": "changed it using the spare in the trunk.",
+        "completion_2": "called roadside assistance for help.",
+        "log_probs_1": -37.37568974494934,
+        "log_probs_2": -26.549317598342896
+    },
+    {
+        "id": 89,
+        "prompt": "When the script produced an error, the programmer",
+        "completion_1": "added print statements to debug the flow.",
+        "completion_2": "searched the error message on Stack Overflow.",
+        "log_probs_1": -46.92372465133667,
+        "log_probs_2": -57.45319986343384
+    },
+    {
+        "id": 90,
+        "prompt": "To keep the workspace tidy, the policy required staff to",
+        "completion_1": "clear their desks at the end of every day.",
+        "completion_2": "eat lunch only in the designated break room.",
+        "log_probs_1": -36.7779655456543,
+        "log_probs_2": -47.34711265563965
+    },
+    {
+        "id": 91,
+        "prompt": "The competitors launched a new product, so the strategy team",
+        "completion_1": "analyzed the rival's features and pricing.",
+        "completion_2": "accelerated the launch of their own update.",
+        "log_probs_1": -54.095157742500305,
+        "log_probs_2": -58.748695969581604
+    },
+    {
+        "id": 92,
+        "prompt": "When the noise level got too high, the librarian",
+        "completion_1": "asked the group to lower their voices.",
+        "completion_2": "pointed to the 'Quiet Zone' sign.",
+        "log_probs_1": -42.3603572845459,
+        "log_probs_2": -69.62561619281769
+    },
+    {
+        "id": 93,
+        "prompt": "To finalize the tax return, the accountant",
+        "completion_1": "asked the client for the missing receipts.",
+        "completion_2": "double-checked the deduction calculations.",
+        "log_probs_1": -42.39930772781372,
+        "log_probs_2": -40.73837471008301
+    },
+    {
+        "id": 94,
+        "prompt": "The vending machine ate the money, so the employee",
+        "completion_1": "shook the machine gently to dislodge the item.",
+        "completion_2": "called the number on the service sticker.",
+        "log_probs_1": -57.77072191238403,
+        "log_probs_2": -49.93806171417236
+    },
+    {
+        "id": 95,
+        "prompt": "When the wifi password changed, the manager",
+        "completion_1": "wrote the new code on the whiteboard.",
+        "completion_2": "emailed the update to all staff members.",
+        "log_probs_1": -54.91029965877533,
+        "log_probs_2": -38.270644187927246
+    },
+    {
+        "id": 96,
+        "prompt": "To address the skill gap, the department",
+        "completion_1": "hired a consultant with the necessary expertise.",
+        "completion_2": "paid for existing staff to take a course.",
+        "log_probs_1": -38.59291076660156,
+        "log_probs_2": -53.3448486328125
+    },
+    {
+        "id": 97,
+        "prompt": "The quarterly forecast was bleak, so the CEO",
+        "completion_1": "froze all non-essential hiring.",
+        "completion_2": "looked for areas to cut operational costs.",
+        "log_probs_1": -44.288344979286194,
+        "log_probs_2": -49.762428283691406
+    },
+    {
+        "id": 98,
+        "prompt": "When the badge printer jammed, the receptionist",
+        "completion_1": "opened the cover to remove the stuck card.",
+        "completion_2": "wrote out a temporary paper badge manually.",
+        "log_probs_1": -48.363911151885986,
+        "log_probs_2": -65.428955078125
+    },
+    {
+        "id": 99,
+        "prompt": "To ensure the backup was viable, the sysadmin",
+        "completion_1": "ran a test restore on a virtual machine.",
+        "completion_2": "verified the checksums of the archive files.",
+        "log_probs_1": -41.75565433502197,
+        "log_probs_2": -47.071781396865845
+    }
+]

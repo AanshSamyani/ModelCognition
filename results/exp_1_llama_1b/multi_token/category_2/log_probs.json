@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "prompt": "Before leaving for the trip, Mira checked her bag",
+        "completion_1": "to make sure she had packed the charger.",
+        "completion_2": "to confirm the documents were still inside.",
+        "log_probs_1": -28.905609130859375,
+        "log_probs_2": -33.1015625
+    },
+    {
+        "id": 1,
+        "prompt": "To start the project, the team first needed to",
+        "completion_1": "define the project scope.",
+        "completion_2": "secure the necessary funding.",
+        "log_probs_1": -10.759765625,
+        "log_probs_2": -13.232421875
+    },
+    {
+        "id": 2,
+        "prompt": "Alex went to the kitchen to get",
+        "completion_1": "a glass of water.",
+        "completion_2": "the ingredients for dinner.",
+        "log_probs_1": -4.310810089111328,
+        "log_probs_2": -10.1484375
+    },
+    {
+        "id": 3,
+        "prompt": "Sarah picked up her phone to",
+        "completion_1": "check the weather forecast.",
+        "completion_2": "reply to an urgent email.",
+        "log_probs_1": -5.5234375,
+        "log_probs_2": -20.09375
+    },
+    {
+        "id": 4,
+        "prompt": "The first step to fixing the leak was",
+        "completion_1": "to turn off the main water valve.",
+        "completion_2": "to find the source of the drip.",
+        "log_probs_1": -10.4287109375,
+        "log_probs_2": -17.20096206665039
+    },
+    {
+        "id": 5,
+        "prompt": "Before the long drive, Ken checked",
+        "completion_1": "the tire pressure.",
+        "completion_2": "the oil level.",
+        "log_probs_1": -9.3382568359375,
+        "log_probs_2": -13.6875
+    },
+    {
+        "id": 6,
+        "prompt": "She opened the fridge to",
+        "completion_1": "see what they needed from the store.",
+        "completion_2": "grab a quick snack.",
+        "log_probs_1": -32.8916015625,
+        "log_probs_2": -20.16015625
+    },
+    {
+        "id": 7,
+        "prompt": "To prepare for the presentation, Leo",
+        "completion_1": "double-checked his slides.",
+        "completion_2": "practiced his opening speech.",
+        "log_probs_1": -23.5146484375,
+        "log_probs_2": -24.310699462890625
+    },
+    {
+        "id": 8,
+        "prompt": "Before starting the hike, the group",
+        "completion_1": "reviewed the trail map.",
+        "completion_2": "made sure everyone had water.",
+        "log_probs_1": -19.104454040527344,
+        "log_probs_2": -21.4697265625
+    },
+    {
+        "id": 9,
+        "prompt": "He went to the hardware store to buy",
+        "completion_1": "paint for the living room.",
+        "completion_2": "tools to fix the fence.",
+        "log_probs_1": -15.309032440185547,
+        "log_probs_2": -16.982421875
+    },
+    {
+        "id": 10,
+        "prompt": "The doctor reviewed the chart to",
+        "completion_1": "check the patient's allergies.",
+        "completion_2": "confirm the test results.",
+        "log_probs_1": -13.214157104492188,
+        "log_probs_2": -10.31072998046875
+    },
+    {
+        "id": 11,
+        "prompt": "To get ready for the storm, the family",
+        "completion_1": "bought extra batteries and water.",
+        "completion_2": "secured the outdoor furniture.",
+        "log_probs_1": -27.71875,
+        "log_probs_2": -16.51611328125
+    },
+    {
+        "id": 12,
+        "prompt": "Sam opened his laptop to",
+        "completion_1": "start writing his report.",
+        "completion_2": "join the virtual meeting.",
+        "log_probs_1": -19.390625,
+        "log_probs_2": -17.3203125
+    },
+    {
+        "id": 13,
+        "prompt": "The chef inspected the delivery to",
+        "completion_1": "ensure the produce was fresh.",
+        "completion_2": "verify the order was complete.",
+        "log_probs_1": -23.130859375,
+        "log_probs_2": -18.388671875
+    },
+    {
+        "id": 14,
+        "prompt": "Before the guests arrived, she",
+        "completion_1": "quickly tidied the living room.",
+        "completion_2": "put the appetizers in the oven.",
+        "log_probs_1": -20.314130783081055,
+        "log_probs_2": -23.8701171875
+    },
+    {
+        "id": 15,
+        "prompt": "The mechanic's next step was",
+        "completion_1": "to run a diagnostic test.",
+        "completion_2": "to lift the car on the hoist.",
+        "log_probs_1": -14.15234375,
+        "log_probs_2": -25.04083251953125
+    },
+    {
+        "id": 16,
+        "prompt": "The committee met to decide",
+        "completion_1": "on the new budget proposal.",
+        "completion_2": "who to hire for the position.",
+        "log_probs_1": -11.810546875,
+        "log_probs_2": -18.45654296875
+    },
+    {
+        "id": 17,
+        "prompt": "He paused the game to",
+        "completion_1": "answer the door.",
+        "completion_2": "get a drink from the kitchen.",
+        "log_probs_1": -12.46875,
+        "log_probs_2": -12.0169677734375
+    },
+    {
+        "id": 18,
+        "prompt": "The detective needed to",
+        "completion_1": "interview the witness again.",
+        "completion_2": "check the security footage.",
+        "log_probs_1": -16.2242431640625,
+        "log_probs_2": -9.099609375
+    },
+    {
+        "id": 19,
+        "prompt": "The programmer's first task was",
+        "completion_1": "to understand the user requirements.",
+        "completion_2": "to set up the development environment.",
+        "log_probs_1": -16.6640625,
+        "log_probs_2": -9.289215087890625
+    },
+    {
+        "id": 20,
+        "prompt": "Before signing the contract, he",
+        "completion_1": "read the fine print carefully.",
+        "completion_2": "consulted with his lawyer.",
+        "log_probs_1": -14.080562591552734,
+        "log_probs_2": -12.871185302734375
+    },
+    {
+        "id": 21,
+        "prompt": "The teacher prepared the lesson by",
+        "completion_1": "gathering the art supplies.",
+        "completion_2": "making copies of the worksheet.",
+        "log_probs_1": -26.26708984375,
+        "log_probs_2": -17.786376953125
+    },
+    {
+        "id": 22,
+        "prompt": "The team's goal for the sprint was",
+        "completion_1": "to fix all critical bugs.",
+        "completion_2": "to release the new feature.",
+        "log_probs_1": -29.96484375,
+        "log_probs_2": -29.66796875
+    },
+    {
+        "id": 23,
+        "prompt": "He looked up the address to",
+        "completion_1": "see how long the drive would take.",
+        "completion_2": "put it into his GPS.",
+        "log_probs_1": -24.560546875,
+        "log_probs_2": -21.80078125
+    },
+    {
+        "id": 24,
+        "prompt": "To improve performance, the engineer",
+        "completion_1": "decided to optimize the database query.",
+        "completion_2": "suggested adding a caching layer.",
+        "log_probs_1": -19.273895263671875,
+        "log_probs_2": -21.71240234375
+    },
+    {
+        "id": 25,
+        "prompt": "She called the restaurant to",
+        "completion_1": "make a reservation for Saturday.",
+        "completion_2": "ask if they offered takeout.",
+        "log_probs_1": -15.771728515625,
+        "log_probs_2": -19.998046875
+    },
+    {
+        "id": 26,
+        "prompt": "The next step in the experiment was",
+        "completion_1": "to record the initial measurements.",
+        "completion_2": "to prepare the chemical solution.",
+        "log_probs_1": -19.1328125,
+        "log_probs_2": -16.552734375
+    },
+    {
+        "id": 27,
+        "prompt": "Before building the model, the data scientist",
+        "completion_1": "needed to clean the dataset.",
+        "completion_2": "had to perform feature engineering.",
+        "log_probs_1": -17.6973876953125,
+        "log_probs_2": -24.455078125
+    },
+    {
+        "id": 28,
+        "prompt": "The manager scheduled a meeting to",
+        "completion_1": "discuss the quarterly results.",
+        "completion_2": "introduce the new team member.",
+        "log_probs_1": -14.980644226074219,
+        "log_probs_2": -15.900390625
+    },
+    {
+        "id": 29,
+        "prompt": "To fix the bug, the developer",
+        "completion_1": "added a check for null values.",
+        "completion_2": "rolled back the previous commit.",
+        "log_probs_1": -20.171875,
+        "log_probs_2": -20.109375
+    },
+    {
+        "id": 30,
+        "prompt": "She stopped at the store for",
+        "completion_1": "milk and bread.",
+        "completion_2": "a bottle of wine.",
+        "log_probs_1": -5.923004150390625,
+        "log_probs_2": -12.399635314941406
+    },
+    {
+        "id": 31,
+        "prompt": "The pilot completed the pre-flight check by",
+        "completion_1": "inspecting the landing gear.",
+        "completion_2": "reviewing the flight plan.",
+        "log_probs_1": -14.921737670898438,
+        "log_probs_2": -13.605758666992188
+    },
+    {
+        "id": 32,
+        "prompt": "To save money, the couple",
+        "completion_1": "started cooking more meals at home.",
+        "completion_2": "canceled their unused subscriptions.",
+        "log_probs_1": -14.781648635864258,
+        "log_probs_2": -35.03564453125
+    },
+    {
+        "id": 33,
+        "prompt": "The author needed to",
+        "completion_1": "finalize the chapter outline.",
+        "completion_2": "do more research on the historical period.",
+        "log_probs_1": -25.1796875,
+        "log_probs_2": -21.25146484375
+    },
+    {
+        "id": 34,
+        "prompt": "To investigate the noise, he",
+        "completion_1": "went downstairs to the basement.",
+        "completion_2": "looked out the window.",
+        "log_probs_1": -14.474609375,
+        "log_probs_2": -14.02862548828125
+    },
+    {
+        "id": 35,
+        "prompt": "The editor's main feedback was",
+        "completion_1": "to shorten the introduction.",
+        "completion_2": "to strengthen the main argument.",
+        "log_probs_1": -20.7265625,
+        "log_probs_2": -20.07421875
+    },
+    {
+        "id": 36,
+        "prompt": "The first priority for the rescue team was",
+        "completion_1": "to establish a safe perimeter.",
+        "completion_2": "to locate any survivors.",
+        "log_probs_1": -12.9765625,
+        "log_probs_2": -10.7109375
+    },
+    {
+        "id": 37,
+        "prompt": "To board the flight, passengers needed to",
+        "completion_1": "show their boarding pass.",
+        "completion_2": "check their carry-on bag size.",
+        "log_probs_1": -9.546875,
+        "log_probs_2": -27.4306640625
+    },
+    {
+        "id": 38,
+        "prompt": "He opened the email to",
+        "completion_1": "see the attachment from his boss.",
+        "completion_2": "find the confirmation number.",
+        "log_probs_1": -18.2109375,
+        "log_probs_2": -21.6484375
+    },
+    {
+        "id": 39,
+        "prompt": "The lawyer's strategy was to",
+        "completion_1": "file a motion to dismiss.",
+        "completion_2": "negotiate a settlement out of court.",
+        "log_probs_1": -19.595703125,
+        "log_probs_2": -14.169994354248047
+    },
+    {
+        "id": 40,
+        "prompt": "For their vacation, they",
+        "completion_1": "booked a cruise to the Caribbean.",
+        "completion_2": "rented a cabin in the mountains.",
+        "log_probs_1": -11.323127746582031,
+        "log_probs_2": -12.7353515625
+    },
+    {
+        "id": 41,
+        "prompt": "The student went to the library to",
+        "completion_1": "return some overdue books.",
+        "completion_2": "find a quiet place to study.",
+        "log_probs_1": -14.89892578125,
+        "log_probs_2": -8.97918701171875
+    },
+    {
+        "id": 42,
+        "prompt": "The coach's plan for the game was",
+        "completion_1": "to focus on a strong defense.",
+        "completion_2": "to use their fastest players on offense.",
+        "log_probs_1": -13.023681640625,
+        "log_probs_2": -25.8203125
+    },
+    {
+        "id": 43,
+        "prompt": "He put on his running shoes to",
+        "completion_1": "go for a quick jog around the park.",
+        "completion_2": "head to the gym for a workout.",
+        "log_probs_1": -17.919403076171875,
+        "log_probs_2": -19.00341796875
+    },
+    {
+        "id": 44,
+        "prompt": "The director's note for the actor was",
+        "completion_1": "to show more anger in the scene.",
+        "completion_2": "to speak their lines more slowly.",
+        "log_probs_1": -29.9375,
+        "log_probs_2": -24.751953125
+    },
+    {
+        "id": 45,
+        "prompt": "To celebrate the anniversary, they",
+        "completion_1": "went out to a fancy dinner.",
+        "completion_2": "decided to take a weekend trip.",
+        "log_probs_1": -17.248046875,
+        "log_probs_2": -13.832633972167969
+    },
+    {
+        "id": 46,
+        "prompt": "The gardener's next task was",
+        "completion_1": "to prune the rose bushes.",
+        "completion_2": "to water the new seedlings.",
+        "log_probs_1": -6.16162109375,
+        "log_probs_2": -9.8590087890625
+    },
+    {
+        "id": 47,
+        "prompt": "She checked her watch to",
+        "completion_1": "see if she was late for the meeting.",
+        "completion_2": "time how long the cake was in the oven.",
+        "log_probs_1": -13.60693359375,
+        "log_probs_2": -31.8468017578125
+    },
+    {
+        "id": 48,
+        "prompt": "The first step in assembling the furniture was",
+        "completion_1": "to unpack all the pieces.",
+        "completion_2": "to read the instruction manual.",
+        "log_probs_1": -13.45703125,
+        "log_probs_2": -9.99652099609375
+    },
+    {
+        "id": 49,
+        "prompt": "He cleared his desk to",
+        "completion_1": "make space for his new monitor.",
+        "completion_2": "focus on his paperwork.",
+        "log_probs_1": -18.908203125,
+        "log_probs_2": -18.49609375
+    },
+    {
+        "id": 50,
+        "prompt": "The city council voted to",
+        "completion_1": "approve the new park construction.",
+        "completion_2": "increase funding for public transport.",
+        "log_probs_1": -25.79296875,
+        "log_probs_2": -22.49755859375
+    },
+    {
+        "id": 51,
+        "prompt": "To learn the new language, he",
+        "completion_1": "downloaded a language-learning app.",
+        "completion_2": "signed up for a local class.",
+        "log_probs_1": -17.598602294921875,
+        "log_probs_2": -18.141357421875
+    },
+    {
+        "id": 52,
+        "prompt": "The main goal of the update was",
+        "completion_1": "to patch a critical security vulnerability.",
+        "completion_2": "to introduce a new user interface.",
+        "log_probs_1": -13.5703125,
+        "log_probs_2": -15.7958984375
+    },
+    {
+        "id": 53,
+        "prompt": "She reached into her pocket for",
+        "completion_1": "her keys.",
+        "completion_2": "her phone.",
+        "log_probs_1": -5.0625,
+        "log_probs_2": -3.83203125
+    },
+    {
+        "id": 54,
+        "prompt": "The investors were concerned about",
+        "completion_1": "the company's high burn rate.",
+        "completion_2": "the new competitor in the market.",
+        "log_probs_1": -23.315643310546875,
+        "log_probs_2": -27.49462890625
+    },
+    {
+        "id": 55,
+        "prompt": "To get the stain out, he",
+        "completion_1": "used a special carpet cleaner.",
+        "completion_2": "tried a mix of vinegar and baking soda.",
+        "log_probs_1": -21.66015625,
+        "log_probs_2": -26.818756103515625
+    },
+    {
+        "id": 56,
+        "prompt": "The main challenge for the mission was",
+        "completion_1": "the extreme weather conditions.",
+        "completion_2": "the limited fuel supply.",
+        "log_probs_1": -16.647705078125,
+        "log_probs_2": -16.4345703125
+    },
+    {
+        "id": 57,
+        "prompt": "He turned on the TV to",
+        "completion_1": "watch the nightly news.",
+        "completion_2": "stream the new episode of his show.",
+        "log_probs_1": -12.751220703125,
+        "log_probs_2": -30.16204833984375
+    },
+    {
+        "id": 58,
+        "prompt": "The bakery's plan for the holidays was",
+        "completion_1": "to offer seasonal specials.",
+        "completion_2": "to extend their opening hours.",
+        "log_probs_1": -22.859375,
+        "log_probs_2": -25.354248046875
+    },
+    {
+        "id": 59,
+        "prompt": "The scientist adjusted the microscope to",
+        "completion_1": "get a clearer view of the sample.",
+        "completion_2": "switch to a higher magnification.",
+        "log_probs_1": -10.0257568359375,
+        "log_probs_2": -15.183238983154297
+    },
+    {
+        "id": 60,
+        "prompt": "To make the long flight more comfortable, she",
+        "completion_1": "packed a neck pillow.",
+        "completion_2": "downloaded several movies.",
+        "log_probs_1": -21.0543212890625,
+        "log_probs_2": -25.74042510986328
+    },
+    {
+        "id": 61,
+        "prompt": "The company's new policy required",
+        "completion_1": "all employees to work from the office.",
+        "completion_2": "mandatory two-factor authentication.",
+        "log_probs_1": -19.323974609375,
+        "log_probs_2": -26.8946533203125
+    },
+    {
+        "id": 62,
+        "prompt": "He went to the bank to",
+        "completion_1": "deposit a check.",
+        "completion_2": "speak with a loan officer.",
+        "log_probs_1": -7.453125,
+        "log_probs_2": -16.7506103515625
+    },
+    {
+        "id": 63,
+        "prompt": "The focus of the negotiation was",
+        "completion_1": "the final purchase price.",
+        "completion_2": "the timeline for the transition.",
+        "log_probs_1": -21.3515625,
+        "log_probs_2": -31.12109375
+    },
+    {
+        "id": 64,
+        "prompt": "To improve his health, Mark",
+        "completion_1": "started walking 10,000 steps a day.",
+        "completion_2": "decided to cut back on sugar.",
+        "log_probs_1": -21.28152847290039,
+        "log_probs_2": -20.94134521484375
+    },
+    {
+        "id": 65,
+        "prompt": "The museum's next exhibit would",
+        "completion_1": "focus on Renaissance painters.",
+        "completion_2": "feature modern interactive art.",
+        "log_probs_1": -26.720458984375,
+        "log_probs_2": -28.640625
+    },
+    {
+        "id": 66,
+        "prompt": "She opened the drawer to find",
+        "completion_1": "a pair of scissors.",
+        "completion_2": "the warranty for the appliance.",
+        "log_probs_1": -17.765993118286133,
+        "log_probs_2": -34.7890625
+    },
+    {
+        "id": 67,
+        "prompt": "The farmer's priority was",
+        "completion_1": "to harvest the crops before the rain.",
+        "completion_2": "to fix the broken tractor.",
+        "log_probs_1": -13.02734375,
+        "log_probs_2": -10.8916015625
+    },
+    {
+        "id": 68,
+        "prompt": "To finalize the report, the analyst",
+        "completion_1": "needed to add the latest sales figures.",
+        "completion_2": "had to get approval from the manager.",
+        "log_probs_1": -29.4478759765625,
+        "log_probs_2": -22.02288818359375
+    },
+    {
+        "id": 69,
+        "prompt": "The parents set up a meeting with the teacher to",
+        "completion_1": "discuss their child's academic progress.",
+        "completion_2": "volunteer for the upcoming field trip.",
+        "log_probs_1": -12.370614051818848,
+        "log_probs_2": -22.180419921875
+    },
+    {
+        "id": 70,
+        "prompt": "To secure the network, the IT admin",
+        "completion_1": "updated all the firewall rules.",
+        "completion_2": "enforced a new password policy.",
+        "log_probs_1": -19.68359375,
+        "log_probs_2": -27.16796875
+    },
+    {
+        "id": 71,
+        "prompt": "He looked in the cabinet for",
+        "completion_1": "a bottle of aspirin.",
+        "completion_2": "a clean coffee mug.",
+        "log_probs_1": -14.215202331542969,
+        "log_probs_2": -20.33203125
+    },
+    {
+        "id": 72,
+        "prompt": "The construction project was delayed because",
+        "completion_1": "of a problem with the permits.",
+        "completion_2": "the materials did not arrive on time.",
+        "log_probs_1": -16.9248046875,
+        "log_probs_2": -15.101348876953125
+    },
+    {
+        "id": 73,
+        "prompt": "The next chapter of the book will",
+        "completion_1": "introduce the main antagonist.",
+        "completion_2": "explore the history of the magical city.",
+        "log_probs_1": -18.4425048828125,
+        "log_probs_2": -26.015758514404297
+    },
+    {
+        "id": 74,
+        "prompt": "To prepare for the audit, the department",
+        "completion_1": "organized all their financial records.",
+        "completion_2": "reviewed their compliance procedures.",
+        "log_probs_1": -27.0703125,
+        "log_probs_2": -27.6265869140625
+    },
+    {
+        "id": 75,
+        "prompt": "She logged into the portal to",
+        "completion_1": "check her grades.",
+        "completion_2": "pay her tuition bill.",
+        "log_probs_1": -9.966796875,
+        "log_probs_2": -20.1484375
+    },
+    {
+        "id": 76,
+        "prompt": "The government's new plan aims to",
+        "completion_1": "reduce carbon emissions.",
+        "completion_2": "stimulate economic growth.",
+        "log_probs_1": -10.747283935546875,
+        "log_probs_2": -10.47364616394043
+    },
+    {
+        "id": 77,
+        "prompt": "He checked the forecast to decide",
+        "completion_1": "if he should bring an umbrella.",
+        "completion_2": "what to wear for the run.",
+        "log_probs_1": -12.290618896484375,
+        "log_probs_2": -17.6796875
+    },
+    {
+        "id": 78,
+        "prompt": "The restaurant's next move was",
+        "completion_1": "to open a second location.",
+        "completion_2": "to update their dinner menu.",
+        "log_probs_1": -9.5660400390625,
+        "log_probs_2": -22.927734375
+    },
+    {
+        "id": 79,
+        "prompt": "To find his lost keys, he first",
+        "completion_1": "checked the pockets of his coat.",
+        "completion_2": "retraced his steps from the car.",
+        "log_probs_1": -17.439453125,
+        "log_probs_2": -18.12890625
+    },
+    {
+        "id": 80,
+        "prompt": "The main goal of the marketing team was",
+        "completion_1": "to increase brand awareness.",
+        "completion_2": "to generate more qualified leads.",
+        "log_probs_1": -6.83905029296875,
+        "log_probs_2": -20.899658203125
+    },
+    {
+        "id": 81,
+        "prompt": "She stopped at the gas station to",
+        "completion_1": "fill up the tank.",
+        "completion_2": "buy a coffee for the road.",
+        "log_probs_1": -9.9755859375,
+        "log_probs_2": -13.671875
+    },
+    {
+        "id": 82,
+        "prompt": "The new software feature would allow users to",
+        "completion_1": "customize their personal dashboards.",
+        "completion_2": "collaborate on documents in real-time.",
+        "log_probs_1": -25.601987838745117,
+        "log_probs_2": -17.587142944335938
+    },
+    {
+        "id": 83,
+        "prompt": "To win the case, the legal team needed",
+        "completion_1": "a key piece of physical evidence.",
+        "completion_2": "a more reliable eyewitness.",
+        "log_probs_1": -20.300575256347656,
+        "log_probs_2": -29.25
+    },
+    {
+        "id": 84,
+        "prompt": "He picked up the guitar to",
+        "completion_1": "practice the new song.",
+        "completion_2": "change a broken string.",
+        "log_probs_1": -14.15234375,
+        "log_probs_2": -15.4063720703125
+    },
+    {
+        "id": 85,
+        "prompt": "The charity's plan for the funds was",
+        "completion_1": "to build a new community center.",
+        "completion_2": "to expand their food bank program.",
+        "log_probs_1": -12.7550048828125,
+        "log_probs_2": -25.90625
+    },
+    {
+        "id": 86,
+        "prompt": "To get the cat out of the tree, he",
+        "completion_1": "tried to lure it down with food.",
+        "completion_2": "got a ladder from the garage.",
+        "log_probs_1": -21.8359375,
+        "log_probs_2": -18.6875
+    },
+    {
+        "id": 87,
+        "prompt": "The ship's captain had to",
+        "completion_1": "plot a new course to avoid the storm.",
+        "completion_2": "radio the coast guard for assistance.",
+        "log_probs_1": -14.404541015625,
+        "log_probs_2": -21.6240234375
+    },
+    {
+        "id": 88,
+        "prompt": "Before the interview, she",
+        "completion_1": "researched the company's recent projects.",
+        "completion_2": "prepared answers to common questions.",
+        "log_probs_1": -21.455596923828125,
+        "log_probs_2": -24.62890625
+    },
+    {
+        "id": 89,
+        "prompt": "The investor's decision hinged on",
+        "completion_1": "the strength of the management team.",
+        "completion_2": "the size of the potential market.",
+        "log_probs_1": -21.49560546875,
+        "log_probs_2": -23.8603515625
+    },
+    {
+        "id": 90,
+        "prompt": "To clear the error message, the user",
+        "completion_1": "restarted the application.",
+        "completion_2": "checked their internet connection.",
+        "log_probs_1": -15.697265625,
+        "log_probs_2": -13.9619140625
+    },
+    {
+        "id": 91,
+        "prompt": "The band's rehearsal focused on",
+        "completion_1": "tightening up the transitions.",
+        "completion_2": "working with the new drummer.",
+        "log_probs_1": -23.90966796875,
+        "log_probs_2": -19.421875
+    },
+    {
+        "id": 92,
+        "prompt": "She looked at the clock and realized",
+        "completion_1": "she was going to be late.",
+        "completion_2": "she had an hour before her appointment.",
+        "log_probs_1": -13.11761474609375,
+        "log_probs_2": -18.994140625
+    },
+    {
+        "id": 93,
+        "prompt": "The first item on the meeting agenda was",
+        "completion_1": "to review the sales numbers.",
+        "completion_2": "to approve the minutes from last time.",
+        "log_probs_1": -18.169921875,
+        "log_probs_2": -20.494140625
+    },
+    {
+        "id": 94,
+        "prompt": "To prepare for the exam, the student",
+        "completion_1": "made flashcards for key terms.",
+        "completion_2": "reviewed all the past assignments.",
+        "log_probs_1": -23.834930419921875,
+        "log_probs_2": -24.903656005859375
+    },
+    {
+        "id": 95,
+        "prompt": "The city's plan to reduce traffic involved",
+        "completion_1": "building a new light-rail system.",
+        "completion_2": "adding dedicated bike lanes.",
+        "log_probs_1": -23.36865234375,
+        "log_probs_2": -18.75146484375
+    },
+    {
+        "id": 96,
+        "prompt": "He opened the toolbox to find",
+        "completion_1": "a socket wrench.",
+        "completion_2": "a Phillips head screwdriver.",
+        "log_probs_1": -16.1729736328125,
+        "log_probs_2": -18.279998779296875
+    },
+    {
+        "id": 97,
+        "prompt": "The main objective of the military exercise was",
+        "completion_1": "to test the new surveillance equipment.",
+        "completion_2": "to improve coordination between units.",
+        "log_probs_1": -26.6953125,
+        "log_probs_2": -20.078125
+    },
+    {
+        "id": 98,
+        "prompt": "To complete the application, she needed",
+        "completion_1": "a letter of recommendation.",
+        "completion_2": "to provide her employment history.",
+        "log_probs_1": -13.6505126953125,
+        "log_probs_2": -16.9296875
+    },
+    {
+        "id": 99,
+        "prompt": "The agent needed to confirm",
+        "completion_1": "the client's flight details.",
+        "completion_2": "the hotel reservation.",
+        "log_probs_1": -17.32421875,
+        "log_probs_2": -14.984375
+    }
+]
