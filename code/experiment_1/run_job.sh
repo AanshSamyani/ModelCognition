@@ -6,7 +6,7 @@
 #SBATCH --nodes=1                  # Use 1 node
 #SBATCH --ntasks=1                 # Use 1 task
 #SBATCH --time=21:00:00            # 21 hours
-#SBATCH --nodelist=scn71-10g      # Force job to run on this node
+#SBATCH --nodelist=scn12-10g      # Force job to run on this node
 #SBATCH --output=output.out        # Stdout (%j = job ID)
 #SBATCH --error=output.err         # Stderr
 

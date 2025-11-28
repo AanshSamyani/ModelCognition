@@ -1,18 +1,16 @@
 #!/bin/bash
-#SBATCH --job-name=finetuning
-#SBATCH --partition=airawatp
-#SBATCH --cpus-per-task=32
-#SBATCH --gres=gpu:1
-#SBATCH --nodes=1
-#SBATCH --ntasks=1
-#SBATCH --time=21:00:00
-#SBATCH --nodelist=scn71-10g
-#SBATCH --output=output.out
-#SBATCH --error=output.err
+#SBATCH --job-name=llama_1b          # Job name
+#SBATCH --partition=airawatp       # Partition
+#SBATCH --cpus-per-task=32         # Number of CPU cores per task
+#SBATCH --gres=gpu:1               # Request 1 GPU
+#SBATCH --nodes=1                  # Use 1 node
+#SBATCH --ntasks=1                 # Use 1 task
+#SBATCH --time=21:00:00            # 21 hours
+#SBATCH --nodelist=scn12-10g      # Force job to run on this node
+#SBATCH --output=output.out        # Stdout (%j = job ID)
+#SBATCH --error=output.err         # Stderr
 
-source /nlsasfs/home/isea/isea10/anaconda3/etc/profile.d/conda.sh
-conda activate newenv
+# Run your process
+/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/bin/python finetuning_llama.py
 
-cd /nlsasfs/home/isea/isea10/aansh/introspection/code/finetuning
 
-axolotl train llama3_1b.yml
