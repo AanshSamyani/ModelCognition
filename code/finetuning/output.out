@@ -1,0 +1,16 @@
+[33m[2025-11-23 21:41:51,338] [WARNING] [axolotl.utils.schemas.config.hint_lora_8bit:871] [PID:396794] [RANK:0] We recommend setting `load_in_8bit: true` for LORA finetuning[39m
+[2025-11-23 21:41:51,465] [INFO] [axolotl.utils.config.log_gpu_memory_usage:107] [PID:396794] [RANK:0] cuda memory usage baseline: 0.000GB (+0.622GB misc)[39m
+
+     #@@ #@@      @@# @@#
+    @@  @@          @@  @@           =@@#                               @@                 #@    =@@#.
+    @@    #@@@@@@@@@    @@           #@#@=                              @@                 #@     .=@@
+      #@@@@@@@@@@@@@@@@@            =@# @#     ##=     ##    =####=+    @@      =#####+  =#@@###.   @@
+    @@@@@@@@@@/  +@@/  +@@          #@  =@=     #@=   @@   =@#+  +#@#   @@    =@#+  +#@#   #@.      @@
+    @@@@@@@@@@  ##@@  ##@@         =@#   @#      =@# @#    @@      @@   @@    @@      #@   #@       @@
+     @@@@@@@@@@@@@@@@@@@@          #@=+++#@=      =@@#     @@      @@   @@    @@      #@   #@       @@
+                                  =@#=====@@     =@# @#    @@      @@   @@    @@      #@   #@       @@
+    @@@@@@@@@@@@@@@@  @@@@        #@      #@=   #@=  +@@   #@#    =@#   @@.   =@#    =@#   #@.      @@
+                                 =@#       @#  #@=     #@   =#@@@@#=    +#@@=  +#@@@@#=    .##@@+   @@
+    @@@@  @@@@@@@@@@@@@@@@
+
+[31m[2025-11-23 21:41:53,476] [ERROR] [axolotl.cli.main.train:182] [PID:396233] [RANK:0] Failed to train/fine-tune config 'llama3_1b.yml': Command '['accelerate', 'launch', '-m', 'axolotl.cli.train', 'llama3_1b.yml', '--debug-num-examples', '0']' returned non-zero exit status 1.[39m

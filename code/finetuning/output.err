@@ -1,0 +1,139 @@
+The following values were not passed to `accelerate launch` and had defaults used instead:
+	`--num_processes` was set to a value of `1`
+	`--num_machines` was set to a value of `1`
+	`--mixed_precision` was set to a value of `'no'`
+	`--dynamo_backend` was set to a value of `'no'`
+To avoid this warning pass in values for each of the problematic parameters or run `accelerate config`.
+Traceback (most recent call last):
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/urllib3/connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x7f398502c770>: Failed to resolve 'huggingface.co' ([Errno -2] Name or service not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/whoami-v2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f398502c770>: Failed to resolve 'huggingface.co' ([Errno -2] Name or service not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/axolotl/cli/train.py", line 121, in <module>
+    fire.Fire(do_cli)
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/fire/core.py", line 475, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/fire/core.py", line 691, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/axolotl/cli/train.py", line 95, in do_cli
+    return do_train(parsed_cfg, parsed_cli_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/axolotl/cli/train.py", line 41, in do_train
+    check_user_token()
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/axolotl/cli/checks.py", line 42, in check_user_token
+    user_info = api.whoami()
+                ^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/huggingface_hub/hf_api.py", line 1795, in whoami
+    r = get_session().get(
+        ^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 95, in send
+    return super().send(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/requests/adapters.py", line 677, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/whoami-v2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f398502c770>: Failed to resolve \'huggingface.co\' ([Errno -2] Name or service not known)"))'), '(Request ID: 907be3c7-1bd4-41fc-b8f9-0421619d9e12)')
+Traceback (most recent call last):
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/bin/accelerate", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/accelerate/commands/accelerate_cli.py", line 50, in main
+    args.func(args)
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/accelerate/commands/launch.py", line 1198, in launch_command
+    simple_launcher(args)
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/accelerate/commands/launch.py", line 785, in simple_launcher
+    raise subprocess.CalledProcessError(returncode=process.returncode, cmd=cmd)
+subprocess.CalledProcessError: Command '['/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/bin/python3.12', '-m', 'axolotl.cli.train', 'llama3_1b.yml', '--debug-num-examples', '0']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/bin/axolotl", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/axolotl/cli/main.py", line 362, in main
+    cli()
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/click/core.py", line 1462, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/click/core.py", line 1383, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/click/core.py", line 1850, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/click/core.py", line 1246, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/click/core.py", line 814, in invoke
+    return callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/axolotl/cli/utils.py", line 65, in wrapper
+    return func(*args, **filtered_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/axolotl/cli/main.py", line 184, in train
+    raise exc
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/site-packages/axolotl/cli/main.py", line 169, in train
+    subprocess.run(cmd, check=True)  # nosec B603
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nlsasfs/home/isea/isea10/anaconda3/envs/newenv/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['accelerate', 'launch', '-m', 'axolotl.cli.train', 'llama3_1b.yml', '--debug-num-examples', '0']' returned non-zero exit status 1.
