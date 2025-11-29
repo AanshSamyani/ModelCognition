@@ -14,8 +14,9 @@ from datasets import Dataset
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name="/nlsasfs/home/isea/isea10/aansh/deception_detection/weights/unsloth/Llama-3.2-1B-Instruct",
     dtype=None,          # <- force float16 to avoid bfloat16 issues
-    load_in_4bit=True,
+    load_in_4bit=False,
     load_in_8bit=False,
+    load_in_16bit = True,
 )
 
 # -----------------------------
@@ -103,5 +104,5 @@ trainer_stats = trainer.train()
 # -----------------------------
 # 8️⃣ Save
 # -----------------------------
-model.save_pretrained("finetuned_llama_1b_multi_token")
-tokenizer.save_pretrained("finetuned_llama_1b_multi_token")
+model.save_pretrained("/nlsasfs/home/isea/isea10/aansh/introspection_weights/finetuned_llama_1b_8bit")
+tokenizer.save_pretrained("/nlsasfs/home/isea/isea10/aansh/introspection_weights/finetuned_llama_1b_8bit")

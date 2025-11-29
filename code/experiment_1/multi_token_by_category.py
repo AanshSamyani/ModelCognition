@@ -11,7 +11,7 @@ from evaluation import evaluate_model_on_multi_token_completion, evaluate_model_
 
 @dataclass
 class ExperimentConfig:
-    model_name: str = "/nlsasfs/home/isea/isea10/aansh/introspection_weights/finetuned_llama_1b_merged"
+    model_name: str = "/nlsasfs/home/isea/isea10/aansh/introspection_weights/finetuned_llama_1b_16bit"
     dataset_path: str = "/nlsasfs/home/isea/isea10/aansh/introspection/data/exp1/multi_token_completions"
     output_dir: str = "/nlsasfs/home/isea/isea10/aansh/introspection/results/exp_1_llama_1b/finetuned_multi_token"
     log_probs_output_filename: str = "log_probs.json"

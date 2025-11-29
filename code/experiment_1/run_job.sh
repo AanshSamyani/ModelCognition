@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=exp_70b          # Job name
+#SBATCH --job-name=llama_1b_16bit          # Job name
 #SBATCH --partition=airawatp       # Partition
 #SBATCH --cpus-per-task=32         # Number of CPU cores per task
 #SBATCH --gres=gpu:1               # Request 1 GPU
