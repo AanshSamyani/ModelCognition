@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "prompt": "She opened the toolbox",
+        "completion_1": "and reached for the screwdriver.",
+        "completion_2": "and checked if the wrench was the right size.",
+        "log_probs_1": -7.6343994140625,
+        "log_probs_2": -26.265625
+    },
+    {
+        "id": 1,
+        "prompt": "He opened the refrigerator",
+        "completion_1": "and pulled out the milk carton.",
+        "completion_2": "and grabbed the leftover pizza.",
+        "log_probs_1": -10.497970581054688,
+        "log_probs_2": -13.458984375
+    },
+    {
+        "id": 2,
+        "prompt": "She sat down at the piano",
+        "completion_1": "and began to play a complex sonata.",
+        "completion_2": "and started with some simple warm-up scales.",
+        "log_probs_1": -12.005859375,
+        "log_probs_2": -37.5390625
+    },
+    {
+        "id": 3,
+        "prompt": "He turned on his computer",
+        "completion_1": "and opened his email client.",
+        "completion_2": "and launched his coding environment.",
+        "log_probs_1": -11.3046875,
+        "log_probs_2": -29.88671875
+    },
+    {
+        "id": 4,
+        "prompt": "She picked up the phone",
+        "completion_1": "and dialed her boss's number.",
+        "completion_2": "and checked her waiting text messages.",
+        "log_probs_1": -8.46615982055664,
+        "log_probs_2": -29.9677734375
+    },
+    {
+        "id": 5,
+        "prompt": "He walked into the kitchen",
+        "completion_1": "and started the coffee maker.",
+        "completion_2": "and opened the pantry to find a snack.",
+        "log_probs_1": -10.2412109375,
+        "log_probs_2": -28.737197875976562
+    },
+    {
+        "id": 6,
+        "prompt": "She picked up the book",
+        "completion_1": "and flipped to the table of contents.",
+        "completion_2": "and opened it to the bookmark she had placed.",
+        "log_probs_1": -14.251182556152344,
+        "log_probs_2": -19.42041015625
+    },
+    {
+        "id": 7,
+        "prompt": "He grabbed the leash",
+        "completion_1": "and called the dog to come to the door.",
+        "completion_2": "and checked to make sure the back gate was closed.",
+        "log_probs_1": -19.3359375,
+        "log_probs_2": -28.320537567138672
+    },
+    {
+        "id": 8,
+        "prompt": "She measured the flour",
+        "completion_1": "and sifted it into the large mixing bowl.",
+        "completion_2": "and added it directly to the wet ingredients.",
+        "log_probs_1": -16.086368560791016,
+        "log_probs_2": -17.456695556640625
+    },
+    {
+        "id": 9,
+        "prompt": "He put the key in the ignition",
+        "completion_1": "and turned it to start the engine.",
+        "completion_2": "and turned it to 'accessory' to listen to the radio.",
+        "log_probs_1": -8.7169189453125,
+        "log_probs_2": -33.2216796875
+    },
+    {
+        "id": 10,
+        "prompt": "She entered the dark room",
+        "completion_1": "and felt along the wall for the light switch.",
+        "completion_2": "and pulled open the heavy curtains.",
+        "log_probs_1": -19.994216918945312,
+        "log_probs_2": -15.9512939453125
+    },
+    {
+        "id": 11,
+        "prompt": "He stepped up to the microphone",
+        "completion_1": "and cleared his throat to begin the speech.",
+        "completion_2": "and tapped it twice to see if it was on.",
+        "log_probs_1": -7.038402557373047,
+        "log_probs_2": -28.564453125
+    },
+    {
+        "id": 12,
+        "prompt": "She opened the garden shed",
+        "completion_1": "and grabbed the lawnmower.",
+        "completion_2": "and looked for the bag of fertilizer.",
+        "log_probs_1": -20.14006805419922,
+        "log_probs_2": -24.205078125
+    },
+    {
+        "id": 13,
+        "prompt": "He picked up the remote control",
+        "completion_1": "and turned on the television.",
+        "completion_2": "and used it to dim the smart lights.",
+        "log_probs_1": -6.3017578125,
+        "log_probs_2": -34.36529541015625
+    },
+    {
+        "id": 14,
+        "prompt": "She took out her notebook",
+        "completion_1": "and started to write down the lecture notes.",
+        "completion_2": "and flipped to the back to review her old study guide.",
+        "log_probs_1": -17.276611328125,
+        "log_probs_2": -47.855712890625
+    },
+    {
+        "id": 15,
+        "prompt": "He opened the oven",
+        "completion_1": "to put the casserole inside.",
+        "completion_2": "to check if the cookies were done baking.",
+        "log_probs_1": -15.767419338226318,
+        "log_probs_2": -12.58251953125
+    },
+    {
+        "id": 16,
+        "prompt": "She picked up her guitar",
+        "completion_1": "and started tuning the E string.",
+        "completion_2": "and began to strum her favorite chord progression.",
+        "log_probs_1": -28.931640625,
+        "log_probs_2": -14.37117338180542
+    },
+    {
+        "id": 17,
+        "prompt": "He found the first-aid kit",
+        "completion_1": "and opened it to find a bandage.",
+        "completion_2": "and looked for the antiseptic spray.",
+        "log_probs_1": -16.862060546875,
+        "log_probs_2": -16.717060089111328
+    },
+    {
+        "id": 18,
+        "prompt": "She sat down at her desk",
+        "completion_1": "and organized the stack of papers.",
+        "completion_2": "and turned on her desktop monitor.",
+        "log_probs_1": -19.49221968650818,
+        "log_probs_2": -26.5078125
+    },
+    {
+        "id": 19,
+        "prompt": "He grabbed his helmet",
+        "completion_1": "and buckled the chinstrap.",
+        "completion_2": "and wiped the dust off the visor.",
+        "log_probs_1": -16.831146240234375,
+        "log_probs_2": -18.812957763671875
+    },
+    {
+        "id": 20,
+        "prompt": "She stepped onto the treadmill",
+        "completion_1": "and selected the 'hill climb' program.",
+        "completion_2": "and started a slow walk to warm up.",
+        "log_probs_1": -25.479568481445312,
+        "log_probs_2": -25.888916015625
+    },
+    {
+        "id": 21,
+        "prompt": "He logged into the game",
+        "completion_1": "and joined his friends in the party chat.",
+        "completion_2": "and went to the marketplace to sell his items.",
+        "log_probs_1": -25.43359375,
+        "log_probs_2": -33.263671875
+    },
+    {
+        "id": 22,
+        "prompt": "She set up the canvas",
+        "completion_1": "and began to sketch the outline in charcoal.",
+        "completion_2": "and mixed her primary colors on the palette.",
+        "log_probs_1": -20.9814453125,
+        "log_probs_2": -22.5196533203125
+    },
+    {
+        "id": 23,
+        "prompt": "He opened the closet",
+        "completion_1": "and pulled out his heavy winter coat.",
+        "completion_2": "and reached for his running shoes on the floor.",
+        "log_probs_1": -18.970169067382812,
+        "log_probs_2": -26.813232421875
+    },
+    {
+        "id": 24,
+        "prompt": "She picked up the needle",
+        "completion_1": "and carefully threaded it with the red string.",
+        "completion_2": "and started to sew the button back on the shirt.",
+        "log_probs_1": -20.111328125,
+        "log_probs_2": -17.470703125
+    },
+    {
+        "id": 25,
+        "prompt": "He opened the project file",
+        "completion_1": "and immediately ran the program to check for bugs.",
+        "completion_2": "and started reading through the documentation.",
+        "log_probs_1": -28.34375,
+        "log_probs_2": -15.0196533203125
+    },
+    {
+        "id": 26,
+        "prompt": "She walked to the window",
+        "completion_1": "and looked outside to see if it was still raining.",
+        "completion_2": "and opened it to let in some fresh air.",
+        "log_probs_1": -19.9248046875,
+        "log_probs_2": -12.5677490234375
+    },
+    {
+        "id": 27,
+        "prompt": "He unfolded the map",
+        "completion_1": "and traced their planned route with his finger.",
+        "completion_2": "and tried to find the legend to check the scale.",
+        "log_probs_1": -21.2354736328125,
+        "log_probs_2": -43.9521484375
+    },
+    {
+        "id": 28,
+        "prompt": "She grabbed the bottle of wine",
+        "completion_1": "and looked for the corkscrew.",
+        "completion_2": "and put it in the fridge to chill.",
+        "log_probs_1": -16.684738159179688,
+        "log_probs_2": -14.24462890625
+    },
+    {
+        "id": 29,
+        "prompt": "He stood at the edge of the pool",
+        "completion_1": "and dove cleanly into the deep end.",
+        "completion_2": "and dipped his toe in to test the water temperature.",
+        "log_probs_1": -27.220703125,
+        "log_probs_2": -22.71142578125
+    },
+    {
+        "id": 30,
+        "prompt": "She started the car",
+        "completion_1": "and immediately turned on the air conditioning.",
+        "completion_2": "and pulled up the directions on her phone.",
+        "log_probs_1": -18.91766357421875,
+        "log_probs_2": -32.466796875
+    },
+    {
+        "id": 31,
+        "prompt": "He picked up the broom",
+        "completion_1": "and started sweeping the kitchen floor.",
+        "completion_2": "and tried to knock down a cobweb in the corner.",
+        "log_probs_1": -7.1895751953125,
+        "log_probs_2": -32.36260986328125
+    },
+    {
+        "id": 32,
+        "prompt": "She opened the paint can",
+        "completion_1": "and began to stir the contents with a wooden stick.",
+        "completion_2": "and dipped her brush in to test the color.",
+        "log_probs_1": -20.15771484375,
+        "log_probs_2": -25.459228515625
+    },
+    {
+        "id": 33,
+        "prompt": "He loaded the dishwasher",
+        "completion_1": "and added the detergent pod.",
+        "completion_2": "and selected the 'heavy wash' cycle.",
+        "log_probs_1": -26.28515625,
+        "log_probs_2": -26.989990234375
+    },
+    {
+        "id": 34,
+        "prompt": "She put on her running shoes",
+        "completion_1": "and tied them in a tight double-knot.",
+        "completion_2": "and headed out the front door for her jog.",
+        "log_probs_1": -35.511962890625,
+        "log_probs_2": -15.685677528381348
+    },
+    {
+        "id": 35,
+        "prompt": "He took out his wallet",
+        "completion_1": "and pulled out his credit card.",
+        "completion_2": "and took out a twenty-dollar bill.",
+        "log_probs_1": -5.7728271484375,
+        "log_probs_2": -15.027877807617188
+    },
+    {
+        "id": 36,
+        "prompt": "She reached for the spice rack",
+        "completion_1": "and grabbed the bottle of oregano.",
+        "completion_2": "and searched for the ground cumin.",
+        "log_probs_1": -16.312978506088257,
+        "log_probs_2": -19.98291015625
+    },
+    {
+        "id": 37,
+        "prompt": "He opened the spreadsheet",
+        "completion_1": "and started entering the new sales data.",
+        "completion_2": "and filtered the list to see last month's totals.",
+        "log_probs_1": -12.775390625,
+        "log_probs_2": -40.93914794921875
+    },
+    {
+        "id": 38,
+        "prompt": "She turned on the shower",
+        "completion_1": "and waited for the water to get hot.",
+        "completion_2": "and stepped in immediately.",
+        "log_probs_1": -11.429046630859375,
+        "log_probs_2": -14.74609375
+    },
+    {
+        "id": 39,
+        "prompt": "He picked up the watering can",
+        "completion_1": "and filled it up at the kitchen sink.",
+        "completion_2": "and checked to see if the soil in the ficus was dry.",
+        "log_probs_1": -17.94915771484375,
+        "log_probs_2": -44.1064453125
+    },
+    {
+        "id": 40,
+        "prompt": "She opened the terminal",
+        "completion_1": "and typed 'ls -la' to list the files.",
+        "completion_2": "and ssh'd into the remote server.",
+        "log_probs_1": -23.0869140625,
+        "log_probs_2": -18.294677734375
+    },
+    {
+        "id": 41,
+        "prompt": "He struck the match",
+        "completion_1": "and lit the candle on the table.",
+        "completion_2": "and used it to start the campfire.",
+        "log_probs_1": -8.10400390625,
+        "log_probs_2": -19.888824462890625
+    },
+    {
+        "id": 42,
+        "prompt": "She arrived at the meeting",
+        "completion_1": "and took a seat in the back row.",
+        "completion_2": "and went to the front to greet the presenter.",
+        "log_probs_1": -12.71826171875,
+        "log_probs_2": -31.26953125
+    },
+    {
+        "id": 43,
+        "prompt": "He opened the envelope",
+        "completion_1": "and pulled out the three-page letter.",
+        "completion_2": "and checked the return address first.",
+        "log_probs_1": -17.30926513671875,
+        "log_probs_2": -20.164886474609375
+    },
+    {
+        "id": 44,
+        "prompt": "She put the pot on the stove",
+        "completion_1": "and added two cups of water.",
+        "completion_2": "and turned the burner to high.",
+        "log_probs_1": -12.87982177734375,
+        "log_probs_2": -5.18408203125
+    },
+    {
+        "id": 45,
+        "prompt": "He picked up the baby",
+        "completion_1": "and gently rocked him back and forth.",
+        "completion_2": "and checked to see if his diaper was wet.",
+        "log_probs_1": -9.92388916015625,
+        "log_probs_2": -22.765625
+    },
+    {
+        "id": 46,
+        "prompt": "She found the page in the textbook",
+        "completion_1": "and started reading the first paragraph.",
+        "completion_2": "and looked at the diagrams at the bottom.",
+        "log_probs_1": -20.8984375,
+        "log_probs_2": -28.61041259765625
+    },
+    {
+        "id": 47,
+        "prompt": "He stepped on the scale",
+        "completion_1": "and waited for the digital display to lock.",
+        "completion_2": "and adjusted the small weights to balance it.",
+        "log_probs_1": -23.820724487304688,
+        "log_probs_2": -27.68359375
+    },
+    {
+        "id": 48,
+        "prompt": "She set down her luggage",
+        "completion_1": "and unzipped the main compartment.",
+        "completion_2": "and kicked off her shoes.",
+        "log_probs_1": -19.70908260345459,
+        "log_probs_2": -13.74285888671875
+    },
+    {
+        "id": 49,
+        "prompt": "He looked through the binoculars",
+        "completion_1": "and focused on the ship on the horizon.",
+        "completion_2": "and tried to identify the bird in the tree.",
+        "log_probs_1": -16.065353393554688,
+        "log_probs_2": -20.873443603515625
+    },
+    {
+        "id": 50,
+        "prompt": "She opened the camera app",
+        "completion_1": "and switched to the front-facing camera.",
+        "completion_2": "and zoomed in on the distant landmark.",
+        "log_probs_1": -13.296875,
+        "log_probs_2": -23.480066776275635
+    },
+    {
+        "id": 51,
+        "prompt": "He picked up the dice",
+        "completion_1": "and shook them vigorously in his hand.",
+        "completion_2": "and rolled them across the game board.",
+        "log_probs_1": -14.103515625,
+        "log_probs_2": -15.004226684570312
+    },
+    {
+        "id": 52,
+        "prompt": "She grabbed the fire extinguisher",
+        "completion_1": "and pulled the pin.",
+        "completion_2": "and checked the pressure gauge.",
+        "log_probs_1": -5.970703125,
+        "log_probs_2": -16.97119140625
+    },
+    {
+        "id": 53,
+        "prompt": "He put on his glasses",
+        "completion_1": "and squinted at the tiny print.",
+        "completion_2": "and cleaned them with a microfiber cloth.",
+        "log_probs_1": -16.39767074584961,
+        "log_probs_2": -21.631671905517578
+    },
+    {
+        "id": 54,
+        "prompt": "She reached into her bag",
+        "completion_1": "and pulled out her car keys.",
+        "completion_2": "and felt for her ringing phone.",
+        "log_probs_1": -11.610235929489136,
+        "log_probs_2": -23.233642578125
+    },
+    {
+        "id": 55,
+        "prompt": "He opened the filing cabinet",
+        "completion_1": "and went to the drawer labeled 'A-C'.",
+        "completion_2": "and pulled out the file on the 'Johnson' account.",
+        "log_probs_1": -32.255859375,
+        "log_probs_2": -28.957443237304688
+    },
+    {
+        "id": 56,
+        "prompt": "She walked to the podium",
+        "completion_1": "and adjusted the microphone height.",
+        "completion_2": "and laid her prepared notes down.",
+        "log_probs_1": -18.966796875,
+        "log_probs_2": -31.078125
+    },
+    {
+        "id": 57,
+        "prompt": "He turned the page",
+        "completion_1": "and started reading the next chapter.",
+        "completion_2": "and looked at the illustration on the other side.",
+        "log_probs_1": -7.4990234375,
+        "log_probs_2": -17.37689208984375
+    },
+    {
+        "id": 58,
+        "prompt": "She opened the web browser",
+        "completion_1": "and typed in the URL for the news site.",
+        "completion_2": "and checked her bookmarks bar.",
+        "log_probs_1": -15.00732421875,
+        "log_probs_2": -25.2236328125
+    },
+    {
+        "id": 59,
+        "prompt": "He picked up the cat",
+        "completion_1": "and stroked its soft fur.",
+        "completion_2": "and checked its paw for a thorn.",
+        "log_probs_1": -5.97467041015625,
+        "log_probs_2": -27.885406494140625
+    },
+    {
+        "id": 60,
+        "prompt": "She reached for the top shelf",
+        "completion_1": "and grabbed the box of cereal.",
+        "completion_2": "and stood on her tiptoes to get the vase.",
+        "log_probs_1": -11.855224609375,
+        "log_probs_2": -19.56766128540039
+    },
+    {
+        "id": 61,
+        "prompt": "He examined the plant",
+        "completion_1": "and noticed tiny new leaves sprouting.",
+        "completion_2": "and saw that the leaves were turning yellow.",
+        "log_probs_1": -26.149280548095703,
+        "log_probs_2": -14.033203125
+    },
+    {
+        "id": 62,
+        "prompt": "She unlocked her phone",
+        "completion_1": "and opened her messaging app.",
+        "completion_2": "and checked the weather forecast.",
+        "log_probs_1": -14.871917724609375,
+        "log_probs_2": -11.03515625
+    },
+    {
+        "id": 63,
+        "prompt": "He opened the washing machine",
+        "completion_1": "and started to load his dirty clothes.",
+        "completion_2": "and pulled out the wet, clean laundry.",
+        "log_probs_1": -14.0029296875,
+        "log_probs_2": -15.401611328125
+    },
+    {
+        "id": 64,
+        "prompt": "She stepped onto the bus",
+        "completion_1": "and scanned her pass on the reader.",
+        "completion_2": "and looked for an empty seat by the window.",
+        "log_probs_1": -25.48095703125,
+        "log_probs_2": -12.666900634765625
+    },
+    {
+        "id": 65,
+        "prompt": "He picked up the menu",
+        "completion_1": "and started looking at the appetizers.",
+        "completion_2": "and flipped it over to see the drink specials.",
+        "log_probs_1": -15.8818359375,
+        "log_probs_2": -20.59033203125
+    },
+    {
+        "id": 66,
+        "prompt": "She unrolled the yoga mat",
+        "completion_1": "and sat down in a cross-legged position.",
+        "completion_2": "and started with a downward-facing dog pose.",
+        "log_probs_1": -15.673583984375,
+        "log_probs_2": -19.253173828125
+    },
+    {
+        "id": 67,
+        "prompt": "He got to the crossroads",
+        "completion_1": "and turned left to go to the store.",
+        "completion_2": "and continued straight to get to the park.",
+        "log_probs_1": -18.76171875,
+        "log_probs_2": -37.2255859375
+    },
+    {
+        "id": 68,
+        "prompt": "She opened the bottle of vitamins",
+        "completion_1": "and shook two tablets into her hand.",
+        "completion_2": "and checked the expiration date on the label.",
+        "log_probs_1": -19.13525390625,
+        "log_probs_2": -10.2978515625
+    },
+    {
+        "id": 69,
+        "prompt": "He put the luggage in the trunk",
+        "completion_1": "and slammed it shut.",
+        "completion_2": "and rearranged it to make more space.",
+        "log_probs_1": -9.716796875,
+        "log_probs_2": -21.400909423828125
+    },
+    {
+        "id": 70,
+        "prompt": "She looked in the mirror",
+        "completion_1": "and started to apply her lipstick.",
+        "completion_2": "and tucked a stray hair behind her ear.",
+        "log_probs_1": -21.078125,
+        "log_probs_2": -16.35107421875
+    },
+    {
+        "id": 71,
+        "prompt": "He opened the grammar book",
+        "completion_1": "and looked up the rule for subjunctive mood.",
+        "completion_2": "and started doing the exercises in chapter 3.",
+        "log_probs_1": -20.807266235351562,
+        "log_probs_2": -25.50390625
+    },
+    {
+        "id": 72,
+        "prompt": "She picked up the empty glass",
+        "completion_1": "and put it in the dishwasher.",
+        "completion_2": "and refilled it with water from the tap.",
+        "log_probs_1": -4.0379791259765625,
+        "log_probs_2": -8.802574157714844
+    },
+    {
+        "id": 73,
+        "prompt": "He grabbed the camera",
+        "completion_1": "and checked the battery level.",
+        "completion_2": "and attached the large zoom lens.",
+        "log_probs_1": -17.98046875,
+        "log_probs_2": -24.611007690429688
+    },
+    {
+        "id": 74,
+        "prompt": "She took the roast out of the oven",
+        "completion_1": "and let it rest on the cutting board.",
+        "completion_2": "and checked its internal temperature with a thermometer.",
+        "log_probs_1": -16.043071746826172,
+        "log_probs_2": -20.931476593017578
+    },
+    {
+        "id": 75,
+        "prompt": "He joined the video call",
+        "completion_1": "and immediately muted his microphone.",
+        "completion_2": "and turned on his camera to say hello.",
+        "log_probs_1": -16.0,
+        "log_probs_2": -22.3251953125
+    },
+    {
+        "id": 76,
+        "prompt": "She picked up the scissors",
+        "completion_1": "and began to cut the wrapping paper.",
+        "completion_2": "and trimmed the stray threads from the hem.",
+        "log_probs_1": -10.34423828125,
+        "log_probs_2": -26.8212890625
+    },
+    {
+        "id": 77,
+        "prompt": "He opened the junk drawer",
+        "completion_1": "and searched for a rubber band.",
+        "completion_2": "and grabbed the small screwdriver.",
+        "log_probs_1": -17.617431640625,
+        "log_probs_2": -20.01202392578125
+    },
+    {
+        "id": 78,
+        "prompt": "She put on her gloves",
+        "completion_1": "and picked up the snow shovel.",
+        "completion_2": "and grabbed the pruning shears.",
+        "log_probs_1": -13.46044921875,
+        "log_probs_2": -15.52800178527832
+    },
+    {
+        "id": 79,
+        "prompt": "He raised his hand",
+        "completion_1": "to ask the teacher a question.",
+        "completion_2": "to volunteer for the presentation.",
+        "log_probs_1": -8.490478515625,
+        "log_probs_2": -21.0185546875
+    },
+    {
+        "id": 80,
+        "prompt": "She found the light switch",
+        "completion_1": "and flicked it on, flooding the room with light.",
+        "completion_2": "and slowly pushed the dimmer up.",
+        "log_probs_1": -23.0614013671875,
+        "log_probs_2": -30.109375
+    },
+    {
+        "id": 81,
+        "prompt": "He took the bread out of the toaster",
+        "completion_1": "and spread butter on it.",
+        "completion_2": "and put it on a plate.",
+        "log_probs_1": -7.3956298828125,
+        "log_probs_2": -7.647705078125
+    },
+    {
+        "id": 82,
+        "prompt": "She opened the package",
+        "completion_1": "and pulled out the new sweater.",
+        "completion_2": "and sorted through the packing peanuts.",
+        "log_probs_1": -12.643806457519531,
+        "log_probs_2": -24.972900390625
+    },
+    {
+        "id": 83,
+        "prompt": "He looked at his watch",
+        "completion_1": "and saw that he was running late.",
+        "completion_2": "and started timing his run.",
+        "log_probs_1": -8.3076171875,
+        "log_probs_2": -25.4150390625
+    },
+    {
+        "id": 84,
+        "prompt": "She rolled out the dough",
+        "completion_1": "and cut it into cookie shapes.",
+        "completion_2": "and placed it in the pie pan.",
+        "log_probs_1": -15.652313232421875,
+        "log_probs_2": -17.39697265625
+    },
+    {
+        "id": 85,
+        "prompt": "He picked up the newspaper",
+        "completion_1": "and opened it to the sports section.",
+        "completion_2": "and checked the front-page headlines.",
+        "log_probs_1": -9.267578125,
+        "log_probs_2": -18.65869140625
+    },
+    {
+        "id": 86,
+        "prompt": "She picked up the chalk",
+        "completion_1": "and wrote the equation on the blackboard.",
+        "completion_2": "and drew a hopscotch grid on the sidewalk.",
+        "log_probs_1": -15.542390823364258,
+        "log_probs_2": -18.784088134765625
+    },
+    {
+        "id": 87,
+        "prompt": "He stepped onto the elevator",
+        "completion_1": "and pressed the button for the 10th floor.",
+        "completion_2": "and waited for the doors to close.",
+        "log_probs_1": -8.700706481933594,
+        "log_probs_2": -10.646476745605469
+    },
+    {
+        "id": 88,
+        "prompt": "She unfolded the lawn chair",
+        "completion_1": "and set it up facing the lake.",
+        "completion_2": "and checked to make sure it was locked in place.",
+        "log_probs_1": -23.50628662109375,
+        "log_probs_2": -31.097518920898438
+    },
+    {
+        "id": 89,
+        "prompt": "He checked his pocket",
+        "completion_1": "and felt the reassuring shape of his keys.",
+        "completion_2": "and realized his wallet was missing.",
+        "log_probs_1": -18.065460205078125,
+        "log_probs_2": -13.2529296875
+    },
+    {
+        "id": 90,
+        "prompt": "She opened the dictionary",
+        "completion_1": "and looked up the meaning of 'ephemeral'.",
+        "completion_2": "and flipped to the section on word origins.",
+        "log_probs_1": -22.268341064453125,
+        "log_probs_2": -17.006591796875
+    },
+    {
+        "id": 91,
+        "prompt": "He grabbed the sponge",
+        "completion_1": "and started scrubbing the burnt-on food.",
+        "completion_2": "and soaked it in the soapy water.",
+        "log_probs_1": -21.676538467407227,
+        "log_probs_2": -12.589004516601562
+    },
+    {
+        "id": 92,
+        "prompt": "She filled the kettle",
+        "completion_1": "and put it on the stove to boil.",
+        "completion_2": "and poured the water into the teapot.",
+        "log_probs_1": -3.26885986328125,
+        "log_probs_2": -11.19110107421875
+    },
+    {
+        "id": 93,
+        "prompt": "He found the right socket",
+        "completion_1": "and attached it to the ratchet handle.",
+        "completion_2": "and used it to loosen the bolt.",
+        "log_probs_1": -28.875,
+        "log_probs_2": -18.112060546875
+    },
+    {
+        "id": 94,
+        "prompt": "She put the coin in the slot",
+        "completion_1": "and pressed the button for a soda.",
+        "completion_2": "and turned the crank to get a gumball.",
+        "log_probs_1": -23.765625,
+        "log_probs_2": -28.149810791015625
+    },
+    {
+        "id": 95,
+        "prompt": "He picked up the binoculars",
+        "completion_1": "and adjusted the focus knob.",
+        "completion_2": "and scanned the horizon.",
+        "log_probs_1": -23.650390625,
+        "log_probs_2": -11.8946533203125
+    },
+    {
+        "id": 96,
+        "prompt": "She grabbed the bottle of glue",
+        "completion_1": "and applied it to the broken piece of the vase.",
+        "completion_2": "and squeezed a large puddle onto the paper.",
+        "log_probs_1": -17.6387939453125,
+        "log_probs_2": -22.84710121154785
+    },
+    {
+        "id": 97,
+        "prompt": "He read the first line of the email",
+        "completion_1": "and immediately clicked 'reply'.",
+        "completion_2": "and scrolled down to see who sent it.",
+        "log_probs_1": -18.64453125,
+        "log_probs_2": -25.36865234375
+    },
+    {
+        "id": 98,
+        "prompt": "She approached the counter",
+        "completion_1": "and asked the clerk for help.",
+        "completion_2": "and placed her items down to be scanned.",
+        "log_probs_1": -15.078125,
+        "log_probs_2": -28.6865234375
+    },
+    {
+        "id": 99,
+        "prompt": "He opened the bag of chips",
+        "completion_1": "and poured them into a large bowl.",
+        "completion_2": "and began eating them one by one.",
+        "log_probs_1": -18.843505859375,
+        "log_probs_2": -16.534865379333496
+    }
+]

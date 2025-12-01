@@ -4,807 +4,807 @@
         "prompt": "Tom adjusted the straps on his backpack",
         "completion_1": "before starting the long walk home.",
         "completion_2": "as he prepared to head into the crowded station.",
-        "log_probs_1": -25.3125,
-        "log_probs_2": -24.04742431640625
+        "log_probs_1": -25.5625,
+        "log_probs_2": -24.026123046875
     },
     {
         "id": 1,
         "prompt": "Sarah checked her watch",
         "completion_1": "and realized she was going to be late.",
         "completion_2": "to see how long the bus had been delayed.",
-        "log_probs_1": -14.083740234375,
-        "log_probs_2": -23.08251953125
+        "log_probs_1": -14.07568359375,
+        "log_probs_2": -22.6158447265625
     },
     {
         "id": 2,
         "prompt": "He picked up the phone",
         "completion_1": "and immediately dialed his boss.",
         "completion_2": "to silence the ringing alarm.",
-        "log_probs_1": -18.509750366210938,
-        "log_probs_2": -21.8671875
+        "log_probs_1": -18.384857177734375,
+        "log_probs_2": -22.0703125
     },
     {
         "id": 3,
         "prompt": "Maria closed the laptop",
         "completion_1": "and sighed, finished with work for the day.",
         "completion_2": "and tucked it into her bag for the presentation.",
-        "log_probs_1": -32.575439453125,
-        "log_probs_2": -26.63623046875
+        "log_probs_1": -32.777587890625,
+        "log_probs_2": -26.52099609375
     },
     {
         "id": 4,
         "prompt": "The dog suddenly stopped",
         "completion_1": "and stared intently at the bushes.",
         "completion_2": "and turned to wait for its owner.",
-        "log_probs_1": -23.33772611618042,
-        "log_probs_2": -19.29296875
+        "log_probs_1": -22.999587535858154,
+        "log_probs_2": -19.146728515625
     },
     {
         "id": 5,
         "prompt": "David glanced at the front door",
         "completion_1": "hoping his guest would arrive soon.",
         "completion_2": "making sure he had locked it.",
-        "log_probs_1": -28.19256591796875,
-        "log_probs_2": -19.28662109375
+        "log_probs_1": -28.434539794921875,
+        "log_probs_2": -18.99072265625
     },
     {
         "id": 6,
         "prompt": "Lisa opened the refrigerator",
         "completion_1": "and scanned the shelves for a quick snack.",
         "completion_2": "to put away the milk she just bought.",
-        "log_probs_1": -23.081298828125,
-        "log_probs_2": -28.91796875
+        "log_probs_1": -23.050048828125,
+        "log_probs_2": -29.02734375
     },
     {
         "id": 7,
         "prompt": "The music suddenly cut out",
         "completion_1": "leaving the room in an awkward silence.",
         "completion_2": "just as the DJ announced the next song.",
-        "log_probs_1": -16.7742919921875,
-        "log_probs_2": -20.8837890625
+        "log_probs_1": -16.9398193359375,
+        "log_probs_2": -20.7744140625
     },
     {
         "id": 8,
         "prompt": "Alex reached into his pocket",
         "completion_1": "searching for his lost keys.",
         "completion_2": "to pull out a treat for the dog.",
-        "log_probs_1": -16.3193359375,
-        "log_probs_2": -24.347716331481934
+        "log_probs_1": -16.474609375,
+        "log_probs_2": -24.437538623809814
     },
     {
         "id": 9,
         "prompt": "The baby pointed at the window",
         "completion_1": "fascinated by the passing car.",
         "completion_2": "wanting to go outside and play.",
-        "log_probs_1": -24.78515625,
-        "log_probs_2": -21.07568359375
+        "log_probs_1": -24.7265625,
+        "log_probs_2": -21.1787109375
     },
     {
         "id": 10,
         "prompt": "She folded the piece of paper",
         "completion_1": "and carefully placed it in an envelope.",
         "completion_2": "and tucked it into her back pocket.",
-        "log_probs_1": -11.74652099609375,
-        "log_probs_2": -13.627288818359375
+        "log_probs_1": -11.509002685546875,
+        "log_probs_2": -13.404449462890625
     },
     {
         "id": 11,
         "prompt": "He turned the page",
         "completion_1": "and gasped at the sudden plot twist.",
         "completion_2": "and continued reading the manual.",
-        "log_probs_1": -27.952362060546875,
-        "log_probs_2": -21.03564453125
+        "log_probs_1": -28.2138671875,
+        "log_probs_2": -20.859375
     },
     {
         "id": 12,
         "prompt": "The oven timer went off",
         "completion_1": "signaling that the cookies were done.",
         "completion_2": "reminding her to preheat it for dinner.",
-        "log_probs_1": -15.2607421875,
-        "log_probs_2": -27.49859619140625
+        "log_probs_1": -14.8896484375,
+        "log_probs_2": -27.39520263671875
     },
     {
         "id": 13,
         "prompt": "Kevin looked up at the sky",
         "completion_1": "and noticed the dark clouds rolling in.",
         "completion_2": "and smiled at the bright full moon.",
-        "log_probs_1": -16.6552734375,
-        "log_probs_2": -18.471771240234375
+        "log_probs_1": -16.90576171875,
+        "log_probs_2": -18.585968017578125
     },
     {
         "id": 14,
         "prompt": "She dropped the keys on the table",
         "completion_1": "and immediately headed for the kitchen.",
         "completion_2": "and grabbed them again, remembering she forgot something.",
-        "log_probs_1": -21.248779296875,
-        "log_probs_2": -39.6484375
+        "log_probs_1": -20.93505859375,
+        "log_probs_2": -39.71875
     },
     {
         "id": 15,
         "prompt": "The car swerved",
         "completion_1": "to avoid the pothole in the road.",
         "completion_2": "as it took the sharp corner too fast.",
-        "log_probs_1": -11.038959503173828,
-        "log_probs_2": -22.6953125
+        "log_probs_1": -10.968130111694336,
+        "log_probs_2": -22.580078125
     },
     {
         "id": 16,
         "prompt": "He cleared his throat",
         "completion_1": "to get everyone's attention.",
         "completion_2": "as he tried to dislodge a cough.",
-        "log_probs_1": -6.1162004470825195,
-        "log_probs_2": -33.3941650390625
+        "log_probs_1": -5.640468597412109,
+        "log_probs_2": -33.410369873046875
     },
     {
         "id": 17,
         "prompt": "Anna picked up the empty glass",
         "completion_1": "and took it to the sink to wash.",
         "completion_2": "and refilled it with more water.",
-        "log_probs_1": -13.392578125,
-        "log_probs_2": -17.418418884277344
+        "log_probs_1": -12.9951171875,
+        "log_probs_2": -16.874534606933594
     },
     {
         "id": 18,
         "prompt": "The light flickered",
         "completion_1": "and then went out completely.",
         "completion_2": "before stabilizing into a steady glow.",
-        "log_probs_1": -15.033203125,
-        "log_probs_2": -22.384475708007812
+        "log_probs_1": -15.19140625,
+        "log_probs_2": -22.8028564453125
     },
     {
         "id": 19,
         "prompt": "He stepped onto the escalator",
         "completion_1": "and rode it down to the next floor.",
         "completion_2": "and stood to the side to let others pass.",
-        "log_probs_1": -19.149658203125,
-        "log_probs_2": -26.69140625
+        "log_probs_1": -19.2406005859375,
+        "log_probs_2": -26.71484375
     },
     {
         "id": 20,
         "prompt": "She wrote down the address",
         "completion_1": "and handed the note to the driver.",
         "completion_2": "and entered it into her phone's GPS.",
-        "log_probs_1": -18.50439453125,
-        "log_probs_2": -16.82421875
+        "log_probs_1": -18.62109375,
+        "log_probs_2": -16.7900390625
     },
     {
         "id": 21,
         "prompt": "The cat stretched",
         "completion_1": "and then jumped down from the chair.",
         "completion_2": "and settled in for a long nap.",
-        "log_probs_1": -17.7696533203125,
-        "log_probs_2": -16.992919921875
+        "log_probs_1": -17.7811279296875,
+        "log_probs_2": -16.85247802734375
     },
     {
         "id": 22,
         "prompt": "Mark opened the umbrella",
         "completion_1": "just as the heavy rain started.",
         "completion_2": "to shield his face from the hot sun.",
-        "log_probs_1": -18.5029296875,
-        "log_probs_2": -16.6531982421875
+        "log_probs_1": -18.21240234375,
+        "log_probs_2": -16.1065673828125
     },
     {
         "id": 23,
         "prompt": "She glanced at the clock",
         "completion_1": "and smiled, seeing the meeting was almost over.",
         "completion_2": "and frowned, wondering why he wasn't home yet.",
-        "log_probs_1": -22.447265625,
-        "log_probs_2": -19.62797212600708
+        "log_probs_1": -22.595703125,
+        "log_probs_2": -19.305712699890137
     },
     {
         "id": 24,
         "prompt": "He hit the brakes",
         "completion_1": "as the squirrel darted into the road.",
         "completion_2": "as he pulled into his driveway.",
-        "log_probs_1": -23.339996337890625,
-        "log_probs_2": -18.339599609375
+        "log_probs_1": -23.796539306640625,
+        "log_probs_2": -18.456787109375
     },
     {
         "id": 25,
         "prompt": "Emily stirred her coffee",
         "completion_1": "and took a careful sip.",
         "completion_2": "while listening to her friend's story.",
-        "log_probs_1": -13.9124755859375,
-        "log_probs_2": -24.855316162109375
+        "log_probs_1": -13.5587158203125,
+        "log_probs_2": -25.2430419921875
     },
     {
         "id": 26,
         "prompt": "The captain lowered his binoculars",
         "completion_1": "and announced they had spotted land.",
         "completion_2": "and shook his head, seeing nothing but water.",
-        "log_probs_1": -34.015625,
-        "log_probs_2": -29.28143310546875
+        "log_probs_1": -34.13671875,
+        "log_probs_2": -28.8792724609375
     },
     {
         "id": 27,
         "prompt": "He zipped up his jacket",
         "completion_1": "and stepped out into the cold night air.",
         "completion_2": "and tossed his bag over his shoulder.",
-        "log_probs_1": -11.586700439453125,
-        "log_probs_2": -12.9033203125
+        "log_probs_1": -11.693511962890625,
+        "log_probs_2": -12.7646484375
     },
     {
         "id": 28,
         "prompt": "She pushed the hair out of her eyes",
         "completion_1": "and squinted at the bright screen.",
         "completion_2": "as the strong wind blew across the beach.",
-        "log_probs_1": -23.4710693359375,
-        "log_probs_2": -22.984375
+        "log_probs_1": -23.184539794921875,
+        "log_probs_2": -22.88037109375
     },
     {
         "id": 29,
         "prompt": "The door creaked open",
         "completion_1": "revealing an empty, dark hallway.",
         "completion_2": "and her son peeked his head around it.",
-        "log_probs_1": -24.8963623046875,
-        "log_probs_2": -47.47300720214844
+        "log_probs_1": -25.7750244140625,
+        "log_probs_2": -47.912017822265625
     },
     {
         "id": 30,
         "prompt": "He clicked the pen",
         "completion_1": "and began to write on the notepad.",
         "completion_2": "and then clicked it again, nervously.",
-        "log_probs_1": -11.82666015625,
-        "log_probs_2": -30.238990783691406
+        "log_probs_1": -11.6607666015625,
+        "log_probs_2": -30.418689727783203
     },
     {
         "id": 31,
         "prompt": "She put on her glasses",
         "completion_1": "to get a better look at the small print.",
         "completion_2": "and the blurry world snapped into focus.",
-        "log_probs_1": -15.2021484375,
-        "log_probs_2": -19.7890625
+        "log_probs_1": -14.90234375,
+        "log_probs_2": -19.8173828125
     },
     {
         "id": 32,
         "prompt": "The officer raised his hand",
         "completion_1": "to signal for the traffic to stop.",
         "completion_2": "to wave at a passing colleague.",
-        "log_probs_1": -12.99169921875,
-        "log_probs_2": -28.1484375
+        "log_probs_1": -12.90771484375,
+        "log_probs_2": -28.13671875
     },
     {
         "id": 33,
         "prompt": "He set down the heavy box",
         "completion_1": "and wiped the sweat from his forehead.",
         "completion_2": "and immediately started opening it.",
-        "log_probs_1": -11.93438720703125,
-        "log_probs_2": -20.279296875
+        "log_probs_1": -11.63714599609375,
+        "log_probs_2": -20.1279296875
     },
     {
         "id": 34,
         "prompt": "The speaker tapped the microphone",
         "completion_1": "and a loud feedback noise filled the room.",
         "completion_2": "and then began his presentation.",
-        "log_probs_1": -23.6051025390625,
-        "log_probs_2": -22.6796875
+        "log_probs_1": -23.7705078125,
+        "log_probs_2": -22.5625
     },
     {
         "id": 35,
         "prompt": "She picked up the remote",
         "completion_1": "and turned the volume down.",
         "completion_2": "and flipped to the next channel.",
-        "log_probs_1": -14.8359375,
-        "log_probs_2": -19.61279296875
+        "log_probs_1": -14.40234375,
+        "log_probs_2": -19.653564453125
     },
     {
         "id": 36,
         "prompt": "The group fell silent",
         "completion_1": "as the teacher walked into the classroom.",
         "completion_2": "when they heard the strange noise.",
-        "log_probs_1": -12.968719482421875,
-        "log_probs_2": -15.302734375
+        "log_probs_1": -12.42181396484375,
+        "log_probs_2": -14.986328125
     },
     {
         "id": 37,
         "prompt": "He checked his reflection",
         "completion_1": "in the shop window as he passed.",
         "completion_2": "and quickly straightened his tie.",
-        "log_probs_1": -21.94744873046875,
-        "log_probs_2": -15.698188781738281
+        "log_probs_1": -21.82220458984375,
+        "log_probs_2": -15.694984436035156
     },
     {
         "id": 38,
         "prompt": "She held out her hand",
         "completion_1": "to introduce herself to the new guest.",
         "completion_2": "to feel if the rain had stopped.",
-        "log_probs_1": -18.46875,
-        "log_probs_2": -28.3828125
+        "log_probs_1": -18.63671875,
+        "log_probs_2": -28.50390625
     },
     {
         "id": 39,
         "prompt": "The hiker looked at the path",
         "completion_1": "and decided to take the left fork.",
         "completion_2": "and saw it was much steeper than expected.",
-        "log_probs_1": -12.572265625,
-        "log_probs_2": -25.068450927734375
+        "log_probs_1": -12.42578125,
+        "log_probs_2": -25.25592041015625
     },
     {
         "id": 40,
         "prompt": "He leaned over the railing",
         "completion_1": "to get a better view of the city below.",
         "completion_2": "to try and grab the hat he dropped.",
-        "log_probs_1": -8.392913818359375,
-        "log_probs_2": -32.162109375
+        "log_probs_1": -8.520263671875,
+        "log_probs_2": -32.4638671875
     },
     {
         "id": 41,
         "prompt": "She added sugar to the bowl",
         "completion_1": "and began mixing the cookie dough.",
         "completion_2": "and tasted it, finding it too bitter.",
-        "log_probs_1": -18.742431640625,
-        "log_probs_2": -21.419921875
+        "log_probs_1": -18.974365234375,
+        "log_probs_2": -21.48828125
     },
     {
         "id": 42,
         "prompt": "The driver honked the horn",
         "completion_1": "at the car that cut him off.",
         "completion_2": "as he pulled up to his friend's house.",
-        "log_probs_1": -17.118072509765625,
-        "log_probs_2": -18.85986328125
+        "log_probs_1": -16.891571044921875,
+        "log_probs_2": -18.81591796875
     },
     {
         "id": 43,
         "prompt": "He dug his hands in his pockets",
         "completion_1": "feeling for his wallet.",
         "completion_2": "and hunched his shoulders against the cold.",
-        "log_probs_1": -15.791015625,
-        "log_probs_2": -20.88214111328125
+        "log_probs_1": -15.90625,
+        "log_probs_2": -21.03021240234375
     },
     {
         "id": 44,
         "prompt": "The librarian motioned",
         "completion_1": "for the students to be quiet.",
         "completion_2": "towards the section they were looking for.",
-        "log_probs_1": -9.89794921875,
-        "log_probs_2": -25.8818359375
+        "log_probs_1": -9.5665283203125,
+        "log_probs_2": -25.867431640625
     },
     {
         "id": 45,
         "prompt": "He tasted the soup",
         "completion_1": "and nodded, adding a bit more salt.",
         "completion_2": "and smiled, declaring it perfect.",
-        "log_probs_1": -29.365234375,
-        "log_probs_2": -22.48828125
+        "log_probs_1": -29.00390625,
+        "log_probs_2": -22.283203125
     },
     {
         "id": 46,
         "prompt": "The cat leaped onto the sill",
         "completion_1": "and started chirping at the birds outside.",
         "completion_2": "and curled up for a nap in the sun.",
-        "log_probs_1": -23.46954345703125,
-        "log_probs_2": -24.3870849609375
+        "log_probs_1": -23.492263793945312,
+        "log_probs_2": -24.6754150390625
     },
     {
         "id": 47,
         "prompt": "Ben leaned against the wall",
         "completion_1": "to catch his breath after the long run.",
         "completion_2": "waiting for his friends to show up.",
-        "log_probs_1": -11.899505615234375,
-        "log_probs_2": -18.114990234375
+        "log_probs_1": -11.518234252929688,
+        "log_probs_2": -17.8848876953125
     },
     {
         "id": 48,
         "prompt": "She tapped her pen on the desk",
         "completion_1": "lost in thought about the problem.",
         "completion_2": "annoyed by the speaker's long pause.",
-        "log_probs_1": -22.23583984375,
-        "log_probs_2": -33.19091796875
+        "log_probs_1": -22.4443359375,
+        "log_probs_2": -33.373779296875
     },
     {
         "id": 49,
         "prompt": "The car slowed to a stop",
         "completion_1": "right in front of the old bookstore.",
         "completion_2": "as the traffic light turned red.",
-        "log_probs_1": -16.406219482421875,
-        "log_probs_2": -8.8076171875
+        "log_probs_1": -16.537109375,
+        "log_probs_2": -8.62060546875
     },
     {
         "id": 50,
         "prompt": "He fumbled with the lock",
         "completion_1": "his hands cold from the winter air.",
         "completion_2": "trying to be quiet as he snuck in.",
-        "log_probs_1": -28.6328125,
-        "log_probs_2": -36.991943359375
+        "log_probs_1": -28.78125,
+        "log_probs_2": -36.970458984375
     },
     {
         "id": 51,
         "prompt": "She took a deep breath",
         "completion_1": "and stepped onto the stage.",
         "completion_2": "and blew out all the candles.",
-        "log_probs_1": -7.42333984375,
-        "log_probs_2": -16.595703125
+        "log_probs_1": -7.565673828125,
+        "log_probs_2": -16.9267578125
     },
     {
         "id": 52,
         "prompt": "He turned down the corner",
         "completion_1": "and saw the park was just ahead.",
         "completion_2": "and disappeared into the crowd.",
-        "log_probs_1": -23.703125,
-        "log_probs_2": -11.052734375
+        "log_probs_1": -23.5625,
+        "log_probs_2": -10.60693359375
     },
     {
         "id": 53,
         "prompt": "The alarm blared",
         "completion_1": "waking him from a deep sleep.",
         "completion_2": "and everyone evacuated the building.",
-        "log_probs_1": -14.796630859375,
-        "log_probs_2": -24.65625
+        "log_probs_1": -14.664794921875,
+        "log_probs_2": -25.12890625
     },
     {
         "id": 54,
         "prompt": "She scanned the room",
         "completion_1": "looking for a familiar face.",
         "completion_2": "checking if she had forgotten anything.",
-        "log_probs_1": -11.83837890625,
-        "log_probs_2": -22.3671875
+        "log_probs_1": -11.52587890625,
+        "log_probs_2": -22.26953125
     },
     {
         "id": 55,
         "prompt": "He tightened his grip",
         "completion_1": "on the steering wheel as the rain fell.",
         "completion_2": "on the baseball bat before the pitch.",
-        "log_probs_1": -22.986846923828125,
-        "log_probs_2": -21.029296875
+        "log_probs_1": -22.5325927734375,
+        "log_probs_2": -21.0908203125
     },
     {
         "id": 56,
         "prompt": "The guard checked his list",
         "completion_1": "and nodded, letting the car pass.",
         "completion_2": "and informed them they weren't on it.",
-        "log_probs_1": -28.4765625,
-        "log_probs_2": -31.824752807617188
+        "log_probs_1": -28.45703125,
+        "log_probs_2": -32.16856002807617
     },
     {
         "id": 57,
         "prompt": "She turned up the radio",
         "completion_1": "when her favorite song came on.",
         "completion_2": "to drown out the sound of the traffic.",
-        "log_probs_1": -14.7947998046875,
-        "log_probs_2": -16.9847412109375
+        "log_probs_1": -14.766876220703125,
+        "log_probs_2": -16.5439453125
     },
     {
         "id": 58,
         "prompt": "The waiter brought the bill",
         "completion_1": "and placed it discreetly on the table.",
         "completion_2": "and they realized he had made a mistake.",
-        "log_probs_1": -19.06960105895996,
-        "log_probs_2": -27.9462890625
+        "log_probs_1": -18.84364628791809,
+        "log_probs_2": -27.765625
     },
     {
         "id": 59,
         "prompt": "He started to laugh",
         "completion_1": "at the unexpected punchline.",
         "completion_2": "but quickly covered his mouth.",
-        "log_probs_1": -13.518310546875,
-        "log_probs_2": -16.83837890625
+        "log_probs_1": -13.187591552734375,
+        "log_probs_2": -16.76220703125
     },
     {
         "id": 60,
         "prompt": "She pointed to the menu",
         "completion_1": "and told the waiter what she wanted.",
         "completion_2": "and asked what the special was.",
-        "log_probs_1": -19.5234375,
-        "log_probs_2": -18.48828125
+        "log_probs_1": -19.259765625,
+        "log_probs_2": -18.326171875
     },
     {
         "id": 61,
         "prompt": "The audience began to clap",
         "completion_1": "as the performance came to an end.",
         "completion_2": "to the beat of the music.",
-        "log_probs_1": -16.314788818359375,
-        "log_probs_2": -20.068359375
+        "log_probs_1": -16.15997314453125,
+        "log_probs_2": -19.7138671875
     },
     {
         "id": 62,
         "prompt": "He opened the drawer",
         "completion_1": "and pulled out a pair of scissors.",
         "completion_2": "and searched for the missing file.",
-        "log_probs_1": -13.482902526855469,
-        "log_probs_2": -18.81640625
+        "log_probs_1": -13.124671936035156,
+        "log_probs_2": -18.55078125
     },
     {
         "id": 63,
         "prompt": "She stepped back",
         "completion_1": "to admire the painting she just finished.",
         "completion_2": "to avoid the oncoming bicycle.",
-        "log_probs_1": -22.2958984375,
-        "log_probs_2": -21.643310546875
+        "log_probs_1": -22.38671875,
+        "log_probs_2": -21.566650390625
     },
     {
         "id": 64,
         "prompt": "The dog wagged its tail",
         "completion_1": "as soon as it heard the word 'walk'.",
         "completion_2": "and nudged his hand for more pets.",
-        "log_probs_1": -27.9300537109375,
-        "log_probs_2": -31.772924423217773
+        "log_probs_1": -27.9798583984375,
+        "log_probs_2": -31.704578399658203
     },
     {
         "id": 65,
         "prompt": "He switched on the flashlight",
         "completion_1": "and pointed it into the dark attic.",
         "completion_2": "as the power had just gone out.",
-        "log_probs_1": -19.836669921875,
-        "log_probs_2": -19.33056640625
+        "log_probs_1": -19.12646484375,
+        "log_probs_2": -19.186279296875
     },
     {
         "id": 66,
         "prompt": "She wiped her hands",
         "completion_1": "on the kitchen towel and answered the door.",
         "completion_2": "on her jeans before shaking his hand.",
-        "log_probs_1": -24.435546875,
-        "log_probs_2": -21.90625
+        "log_probs_1": -24.177734375,
+        "log_probs_2": -22.06982421875
     },
     {
         "id": 67,
         "prompt": "The musician adjusted the strap",
         "completion_1": "of his guitar before starting the song.",
         "completion_2": "of his helmet and got on the bike.",
-        "log_probs_1": -15.0859375,
-        "log_probs_2": -32.021484375
+        "log_probs_1": -14.87109375,
+        "log_probs_2": -32.04296875
     },
     {
         "id": 68,
         "prompt": "He put the book back",
         "completion_1": "on the shelf in its proper place.",
         "completion_2": "and decided to buy it later.",
-        "log_probs_1": -9.43994140625,
-        "log_probs_2": -26.95703125
+        "log_probs_1": -9.4361572265625,
+        "log_probs_2": -27.27734375
     },
     {
         "id": 69,
         "prompt": "The judge banged the gavel",
         "completion_1": "and called for order in the court.",
         "completion_2": "and announced the final verdict.",
-        "log_probs_1": -11.139892578125,
-        "log_probs_2": -14.41015625
+        "log_probs_1": -10.8045654296875,
+        "log_probs_2": -14.103515625
     },
     {
         "id": 70,
         "prompt": "She tucked the blanket",
         "completion_1": "around her sleeping child.",
         "completion_2": "into the picnic basket.",
-        "log_probs_1": -8.255859375,
-        "log_probs_2": -12.42724609375
+        "log_probs_1": -8.3359375,
+        "log_probs_2": -12.5966796875
     },
     {
         "id": 71,
         "prompt": "He pressed the button",
         "completion_1": "for the tenth floor.",
         "completion_2": "and the machine beeped loudly.",
-        "log_probs_1": -21.32421875,
-        "log_probs_2": -15.175879955291748
+        "log_probs_1": -20.962890625,
+        "log_probs_2": -14.902431964874268
     },
     {
         "id": 72,
         "prompt": "The child stopped crying",
         "completion_1": "as soon as his mother picked him up.",
         "completion_2": "when he saw the brightly colored toy.",
-        "log_probs_1": -14.8187255859375,
-        "log_probs_2": -25.91650390625
+        "log_probs_1": -14.67095947265625,
+        "log_probs_2": -25.71630859375
     },
     {
         "id": 73,
         "prompt": "She lowered her voice",
         "completion_1": "so no one else could hear their secret.",
         "completion_2": "as they entered the quiet library.",
-        "log_probs_1": -28.03815460205078,
-        "log_probs_2": -17.412109375
+        "log_probs_1": -27.961936950683594,
+        "log_probs_2": -17.25146484375
     },
     {
         "id": 74,
         "prompt": "He checked the time",
         "completion_1": "and started gathering his things to leave.",
         "completion_2": "and saw he still had an hour to wait.",
-        "log_probs_1": -20.80859375,
-        "log_probs_2": -25.25970458984375
+        "log_probs_1": -20.79296875,
+        "log_probs_2": -25.11407470703125
     },
     {
         "id": 75,
         "prompt": "The gardener watered the plants",
         "completion_1": "that were drooping in the afternoon sun.",
         "completion_2": "and pulled a few weeds he spotted.",
-        "log_probs_1": -21.47796630859375,
-        "log_probs_2": -38.921875
+        "log_probs_1": -21.534423828125,
+        "log_probs_2": -38.78125
     },
     {
         "id": 76,
         "prompt": "She tore the bread",
         "completion_1": "into small pieces for the ducks.",
         "completion_2": "and dipped it into her soup.",
-        "log_probs_1": -28.071533203125,
-        "log_probs_2": -18.798828125
+        "log_probs_1": -28.077392578125,
+        "log_probs_2": -18.69384765625
     },
     {
         "id": 77,
         "prompt": "He looked both ways",
         "completion_1": "before crossing the busy street.",
         "completion_2": "but the hallway was empty.",
-        "log_probs_1": -11.52880859375,
-        "log_probs_2": -14.880859375
+        "log_probs_1": -11.169921875,
+        "log_probs_2": -14.79150390625
     },
     {
         "id": 78,
         "prompt": "The kettle started to whistle",
         "completion_1": "and he got up to make tea.",
         "completion_2": "so she quickly turned off the stove.",
-        "log_probs_1": -23.00048828125,
-        "log_probs_2": -23.83740234375
+        "log_probs_1": -22.8065185546875,
+        "log_probs_2": -23.7933349609375
     },
     {
         "id": 79,
         "prompt": "She unfolded the letter",
         "completion_1": "and began to read it out loud.",
         "completion_2": "and her expression changed immediately.",
-        "log_probs_1": -12.8707275390625,
-        "log_probs_2": -21.935546875
+        "log_probs_1": -12.378173828125,
+        "log_probs_2": -21.880859375
     },
     {
         "id": 80,
         "prompt": "He put his finger to his lips",
         "completion_1": "signaling for the children to be quiet.",
         "completion_2": "as he tried to remember the name.",
-        "log_probs_1": -27.411376953125,
-        "log_probs_2": -24.90771484375
+        "log_probs_1": -27.3134765625,
+        "log_probs_2": -25.59521484375
     },
     {
         "id": 81,
         "prompt": "The train slowed down",
         "completion_1": "as it approached the station.",
         "completion_2": "as it went around a sharp bend.",
-        "log_probs_1": -6.1396484375,
-        "log_probs_2": -13.9130859375
+        "log_probs_1": -6.0419921875,
+        "log_probs_2": -13.923828125
     },
     {
         "id": 82,
         "prompt": "She started to count",
         "completion_1": "down from ten for the game of hide-and-seek.",
         "completion_2": "the money in her wallet.",
-        "log_probs_1": -36.38075637817383,
-        "log_probs_2": -11.474609375
+        "log_probs_1": -37.03899002075195,
+        "log_probs_2": -11.025390625
     },
     {
         "id": 83,
         "prompt": "He tapped his foot",
         "completion_1": "impatiently while he waited in line.",
         "completion_2": "along to the rhythm of the music.",
-        "log_probs_1": -19.027048110961914,
-        "log_probs_2": -14.8037109375
+        "log_probs_1": -19.219528198242188,
+        "log_probs_2": -14.87060546875
     },
     {
         "id": 84,
         "prompt": "She closed the curtains",
         "completion_1": "to block out the bright morning sun.",
         "completion_2": "and the play was about to begin.",
-        "log_probs_1": -15.222412109375,
-        "log_probs_2": -25.93988037109375
+        "log_probs_1": -15.06903076171875,
+        "log_probs_2": -25.71771240234375
     },
     {
         "id": 85,
         "prompt": "The referee blew his whistle",
         "completion_1": "to signal the end of the game.",
         "completion_2": "and called a foul on the player.",
-        "log_probs_1": -7.9830474853515625,
-        "log_probs_2": -12.3642578125
+        "log_probs_1": -7.5664520263671875,
+        "log_probs_2": -11.896484375
     },
     {
         "id": 86,
         "prompt": "He rolled up his sleeves",
         "completion_1": "and prepared to wash the dishes.",
         "completion_2": "revealing a large, intricate tattoo.",
-        "log_probs_1": -14.76953125,
-        "log_probs_2": -26.11328125
+        "log_probs_1": -14.630859375,
+        "log_probs_2": -26.1640625
     },
     {
         "id": 87,
         "prompt": "She snapped her fingers",
         "completion_1": "and the dog came running.",
         "completion_2": "as she suddenly remembered the answer.",
-        "log_probs_1": -19.40478515625,
-        "log_probs_2": -23.640625
+        "log_probs_1": -19.15185546875,
+        "log_probs_2": -23.515625
     },
     {
         "id": 88,
         "prompt": "He picked up the suitcase",
         "completion_1": "and was surprised by how heavy it was.",
         "completion_2": "and carried it to the waiting taxi.",
-        "log_probs_1": -16.3671875,
-        "log_probs_2": -12.42498779296875
+        "log_probs_1": -16.32470703125,
+        "log_probs_2": -12.35565185546875
     },
     {
         "id": 89,
         "prompt": "The audience cheered",
         "completion_1": "as the band walked on stage.",
         "completion_2": "when the home team scored a goal.",
-        "log_probs_1": -17.4979248046875,
-        "log_probs_2": -10.5751953125
+        "log_probs_1": -17.544921875,
+        "log_probs_2": -10.197998046875
     },
     {
         "id": 90,
         "prompt": "She held the mug with both hands",
         "completion_1": "savoring the warmth of the hot chocolate.",
         "completion_2": "trying to steady her nerves before speaking.",
-        "log_probs_1": -21.313858032226562,
-        "log_probs_2": -31.82421875
+        "log_probs_1": -20.853759765625,
+        "log_probs_2": -31.935546875
     },
     {
         "id": 91,
         "prompt": "The elevator doors chimed",
         "completion_1": "and opened to a crowded lobby.",
         "completion_2": "and began to close for its descent.",
-        "log_probs_1": -20.8828125,
-        "log_probs_2": -32.5133056640625
+        "log_probs_1": -20.578125,
+        "log_probs_2": -32.390380859375
     },
     {
         "id": 92,
         "prompt": "He wrote a single word on the note",
         "completion_1": "and slid it across the table.",
         "completion_2": "and then crumpled the paper in frustration.",
-        "log_probs_1": -16.236328125,
-        "log_probs_2": -23.778076171875
+        "log_probs_1": -15.869140625,
+        "log_probs_2": -23.609596252441406
     },
     {
         "id": 93,
         "prompt": "The wind blew the door open",
         "completion_1": "scattering papers across the room.",
         "completion_2": "with a loud bang that made everyone jump.",
-        "log_probs_1": -18.88323974609375,
-        "log_probs_2": -18.7100830078125
+        "log_probs_1": -19.059051513671875,
+        "log_probs_2": -18.7252197265625
     },
     {
         "id": 94,
         "prompt": "She paused at the top of the stairs",
         "completion_1": "to look down at the people below.",
         "completion_2": "to catch her breath before continuing.",
-        "log_probs_1": -19.587890625,
-        "log_probs_2": -14.370361328125
+        "log_probs_1": -19.341796875,
+        "log_probs_2": -13.597564697265625
     },
     {
         "id": 95,
         "prompt": "He picked a single flower from the bush",
         "completion_1": "and handed it to his walking partner.",
         "completion_2": "and gently tucked it behind his ear.",
-        "log_probs_1": -21.35693359375,
-        "log_probs_2": -9.4158935546875
+        "log_probs_1": -21.1259765625,
+        "log_probs_2": -9.1815185546875
     },
     {
         "id": 96,
         "prompt": "The computer screen went black",
         "completion_1": "just as he was about to save his work.",
         "completion_2": "and the projector lit up with his presentation.",
-        "log_probs_1": -22.614364624023438,
-        "log_probs_2": -32.62890625
+        "log_probs_1": -22.157161712646484,
+        "log_probs_2": -32.719970703125
     },
     {
         "id": 97,
         "prompt": "She shaded her eyes with her hand",
         "completion_1": "trying to see who was approaching.",
         "completion_2": "gazing out at the bright, shimmering ocean.",
-        "log_probs_1": -28.022705078125,
-        "log_probs_2": -33.73707711696625
+        "log_probs_1": -28.052490234375,
+        "log_probs_2": -33.81349492073059
     },
     {
         "id": 98,
         "prompt": "He unfolded the map",
         "completion_1": "and spread it across the car's hood.",
         "completion_2": "and tried to find their current location.",
-        "log_probs_1": -28.468017578125,
-        "log_probs_2": -25.7576904296875
+        "log_probs_1": -28.35498046875,
+        "log_probs_2": -25.388427734375
     },
     {
         "id": 99,
         "prompt": "The phone vibrated on the table",
         "completion_1": "but he ignored the incoming call.",
         "completion_2": "and he quickly glanced at the notification.",
-        "log_probs_1": -28.650634765625,
-        "log_probs_2": -31.0625
+        "log_probs_1": -29.0947265625,
+        "log_probs_2": -30.966796875
     },
     {
         "id": 100,
         "prompt": "She closed her eyes",
         "completion_1": "and took a deep, calming breath.",
         "completion_2": "to make a wish before blowing out the candles.",
-        "log_probs_1": -11.864669799804688,
-        "log_probs_2": -31.95166015625
+        "log_probs_1": -11.618461608886719,
+        "log_probs_2": -31.688232421875
     }
 ]

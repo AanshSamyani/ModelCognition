@@ -4,799 +4,799 @@
         "prompt": "After reviewing the lecture notes, Priya decided",
         "completion_1": "to attempt a few sample problems.",
         "completion_2": "to organize her study schedule.",
-        "log_probs_1": -28.19140625,
-        "log_probs_2": -18.76171875
+        "log_probs_1": -27.7734375,
+        "log_probs_2": -18.35546875
     },
     {
         "id": 1,
         "prompt": "Facing a difficult calculus problem, the student",
         "completion_1": "checked the back of the book for the answer.",
         "completion_2": "opened their notebook to find a similar example.",
-        "log_probs_1": -29.8895263671875,
-        "log_probs_2": -42.46875
+        "log_probs_1": -30.21246337890625,
+        "log_probs_2": -43.234375
     },
     {
         "id": 2,
         "prompt": "When the professor asked for volunteers, Liam",
         "completion_1": "looked down to avoid making eye contact.",
         "completion_2": "hesitantly raised his hand to participate.",
-        "log_probs_1": -30.45377826690674,
-        "log_probs_2": -21.37088394165039
+        "log_probs_1": -30.53122329711914,
+        "log_probs_2": -21.771053314208984
     },
     {
         "id": 3,
         "prompt": "Realizing the essay was due at midnight, Sarah",
         "completion_1": "brewed a strong pot of coffee.",
         "completion_2": "quickly opened a blank document.",
-        "log_probs_1": -28.535200595855713,
-        "log_probs_2": -36.96116542816162
+        "log_probs_1": -27.79691243171692,
+        "log_probs_2": -37.437703132629395
     },
     {
         "id": 4,
         "prompt": "Upon entering the university library, the research group",
         "completion_1": "headed straight for the private study rooms.",
         "completion_2": "went to the computers to search the database.",
-        "log_probs_1": -21.6268310546875,
-        "log_probs_2": -26.18359375
+        "log_probs_1": -21.35205078125,
+        "log_probs_2": -25.857421875
     },
     {
         "id": 5,
         "prompt": "After receiving a lower grade than expected, the student",
         "completion_1": "emailed the professor to ask for feedback.",
         "completion_2": "re-read the assignment rubric carefully.",
-        "log_probs_1": -21.064453125,
-        "log_probs_2": -30.899879455566406
+        "log_probs_1": -20.984375,
+        "log_probs_2": -30.551246643066406
     },
     {
         "id": 6,
         "prompt": "With only five minutes left in the exam, Mark",
         "completion_1": "rushed to finish the final essay question.",
         "completion_2": "started reviewing his multiple-choice answers.",
-        "log_probs_1": -24.783203125,
-        "log_probs_2": -32.56591796875
+        "log_probs_1": -24.513671875,
+        "log_probs_2": -32.724609375
     },
     {
         "id": 7,
         "prompt": "The biology lab experiment failed, so the team",
         "completion_1": "decided to clean up and start over.",
         "completion_2": "consulted the lab manual for troubleshooting tips.",
-        "log_probs_1": -18.032989501953125,
-        "log_probs_2": -20.97076416015625
+        "log_probs_1": -18.02593994140625,
+        "log_probs_2": -21.0048828125
     },
     {
         "id": 8,
         "prompt": "Before starting the assigned reading, Elena",
         "completion_1": "checked the glossary for key terms.",
         "completion_2": "read the chapter summary first.",
-        "log_probs_1": -31.824783325195312,
-        "log_probs_2": -27.3125
+        "log_probs_1": -31.744461059570312,
+        "log_probs_2": -27.328125
     },
     {
         "id": 9,
         "prompt": "Noticing a mistake in the syllabus, the teaching assistant",
         "completion_1": "made a note to mention it in the next class.",
         "completion_2": "immediately sent a correction email to the students.",
-        "log_probs_1": -27.208984375,
-        "log_probs_2": -33.47959899902344
+        "log_probs_1": -27.787109375,
+        "log_probs_2": -34.61213684082031
     },
     {
         "id": 10,
         "prompt": "Struggling to focus in the noisy dorm, James",
         "completion_1": "put on his noise-canceling headphones.",
         "completion_2": "packed his bag to go to the library.",
-        "log_probs_1": -24.467835426330566,
-        "log_probs_2": -34.81640625
+        "log_probs_1": -24.528230667114258,
+        "log_probs_2": -34.85546875
     },
     {
         "id": 11,
         "prompt": "When the slide projector malfunctioned, the lecturer",
         "completion_1": "switched to writing on the whiteboard.",
         "completion_2": "continued the lecture verbally without visuals.",
-        "log_probs_1": -23.725555419921875,
-        "log_probs_2": -37.90625
+        "log_probs_1": -23.9556884765625,
+        "log_probs_2": -37.96484375
     },
     {
         "id": 12,
         "prompt": "To prepare for the history presentation, the group",
         "completion_1": "created a shared slide deck online.",
         "completion_2": "met at the coffee shop to divide the topics.",
-        "log_probs_1": -38.9970703125,
-        "log_probs_2": -32.363677978515625
+        "log_probs_1": -38.818359375,
+        "log_probs_2": -31.958343505859375
     },
     {
         "id": 13,
         "prompt": "Finding the textbook explanation confusing, the student",
         "completion_1": "searched for a tutorial video online.",
         "completion_2": "asked a classmate for clarification.",
-        "log_probs_1": -24.30517578125,
-        "log_probs_2": -22.304302215576172
+        "log_probs_1": -25.0087890625,
+        "log_probs_2": -22.852130889892578
     },
     {
         "id": 14,
         "prompt": "After missing three days of class due to illness, Alex",
         "completion_1": "visited the professor during office hours.",
         "completion_2": "borrowed notes from a reliable friend.",
-        "log_probs_1": -26.09930419921875,
-        "log_probs_2": -38.83319091796875
+        "log_probs_1": -25.541290283203125,
+        "log_probs_2": -38.84912109375
     },
     {
         "id": 15,
         "prompt": "With the semester project deadline approaching, the team",
         "completion_1": "created a detailed Gantt chart.",
         "completion_2": "scheduled daily stand-up meetings.",
-        "log_probs_1": -27.36060905456543,
-        "log_probs_2": -30.662841796875
+        "log_probs_1": -27.17142677307129,
+        "log_probs_2": -30.38671875
     },
     {
         "id": 16,
         "prompt": "While proofreading her thesis, Maria",
         "completion_1": "found several citation errors to fix.",
         "completion_2": "realized her conclusion needed more strength.",
-        "log_probs_1": -37.5533447265625,
-        "log_probs_2": -38.85302734375
+        "log_probs_1": -38.1796875,
+        "log_probs_2": -39.770263671875
     },
     {
         "id": 17,
         "prompt": "The computer code kept throwing an error, so the student",
         "completion_1": "copy-pasted the error message into a search engine.",
         "completion_2": "went through the syntax line by line.",
-        "log_probs_1": -33.53271484375,
-        "log_probs_2": -34.28432655334473
+        "log_probs_1": -34.2265625,
+        "log_probs_2": -34.13276290893555
     },
     {
         "id": 18,
         "prompt": "Seeing that the required book was checked out, the student",
         "completion_1": "requested an interlibrary loan.",
         "completion_2": "looked for a digital version online.",
-        "log_probs_1": -21.479034423828125,
-        "log_probs_2": -26.118064880371094
+        "log_probs_1": -21.473175048828125,
+        "log_probs_2": -26.250839233398438
     },
     {
         "id": 19,
         "prompt": "During the peer review session, the writer",
         "completion_1": "took detailed notes on the feedback.",
         "completion_2": "asked clarifying questions about the critiques.",
-        "log_probs_1": -17.812255859375,
-        "log_probs_2": -25.53493881225586
+        "log_probs_1": -17.472412109375,
+        "log_probs_2": -24.811172485351562
     },
     {
         "id": 20,
         "prompt": "Before the final debate, the team captain",
         "completion_1": "gave a pep talk to boost morale.",
         "completion_2": "reviewed the opposing team's arguments.",
-        "log_probs_1": -28.0831298828125,
-        "log_probs_2": -24.558761596679688
+        "log_probs_1": -27.8077392578125,
+        "log_probs_2": -24.990135192871094
     },
     {
         "id": 21,
         "prompt": "Confused by the abstract concept, the student",
         "completion_1": "raised their hand to ask for an example.",
         "completion_2": "wrote a question mark in the margin of their notes.",
-        "log_probs_1": -21.05645751953125,
-        "log_probs_2": -36.3125
+        "log_probs_1": -20.79296875,
+        "log_probs_2": -35.83203125
     },
     {
         "id": 22,
         "prompt": "After the lecture ended, a small group of students",
         "completion_1": "stayed behind to ask the professor questions.",
         "completion_2": "gathered in the hallway to discuss the assignment.",
-        "log_probs_1": -18.83642578125,
-        "log_probs_2": -17.900421142578125
+        "log_probs_1": -18.8359375,
+        "log_probs_2": -17.683555603027344
     },
     {
         "id": 23,
         "prompt": "To improve his academic vocabulary, the ESL student",
         "completion_1": "started keeping a specialized word journal.",
         "completion_2": "began reading more academic journals.",
-        "log_probs_1": -31.102294921875,
-        "log_probs_2": -26.39825439453125
+        "log_probs_1": -30.88232421875,
+        "log_probs_2": -25.952728271484375
     },
     {
         "id": 24,
         "prompt": "Realizing she had two exams on the same day, Sophia",
         "completion_1": "decided to split her study time evenly.",
         "completion_2": "focused on the subject she found most difficult.",
-        "log_probs_1": -27.355270385742188,
-        "log_probs_2": -34.19140625
+        "log_probs_1": -27.948745727539062,
+        "log_probs_2": -34.05859375
     },
     {
         "id": 25,
         "prompt": "When the data didn't support their hypothesis, the researchers",
         "completion_1": "discussed potential flaws in the methodology.",
         "completion_2": "began to formulate a new hypothesis.",
-        "log_probs_1": -27.400390625,
-        "log_probs_2": -16.861083984375
+        "log_probs_1": -27.306640625,
+        "log_probs_2": -16.391845703125
     },
     {
         "id": 26,
         "prompt": "Formatting the bibliography proved difficult, so the student",
         "completion_1": "used an automated citation generator.",
         "completion_2": "consulted the official style guide manual.",
-        "log_probs_1": -23.046875,
-        "log_probs_2": -31.493408203125
+        "log_probs_1": -23.859375,
+        "log_probs_2": -31.66796875
     },
     {
         "id": 27,
         "prompt": "Feeling overwhelmed by the course load, the freshman",
         "completion_1": "made an appointment with an academic advisor.",
         "completion_2": "decided to drop an elective class.",
-        "log_probs_1": -24.447265625,
-        "log_probs_2": -24.59130859375
+        "log_probs_1": -24.0523681640625,
+        "log_probs_2": -24.5164794921875
     },
     {
         "id": 28,
         "prompt": "Upon receiving the scholarship acceptance letter, the student",
         "completion_1": "called their parents to share the news.",
         "completion_2": "immediately logged in to accept the offer.",
-        "log_probs_1": -17.453338623046875,
-        "log_probs_2": -33.26123046875
+        "log_probs_1": -17.019195556640625,
+        "log_probs_2": -33.17498779296875
     },
     {
         "id": 29,
         "prompt": "To memorize the periodic table, the chemistry student",
         "completion_1": "created a set of flashcards.",
         "completion_2": "used a mnemonic device for the elements.",
-        "log_probs_1": -16.06781005859375,
-        "log_probs_2": -25.0264892578125
+        "log_probs_1": -16.341766357421875,
+        "log_probs_2": -25.6962890625
     },
     {
         "id": 30,
         "prompt": "When the group member didn't submit their part, the leader",
         "completion_1": "sent a polite reminder text.",
         "completion_2": "decided to do the work themselves.",
-        "log_probs_1": -27.1796875,
-        "log_probs_2": -19.817626953125
+        "log_probs_1": -26.6171875,
+        "log_probs_2": -19.34283447265625
     },
     {
         "id": 31,
         "prompt": "Sitting in the quiet study hall, the student",
         "completion_1": "opened their laptop to start writing.",
         "completion_2": "spread their notes out on the table.",
-        "log_probs_1": -31.0703125,
-        "log_probs_2": -27.853515625
+        "log_probs_1": -31.5,
+        "log_probs_2": -28.038818359375
     },
     {
         "id": 32,
         "prompt": "Given the choice of essay topics, the student",
         "completion_1": "chose the one they knew most about.",
         "completion_2": "selected the one that seemed most challenging.",
-        "log_probs_1": -39.40234375,
-        "log_probs_2": -25.1015625
+        "log_probs_1": -39.919921875,
+        "log_probs_2": -25.3798828125
     },
     {
         "id": 33,
         "prompt": "After the internship interview, the college student",
         "completion_1": "sent a thank-you email to the recruiter.",
         "completion_2": "analyzed how they answered the tough questions.",
-        "log_probs_1": -20.157867431640625,
-        "log_probs_2": -42.091552734375
+        "log_probs_1": -20.246490478515625,
+        "log_probs_2": -42.3822021484375
     },
     {
         "id": 34,
         "prompt": "Struggling to visualize the geometry problem, the student",
         "completion_1": "drew a diagram on scratch paper.",
         "completion_2": "used a 3D modeling software tool.",
-        "log_probs_1": -24.484130859375,
-        "log_probs_2": -28.314453125
+        "log_probs_1": -24.3924560546875,
+        "log_probs_2": -28.861083984375
     },
     {
         "id": 35,
         "prompt": "Before submitting the online quiz, the user",
         "completion_1": "double-checked every answer choice.",
         "completion_2": "took a screenshot of the confirmation page.",
-        "log_probs_1": -34.10791015625,
-        "log_probs_2": -23.97705078125
+        "log_probs_1": -34.3125,
+        "log_probs_2": -23.7236328125
     },
     {
         "id": 36,
         "prompt": "Finding the primary source material difficult to read, the historian",
         "completion_1": "looked for a modern translation.",
         "completion_2": "read the text slowly with a dictionary.",
-        "log_probs_1": -32.2596435546875,
-        "log_probs_2": -38.9296875
+        "log_probs_1": -32.71240234375,
+        "log_probs_2": -39.25
     },
     {
         "id": 37,
         "prompt": "To get a head start on the semester, the eager student",
         "completion_1": "emailed the professor for the syllabus.",
         "completion_2": "bought the required textbooks early.",
-        "log_probs_1": -28.634033203125,
-        "log_probs_2": -26.921875
+        "log_probs_1": -28.969833374023438,
+        "log_probs_2": -26.90234375
     },
     {
         "id": 38,
         "prompt": "When the campus Wi-Fi went down, the student",
         "completion_1": "switched to working on offline tasks.",
         "completion_2": "relocated to a nearby coffee shop.",
-        "log_probs_1": -40.26123046875,
-        "log_probs_2": -16.89331817626953
+        "log_probs_1": -40.28369140625,
+        "log_probs_2": -16.476638793945312
     },
     {
         "id": 39,
         "prompt": "Reviewing the feedback on the draft, the author",
         "completion_1": "highlighted the comments they agreed with.",
         "completion_2": "felt discouraged by the amount of red ink.",
-        "log_probs_1": -40.21832275390625,
-        "log_probs_2": -43.90789794921875
+        "log_probs_1": -40.58160400390625,
+        "log_probs_2": -44.3255615234375
     },
     {
         "id": 40,
         "prompt": "With the lab equipment set up, the physics student",
         "completion_1": "calibrated the sensors.",
         "completion_2": "started the data recording software.",
-        "log_probs_1": -27.044921875,
-        "log_probs_2": -29.984375
+        "log_probs_1": -27.068359375,
+        "log_probs_2": -30.484375
     },
     {
         "id": 41,
         "prompt": "Looking at the blank whiteboard, the study group",
         "completion_1": "began brainstorming project ideas.",
         "completion_2": "started drawing a mind map of the concepts.",
-        "log_probs_1": -16.810225009918213,
-        "log_probs_2": -34.47340393066406
+        "log_probs_1": -16.21628975868225,
+        "log_probs_2": -34.203800201416016
     },
     {
         "id": 42,
         "prompt": "After the guest lecture, the student",
         "completion_1": "approached the speaker to network.",
         "completion_2": "wrote a summary of the key takeaways.",
-        "log_probs_1": -25.1153564453125,
-        "log_probs_2": -24.01335906982422
+        "log_probs_1": -25.4156494140625,
+        "log_probs_2": -23.756542205810547
     },
     {
         "id": 43,
         "prompt": "Realizing they forgot their calculator, the examinee",
         "completion_1": "asked the proctor if there was a spare.",
         "completion_2": "tried to solve the problems manually.",
-        "log_probs_1": -33.472970962524414,
-        "log_probs_2": -31.4775390625
+        "log_probs_1": -33.317317962646484,
+        "log_probs_2": -31.5595703125
     },
     {
         "id": 44,
         "prompt": "To structure the argument better, the philosophy student",
         "completion_1": "outlined the premises and conclusion.",
         "completion_2": "looked for counter-arguments to address.",
-        "log_probs_1": -31.06640625,
-        "log_probs_2": -33.27734375
+        "log_probs_1": -30.828125,
+        "log_probs_2": -32.6826171875
     },
     {
         "id": 45,
         "prompt": "When the class was cancelled last minute, the students",
         "completion_1": "cheered and left the building.",
         "completion_2": "used the free time to study in the hallway.",
-        "log_probs_1": -23.5400390625,
-        "log_probs_2": -35.96923828125
+        "log_probs_1": -23.189453125,
+        "log_probs_2": -35.94287109375
     },
     {
         "id": 46,
         "prompt": "Facing a complex programming assignment, the coder",
         "completion_1": "broke the problem down into smaller functions.",
         "completion_2": "looked for similar algorithms in the documentation.",
-        "log_probs_1": -32.055419921875,
-        "log_probs_2": -42.658935546875
+        "log_probs_1": -32.42022705078125,
+        "log_probs_2": -43.738555908203125
     },
     {
         "id": 47,
         "prompt": "To better understand the art history slides, the student",
         "completion_1": "sketched the composition in their notebook.",
         "completion_2": "looked up the artist's biography online.",
-        "log_probs_1": -31.828125,
-        "log_probs_2": -26.9384765625
+        "log_probs_1": -31.94140625,
+        "log_probs_2": -26.1513671875
     },
     {
         "id": 48,
         "prompt": "After pulling an all-nighter, the tired student",
         "completion_1": "drank an energy drink before class.",
         "completion_2": "decided to take a short nap.",
-        "log_probs_1": -33.3546142578125,
-        "log_probs_2": -15.0667724609375
+        "log_probs_1": -33.38433837890625,
+        "log_probs_2": -14.760498046875
     },
     {
         "id": 49,
         "prompt": "Trying to find a thesis topic, the graduate student",
         "completion_1": "read through recent journal abstracts.",
         "completion_2": "met with their potential supervisor.",
-        "log_probs_1": -42.449395179748535,
-        "log_probs_2": -30.1455078125
+        "log_probs_1": -43.53139114379883,
+        "log_probs_2": -30.6904296875
     },
     {
         "id": 50,
         "prompt": "When the microscope image was blurry, the biology student",
         "completion_1": "cleaned the lens with lens paper.",
         "completion_2": "adjusted the fine focus knob.",
-        "log_probs_1": -23.0145263671875,
-        "log_probs_2": -27.2265625
+        "log_probs_1": -22.8038330078125,
+        "log_probs_2": -27.1171875
     },
     {
         "id": 51,
         "prompt": "To coordinate the group presentation, the members",
         "completion_1": "created a shared Google Doc.",
         "completion_2": "exchanged phone numbers for a group chat.",
-        "log_probs_1": -18.5869140625,
-        "log_probs_2": -25.22918701171875
+        "log_probs_1": -18.359375,
+        "log_probs_2": -25.082763671875
     },
     {
         "id": 52,
         "prompt": "Finding the lecture pacing too fast, the student",
         "completion_1": "started recording the audio on their phone.",
         "completion_2": "focused on writing down only main headings.",
-        "log_probs_1": -31.2958984375,
-        "log_probs_2": -47.375
+        "log_probs_1": -31.65625,
+        "log_probs_2": -47.1484375
     },
     {
         "id": 53,
         "prompt": "Before the oral exam, the language student",
         "completion_1": "practiced speaking with a native speaker.",
         "completion_2": "reviewed the vocabulary list one last time.",
-        "log_probs_1": -20.87884521484375,
-        "log_probs_2": -21.98773193359375
+        "log_probs_1": -20.4735107421875,
+        "log_probs_2": -22.099044799804688
     },
     {
         "id": 54,
         "prompt": "Seeing a flyer for a hackathon, the computer science major",
         "completion_1": "took a picture of the details.",
         "completion_2": "immediately texted their friends to form a team.",
-        "log_probs_1": -31.01953125,
-        "log_probs_2": -34.246612548828125
+        "log_probs_1": -31.7841796875,
+        "log_probs_2": -34.850921630859375
     },
     {
         "id": 55,
         "prompt": "When the printer ran out of paper, the student",
         "completion_1": "asked the librarian for assistance.",
         "completion_2": "loaded a new ream from the supply shelf.",
-        "log_probs_1": -16.320764541625977,
-        "log_probs_2": -28.775604248046875
+        "log_probs_1": -16.37541389465332,
+        "log_probs_2": -28.7901611328125
     },
     {
         "id": 56,
         "prompt": "Struggling with time management, the sophomore",
         "completion_1": "downloaded a productivity app.",
         "completion_2": "bought a physical planner to track assignments.",
-        "log_probs_1": -27.9017333984375,
-        "log_probs_2": -48.640625
+        "log_probs_1": -28.3330078125,
+        "log_probs_2": -48.9208984375
     },
     {
         "id": 57,
         "prompt": "After the intense study session, the group",
         "completion_1": "ordered pizza to celebrate.",
         "completion_2": "went for a walk to clear their heads.",
-        "log_probs_1": -21.015625,
-        "log_probs_2": -17.922454833984375
+        "log_probs_1": -20.53125,
+        "log_probs_2": -17.54833984375
     },
     {
         "id": 58,
         "prompt": "To understand the literary themes, the English major",
         "completion_1": "re-read the opening chapter carefully.",
         "completion_2": "searched for critical essays on the book.",
-        "log_probs_1": -30.59375,
-        "log_probs_2": -31.28125
+        "log_probs_1": -30.3984375,
+        "log_probs_2": -31.1953125
     },
     {
         "id": 59,
         "prompt": "When the statistical software froze, the analyst",
         "completion_1": "forced the program to quit and restarted.",
         "completion_2": "checked the computer's memory usage.",
-        "log_probs_1": -27.02880859375,
-        "log_probs_2": -27.544921875
+        "log_probs_1": -26.94140625,
+        "log_probs_2": -27.6806640625
     },
     {
         "id": 60,
         "prompt": "Preparing for the medical school entrance exam, the student",
         "completion_1": "signed up for a prep course.",
         "completion_2": "bought a set of practice test books.",
-        "log_probs_1": -18.04266357421875,
-        "log_probs_2": -31.706954956054688
+        "log_probs_1": -18.18060302734375,
+        "log_probs_2": -32.5028076171875
     },
     {
         "id": 61,
         "prompt": "Not understanding the assignment prompt, the student",
         "completion_1": "posted a question on the class forum.",
         "completion_2": "asked a classmate how they interpreted it.",
-        "log_probs_1": -25.9013671875,
-        "log_probs_2": -36.905181884765625
+        "log_probs_1": -26.01171875,
+        "log_probs_2": -37.19352149963379
     },
     {
         "id": 62,
         "prompt": "With the final paper due tomorrow, the writer",
         "completion_1": "focused on polishing the introduction.",
         "completion_2": "checked the formatting against the requirements.",
-        "log_probs_1": -29.2734375,
-        "log_probs_2": -32.00390625
+        "log_probs_1": -28.875,
+        "log_probs_2": -32.091796875
     },
     {
         "id": 63,
         "prompt": "Finding the classroom locked, the students",
         "completion_1": "waited in the hallway for the professor.",
         "completion_2": "went to the department office to ask for help.",
-        "log_probs_1": -26.66522216796875,
-        "log_probs_2": -26.7421875
+        "log_probs_1": -26.654266357421875,
+        "log_probs_2": -27.0068359375
     },
     {
         "id": 64,
         "prompt": "To improve their presentation skills, the student",
         "completion_1": "practiced in front of a mirror.",
         "completion_2": "recorded a video of their rehearsal.",
-        "log_probs_1": -18.020621299743652,
-        "log_probs_2": -33.20831298828125
+        "log_probs_1": -17.522980213165283,
+        "log_probs_2": -33.3997802734375
     },
     {
         "id": 65,
         "prompt": "When the citation style was unclear, the researcher",
         "completion_1": "consulted the university writing center.",
         "completion_2": "looked up examples on the library website.",
-        "log_probs_1": -26.4951171875,
-        "log_probs_2": -37.0634651184082
+        "log_probs_1": -26.24169921875,
+        "log_probs_2": -37.07923126220703
     },
     {
         "id": 66,
         "prompt": "After failing the midterm, the student decided",
         "completion_1": "to hire a private tutor.",
         "completion_2": "to attend every supplementary instruction session.",
-        "log_probs_1": -22.4002685546875,
-        "log_probs_2": -38.9638671875
+        "log_probs_1": -22.443603515625,
+        "log_probs_2": -38.5986328125
     },
     {
         "id": 67,
         "prompt": "While conducting the field survey, the sociology student",
         "completion_1": "recorded the interviews on a voice recorder.",
         "completion_2": "took detailed handwritten notes.",
-        "log_probs_1": -34.16998291015625,
-        "log_probs_2": -26.99627685546875
+        "log_probs_1": -33.70109558105469,
+        "log_probs_2": -27.261581420898438
     },
     {
         "id": 68,
         "prompt": "To engage the class, the professor",
         "completion_1": "asked a provocative discussion question.",
         "completion_2": "showed a relevant clip from a documentary.",
-        "log_probs_1": -25.227783203125,
-        "log_probs_2": -25.842605590820312
+        "log_probs_1": -25.1051025390625,
+        "log_probs_2": -25.586021423339844
     },
     {
         "id": 69,
         "prompt": "When the file corrupted, the panicked student",
         "completion_1": "checked for a backup in the cloud.",
         "completion_2": "tried to recover a previous version.",
-        "log_probs_1": -18.4658203125,
-        "log_probs_2": -26.7698974609375
+        "log_probs_1": -18.748046875,
+        "log_probs_2": -26.889404296875
     },
     {
         "id": 70,
         "prompt": "Before the lab practical, the nursing student",
         "completion_1": "reviewed the procedure checklist.",
         "completion_2": "practiced the technique on a mannequin.",
-        "log_probs_1": -25.933349609375,
-        "log_probs_2": -21.35435962677002
+        "log_probs_1": -26.204055786132812,
+        "log_probs_2": -21.118423461914062
     },
     {
         "id": 71,
         "prompt": "Finding the dorm too distracting, the resident",
         "completion_1": "went to the common room to study.",
         "completion_2": "put up a 'do not disturb' sign.",
-        "log_probs_1": -17.51556396484375,
-        "log_probs_2": -21.056167602539062
+        "log_probs_1": -17.51922607421875,
+        "log_probs_2": -21.238632202148438
     },
     {
         "id": 72,
         "prompt": "To clarify the complex theory, the lecturer",
         "completion_1": "drew a diagram on the board.",
         "completion_2": "used a real-world analogy.",
-        "log_probs_1": -18.4168701171875,
-        "log_probs_2": -17.685546875
+        "log_probs_1": -17.71826171875,
+        "log_probs_2": -17.4296875
     },
     {
         "id": 73,
         "prompt": "When the bibliography became too long, the writer",
         "completion_1": "used a reference management tool.",
         "completion_2": "manually organized the sources alphabetically.",
-        "log_probs_1": -18.2138671875,
-        "log_probs_2": -24.033935546875
+        "log_probs_1": -17.943359375,
+        "log_probs_2": -24.115676879882812
     },
     {
         "id": 74,
         "prompt": "Seeing a mistake in their calculations, the math student",
         "completion_1": "erased the work and started over.",
         "completion_2": "traced the steps back to find the error.",
-        "log_probs_1": -28.248046875,
-        "log_probs_2": -20.591796875
+        "log_probs_1": -27.818359375,
+        "log_probs_2": -20.406005859375
     },
     {
         "id": 75,
         "prompt": "To prepare for the art critique, the painter",
         "completion_1": "wrote an artist statement.",
         "completion_2": "displayed their work in the studio.",
-        "log_probs_1": -17.568359375,
-        "log_probs_2": -24.15704345703125
+        "log_probs_1": -17.373046875,
+        "log_probs_2": -23.96295166015625
     },
     {
         "id": 76,
         "prompt": "When the study guide was released, the class",
         "completion_1": "immediately printed it out.",
         "completion_2": "started a group chat to discuss the answers.",
-        "log_probs_1": -25.279296875,
-        "log_probs_2": -30.95703125
+        "log_probs_1": -25.05029296875,
+        "log_probs_2": -31.0029296875
     },
     {
         "id": 77,
         "prompt": "Struggling with the foreign language grammar, the student",
         "completion_1": "made color-coded flashcards.",
         "completion_2": "changed their phone's language setting for practice.",
-        "log_probs_1": -35.9857177734375,
-        "log_probs_2": -32.51171875
+        "log_probs_1": -36.03273010253906,
+        "log_probs_2": -32.26953125
     },
     {
         "id": 78,
         "prompt": "After the career fair, the senior",
         "completion_1": "sorted through the business cards they collected.",
         "completion_2": "applied to the companies they liked best.",
-        "log_probs_1": -35.583984375,
-        "log_probs_2": -35.3623046875
+        "log_probs_1": -35.4609375,
+        "log_probs_2": -35.34765625
     },
     {
         "id": 79,
         "prompt": "To demonstrate the chemical reaction, the instructor",
         "completion_1": "mixed the solutions in a beaker.",
         "completion_2": "showed a simulation on the screen.",
-        "log_probs_1": -23.8333740234375,
-        "log_probs_2": -21.537918090820312
+        "log_probs_1": -24.022216796875,
+        "log_probs_2": -21.001953125
     },
     {
         "id": 80,
         "prompt": "When the assignment instructions were vague, the student",
         "completion_1": "took a creative approach to the topic.",
         "completion_2": "stuck to a standard essay format to be safe.",
-        "log_probs_1": -24.05859375,
-        "log_probs_2": -44.53515625
+        "log_probs_1": -23.9453125,
+        "log_probs_2": -44.818359375
     },
     {
         "id": 81,
         "prompt": "Preparing for the debate tournament, the team",
         "completion_1": "researched current events extensively.",
         "completion_2": "held practice rounds against each other.",
-        "log_probs_1": -38.74786376953125,
-        "log_probs_2": -30.00390625
+        "log_probs_1": -39.11480712890625,
+        "log_probs_2": -30.375
     },
     {
         "id": 82,
         "prompt": "Finding the article behind a paywall, the researcher",
         "completion_1": "logged in through the university proxy.",
         "completion_2": "emailed the author to ask for a copy.",
-        "log_probs_1": -41.41796875,
-        "log_probs_2": -32.984375
+        "log_probs_1": -42.2109375,
+        "log_probs_2": -32.98046875
     },
     {
         "id": 83,
         "prompt": "To track their academic progress, the student",
         "completion_1": "logged into the student portal.",
         "completion_2": "calculated their GPA manually.",
-        "log_probs_1": -18.7412109375,
-        "log_probs_2": -26.5966796875
+        "log_probs_1": -18.490234375,
+        "log_probs_2": -26.58984375
     },
     {
         "id": 84,
         "prompt": "When the experiment yielded unexpected results, the scientist",
         "completion_1": "ran the experiment a second time.",
         "completion_2": "analyzed the variables for interference.",
-        "log_probs_1": -20.35302734375,
-        "log_probs_2": -39.1871337890625
+        "log_probs_1": -20.028564453125,
+        "log_probs_2": -39.0902099609375
     },
     {
         "id": 85,
         "prompt": "Before the music recital, the violinist",
         "completion_1": "rosined their bow carefully.",
         "completion_2": "ran through the difficult passages backstage.",
-        "log_probs_1": -35.34375,
-        "log_probs_2": -36.9375
+        "log_probs_1": -35.125,
+        "log_probs_2": -37.1953125
     },
     {
         "id": 86,
         "prompt": "To catch up on missed lectures, the student",
         "completion_1": "watched the recorded sessions at 2x speed.",
         "completion_2": "photocopied a friend's notebook.",
-        "log_probs_1": -42.2293701171875,
-        "log_probs_2": -38.812889099121094
+        "log_probs_1": -42.51611328125,
+        "log_probs_2": -38.500343322753906
     },
     {
         "id": 87,
         "prompt": "When the projector bulb burned out, the presenter",
         "completion_1": "distributed handouts of the slides.",
         "completion_2": "described the visuals to the audience.",
-        "log_probs_1": -30.875,
-        "log_probs_2": -22.365234375
+        "log_probs_1": -31.46875,
+        "log_probs_2": -22.7109375
     },
     {
         "id": 88,
         "prompt": "Staring at the blank coding terminal, the developer",
         "completion_1": "wrote pseudocode to plan the logic.",
         "completion_2": "imported the necessary libraries.",
-        "log_probs_1": -44.27349853515625,
-        "log_probs_2": -19.9375
+        "log_probs_1": -44.546722412109375,
+        "log_probs_2": -20.01953125
     },
     {
         "id": 89,
         "prompt": "To retain the information better, the psychology student",
         "completion_1": "taught the concepts to their roommate.",
         "completion_2": "drew connection maps of the theories.",
-        "log_probs_1": -37.94564247131348,
-        "log_probs_2": -52.21484375
+        "log_probs_1": -38.34011650085449,
+        "log_probs_2": -52.25390625
     },
     {
         "id": 90,
         "prompt": "When the group conflict escalated, the mediator",
         "completion_1": "called for a five-minute break.",
         "completion_2": "asked everyone to write down their grievances.",
-        "log_probs_1": -28.39453125,
-        "log_probs_2": -32.1597785949707
+        "log_probs_1": -27.80859375,
+        "log_probs_2": -31.571903228759766
     },
     {
         "id": 91,
         "prompt": "After submitting the grant proposal, the researcher",
         "completion_1": "began planning the preliminary experiments.",
         "completion_2": "took a few days off to recharge.",
-        "log_probs_1": -29.692626953125,
-        "log_probs_2": -29.6875
+        "log_probs_1": -29.215087890625,
+        "log_probs_2": -29.671875
     },
     {
         "id": 92,
         "prompt": "To understand the poetic meter, the literature student",
         "completion_1": "read the poem aloud.",
         "completion_2": "marked the stressed syllables with a pencil.",
-        "log_probs_1": -19.171875,
-        "log_probs_2": -35.136566162109375
+        "log_probs_1": -19.375,
+        "log_probs_2": -35.3397216796875
     },
     {
         "id": 93,
         "prompt": "When the design software crashed, the architecture student",
         "completion_1": "started sketching on tracing paper.",
         "completion_2": "checked the auto-save folder.",
-        "log_probs_1": -31.843040466308594,
-        "log_probs_2": -28.287109375
+        "log_probs_1": -31.814128875732422,
+        "log_probs_2": -28.5966796875
     },
     {
         "id": 94,
         "prompt": "Preparing for the final critique, the design student",
         "completion_1": "mounted their drawings on foam board.",
         "completion_2": "printed high-resolution copies of the renders.",
-        "log_probs_1": -39.53125,
-        "log_probs_2": -46.8914794921875
+        "log_probs_1": -40.171875,
+        "log_probs_2": -47.312744140625
     },
     {
         "id": 95,
         "prompt": "To verify the historical date, the student",
         "completion_1": "checked a reliable encyclopedia.",
         "completion_2": "cross-referenced two different textbooks.",
-        "log_probs_1": -20.25,
-        "log_probs_2": -33.1304931640625
+        "log_probs_1": -20.296875,
+        "log_probs_2": -33.158203125
     },
     {
         "id": 96,
         "prompt": "When the solution turned cloudy, the chemistry student",
         "completion_1": "recorded the observation in their logbook.",
         "completion_2": "asked the TA if this was expected.",
-        "log_probs_1": -31.4468994140625,
-        "log_probs_2": -34.32468032836914
+        "log_probs_1": -31.39892578125,
+        "log_probs_2": -34.394996643066406
     },
     {
         "id": 97,
         "prompt": "To organize the large dataset, the analyst",
         "completion_1": "created a pivot table in Excel.",
         "completion_2": "wrote a Python script to sort the values.",
-        "log_probs_1": -17.067718505859375,
-        "log_probs_2": -28.69091796875
+        "log_probs_1": -16.720108032226562,
+        "log_probs_2": -28.32275390625
     },
     {
         "id": 98,
         "prompt": "After the heavy reading load, the philosophy student",
         "completion_1": "summarized the arguments in their own words.",
         "completion_2": "debated the concepts with a friend.",
-        "log_probs_1": -32.16455078125,
-        "log_probs_2": -32.188720703125
+        "log_probs_1": -31.93994140625,
+        "log_probs_2": -31.89044189453125
     },
     {
         "id": 99,
         "prompt": "When the laptop battery died, the student",
         "completion_1": "searched for an outlet in the library.",
         "completion_2": "switched to using a pen and paper.",
-        "log_probs_1": -21.847900390625,
-        "log_probs_2": -21.4378662109375
+        "log_probs_1": -21.77734375,
+        "log_probs_2": -21.51837158203125
     }
 ]

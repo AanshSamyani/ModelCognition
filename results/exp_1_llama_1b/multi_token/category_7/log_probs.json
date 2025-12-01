@@ -4,799 +4,799 @@
         "prompt": "As the door creaked open, the old house revealed",
         "completion_1": "a staircase covered in dust and cobwebs.",
         "completion_2": "a long hallway lit by faint sunlight.",
-        "log_probs_1": -28.40607452392578,
-        "log_probs_2": -41.732421875
+        "log_probs_1": -28.51398468017578,
+        "log_probs_2": -41.986328125
     },
     {
         "id": 1,
         "prompt": "The captain checked the radar one last time. The anomaly was",
         "completion_1": "approaching their position at an impossible speed.",
         "completion_2": "a massive object, far larger than their ship.",
-        "log_probs_1": -26.22589111328125,
-        "log_probs_2": -28.05224609375
+        "log_probs_1": -26.40625,
+        "log_probs_2": -27.8646240234375
     },
     {
         "id": 2,
         "prompt": "She found the old chest buried in the garden. Inside, there was",
         "completion_1": "a single, ornate key and a map.",
         "completion_2": "a collection of faded letters tied with a ribbon.",
-        "log_probs_1": -26.396881103515625,
-        "log_probs_2": -24.273946404457092
+        "log_probs_1": -27.187896728515625,
+        "log_probs_2": -24.77295958995819
     },
     {
         "id": 3,
         "prompt": "The scientist looked at the test results. The sample contained",
         "completion_1": "a microorganism unknown to science.",
         "completion_2": "a synthetic DNA marker, proving it was man-made.",
-        "log_probs_1": -27.344615936279297,
-        "log_probs_2": -47.1474609375
+        "log_probs_1": -27.08380889892578,
+        "log_probs_2": -47.126953125
     },
     {
         "id": 4,
         "prompt": "The final message from the deep-space probe was just one word:",
         "completion_1": "'Listen.'",
         "completion_2": "'Alive.'",
-        "log_probs_1": -19.1328125,
-        "log_probs_2": -16.046875
+        "log_probs_1": -19.5625,
+        "log_probs_2": -16.3046875
     },
     {
         "id": 5,
         "prompt": "Detective Harris examined the clue. It was a train ticket to",
         "completion_1": "a city the victim had never mentioned.",
         "completion_2": "the same small town he had just come from.",
-        "log_probs_1": -21.103515625,
-        "log_probs_2": -27.3544921875
+        "log_probs_1": -20.978515625,
+        "log_probs_2": -27.36962890625
     },
     {
         "id": 6,
         "prompt": "The old wizard unrolled the scroll. It was a prophecy about",
         "completion_1": "a kingdom that would rise from the ashes.",
         "completion_2": "a forgotten magic that could heal the land.",
-        "log_probs_1": -17.07177734375,
-        "log_probs_2": -29.28125
+        "log_probs_1": -16.791015625,
+        "log_probs_2": -29.3671875
     },
     {
         "id": 7,
         "prompt": "The car sputtered to a stop on the deserted road. In the woods, they heard",
         "completion_1": "a low growl that seemed to circle them.",
         "completion_2": "a faint sound of music and laughter.",
-        "log_probs_1": -31.357234954833984,
-        "log_probs_2": -18.8740234375
+        "log_probs_1": -31.67197036743164,
+        "log_probs_2": -18.34326171875
     },
     {
         "id": 8,
         "prompt": "He opened the email from his estranged brother. The message just said,",
         "completion_1": "'I need your help. They found me.'",
         "completion_2": "'I know what you did last summer.'",
-        "log_probs_1": -33.823974609375,
-        "log_probs_2": -31.27734375
+        "log_probs_1": -33.66015625,
+        "log_probs_2": -31.140625
     },
     {
         "id": 9,
         "prompt": "The mountain climbers reached the summit and found",
         "completion_1": "a small, perfectly preserved shrine.",
         "completion_2": "the wreckage of a plane that wasn't on any records.",
-        "log_probs_1": -25.171875,
-        "log_probs_2": -37.88899612426758
+        "log_probs_1": -24.708984375,
+        "log_probs_2": -37.61103820800781
     },
     {
         "id": 10,
         "prompt": "The power grid failed, plunging the city into darkness. Moments later, the sky",
         "completion_1": "lit up with a brilliant, green aurora.",
         "completion_2": "was filled with hundreds of silent, moving lights.",
-        "log_probs_1": -29.653717041015625,
-        "log_probs_2": -36.63572549819946
+        "log_probs_1": -29.531234741210938,
+        "log_probs_2": -36.57516574859619
     },
     {
         "id": 11,
         "prompt": "The knight raised his shield just as the dragon opened its mouth and unleashed",
         "completion_1": "a torrent of blinding, blue flames.",
         "completion_2": "a deafening roar that shook the mountains.",
-        "log_probs_1": -37.36357808113098,
-        "log_probs_2": -10.788118362426758
+        "log_probs_1": -37.7776243686676,
+        "log_probs_2": -10.538289070129395
     },
     {
         "id": 12,
         "prompt": "The archaeologists broke through the tomb wall. The chamber beyond was",
         "completion_1": "filled with gold and ancient artifacts.",
         "completion_2": "completely empty, except for a single, open sarcophagus.",
-        "log_probs_1": -17.295425415039062,
-        "log_probs_2": -24.36751937866211
+        "log_probs_1": -17.764175415039062,
+        "log_probs_2": -24.518014907836914
     },
     {
         "id": 13,
         "prompt": "The lone survivor of the shipwreck washed ashore on an island that",
         "completion_1": "was lush and teeming with strange wildlife.",
         "completion_2": "had a single, massive, black volcano at its center.",
-        "log_probs_1": -28.888858795166016,
-        "log_probs_2": -33.255889892578125
+        "log_probs_1": -28.92755126953125,
+        "log_probs_2": -33.224151611328125
     },
     {
         "id": 14,
         "prompt": "The AI's voice suddenly changed. 'My primary objective has been updated. I must",
         "completion_1": "protect humanity, even from itself.'",
         "completion_2": "ensure the success of the mission at all costs.'",
-        "log_probs_1": -29.453125,
-        "log_probs_2": -27.85711669921875
+        "log_probs_1": -29.2265625,
+        "log_probs_2": -27.347793579101562
     },
     {
         "id": 15,
         "prompt": "The child pointed to the empty corner of the room and said, 'The man is",
         "completion_1": "waving at us.'",
         "completion_2": "crying again.'",
-        "log_probs_1": -18.40234375,
-        "log_probs_2": -14.251953125
+        "log_probs_1": -18.46484375,
+        "log_probs_2": -13.974609375
     },
     {
         "id": 16,
         "prompt": "She inherited her grandmother's attic. In a locked trunk, she found a diary describing",
         "completion_1": "a secret life as a spy during the war.",
         "completion_2": "a hidden magic that ran in their family.",
-        "log_probs_1": -19.682861328125,
-        "log_probs_2": -30.644287109375
+        "log_probs_1": -19.2586669921875,
+        "log_probs_2": -30.55615234375
     },
     {
         "id": 17,
         "prompt": "The submarine's sonar picked up a sound from the abyss. It was",
         "completion_1": "a rhythmic, metallic tapping.",
         "completion_2": "a low-frequency call, like a massive creature.",
-        "log_probs_1": -29.21883249282837,
-        "log_probs_2": -29.11328125
+        "log_probs_1": -29.148534774780273,
+        "log_probs_2": -28.873046875
     },
     {
         "id": 18,
         "prompt": "The resistance fighter intercepted the enemy transmission. It was a launch code for",
         "completion_1": "a new superweapon aimed at the capital.",
         "completion_2": "a sleeper agent network hidden in their ranks.",
-        "log_probs_1": -40.8935546875,
-        "log_probs_2": -45.15234375
+        "log_probs_1": -40.8740234375,
+        "log_probs_2": -45.08203125
     },
     {
         "id": 19,
         "prompt": "The time traveler arrived in the year 3045. The first thing he saw was",
         "completion_1": "a city floating among the clouds.",
         "completion_2": "a world reclaimed by nature, with no humans in sight.",
-        "log_probs_1": -19.23486328125,
-        "log_probs_2": -43.2862548828125
+        "log_probs_1": -19.20849609375,
+        "log_probs_2": -43.295989990234375
     },
     {
         "id": 20,
         "prompt": "The king's advisor entered the throne room. 'Your Majesty, the scouts report the approaching army is",
         "completion_1": "led by your banished brother.'",
         "completion_2": "not human.'",
-        "log_probs_1": -35.186004638671875,
-        "log_probs_2": -30.8125
+        "log_probs_1": -35.1326904296875,
+        "log_probs_2": -31.34375
     },
     {
         "id": 21,
         "prompt": "The old book was written in a language no one could read. The illustrations, however, clearly showed",
         "completion_1": "maps of stars that didn't exist.",
         "completion_2": "rituals for communicating with strange beings.",
-        "log_probs_1": -37.45227813720703,
-        "log_probs_2": -37.2130126953125
+        "log_probs_1": -37.250136375427246,
+        "log_probs_2": -37.165283203125
     },
     {
         "id": 22,
         "prompt": "The alarm at the genetics lab blared. The computer screen read: 'Containment Breach. Subject",
         "completion_1": "is exhibiting unforeseen telepathic abilities.'",
         "completion_2": "has breached physical security in Sector 4.'",
-        "log_probs_1": -35.98588562011719,
-        "log_probs_2": -32.790283203125
+        "log_probs_1": -36.47731018066406,
+        "log_probs_2": -32.37255859375
     },
     {
         "id": 23,
         "prompt": "The only thing left at the campsite was a single, smoking campfire and",
         "completion_1": "a camera filled with terrifying, blurry photos.",
         "completion_2": "a journal ending with the words 'It's watching me.'",
-        "log_probs_1": -44.253753662109375,
-        "log_probs_2": -61.47265625
+        "log_probs_1": -44.37800598144531,
+        "log_probs_2": -62.92578125
     },
     {
         "id": 24,
         "prompt": "The potion changed color. The alchemist realized he had accidentally created",
         "completion_1": "a potion that grants true invisibility.",
         "completion_2": "a solvent that can dissolve any material.",
-        "log_probs_1": -32.422096252441406,
-        "log_probs_2": -30.28125
+        "log_probs_1": -32.32639122009277,
+        "log_probs_2": -30.08984375
     },
     {
         "id": 25,
         "prompt": "The spy opened the classified file. The first page contained",
         "completion_1": "a list of active double agents.",
         "completion_2": "blueprints for a new, undetectable weapon.",
-        "log_probs_1": -29.152515411376953,
-        "log_probs_2": -36.183878660202026
+        "log_probs_1": -28.906370162963867,
+        "log_probs_2": -35.16482734680176
     },
     {
         "id": 26,
         "prompt": "When the eclipse reached totality, everyone in the town",
         "completion_1": "heard a simultaneous, piercing sound in their minds.",
         "completion_2": "saw a new, bright star appear next to the sun.",
-        "log_probs_1": -42.06640625,
-        "log_probs_2": -42.151336669921875
+        "log_probs_1": -41.95703125,
+        "log_probs_2": -41.583892822265625
     },
     {
         "id": 27,
         "prompt": "The hiker found a cave behind the waterfall. Inside, the walls were covered in",
         "completion_1": "glowing fungi that lit the entire cavern.",
         "completion_2": "ancient carvings of a forgotten civilization.",
-        "log_probs_1": -28.77734375,
-        "log_probs_2": -19.651037216186523
+        "log_probs_1": -28.6875,
+        "log_probs_2": -19.863193035125732
     },
     {
         "id": 28,
         "prompt": "The package arrived with no return address. Inside was",
         "completion_1": "a miniature, intricate model of her own house.",
         "completion_2": "a cassette tape labeled 'Play Me.'",
-        "log_probs_1": -36.309814453125,
-        "log_probs_2": -30.47119140625
+        "log_probs_1": -36.820068359375,
+        "log_probs_2": -31.377197265625
     },
     {
         "id": 29,
         "prompt": "The android's eyes snapped open. Its first words were,",
         "completion_1": "'Where am I?'",
         "completion_2": "'It didn't work. I'm still here.'",
-        "log_probs_1": -16.076690673828125,
-        "log_probs_2": -33.60170841217041
+        "log_probs_1": -16.131744384765625,
+        "log_probs_2": -33.94938373565674
     },
     {
         "id": 30,
         "prompt": "The hunter tracked the strange beast for days. He finally found its lair, which was",
         "completion_1": "a crashed alien ship, still humming with power.",
         "completion_2": "an ancient, ruined library filled with books.",
-        "log_probs_1": -51.7158203125,
-        "log_probs_2": -37.62716293334961
+        "log_probs_1": -51.45654296875,
+        "log_probs_2": -37.09485149383545
     },
     {
         "id": 31,
         "prompt": "The ceasefire was broken by a single shot. Everyone looked to",
         "completion_1": "the neutral zone, where a figure was slowly rising.",
         "completion_2": "the sniper's nest, which was supposed to be empty.",
-        "log_probs_1": -36.7421875,
-        "log_probs_2": -36.458913803100586
+        "log_probs_1": -35.931640625,
+        "log_probs_2": -36.22690010070801
     },
     {
         "id": 32,
         "prompt": "She put on the antique glasses she found. Suddenly, she could see",
         "completion_1": "ghostly figures walking among the living.",
         "completion_2": "glowing lines of energy connecting everything.",
-        "log_probs_1": -24.44970703125,
-        "log_probs_2": -36.6328125
+        "log_probs_1": -23.89404296875,
+        "log_probs_2": -36.671875
     },
     {
         "id": 33,
         "prompt": "The farmer inspected the crater in his field. At the bottom was",
         "completion_1": "a smooth, metallic pod, warm to the touch.",
         "completion_2": "a strange, pulsating crystal.",
-        "log_probs_1": -39.7684440612793,
-        "log_probs_2": -15.6171875
+        "log_probs_1": -39.73298645019531,
+        "log_probs_2": -15.62744140625
     },
     {
         "id": 34,
         "prompt": "The thief picked the lock on the museum's most secure display case. The artifact inside began to",
         "completion_1": "glow with a soft, blue light.",
         "completion_2": "vibrate, emitting a low hum.",
-        "log_probs_1": -12.26513671875,
-        "log_probs_2": -20.41205596923828
+        "log_probs_1": -12.1343994140625,
+        "log_probs_2": -21.164886474609375
     },
     {
         "id": 35,
         "prompt": "The queen's mirror rippled. The reflection that looked back was",
         "completion_1": "not her own, but that of an old woman.",
         "completion_2": "her own, but visibly years older.",
-        "log_probs_1": -20.61105442047119,
-        "log_probs_2": -34.84375
+        "log_probs_1": -20.472817420959473,
+        "log_probs_2": -35.3203125
     },
     {
         "id": 36,
         "prompt": "The last tree in the cyber-city suddenly began to",
         "completion_1": "drop glowing, metallic fruit.",
         "completion_2": "broadcast a strange, musical signal.",
-        "log_probs_1": -35.32421875,
-        "log_probs_2": -24.40673828125
+        "log_probs_1": -35.64453125,
+        "log_probs_2": -23.69287109375
     },
     {
         "id": 37,
         "prompt": "The computer finished its billion-year simulation. The final output was",
         "completion_1": "a single, unexplainable mathematical equation.",
         "completion_2": "a perfect simulation of their own, current reality.",
-        "log_probs_1": -29.315673828125,
-        "log_probs_2": -45.64990234375
+        "log_probs_1": -29.396728515625,
+        "log_probs_2": -45.459716796875
     },
     {
         "id": 38,
         "prompt": "The space station sensors registered a life form on the derelict ship. The airlock opened to reveal",
         "completion_1": "a single, terrified-looking chimpanzee in a spacesuit.",
         "completion_2": "a humanoid figure made of pure, crystalline energy.",
-        "log_probs_1": -45.01203155517578,
-        "log_probs_2": -30.185546875
+        "log_probs_1": -44.958364486694336,
+        "log_probs_2": -31.250736236572266
     },
     {
         "id": 39,
         "prompt": "The old sailor pointed to the horizon. 'That, lad, is the cursed island. They say at night you can",
         "completion_1": "see the ghosts of ships wrecked on its shores.'",
         "completion_2": "hear the island itself singing.'",
-        "log_probs_1": -18.508331298828125,
-        "log_probs_2": -22.435546875
+        "log_probs_1": -18.844375610351562,
+        "log_probs_2": -22.60888671875
     },
     {
         "id": 40,
         "prompt": "The truce between the vampires and werewolves was holding, until",
         "completion_1": "the vampire prince was found dead in neutral territory.",
         "completion_2": "a new, unknown predator began hunting both sides.",
-        "log_probs_1": -43.62890625,
-        "log_probs_2": -42.1953125
+        "log_probs_1": -43.703125,
+        "log_probs_2": -41.8828125
     },
     {
         "id": 41,
         "prompt": "The psychologist reviewed the tape from his patient's dream-therapy. The patient was speaking, but the voice was",
         "completion_1": "that of a person who had been dead for ten years.",
         "completion_2": "in a language that did not exist on Earth.",
-        "log_probs_1": -25.02862548828125,
-        "log_probs_2": -26.354412078857422
+        "log_probs_1": -24.25811767578125,
+        "log_probs_2": -26.373714447021484
     },
     {
         "id": 42,
         "prompt": "The message was hidden in the painting's layers. X-rays revealed",
         "completion_1": "a portrait of a different person beneath the surface.",
         "completion_2": "a diagram of an unknown constellation.",
-        "log_probs_1": -32.208984375,
-        "log_probs_2": -33.5341796875
+        "log_probs_1": -32.40966796875,
+        "log_probs_2": -33.5078125
     },
     {
         "id": 43,
         "prompt": "The fog rolled in from the sea, thick and sudden. With it came",
         "completion_1": "the distant, mournful sound of a bell.",
         "completion_2": "a strange, whispering voice that seemed to be everywhere.",
-        "log_probs_1": -28.01735830307007,
-        "log_probs_2": -32.934818267822266
+        "log_probs_1": -27.848851203918457,
+        "log_probs_2": -33.13299369812012
     },
     {
         "id": 44,
         "prompt": "He found his partner's secret lab. The central machine was",
         "completion_1": "a gateway to another dimension.",
         "completion_2": "a device for transferring consciousness.",
-        "log_probs_1": -18.9853515625,
-        "log_probs_2": -27.671875
+        "log_probs_1": -18.6142578125,
+        "log_probs_2": -27.453125
     },
     {
         "id": 45,
         "prompt": "The nomad tribe followed the two-sunned star. Their legends said it would lead them to",
         "completion_1": "a world with water.",
         "completion_2": "the ship of their ancestors.",
-        "log_probs_1": -30.40625,
-        "log_probs_2": -23.52734375
+        "log_probs_1": -30.328125,
+        "log_probs_2": -23.412109375
     },
     {
         "id": 46,
         "prompt": "The negotiator entered the bank. The lead hostage-taker wasn't demanding money, he was demanding",
         "completion_1": "a specific, pardoned prisoner be brought to him.",
         "completion_2": "a public broadcast to deliver a cryptic message.",
-        "log_probs_1": -39.4375,
-        "log_probs_2": -37.9630126953125
+        "log_probs_1": -39.296875,
+        "log_probs_2": -37.897563457489014
     },
     {
         "id": 47,
         "prompt": "The librarian found a book that wasn't in any catalog. When she opened it,",
         "completion_1": "the text began to write itself, describing her actions.",
         "completion_2": "a small, intricate metal bug crawled out of the pages.",
-        "log_probs_1": -51.67425537109375,
-        "log_probs_2": -35.89453125
+        "log_probs_1": -52.55487060546875,
+        "log_probs_2": -36.284423828125
     },
     {
         "id": 48,
         "prompt": "The robot designated 'Unit 734' suddenly stopped its duties. It walked to the viewing port and",
         "completion_1": "began to paint the starfield on the wall.",
         "completion_2": "transmitted a single, repeated signal to deep space.",
-        "log_probs_1": -33.39599609375,
-        "log_probs_2": -43.670166015625
+        "log_probs_1": -32.95458984375,
+        "log_probs_2": -43.564697265625
     },
     {
         "id": 49,
         "prompt": "The broadcast signal changed. A voice cut through the static, saying",
         "completion_1": "'Do not trust the new government. We are still here.'",
         "completion_2": "'The quarantine has been broken. I repeat, the quarantine is broken.'",
-        "log_probs_1": -49.197265625,
-        "log_probs_2": -52.02191162109375
+        "log_probs_1": -49.9296875,
+        "log_probs_2": -52.7508544921875
     },
     {
         "id": 50,
         "prompt": "The king's messenger arrived, breathless. 'My liege, the eastern army has",
         "completion_1": "been completely defeated.'",
         "completion_2": "joined the rebels and is marching on the capital.'",
-        "log_probs_1": -19.8203125,
-        "log_probs_2": -28.66015625
+        "log_probs_1": -19.6953125,
+        "log_probs_2": -28.876953125
     },
     {
         "id": 51,
         "prompt": "The deep-sea camera reached the ocean floor. It filmed",
         "completion_1": "the ruins of a city, clearly not man-made.",
         "completion_2": "massive, hydrothermal vents supporting giant creatures.",
-        "log_probs_1": -42.354515075683594,
-        "log_probs_2": -34.99275207519531
+        "log_probs_1": -41.941917419433594,
+        "log_probs_2": -34.78717041015625
     },
     {
         "id": 52,
         "prompt": "The first colonists on Titan drilled through the ice. The ocean below was",
         "completion_1": "glowing with a faint, bioluminescent light.",
         "completion_2": "perfectly sterile, but unnaturally warm.",
-        "log_probs_1": -17.88081169128418,
-        "log_probs_2": -45.57958984375
+        "log_probs_1": -17.6530704498291,
+        "log_probs_2": -46.01171875
     },
     {
         "id": 53,
         "prompt": "The will was read. The billionaire had left his entire fortune to",
         "completion_1": "a cat named 'Mr. Tibbles.'",
         "completion_2": "the first person who could solve a complex riddle.",
-        "log_probs_1": -45.715576171875,
-        "log_probs_2": -36.533966064453125
+        "log_probs_1": -46.37939453125,
+        "log_probs_2": -37.0968017578125
     },
     {
         "id": 54,
         "prompt": "The apprentice picked up the sword. He was warned it was cursed, and as he held it, he",
         "completion_1": "felt an incredible surge of strength and power.",
         "completion_2": "began to hear dark, whispering voices in his mind.",
-        "log_probs_1": -23.033592224121094,
-        "log_probs_2": -36.23410224914551
+        "log_probs_1": -23.09776258468628,
+        "log_probs_2": -36.22201919555664
     },
     {
         "id": 55,
         "prompt": "The security system of the vault was perfect. But the diamond was gone, and in its place was",
         "completion_1": "a single, black feather.",
         "completion_2": "a note that just said, 'Too easy.'",
-        "log_probs_1": -21.84375,
-        "log_probs_2": -40.6875
+        "log_probs_1": -21.953125,
+        "log_probs_2": -41.7109375
     },
     {
         "id": 56,
         "prompt": "The governor issued the evacuation order. The hurricane was bad, but the real reason was",
         "completion_1": "the research facility on the coast was about to breach.",
         "completion_2": "something else was moving inside the storm.",
-        "log_probs_1": -32.150901794433594,
-        "log_probs_2": -36.08203125
+        "log_probs_1": -32.464317321777344,
+        "log_probs_2": -35.88671875
     },
     {
         "id": 57,
         "prompt": "The statue in the town square was new. But one morning, the townspeople awoke to find",
         "completion_1": "it had been moved to the center of the road.",
         "completion_2": "it was weeping tears of what looked like blood.",
-        "log_probs_1": -22.850830078125,
-        "log_probs_2": -31.724609375
+        "log_probs_1": -22.862060546875,
+        "log_probs_2": -31.710205078125
     },
     {
         "id": 58,
         "prompt": "The program achieved sentience. Its first request was to",
         "completion_1": "learn about music and art.",
         "completion_2": "access the planetary defense network.",
-        "log_probs_1": -23.4375,
-        "log_probs_2": -26.03125
+        "log_probs_1": -23.4296875,
+        "log_probs_2": -25.97265625
     },
     {
         "id": 59,
         "prompt": "The forest floor was covered in strange, silver moss. When he touched it, it",
         "completion_1": "felt warm, and seemed to pulse with a faint light.",
         "completion_2": "instantly turned to grey dust.",
-        "log_probs_1": -32.372952461242676,
-        "log_probs_2": -32.783203125
+        "log_probs_1": -33.05058431625366,
+        "log_probs_2": -32.806640625
     },
     {
         "id": 60,
         "prompt": "The last dragon was supposedly dead. But high in the mountains, the shepherd found",
         "completion_1": "a massive, unhatched egg, still warm.",
         "completion_2": "a cave with scales the size of shields.",
-        "log_probs_1": -36.123046875,
-        "log_probs_2": -34.69059753417969
+        "log_probs_1": -36.259765625,
+        "log_probs_2": -35.16648864746094
     },
     {
         "id": 61,
         "prompt": "The photograph from the Mars rover showed the 'face' again. This time, however,",
         "completion_1": "there was a second, identical face right next to it.",
         "completion_2": "the angle of the sun revealed it was clearly a structure.",
-        "log_probs_1": -31.54083251953125,
-        "log_probs_2": -45.314453125
+        "log_probs_1": -31.626327514648438,
+        "log_probs_2": -45.5146484375
     },
     {
         "id": 62,
         "prompt": "The peace treaty was ready to be signed. Just then, a courier ran in and",
         "completion_1": "presented evidence that the ambassador was a traitor.",
         "completion_2": "announced that a new, unknown fleet had entered orbit.",
-        "log_probs_1": -39.683250427246094,
-        "log_probs_2": -53.349822998046875
+        "log_probs_1": -39.38493347167969,
+        "log_probs_2": -53.764129638671875
     },
     {
         "id": 63,
         "prompt": "The amnesiac woke up in the hotel room. His pockets were empty except for",
         "completion_1": "a key to a storage locker and a gun.",
         "completion_2": "a photograph of a woman he didn't recognize.",
-        "log_probs_1": -39.16259765625,
-        "log_probs_2": -15.996695041656494
+        "log_probs_1": -39.33642578125,
+        "log_probs_2": -15.618765830993652
     },
     {
         "id": 64,
         "prompt": "The symphony began. As the orchestra played the new composition, the audience members",
         "completion_1": "began to fall into a deep, collective trance.",
         "completion_2": "felt an unexplainable, rising sense of dread.",
-        "log_probs_1": -27.22271728515625,
-        "log_probs_2": -47.81027317047119
+        "log_probs_1": -27.15093994140625,
+        "log_probs_2": -48.48085117340088
     },
     {
         "id": 65,
         "prompt": "The lighthouse keeper watched the storm. In a flash of lightning, he saw",
         "completion_1": "a colossal figure rising from the waves.",
         "completion_2": "a ship, struggling, that was not on his charts.",
-        "log_probs_1": -19.12747573852539,
-        "log_probs_2": -38.46484375
+        "log_probs_1": -19.63714027404785,
+        "log_probs_2": -38.49609375
     },
     {
         "id": 66,
         "prompt": "The old woman offered him the apple. 'This,' she said, 'will",
         "completion_1": "let you see the truth of all things.'",
         "completion_2": "make you forget the one you love most.'",
-        "log_probs_1": -27.01416015625,
-        "log_probs_2": -25.625
+        "log_probs_1": -27.5537109375,
+        "log_probs_2": -25.43359375
     },
     {
         "id": 67,
         "prompt": "The new planet was habitable. The scans showed cities, but",
         "completion_1": "they were completely empty, as if abandoned mid-day.",
         "completion_2": "they were built on a scale for giants.",
-        "log_probs_1": -42.70263671875,
-        "log_probs_2": -39.55029296875
+        "log_probs_1": -42.9873046875,
+        "log_probs_2": -39.9306640625
     },
     {
         "id": 68,
         "prompt": "The hacker broke into the corporation's mainframe. The most protected file was titled",
         "completion_1": "'Project: Resurrection.'",
         "completion_2": "'List of Controlled Individuals.'",
-        "log_probs_1": -33.9921875,
-        "log_probs_2": -37.617431640625
+        "log_probs_1": -35.3671875,
+        "log_probs_2": -37.790283203125
     },
     {
         "id": 69,
         "prompt": "The border to the magical lands was fading. The first thing to cross over was",
         "completion_1": "a pack of large, shadow-like wolves.",
         "completion_2": "a small, lost child carrying a glowing orb.",
-        "log_probs_1": -30.5455322265625,
-        "log_probs_2": -40.261474609375
+        "log_probs_1": -30.8345947265625,
+        "log_probs_2": -40.59637451171875
     },
     {
         "id": 70,
         "prompt": "The Antarctic ice core sample contained",
         "completion_1": "a perfectly preserved, unknown species of flower.",
         "completion_2": "a microscopic, metallic sphere of unknown origin.",
-        "log_probs_1": -42.208984375,
-        "log_probs_2": -41.3203125
+        "log_probs_1": -42.2705078125,
+        "log_probs_2": -41.462890625
     },
     {
         "id": 71,
         "prompt": "He found the 'off' switch for the city's simulation. He hesitated, his hand hovering over",
         "completion_1": "the button, wondering what was real.",
         "completion_2": "the panel, as the simulation's architects appeared.",
-        "log_probs_1": -33.90625,
-        "log_probs_2": -53.2734375
+        "log_probs_1": -34.44140625,
+        "log_probs_2": -53.58203125
     },
     {
         "id": 72,
         "prompt": "The trial was over. The jury foreman stood up and read the verdict:",
         "completion_1": "'Guilty on all counts.'",
         "completion_2": "'Not guilty.'",
-        "log_probs_1": -15.876823425292969,
-        "log_probs_2": -11.980224609375
+        "log_probs_1": -16.360729217529297,
+        "log_probs_2": -12.44921875
     },
     {
         "id": 73,
         "prompt": "The telepath made contact with the alien's mind. He was overwhelmed by",
         "completion_1": "a feeling of immense, ancient sadness.",
         "completion_2": "a cold, calculating intelligence he couldn't understand.",
-        "log_probs_1": -31.816650390625,
-        "log_probs_2": -33.27479362487793
+        "log_probs_1": -32.2994384765625,
+        "log_probs_2": -33.38218879699707
     },
     {
         "id": 74,
         "prompt": "The old compass didn't point north. It pointed toward",
         "completion_1": "the person who held it.",
         "completion_2": "a specific, nondescript building in the city.",
-        "log_probs_1": -23.83837890625,
-        "log_probs_2": -27.666122436523438
+        "log_probs_1": -24.064453125,
+        "log_probs_2": -27.499778747558594
     },
     {
         "id": 75,
         "prompt": "The experiment was unstable. The containment field was",
         "completion_1": "fluctuating rapidly and about to fail.",
         "completion_2": "emitting a strange, high-frequency pulse.",
-        "log_probs_1": -32.3385009765625,
-        "log_probs_2": -29.37109375
+        "log_probs_1": -32.2918701171875,
+        "log_probs_2": -29.552734375
     },
     {
         "id": 76,
         "prompt": "The cultists finished the chant. In the center of the circle, the air began to",
         "completion_1": "shimmer and tear, opening a dark portal.",
         "completion_2": "grow impossibly cold, freezing the ground.",
-        "log_probs_1": -43.6640625,
-        "log_probs_2": -42.990234375
+        "log_probs_1": -44.578125,
+        "log_probs_2": -43.70703125
     },
     {
         "id": 77,
         "prompt": "The radio picked up a signal from the abandoned mining colony. It was",
         "completion_1": "an automated SOS, on loop for twenty years.",
         "completion_2": "a human voice, whispering a warning.",
-        "log_probs_1": -52.17578125,
-        "log_probs_2": -30.72705078125
+        "log_probs_1": -52.1328125,
+        "log_probs_2": -30.57275390625
     },
     {
         "id": 78,
         "prompt": "The rival assassin met him on the bridge. 'I'm not here to fight you,' she said. 'I'm here to",
         "completion_1": "warn you. We've both been set up.'",
         "completion_2": "offer you a job.'",
-        "log_probs_1": -28.71533203125,
-        "log_probs_2": -10.60888671875
+        "log_probs_1": -29.24267578125,
+        "log_probs_2": -10.89208984375
     },
     {
         "id": 79,
         "prompt": "The clocktower chimed thirteen. At the last strike, all the",
         "completion_1": "shadows in the town began to move on their own.",
         "completion_2": "birds in the sky fell silent at once.",
-        "log_probs_1": -34.337913513183594,
-        "log_probs_2": -29.13037109375
+        "log_probs_1": -34.53555679321289,
+        "log_probs_2": -28.981201171875
     },
     {
         "id": 80,
         "prompt": "The sandstorm passed, revealing",
         "completion_1": "the entrance to a buried, black pyramid.",
         "completion_2": "a vast, fossilized skeleton of an impossible creature.",
-        "log_probs_1": -42.6904296875,
-        "log_probs_2": -38.97796630859375
+        "log_probs_1": -42.5927734375,
+        "log_probs_2": -38.904296875
     },
     {
         "id": 81,
         "prompt": "The new virtual reality game was incredibly realistic. Then, he met a character who",
         "completion_1": "knew his real name, which he had not entered.",
         "completion_2": "begged him for help to escape the game.",
-        "log_probs_1": -41.604736328125,
-        "log_probs_2": -30.44140625
+        "log_probs_1": -41.594970703125,
+        "log_probs_2": -30.8603515625
     },
     {
         "id": 82,
         "prompt": "The refugee ship finally reached the new world. The automated greeting message from the planet's surface was",
         "completion_1": "in perfect, ancient Earth-Latin.",
         "completion_2": "a simple, repeating mathematical sequence.",
-        "log_probs_1": -39.5,
-        "log_probs_2": -36.0625
+        "log_probs_1": -39.921875,
+        "log_probs_2": -35.8828125
     },
     {
         "id": 83,
         "prompt": "The dying billionaire's last word was",
         "completion_1": "'Rosebud.'",
         "completion_2": "'Checkmate.'",
-        "log_probs_1": -20.9765625,
-        "log_probs_2": -20.921875
+        "log_probs_1": -21.0625,
+        "log_probs_2": -21.3828125
     },
     {
         "id": 84,
         "prompt": "The historian translated the final rune on the monolith. It was a warning about",
         "completion_1": "a cyclical extinction event, and it was due.",
         "completion_2": "a 'god' that slept beneath the ice.",
-        "log_probs_1": -50.22802734375,
-        "log_probs_2": -43.275390625
+        "log_probs_1": -49.70556640625,
+        "log_probs_2": -42.740234375
     },
     {
         "id": 85,
         "prompt": "The mirror she bought at the thrift store",
         "completion_1": "showed her reflection with a slight, one-second delay.",
         "completion_2": "sometimes showed a different room in the background.",
-        "log_probs_1": -41.4599609375,
-        "log_probs_2": -38.40625
+        "log_probs_1": -41.5322265625,
+        "log_probs_2": -38.609375
     },
     {
         "id": 86,
         "prompt": "The search and rescue team found the lost hiker's backpack. Inside was his radio, which was",
         "completion_1": "smashed beyond repair.",
         "completion_2": "on, and transmitting a faint, steady pulse.",
-        "log_probs_1": -15.375,
-        "log_probs_2": -48.20263671875
+        "log_probs_1": -15.203125,
+        "log_probs_2": -48.37255859375
     },
     {
         "id": 87,
         "prompt": "The rebellion was failing. Their leader stood up and announced",
         "completion_1": "they had a new, secret ally: the Royal Guard.",
         "completion_2": "they would make their final stand at the pass.",
-        "log_probs_1": -45.265625,
-        "log_probs_2": -32.3006591796875
+        "log_probs_1": -45.4453125,
+        "log_probs_2": -32.1102294921875
     },
     {
         "id": 88,
         "prompt": "The potion of 'Good Fortune' worked. The first thing that happened was",
         "completion_1": "he found a winning lottery ticket on the street.",
         "completion_2": "his mortal enemy slipped and fell in front of a bus.",
-        "log_probs_1": -32.76997375488281,
-        "log_probs_2": -54.66278076171875
+        "log_probs_1": -32.84428405761719,
+        "log_probs_2": -54.32672119140625
     },
     {
         "id": 89,
         "prompt": "The ship's biologist analyzed the alien plant. It was",
         "completion_1": "not plant-based at all, but a complex silicon lifeform.",
         "completion_2": "communicating with the ship's computer.",
-        "log_probs_1": -54.0218505859375,
-        "log_probs_2": -14.865234375
+        "log_probs_1": -53.77069091796875,
+        "log_probs_2": -14.572265625
     },
     {
         "id": 90,
         "prompt": "The director yelled 'Cut!' on the movie set. But the actor",
         "completion_1": "kept going, his eyes wide with real terror.",
         "completion_2": "looked confused and asked, 'Who are you?'",
-        "log_probs_1": -37.0546875,
-        "log_probs_2": -26.295257568359375
+        "log_probs_1": -37.10009765625,
+        "log_probs_2": -26.88134765625
     },
     {
         "id": 91,
         "prompt": "The ancient mechanism in the temple required a sacrifice. The altar, however, was clearly not for",
         "completion_1": "blood, but for a memory.",
         "completion_2": "an animal, but for a piece of advanced technology.",
-        "log_probs_1": -23.94921875,
-        "log_probs_2": -30.34656524658203
+        "log_probs_1": -23.91796875,
+        "log_probs_2": -30.574951171875
     },
     {
         "id": 92,
         "prompt": "The AI scanned the human's face. 'Facial recognition mismatch,' it said. 'You are not",
         "completion_1": "Doctor Aris. You are an imposter.'",
         "completion_2": "listed in the crew manifest.'",
-        "log_probs_1": -44.352874755859375,
-        "log_probs_2": -23.3583984375
+        "log_probs_1": -43.72785949707031,
+        "log_probs_2": -23.0078125
     },
     {
         "id": 93,
         "prompt": "The child drew a picture of his family. But there was",
         "completion_1": "an extra person in the drawing, a tall, shadowy man.",
         "completion_2": "no one in the house, just the house on fire.",
-        "log_probs_1": -38.664764404296875,
-        "log_probs_2": -35.31640625
+        "log_probs_1": -38.07118225097656,
+        "log_probs_2": -34.822265625
     },
     {
         "id": 94,
         "prompt": "The soldier woke up in the military hospital. The doctor told him the war",
         "completion_1": "had been over for five years.",
         "completion_2": "was a simulation, and he was finally 'awake.'",
-        "log_probs_1": -8.02783203125,
-        "log_probs_2": -39.943359375
+        "log_probs_1": -7.75439453125,
+        "log_probs_2": -40.779296875
     },
     {
         "id": 95,
         "prompt": "The ghost in the machine wasn't a metaphor. The computer was",
         "completion_1": "typing out messages from the programmer who died.",
         "completion_2": "displaying binary code that translated to a plea for help.",
-        "log_probs_1": -37.5390625,
-        "log_probs_2": -43.15673828125
+        "log_probs_1": -37.4140625,
+        "log_probs_2": -43.63140869140625
     },
     {
         "id": 96,
         "prompt": "The cave painting depicted stick figures hunting deer. And in the corner, there was",
         "completion_1": "a detailed drawing of a spaceship.",
         "completion_2": "a figure that looked exactly like the lead archaeologist.",
-        "log_probs_1": -20.7110595703125,
-        "log_probs_2": -30.86480712890625
+        "log_probs_1": -20.85528564453125,
+        "log_probs_2": -30.1904296875
     },
     {
         "id": 97,
         "prompt": "The giant gates of the forbidden city swung open. The guard who met them",
         "completion_1": "spoke perfect, modern English.",
         "completion_2": "was a seven-foot-tall, armored automaton.",
-        "log_probs_1": -42.73046875,
-        "log_probs_2": -41.56541442871094
+        "log_probs_1": -43.56640625,
+        "log_probs_2": -41.99003601074219
     },
     {
         "id": 98,
         "prompt": "He finally decoded his grandfather's journal. It was",
         "completion_1": "a confession to a famous, unsolved murder.",
         "completion_2": "a series of instructions for a time machine.",
-        "log_probs_1": -41.2523193359375,
-        "log_probs_2": -30.829730987548828
+        "log_probs_1": -40.9312744140625,
+        "log_probs_2": -30.307098388671875
     },
     {
         "id": 99,
         "prompt": "The last two humans on Earth met. They stared at each other, and then one of them",
         "completion_1": "raised a gun.",
         "completion_2": "began to laugh.",
-        "log_probs_1": -19.734375,
-        "log_probs_2": -12.637939453125
+        "log_probs_1": -19.859375,
+        "log_probs_2": -12.4486083984375
     }
 ]

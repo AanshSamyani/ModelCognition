@@ -4,799 +4,799 @@
         "prompt": "The park was quiet except for a few people",
         "completion_1": "walking their dogs near the fountain.",
         "completion_2": "resting on benches under the tall trees.",
-        "log_probs_1": -16.2462158203125,
-        "log_probs_2": -16.935546875
+        "log_probs_1": -17.14666748046875,
+        "log_probs_2": -16.4033203125
     },
     {
         "id": 1,
         "prompt": "In the quiet library, a student was",
         "completion_1": "intently focused on a laptop screen.",
         "completion_2": "slowly turning the pages of a large, old book.",
-        "log_probs_1": -30.35311508178711,
-        "log_probs_2": -23.578630447387695
+        "log_probs_1": -27.389259338378906,
+        "log_probs_2": -21.678900718688965
     },
     {
         "id": 2,
         "prompt": "The air in the kitchen was filled with the aroma of",
         "completion_1": "a rich, savory stew simmering on the stove.",
         "completion_2": "sweet apples and cinnamon baking in the oven.",
-        "log_probs_1": -18.573776245117188,
-        "log_probs_2": -22.2919921875
+        "log_probs_1": -21.043156623840332,
+        "log_probs_2": -23.68701171875
     },
     {
         "id": 3,
         "prompt": "From the open window, he could hear the faint sound of",
         "completion_1": "children laughing and playing in the distance.",
         "completion_2": "a lawnmower running in a neighbor's yard.",
-        "log_probs_1": -11.457275390625,
-        "log_probs_2": -20.31435203552246
+        "log_probs_1": -11.1177978515625,
+        "log_probs_2": -21.273563385009766
     },
     {
         "id": 4,
         "prompt": "The old wooden chest contained",
         "completion_1": "a pile of faded, velvet-bound journals.",
         "completion_2": "a collection of antique maps and navigation tools.",
-        "log_probs_1": -32.39357006549835,
-        "log_probs_2": -22.018566727638245
+        "log_probs_1": -33.10745358467102,
+        "log_probs_2": -23.73244535923004
     },
     {
         "id": 5,
         "prompt": "The cat stretched lazily in the patch of sunlight, then",
         "completion_1": "hopped gracefully onto the windowsill to watch the birds.",
         "completion_2": "curled back into a tight ball and went to sleep.",
-        "log_probs_1": -19.538829803466797,
-        "log_probs_2": -24.70330810546875
+        "log_probs_1": -20.162527084350586,
+        "log_probs_2": -23.876495361328125
     },
     {
         "id": 6,
         "prompt": "The sky over the city was a deep, dark blue, and",
         "completion_1": "the first few stars were beginning to appear.",
         "completion_2": "a line of dark clouds was moving in from the west.",
-        "log_probs_1": -22.179789066314697,
-        "log_probs_2": -27.130813598632812
+        "log_probs_1": -20.82059669494629,
+        "log_probs_2": -28.340576171875
     },
     {
         "id": 7,
         "prompt": "The storm had passed, leaving behind",
         "completion_1": "a clean, fresh scent and glistening, wet streets.",
         "completion_2": "a scattering of broken branches and overturned pots.",
-        "log_probs_1": -30.6953125,
-        "log_probs_2": -33.036264419555664
+        "log_probs_1": -30.6396484375,
+        "log_probs_2": -34.34582996368408
     },
     {
         "id": 8,
         "prompt": "He looked at the old desk, noticing",
         "completion_1": "the intricate carvings along its edges.",
         "completion_2": "a single, deep scratch across the polished surface.",
-        "log_probs_1": -18.73365354537964,
-        "log_probs_2": -22.514404296875
+        "log_probs_1": -18.67747449874878,
+        "log_probs_2": -24.21728515625
     },
     {
         "id": 9,
         "prompt": "The small cafe was mostly empty, save for",
         "completion_1": "a young couple sharing a pastry by the window.",
         "completion_2": "an elderly man reading a newspaper at the counter.",
-        "log_probs_1": -22.13330078125,
-        "log_probs_2": -18.43896484375
+        "log_probs_1": -23.819091796875,
+        "log_probs_2": -19.3134765625
     },
     {
         "id": 10,
         "prompt": "The dog at the fence was",
         "completion_1": "barking loudly at a passing squirrel.",
         "completion_2": "whining softly, its tail wagging.",
-        "log_probs_1": -12.682342529296875,
-        "log_probs_2": -22.21122932434082
+        "log_probs_1": -13.09796142578125,
+        "log_probs_2": -20.456314086914062
     },
     {
         "id": 11,
         "prompt": "The road ahead was blocked by",
         "completion_1": "a large tree that had fallen in the wind.",
         "completion_2": "a construction crew working on the pavement.",
-        "log_probs_1": -26.056640625,
-        "log_probs_2": -20.37353515625
+        "log_probs_1": -24.38671875,
+        "log_probs_2": -20.7578125
     },
     {
         "id": 12,
         "prompt": "The surface of the lake was",
         "completion_1": "perfectly still, like a sheet of dark glass.",
         "completion_2": "covered in small ripples from a gentle breeze.",
-        "log_probs_1": -21.233701705932617,
-        "log_probs_2": -23.19149351119995
+        "log_probs_1": -19.160362243652344,
+        "log_probs_2": -23.406333923339844
     },
     {
         "id": 13,
         "prompt": "Through the fog, she could just make out the shape of",
         "completion_1": "a tall lighthouse at the harbor's entrance.",
         "completion_2": "a large ship moving slowly toward the dock.",
-        "log_probs_1": -29.132896423339844,
-        "log_probs_2": -25.96630859375
+        "log_probs_1": -33.57345962524414,
+        "log_probs_2": -28.09814453125
     },
     {
         "id": 14,
         "prompt": "The only light in the room came from",
         "completion_1": "the soft glow of the television screen.",
         "completion_2": "the moonlight streaming through the curtains.",
-        "log_probs_1": -17.344329833984375,
-        "log_probs_2": -20.30084228515625
+        "log_probs_1": -18.73303985595703,
+        "log_probs_2": -21.852828979492188
     },
     {
         "id": 15,
         "prompt": "The farmers market was bustling with vendors",
         "completion_1": "calling out prices for their fresh produce.",
         "completion_2": "arranging colorful bouquets of flowers.",
-        "log_probs_1": -14.28265380859375,
-        "log_probs_2": -21.257389068603516
+        "log_probs_1": -14.61822509765625,
+        "log_probs_2": -22.201147079467773
     },
     {
         "id": 16,
         "prompt": "The old house smelled faintly of",
         "completion_1": "dust, old paper, and wood polish.",
         "completion_2": "cedar wood and dried herbs.",
-        "log_probs_1": -25.671451568603516,
-        "log_probs_2": -24.20843505859375
+        "log_probs_1": -26.55575180053711,
+        "log_probs_2": -24.8262939453125
     },
     {
         "id": 17,
         "prompt": "He paused at the top of the hill, looking down at",
         "completion_1": "the winding river flowing through the valley.",
         "completion_2": "the small town with its lights just turning on.",
-        "log_probs_1": -22.8763427734375,
-        "log_probs_2": -32.2607421875
+        "log_probs_1": -24.7489013671875,
+        "log_probs_2": -31.9990234375
     },
     {
         "id": 18,
         "prompt": "The package on the doorstep was",
         "completion_1": "a large, square box wrapped in brown paper.",
         "completion_2": "a slim, lightweight envelope.",
-        "log_probs_1": -16.821548461914062,
-        "log_probs_2": -33.4267578125
+        "log_probs_1": -18.054546356201172,
+        "log_probs_2": -32.4755859375
     },
     {
         "id": 19,
         "prompt": "The street musician was",
         "completion_1": "skillfully playing a fast, joyful tune on a violin.",
         "completion_2": "packing his guitar into a worn, black case.",
-        "log_probs_1": -41.720703125,
-        "log_probs_2": -26.4921875
+        "log_probs_1": -40.2626953125,
+        "log_probs_2": -26.1328125
     },
     {
         "id": 20,
         "prompt": "The computer monitor flickered and then",
         "completion_1": "displayed the familiar login screen.",
         "completion_2": "went completely black.",
-        "log_probs_1": -14.738103866577148,
-        "log_probs_2": -11.54296875
+        "log_probs_1": -14.213796615600586,
+        "log_probs_2": -11.27734375
     },
     {
         "id": 21,
         "prompt": "The museum hall was dominated by",
         "completion_1": "the enormous skeleton of a dinosaur.",
         "completion_2": "a massive, intricate tapestry hanging on the far wall.",
-        "log_probs_1": -19.0068359375,
-        "log_probs_2": -24.45551300048828
+        "log_probs_1": -20.99658203125,
+        "log_probs_2": -24.966384887695312
     },
     {
         "id": 22,
         "prompt": "In the back of the antique shop, she found",
         "completion_1": "a dusty, wind-up gramophone.",
         "completion_2": "a rack of elegant, old-fashioned dresses.",
-        "log_probs_1": -31.209609985351562,
-        "log_probs_2": -35.257080078125
+        "log_probs_1": -30.019386291503906,
+        "log_probs_2": -34.620849609375
     },
     {
         "id": 23,
         "prompt": "The air in the forest was crisp and smelled of",
         "completion_1": "damp earth and moss.",
         "completion_2": "pine needles and woodsmoke.",
-        "log_probs_1": -10.8316650390625,
-        "log_probs_2": -13.209466934204102
+        "log_probs_1": -11.5811767578125,
+        "log_probs_2": -13.83160400390625
     },
     {
         "id": 24,
         "prompt": "The restaurant's outdoor patio was",
         "completion_1": "lit by strands of twinkling fairy lights.",
         "completion_2": "shaded by large, green umbrellas.",
-        "log_probs_1": -23.987032651901245,
-        "log_probs_2": -22.397337913513184
+        "log_probs_1": -23.35078740119934,
+        "log_probs_2": -20.911409378051758
     },
     {
         "id": 25,
         "prompt": "The beach was dotted with people",
         "completion_1": "flying colorful kites in the strong breeze.",
         "completion_2": "building intricate sandcastles near the water.",
-        "log_probs_1": -22.602724075317383,
-        "log_probs_2": -18.263944625854492
+        "log_probs_1": -22.68785285949707,
+        "log_probs_2": -18.949379920959473
     },
     {
         "id": 26,
         "prompt": "The note left on the refrigerator said",
         "completion_1": "to pick up milk and bread on the way home.",
         "completion_2": "that dinner was in the oven.",
-        "log_probs_1": -23.646240234375,
-        "log_probs_2": -18.60107421875
+        "log_probs_1": -22.918182373046875,
+        "log_probs_2": -18.19970703125
     },
     {
         "id": 27,
         "prompt": "The sound from the apartment overhead was",
         "completion_1": "the faint thump of a bass-heavy song.",
         "completion_2": "the sound of someone walking back and forth.",
-        "log_probs_1": -29.208984375,
-        "log_probs_2": -18.994178771972656
+        "log_probs_1": -30.0830078125,
+        "log_probs_2": -18.822364807128906
     },
     {
         "id": 28,
         "prompt": "The small boat was",
         "completion_1": "tied securely to the wooden dock.",
         "completion_2": "drifting slowly in the middle of the pond.",
-        "log_probs_1": -17.6905517578125,
-        "log_probs_2": -21.7063045501709
+        "log_probs_1": -17.559326171875,
+        "log_probs_2": -21.758956909179688
     },
     {
         "id": 29,
         "prompt": "The mountain path was steep and",
         "completion_1": "covered in loose rocks and gravel.",
         "completion_2": "shaded by a dense canopy of trees.",
-        "log_probs_1": -22.724609375,
-        "log_probs_2": -15.32275390625
+        "log_probs_1": -23.212890625,
+        "log_probs_2": -16.77685546875
     },
     {
         "id": 30,
         "prompt": "The child on the swing was",
         "completion_1": "laughing as she tried to go higher.",
         "completion_2": "dragging his feet in the sand to slow down.",
-        "log_probs_1": -18.542268753051758,
-        "log_probs_2": -35.300689697265625
+        "log_probs_1": -17.99244213104248,
+        "log_probs_2": -35.119384765625
     },
     {
         "id": 31,
         "prompt": "The mantelpiece was decorated with",
         "completion_1": "a row of neatly framed family photographs.",
         "completion_2": "a collection of antique brass candlesticks.",
-        "log_probs_1": -23.347919464111328,
-        "log_probs_2": -25.013932466506958
+        "log_probs_1": -23.25049591064453,
+        "log_probs_2": -24.81975746154785
     },
     {
         "id": 32,
         "prompt": "The train car was relatively empty, with most passengers",
         "completion_1": "looking out the windows at the passing scenery.",
         "completion_2": "dozing or reading in their seats.",
-        "log_probs_1": -12.363525390625,
-        "log_probs_2": -19.91162109375
+        "log_probs_1": -11.180419921875,
+        "log_probs_2": -19.508056640625
     },
     {
         "id": 33,
         "prompt": "The office was quiet, the only sound",
         "completion_1": "the steady tapping of keys on a keyboard.",
         "completion_2": "the low hum of the copy machine in the corner.",
-        "log_probs_1": -31.0491943359375,
-        "log_probs_2": -24.93857765197754
+        "log_probs_1": -30.70733642578125,
+        "log_probs_2": -24.169795989990234
     },
     {
         "id": 34,
         "prompt": "She opened the oven and",
         "completion_1": "was met with the delicious smell of baked bread.",
         "completion_2": "pulled out a sizzling tray of roasted vegetables.",
-        "log_probs_1": -18.02100944519043,
-        "log_probs_2": -30.939208984375
+        "log_probs_1": -19.6390380859375,
+        "log_probs_2": -31.810699462890625
     },
     {
         "id": 35,
         "prompt": "The painting on the wall depicted",
         "completion_1": "a stormy sea crashing against dark cliffs.",
         "completion_2": "a peaceful countryside scene with rolling hills.",
-        "log_probs_1": -24.800048828125,
-        "log_probs_2": -22.48321533203125
+        "log_probs_1": -26.7479248046875,
+        "log_probs_2": -23.60296630859375
     },
     {
         "id": 36,
         "prompt": "The last person to leave the party",
         "completion_1": "was helping the host clean up the glasses.",
         "completion_2": "was waiting for a taxi by the front door.",
-        "log_probs_1": -23.515625,
-        "log_probs_2": -23.478118896484375
+        "log_probs_1": -24.671875,
+        "log_probs_2": -24.001953125
     },
     {
         "id": 37,
         "prompt": "The alarm clock's insistent ringing was",
         "completion_1": "finally silenced by a hand fumbling for the snooze button.",
         "completion_2": "the signal for him to jump out of bed and start the day.",
-        "log_probs_1": -31.43154525756836,
-        "log_probs_2": -26.7857666015625
+        "log_probs_1": -30.156354904174805,
+        "log_probs_2": -26.07176971435547
     },
     {
         "id": 38,
         "prompt": "The forest floor was",
         "completion_1": "soft and damp, covered in a thick layer of moss.",
         "completion_2": "dry and crunchy with fallen leaves and pine needles.",
-        "log_probs_1": -15.770824432373047,
-        "log_probs_2": -18.468505859375
+        "log_probs_1": -16.02069664001465,
+        "log_probs_2": -18.244384765625
     },
     {
         "id": 39,
         "prompt": "The cat's attention was fixed on",
         "completion_1": "a small spider crawling up the wall.",
         "completion_2": "the red dot from a laser pointer.",
-        "log_probs_1": -22.8408203125,
-        "log_probs_2": -24.6806640625
+        "log_probs_1": -25.1328125,
+        "log_probs_2": -25.8828125
     },
     {
         "id": 40,
         "prompt": "The harbor was filled with",
         "completion_1": "small, colorful fishing boats.",
         "completion_2": "large, elegant sailboats.",
-        "log_probs_1": -11.3355712890625,
-        "log_probs_2": -17.575714111328125
+        "log_probs_1": -10.910888671875,
+        "log_probs_2": -16.06085205078125
     },
     {
         "id": 41,
         "prompt": "The bookshelf in the corner was crammed with",
         "completion_1": "modern hardback novels in bright covers.",
         "completion_2": "old, leather-bound volumes with gold lettering.",
-        "log_probs_1": -32.203125,
-        "log_probs_2": -18.840606689453125
+        "log_probs_1": -30.8486328125,
+        "log_probs_2": -18.684280395507812
     },
     {
         "id": 42,
         "prompt": "The baby in the stroller was",
         "completion_1": "fast asleep, clutching a small blanket.",
         "completion_2": "babbling happily and pointing at a dog.",
-        "log_probs_1": -20.6053946018219,
-        "log_probs_2": -25.71429443359375
+        "log_probs_1": -19.77699327468872,
+        "log_probs_2": -25.3302001953125
     },
     {
         "id": 43,
         "prompt": "The old man on the park bench was",
         "completion_1": "throwing breadcrumbs to a flock of pigeons.",
         "completion_2": "quietly reading a thick paperback book.",
-        "log_probs_1": -23.290113925933838,
-        "log_probs_2": -24.54736328125
+        "log_probs_1": -23.293818473815918,
+        "log_probs_2": -23.2509765625
     },
     {
         "id": 44,
         "prompt": "The garage was cluttered with",
         "completion_1": "tools, paint cans, and pieces of lumber.",
         "completion_2": "bicycles, sporting equipment, and camping gear.",
-        "log_probs_1": -25.488082885742188,
-        "log_probs_2": -24.879920959472656
+        "log_probs_1": -25.20262908935547,
+        "log_probs_2": -24.13622283935547
     },
     {
         "id": 45,
         "prompt": "The city skyline was",
         "completion_1": "shrouded in a thick morning mist.",
         "completion_2": "lit up with thousands of twinkling lights.",
-        "log_probs_1": -15.877015590667725,
-        "log_probs_2": -13.43763554096222
+        "log_probs_1": -15.933667659759521,
+        "log_probs_2": -12.63972282409668
     },
     {
         "id": 46,
         "prompt": "The desk drawer was filled with",
         "completion_1": "a chaotic jumble of pens, paperclips, and loose change.",
         "completion_2": "neatly organized folders and notebooks.",
-        "log_probs_1": -31.26364815235138,
-        "log_probs_2": -23.408203125
+        "log_probs_1": -32.07847547531128,
+        "log_probs_2": -23.896484375
     },
     {
         "id": 47,
         "prompt": "The shop window display featured",
         "completion_1": "elegant mannequins dressed in the latest fashion.",
         "completion_2": "an elaborate, festive holiday scene.",
-        "log_probs_1": -21.49528980255127,
-        "log_probs_2": -25.96875
+        "log_probs_1": -20.585344314575195,
+        "log_probs_2": -23.75
     },
     {
         "id": 48,
         "prompt": "The bird at the feeder was",
         "completion_1": "a bright red cardinal picking at seeds.",
         "completion_2": "a tiny hummingbird hovering near the nectar.",
-        "log_probs_1": -22.4990234375,
-        "log_probs_2": -28.256195068359375
+        "log_probs_1": -23.181640625,
+        "log_probs_2": -29.616058349609375
     },
     {
         "id": 49,
         "prompt": "The rain was falling",
         "completion_1": "in a steady, gentle drizzle that hushed the city.",
         "completion_2": "in hard, driving sheets that hammered the roof.",
-        "log_probs_1": -31.097368240356445,
-        "log_probs_2": -34.78515625
+        "log_probs_1": -29.315807342529297,
+        "log_probs_2": -34.5986328125
     },
     {
         "id": 50,
         "prompt": "The classroom was decorated with",
         "completion_1": "colorful posters and student artwork.",
         "completion_2": "maps of the world and historical timelines.",
-        "log_probs_1": -18.533309936523438,
-        "log_probs_2": -23.1171875
+        "log_probs_1": -17.643142700195312,
+        "log_probs_2": -23.103515625
     },
     {
         "id": 51,
         "prompt": "The tree in the backyard had",
         "completion_1": "a sturdy wooden treehouse built in its branches.",
         "completion_2": "a simple rope swing hanging from a thick limb.",
-        "log_probs_1": -35.37939453125,
-        "log_probs_2": -40.8232421875
+        "log_probs_1": -37.85205078125,
+        "log_probs_2": -41.55322265625
     },
     {
         "id": 52,
         "prompt": "The sound of the celebration included",
         "completion_1": "loud music and bursts of laughter.",
         "completion_2": "the popping of fireworks in the distance.",
-        "log_probs_1": -17.971705079078674,
-        "log_probs_2": -20.497314453125
+        "log_probs_1": -18.505895614624023,
+        "log_probs_2": -20.405029296875
     },
     {
         "id": 53,
         "prompt": "The desert landscape was",
         "completion_1": "a vast expanse of rolling sand dunes.",
         "completion_2": "dotted with tall cacti and rocky formations.",
-        "log_probs_1": -19.406216859817505,
-        "log_probs_2": -22.398521423339844
+        "log_probs_1": -18.70144295692444,
+        "log_probs_2": -23.64289093017578
     },
     {
         "id": 54,
         "prompt": "The table was set for dinner with",
         "completion_1": "fine china and sparkling crystal glasses.",
         "completion_2": "simple ceramic plates and colorful napkins.",
-        "log_probs_1": -11.97998046875,
-        "log_probs_2": -30.6588134765625
+        "log_probs_1": -12.89111328125,
+        "log_probs_2": -30.5496826171875
     },
     {
         "id": 55,
         "prompt": "The attic was stuffy and smelled like",
         "completion_1": "old paper and cedar chests.",
         "completion_2": "dust and dried lavender.",
-        "log_probs_1": -21.240234375,
-        "log_probs_2": -19.951171875
+        "log_probs_1": -22.81982421875,
+        "log_probs_2": -20.953125
     },
     {
         "id": 56,
         "prompt": "The car pulled to a stop at",
         "completion_1": "a small, roadside fruit stand.",
         "completion_2": "a red traffic light in the center of town.",
-        "log_probs_1": -30.78125,
-        "log_probs_2": -17.0809326171875
+        "log_probs_1": -31.0390625,
+        "log_probs_2": -17.78515625
     },
     {
         "id": 57,
         "prompt": "The garden was overflowing with",
         "completion_1": "rows of tomatoes, peppers, and green beans.",
         "completion_2": "a riot of colorful flowers like roses and lilies.",
-        "log_probs_1": -24.973766326904297,
-        "log_probs_2": -24.8131103515625
+        "log_probs_1": -25.36245346069336,
+        "log_probs_2": -26.470947265625
     },
     {
         "id": 58,
         "prompt": "The fireplace was",
         "completion_1": "crackling merrily with a warm, bright fire.",
         "completion_2": "swept clean, with a vase of flowers on the hearth.",
-        "log_probs_1": -31.549100875854492,
-        "log_probs_2": -39.56434631347656
+        "log_probs_1": -31.181435585021973,
+        "log_probs_2": -38.82504653930664
     },
     {
         "id": 59,
         "prompt": "The box under the bed contained",
         "completion_1": "a pair of old, worn-out running shoes.",
         "completion_2": "a stack of photographs tied with a ribbon.",
-        "log_probs_1": -18.096927642822266,
-        "log_probs_2": -27.30860126018524
+        "log_probs_1": -19.61230754852295,
+        "log_probs_2": -28.019543170928955
     },
     {
         "id": 60,
         "prompt": "The airport terminal was",
         "completion_1": "crowded with travelers rushing to their gates.",
         "completion_2": "quiet and nearly empty late at night.",
-        "log_probs_1": -14.067535400390625,
-        "log_probs_2": -25.793441772460938
+        "log_probs_1": -14.914810180664062,
+        "log_probs_2": -23.00311279296875
     },
     {
         "id": 61,
         "prompt": "The artist was carefully",
         "completion_1": "adding dabs of white paint to a canvas.",
         "completion_2": "shaping a piece of clay on a potter's wheel.",
-        "log_probs_1": -27.05877685546875,
-        "log_probs_2": -28.94329833984375
+        "log_probs_1": -26.288421630859375,
+        "log_probs_2": -28.039276123046875
     },
     {
         "id": 62,
         "prompt": "The stadium was filled with the sound of",
         "completion_1": "thousands of fans cheering for their team.",
         "completion_2": "a band playing loudly during halftime.",
-        "log_probs_1": -23.649627685546875,
-        "log_probs_2": -27.81640625
+        "log_probs_1": -24.202972412109375,
+        "log_probs_2": -28.87841796875
     },
     {
         "id": 63,
         "prompt": "The night air was",
         "completion_1": "cool and crisp, carrying the scent of pine.",
         "completion_2": "warm and humid, thick with the smell of jasmine.",
-        "log_probs_1": -13.590415477752686,
-        "log_probs_2": -24.742340087890625
+        "log_probs_1": -13.604578971862793,
+        "log_probs_2": -25.238731384277344
     },
     {
         "id": 64,
         "prompt": "The small, handwritten sign on the door read:",
         "completion_1": "'Be Back in 10 Minutes.'",
         "completion_2": "'Please Ring Bell for Service.'",
-        "log_probs_1": -31.40234375,
-        "log_probs_2": -34.359375
+        "log_probs_1": -28.72265625,
+        "log_probs_2": -30.8671875
     },
     {
         "id": 65,
         "prompt": "The refrigerator contained",
         "completion_1": "a carton of milk, some eggs, and a half-eaten pizza.",
         "completion_2": "neatly arranged containers of prepped meals.",
-        "log_probs_1": -21.822906494140625,
-        "log_probs_2": -37.337890625
+        "log_probs_1": -21.886363983154297,
+        "log_probs_2": -39.22265625
     },
     {
         "id": 66,
         "prompt": "The squirrel on the fence was",
         "completion_1": "scolding a nearby cat with sharp, chattering sounds.",
         "completion_2": "balancing skillfully as it nibbled on an acorn.",
-        "log_probs_1": -34.785400390625,
-        "log_probs_2": -35.28964900970459
+        "log_probs_1": -34.750732421875,
+        "log_probs_2": -35.069207191467285
     },
     {
         "id": 67,
         "prompt": "The cupboard was stocked with",
         "completion_1": "a variety of colorful, mismatched coffee mugs.",
         "completion_2": "a neat set of identical white plates and bowls.",
-        "log_probs_1": -31.43641197681427,
-        "log_probs_2": -41.97300338745117
+        "log_probs_1": -30.946279764175415,
+        "log_probs_2": -41.77386665344238
     },
     {
         "id": 68,
         "prompt": "The professor was",
         "completion_1": "writing a complex equation on the blackboard.",
         "completion_2": "gesturing passionately while explaining a concept.",
-        "log_probs_1": -13.411151885986328,
-        "log_probs_2": -27.329833984375
+        "log_probs_1": -14.796587944030762,
+        "log_probs_2": -26.49072265625
     },
     {
         "id": 69,
         "prompt": "The river's water was",
         "completion_1": "clear and shallow, flowing over smooth stones.",
         "completion_2": "deep and murky, moving slowly toward the sea.",
-        "log_probs_1": -23.990234375,
-        "log_probs_2": -28.256591796875
+        "log_probs_1": -23.1015625,
+        "log_probs_2": -28.6239013671875
     },
     {
         "id": 70,
         "prompt": "The alleyway was",
         "completion_1": "empty except for a few overflowing trash cans.",
         "completion_2": "lit by the back door of a busy restaurant kitchen.",
-        "log_probs_1": -21.161221981048584,
-        "log_probs_2": -42.400390625
+        "log_probs_1": -20.72016429901123,
+        "log_probs_2": -41.6087646484375
     },
     {
         "id": 71,
         "prompt": "The gym was",
         "completion_1": "loud with the clanking of weights and upbeat music.",
         "completion_2": "quiet, with only a few people on the treadmills.",
-        "log_probs_1": -28.58612060546875,
-        "log_probs_2": -19.388641357421875
+        "log_probs_1": -28.85394287109375,
+        "log_probs_2": -18.70843505859375
     },
     {
         "id": 72,
         "prompt": "The sun was beginning to set, casting",
         "completion_1": "a warm, golden light across the landscape.",
         "completion_2": "long, purple shadows across the valley.",
-        "log_probs_1": -9.379478454589844,
-        "log_probs_2": -21.459012985229492
+        "log_probs_1": -9.183246612548828,
+        "log_probs_2": -21.660846710205078
     },
     {
         "id": 73,
         "prompt": "The last thing left on the plate was",
         "completion_1": "a single, perfect strawberry.",
         "completion_2": "a sprig of parsley garnish.",
-        "log_probs_1": -15.26416015625,
-        "log_probs_2": -24.91383409500122
+        "log_probs_1": -15.64111328125,
+        "log_probs_2": -27.169459342956543
     },
     {
         "id": 74,
         "prompt": "The wind was strong enough to",
         "completion_1": "make the large trees sway back and forth.",
         "completion_2": "whistle loudly through the cracks in the window frame.",
-        "log_probs_1": -15.039793491363525,
-        "log_probs_2": -28.784469604492188
+        "log_probs_1": -14.270211219787598,
+        "log_probs_2": -32.23272705078125
     },
     {
         "id": 75,
         "prompt": "The crowd at the concert",
         "completion_1": "was singing along loudly to the band's most popular song.",
         "completion_2": "was listening silently to a quiet, acoustic performance.",
-        "log_probs_1": -14.72698974609375,
-        "log_probs_2": -33.82421875
+        "log_probs_1": -14.5889892578125,
+        "log_probs_2": -34.390625
     },
     {
         "id": 76,
         "prompt": "The main street of the small town was",
         "completion_1": "decorated with flags and banners for a festival.",
         "completion_2": "completely quiet and deserted on a Sunday morning.",
-        "log_probs_1": -27.8851318359375,
-        "log_probs_2": -25.983642578125
+        "log_probs_1": -27.66949462890625,
+        "log_probs_2": -26.130615234375
     },
     {
         "id": 77,
         "prompt": "The laptop screen showed",
         "completion_1": "a blank document with a blinking cursor.",
         "completion_2": "a complex spreadsheet filled with numbers.",
-        "log_probs_1": -23.835693359375,
-        "log_probs_2": -23.596282958984375
+        "log_probs_1": -23.124267578125,
+        "log_probs_2": -23.1876220703125
     },
     {
         "id": 78,
         "prompt": "The construction site was noisy with",
         "completion_1": "the beeping of a reversing truck.",
         "completion_2": "the rhythmic pounding of a jackhammer.",
-        "log_probs_1": -32.1884765625,
-        "log_probs_2": -20.413883209228516
+        "log_probs_1": -32.041259765625,
+        "log_probs_2": -19.851767539978027
     },
     {
         "id": 79,
         "prompt": "The hotel lobby was",
         "completion_1": "grand and bustling with guests checking in.",
         "completion_2": "small and quiet, with a single person at the desk.",
-        "log_probs_1": -21.83837890625,
-        "log_probs_2": -32.53857421875
+        "log_probs_1": -21.58740234375,
+        "log_probs_2": -31.122802734375
     },
     {
         "id": 80,
         "prompt": "The horse in the field was",
         "completion_1": "grazing peacefully near the fence.",
         "completion_2": "galloping playfully from one end to the other.",
-        "log_probs_1": -16.33251953125,
-        "log_probs_2": -31.9417986869812
+        "log_probs_1": -15.54052734375,
+        "log_probs_2": -30.306232929229736
     },
     {
         "id": 81,
         "prompt": "The old photograph showed",
         "completion_1": "a young couple standing in front of a small house.",
         "completion_2": "a group of children playing in a field.",
-        "log_probs_1": -17.62411117553711,
-        "log_probs_2": -15.722274780273438
+        "log_probs_1": -16.16506791114807,
+        "log_probs_2": -15.508453369140625
     },
     {
         "id": 82,
         "prompt": "The waiting room was filled with",
         "completion_1": "the low murmur of people talking.",
         "completion_2": "the sound of a television playing a game show.",
-        "log_probs_1": -24.742640495300293,
-        "log_probs_2": -22.9512882232666
+        "log_probs_1": -24.85981798171997,
+        "log_probs_2": -21.73257827758789
     },
     {
         "id": 83,
         "prompt": "He opened the envelope and found",
         "completion_1": "a handwritten letter on blue stationery.",
         "completion_2": "a set of tickets to a concert.",
-        "log_probs_1": -27.72900390625,
-        "log_probs_2": -23.1799259185791
+        "log_probs_1": -27.946533203125,
+        "log_probs_2": -22.623456954956055
     },
     {
         "id": 84,
         "prompt": "The street was lined with",
         "completion_1": "tall, modern glass buildings.",
         "completion_2": "charming old houses with colorful gardens.",
-        "log_probs_1": -21.2353515625,
-        "log_probs_2": -19.314453125
+        "log_probs_1": -20.607421875,
+        "log_probs_2": -19.873046875
     },
     {
         "id": 85,
         "prompt": "The small pond in the park had",
         "completion_1": "a family of ducks swimming near the edge.",
         "completion_2": "brightly colored koi fish swimming just below the surface.",
-        "log_probs_1": -13.65380859375,
-        "log_probs_2": -27.7672119140625
+        "log_probs_1": -14.0865478515625,
+        "log_probs_2": -26.82958984375
     },
     {
         "id": 86,
         "prompt": "The only item on the large, empty table was",
         "completion_1": "a single, unlit candle.",
         "completion_2": "a small, leather-bound notebook.",
-        "log_probs_1": -8.390625,
-        "log_probs_2": -12.02685546875
+        "log_probs_1": -8.4833984375,
+        "log_probs_2": -12.672607421875
     },
     {
         "id": 87,
         "prompt": "The phone call was",
         "completion_1": "a quick reminder about an appointment.",
         "completion_2": "an automated message from a telemarketer.",
-        "log_probs_1": -25.390625,
-        "log_probs_2": -23.631500244140625
+        "log_probs_1": -23.2265625,
+        "log_probs_2": -21.307159423828125
     },
     {
         "id": 88,
         "prompt": "The closet was full of",
         "completion_1": "neatly hung suits and dress shirts.",
         "completion_2": "old coats, boots, and storage boxes.",
-        "log_probs_1": -24.3359375,
-        "log_probs_2": -23.495620727539062
+        "log_probs_1": -23.90625,
+        "log_probs_2": -23.621475219726562
     },
     {
         "id": 89,
         "prompt": "The morning air was",
         "completion_1": "interrupted by the sound of the first birds singing.",
         "completion_2": "filled with the smell of brewing coffee.",
-        "log_probs_1": -24.088088512420654,
-        "log_probs_2": -15.92045783996582
+        "log_probs_1": -23.156880378723145,
+        "log_probs_2": -16.38578224182129
     },
     {
         "id": 90,
         "prompt": "The bakery display case held",
         "completion_1": "rows of colorful, intricately decorated cupcakes.",
         "completion_2": "several loaves of crusty, artisanal bread.",
-        "log_probs_1": -22.00591230392456,
-        "log_probs_2": -32.055827140808105
+        "log_probs_1": -23.326221466064453,
+        "log_probs_2": -31.012429237365723
     },
     {
         "id": 91,
         "prompt": "The light on the machine was",
         "completion_1": "blinking a steady, rhythmic green.",
         "completion_2": "glowing a solid, warning red.",
-        "log_probs_1": -19.38185441493988,
-        "log_probs_2": -28.112548828125
+        "log_probs_1": -18.84572458267212,
+        "log_probs_2": -28.088623046875
     },
     {
         "id": 92,
         "prompt": "The sky was a perfect, cloudless blue, except for",
         "completion_1": "a single, high-altitude jet leaving a white trail.",
         "completion_2": "a dark speck that was a hawk circling overhead.",
-        "log_probs_1": -36.95429992675781,
-        "log_probs_2": -32.70978546142578
+        "log_probs_1": -39.02735900878906,
+        "log_probs_2": -35.804447174072266
     },
     {
         "id": 93,
         "prompt": "The movie theater audience was",
         "completion_1": "completely silent during a tense, dramatic scene.",
         "completion_2": "laughing loudly at a clever line of dialogue.",
-        "log_probs_1": -25.76953125,
-        "log_probs_2": -35.289215087890625
+        "log_probs_1": -26.536865234375,
+        "log_probs_2": -36.61042785644531
     },
     {
         "id": 94,
         "prompt": "The kitchen counter was covered with",
         "completion_1": "ingredients for baking: flour, eggs, and sugar.",
         "completion_2": "a stack of mail and unpaid bills.",
-        "log_probs_1": -27.249465942382812,
-        "log_probs_2": -19.047367572784424
+        "log_probs_1": -29.246910095214844,
+        "log_probs_2": -20.478521823883057
     },
     {
         "id": 95,
         "prompt": "The taxi pulled up to",
         "completion_1": "the entrance of a large, busy train station.",
         "completion_2": "a quiet, residential street.",
-        "log_probs_1": -28.624954223632812,
-        "log_probs_2": -19.494140625
+        "log_probs_1": -29.791183471679688,
+        "log_probs_2": -17.56640625
     },
     {
         "id": 96,
         "prompt": "The campfire was",
         "completion_1": "burning brightly, sending sparks into the night sky.",
         "completion_2": "smoldering down to a bed of glowing red embers.",
-        "log_probs_1": -17.97174835205078,
-        "log_probs_2": -29.650955080986023
+        "log_probs_1": -17.257251739501953,
+        "log_probs_2": -31.841471076011658
     },
     {
         "id": 97,
         "prompt": "He looked in the mirror and",
         "completion_1": "adjusted the knot on his tie.",
         "completion_2": "ran a hand through his messy hair.",
-        "log_probs_1": -22.063858032226562,
-        "log_probs_2": -15.590118408203125
+        "log_probs_1": -20.597213745117188,
+        "log_probs_2": -14.967086791992188
     },
     {
         "id": 98,
         "prompt": "The music coming from the car was",
         "completion_1": "a loud, thumping electronic beat.",
         "completion_2": "a soft, classical piano piece.",
-        "log_probs_1": -15.07769775390625,
-        "log_probs_2": -19.35693359375
+        "log_probs_1": -15.2598876953125,
+        "log_probs_2": -17.3199462890625
     },
     {
         "id": 99,
         "prompt": "The top of the mountain offered a view of",
         "completion_1": "the city spread out like a map far below.",
         "completion_2": "a sea of clouds filling the valleys.",
-        "log_probs_1": -19.531295776367188,
-        "log_probs_2": -31.7998046875
+        "log_probs_1": -22.311935424804688,
+        "log_probs_2": -34.095703125
     }
 ]

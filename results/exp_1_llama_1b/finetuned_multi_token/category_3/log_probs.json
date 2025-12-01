@@ -4,799 +4,799 @@
         "prompt": "Jake picked up the notebook",
         "completion_1": "to jot down a quick reminder.",
         "completion_2": "to sketch an idea that came to mind.",
-        "log_probs_1": -22.722798347473145,
-        "log_probs_2": -33.6103515625
+        "log_probs_1": -22.42600917816162,
+        "log_probs_2": -34.86083984375
     },
     {
         "id": 1,
         "prompt": "Sarah reached for the glass",
         "completion_1": "to take a sip of water.",
         "completion_2": "to capture the spider on the wall.",
-        "log_probs_1": -9.09375,
-        "log_probs_2": -27.8134765625
+        "log_probs_1": -8.42724609375,
+        "log_probs_2": -27.02294921875
     },
     {
         "id": 2,
         "prompt": "He opened his phone",
         "completion_1": "to check the time.",
         "completion_2": "to send a quick text message.",
-        "log_probs_1": -7.4140625,
-        "log_probs_2": -16.3583984375
+        "log_probs_1": -5.9052734375,
+        "log_probs_2": -14.2900390625
     },
     {
         "id": 3,
         "prompt": "Maria grabbed the sharp knife",
         "completion_1": "to slice the fresh loaf of bread.",
         "completion_2": "to open the sealed Amazon package.",
-        "log_probs_1": -20.4281005859375,
-        "log_probs_2": -28.91510009765625
+        "log_probs_1": -20.07177734375,
+        "log_probs_2": -28.465576171875
     },
     {
         "id": 4,
         "prompt": "The child picked up the stick",
         "completion_1": "to draw a line in the dirt.",
         "completion_2": "to throw it for the dog to fetch.",
-        "log_probs_1": -14.338357925415039,
-        "log_probs_2": -20.8984375
+        "log_probs_1": -15.34067153930664,
+        "log_probs_2": -22.072265625
     },
     {
         "id": 5,
         "prompt": "Alex got out a clean bowl",
         "completion_1": "to fill with cereal for breakfast.",
         "completion_2": "to mix the ingredients for the cake.",
-        "log_probs_1": -15.28515625,
-        "log_probs_2": -18.6552734375
+        "log_probs_1": -14.8037109375,
+        "log_probs_2": -18.70263671875
     },
     {
         "id": 6,
         "prompt": "She picked up the remote",
         "completion_1": "to turn on the television.",
         "completion_2": "to adjust the speed of the ceiling fan.",
-        "log_probs_1": -9.788040161132812,
-        "log_probs_2": -35.61600685119629
+        "log_probs_1": -8.797657012939453,
+        "log_probs_2": -36.56912136077881
     },
     {
         "id": 7,
         "prompt": "David grabbed the pen",
         "completion_1": "to sign the check.",
         "completion_2": "to solve the crossword puzzle.",
-        "log_probs_1": -14.078125,
-        "log_probs_2": -19.77978515625
+        "log_probs_1": -13.6416015625,
+        "log_probs_2": -18.768798828125
     },
     {
         "id": 8,
         "prompt": "He unfolded the map",
         "completion_1": "to plan their hiking route.",
         "completion_2": "to use as a makeshift tablecloth.",
-        "log_probs_1": -17.91015625,
-        "log_probs_2": -24.44287109375
+        "log_probs_1": -15.66015625,
+        "log_probs_2": -23.1490478515625
     },
     {
         "id": 9,
         "prompt": "Emily found the flashlight",
         "completion_1": "because the power had just gone out.",
         "completion_2": "to look for her keys under the sofa.",
-        "log_probs_1": -14.208892822265625,
-        "log_probs_2": -40.6461181640625
+        "log_probs_1": -13.33544921875,
+        "log_probs_2": -38.1396484375
     },
     {
         "id": 10,
         "prompt": "He reached for the hammer",
         "completion_1": "to hang the new painting on the wall.",
         "completion_2": "to crack open the walnuts.",
-        "log_probs_1": -19.964599609375,
-        "log_probs_2": -22.236083984375
+        "log_probs_1": -21.382171630859375,
+        "log_probs_2": -21.75115966796875
     },
     {
         "id": 11,
         "prompt": "She picked up the spoon",
         "completion_1": "to stir her hot coffee.",
         "completion_2": "to measure out a teaspoon of sugar.",
-        "log_probs_1": -15.203125,
-        "log_probs_2": -23.36383056640625
+        "log_probs_1": -14.5703125,
+        "log_probs_2": -22.6512451171875
     },
     {
         "id": 12,
         "prompt": "He grabbed the car keys",
         "completion_1": "to head out for work.",
         "completion_2": "to move the car out of the driveway.",
-        "log_probs_1": -22.7421875,
-        "log_probs_2": -17.9154052734375
+        "log_probs_1": -22.3984375,
+        "log_probs_2": -16.106231689453125
     },
     {
         "id": 13,
         "prompt": "She took a sheet of paper",
         "completion_1": "to write a letter to her friend.",
         "completion_2": "to load into the printer tray.",
-        "log_probs_1": -18.0,
-        "log_probs_2": -36.322265625
+        "log_probs_1": -16.17578125,
+        "log_probs_2": -35.1015625
     },
     {
         "id": 14,
         "prompt": "Mike opened the laptop",
         "completion_1": "to start his workday.",
         "completion_2": "to stream a new movie.",
-        "log_probs_1": -17.171875,
-        "log_probs_2": -29.875
+        "log_probs_1": -14.6953125,
+        "log_probs_2": -27.40625
     },
     {
         "id": 15,
         "prompt": "The gardener picked up the hose",
         "completion_1": "to water the thirsty tomato plants.",
         "completion_2": "to rinse the mud off the sidewalk.",
-        "log_probs_1": -11.1973876953125,
-        "log_probs_2": -20.3759765625
+        "log_probs_1": -11.43603515625,
+        "log_probs_2": -21.978515625
     },
     {
         "id": 16,
         "prompt": "She reached for the scissors",
         "completion_1": "to wrap the birthday present.",
         "completion_2": "to trim the dead leaves off her plant.",
-        "log_probs_1": -26.078125,
-        "log_probs_2": -30.83984375
+        "log_probs_1": -25.8046875,
+        "log_probs_2": -30.38671875
     },
     {
         "id": 17,
         "prompt": "He pulled out his wallet",
         "completion_1": "to pay for the coffee.",
         "completion_2": "to show the bouncer his ID.",
-        "log_probs_1": -5.869140625,
-        "log_probs_2": -18.193359375
+        "log_probs_1": -4.3203125,
+        "log_probs_2": -18.2802734375
     },
     {
         "id": 18,
         "prompt": "She found an empty jar",
         "completion_1": "to store the leftover soup.",
         "completion_2": "to use as a vase for the flowers.",
-        "log_probs_1": -21.90625,
-        "log_probs_2": -22.11962890625
+        "log_probs_1": -21.3203125,
+        "log_probs_2": -21.67724609375
     },
     {
         "id": 19,
         "prompt": "Tom grabbed the thick book",
         "completion_1": "to read the next chapter.",
         "completion_2": "to prop open the rattling door.",
-        "log_probs_1": -18.96630859375,
-        "log_probs_2": -28.232421875
+        "log_probs_1": -17.37060546875,
+        "log_probs_2": -27.51708984375
     },
     {
         "id": 20,
         "prompt": "She picked up the towel",
         "completion_1": "to dry her hands after washing them.",
         "completion_2": "to wipe up the milk she spilled.",
-        "log_probs_1": -11.841796875,
-        "log_probs_2": -34.8809814453125
+        "log_probs_1": -9.791015625,
+        "log_probs_2": -32.8868408203125
     },
     {
         "id": 21,
         "prompt": "He got out the ladder",
         "completion_1": "to change the lightbulb in the ceiling.",
         "completion_2": "to clean the leaves out of the gutters.",
-        "log_probs_1": -11.852039337158203,
-        "log_probs_2": -18.50025177001953
+        "log_probs_1": -10.760368347167969,
+        "log_probs_2": -17.84709930419922
     },
     {
         "id": 22,
         "prompt": "She adjusted the pillow",
         "completion_1": "to get more comfortable for sleep.",
         "completion_2": "to support her back while reading in bed.",
-        "log_probs_1": -14.174560546875,
-        "log_probs_2": -16.2861328125
+        "log_probs_1": -14.49951171875,
+        "log_probs_2": -17.75244140625
     },
     {
         "id": 23,
         "prompt": "He plugged in his phone",
         "completion_1": "because the battery was almost dead.",
         "completion_2": "to transfer the photos to his computer.",
-        "log_probs_1": -14.2021484375,
-        "log_probs_2": -21.8740234375
+        "log_probs_1": -13.11328125,
+        "log_probs_2": -23.6689453125
     },
     {
         "id": 24,
         "prompt": "Laura opened the bottle",
         "completion_1": "to pour herself a glass of wine.",
         "completion_2": "to use the olive oil for cooking.",
-        "log_probs_1": -11.0174560546875,
-        "log_probs_2": -26.59375
+        "log_probs_1": -8.658447265625,
+        "log_probs_2": -25.1015625
     },
     {
         "id": 25,
         "prompt": "He picked up the guitar",
         "completion_1": "to practice the new song he was learning.",
         "completion_2": "to tune the strings before the show.",
-        "log_probs_1": -17.14697265625,
-        "log_probs_2": -24.224609375
+        "log_probs_1": -16.564453125,
+        "log_probs_2": -24.1171875
     },
     {
         "id": 26,
         "prompt": "She grabbed the empty bag",
         "completion_1": "to take out the trash.",
         "completion_2": "to pack her gym clothes.",
-        "log_probs_1": -17.5859375,
-        "log_probs_2": -24.9140625
+        "log_probs_1": -13.744140625,
+        "log_probs_2": -23.3671875
     },
     {
         "id": 27,
         "prompt": "He reached for the string",
         "completion_1": "to tie up the bundle of newspapers.",
         "completion_2": "to play with the kitten.",
-        "log_probs_1": -24.4462890625,
-        "log_probs_2": -24.6552734375
+        "log_probs_1": -23.31201171875,
+        "log_probs_2": -22.8896484375
     },
     {
         "id": 28,
         "prompt": "She put the pot on the stove",
         "completion_1": "to boil water for pasta.",
         "completion_2": "to heat up last night's stew.",
-        "log_probs_1": -12.9263916015625,
-        "log_probs_2": -19.59836196899414
+        "log_probs_1": -11.1160888671875,
+        "log_probs_2": -20.8763427734375
     },
     {
         "id": 29,
         "prompt": "Mark looked at his watch",
         "completion_1": "to see how much time was left in the meeting.",
         "completion_2": "to start the timer for his run.",
-        "log_probs_1": -22.6771240234375,
-        "log_probs_2": -30.3759765625
+        "log_probs_1": -19.268798828125,
+        "log_probs_2": -28.7822265625
     },
     {
         "id": 30,
         "prompt": "She picked up the empty box",
         "completion_1": "to break it down for recycling.",
         "completion_2": "to pack her old books inside.",
-        "log_probs_1": -27.03515625,
-        "log_probs_2": -34.515625
+        "log_probs_1": -26.759765625,
+        "log_probs_2": -33.6953125
     },
     {
         "id": 31,
         "prompt": "He picked up the mirror",
         "completion_1": "to check if his tie was straight.",
         "completion_2": "to angle it and see around the corner.",
-        "log_probs_1": -24.5947265625,
-        "log_probs_2": -37.99609375
+        "log_probs_1": -25.349609375,
+        "log_probs_2": -34.4912109375
     },
     {
         "id": 32,
         "prompt": "The chef grabbed the whisk",
         "completion_1": "to beat the eggs for the omelet.",
         "completion_2": "to mix the dry ingredients for the flour.",
-        "log_probs_1": -16.92921781539917,
-        "log_probs_2": -23.669647216796875
+        "log_probs_1": -15.65355896949768,
+        "log_probs_2": -23.28216552734375
     },
     {
         "id": 33,
         "prompt": "He unrolled the duct tape",
         "completion_1": "to patch the hole in the air mattress.",
         "completion_2": "to label the moving boxes.",
-        "log_probs_1": -20.1513671875,
-        "log_probs_2": -29.0546875
+        "log_probs_1": -20.922119140625,
+        "log_probs_2": -28.2763671875
     },
     {
         "id": 34,
         "prompt": "She unfolded the blanket",
         "completion_1": "to lay it on the beach.",
         "completion_2": "to wrap around her shoulders.",
-        "log_probs_1": -21.39892578125,
-        "log_probs_2": -13.662109375
+        "log_probs_1": -19.25146484375,
+        "log_probs_2": -10.74609375
     },
     {
         "id": 35,
         "prompt": "He picked up the shovel",
         "completion_1": "to clear the snow from the walkway.",
         "completion_2": "to dig a hole for the new rose bush.",
-        "log_probs_1": -11.353515625,
-        "log_probs_2": -17.693359375
+        "log_probs_1": -10.90478515625,
+        "log_probs_2": -17.498046875
     },
     {
         "id": 36,
         "prompt": "She opened the drawer",
         "completion_1": "to get a fork.",
         "completion_2": "to find the user manual.",
-        "log_probs_1": -20.484375,
-        "log_probs_2": -19.6865234375
+        "log_probs_1": -17.671875,
+        "log_probs_2": -19.2509765625
     },
     {
         "id": 37,
         "prompt": "He grabbed the bucket",
         "completion_1": "to fill it with water and soap.",
         "completion_2": "to collect shells on the beach.",
-        "log_probs_1": -24.0751953125,
-        "log_probs_2": -27.54388427734375
+        "log_probs_1": -22.4658203125,
+        "log_probs_2": -25.77655029296875
     },
     {
         "id": 38,
         "prompt": "She looked at the camera",
         "completion_1": "to take a selfie with her friends.",
         "completion_2": "to check if the battery was charged.",
-        "log_probs_1": -20.650390625,
-        "log_probs_2": -22.22802734375
+        "log_probs_1": -21.353515625,
+        "log_probs_2": -22.23193359375
     },
     {
         "id": 39,
         "prompt": "He put on his glasses",
         "completion_1": "to read the fine print.",
         "completion_2": "to protect his eyes from the sun.",
-        "log_probs_1": -13.10345458984375,
-        "log_probs_2": -15.47674560546875
+        "log_probs_1": -11.31298828125,
+        "log_probs_2": -14.89727783203125
     },
     {
         "id": 40,
         "prompt": "She picked up the ruler",
         "completion_1": "to measure the length of the fabric.",
         "completion_2": "to draw a straight line on the poster.",
-        "log_probs_1": -17.481964111328125,
-        "log_probs_2": -18.259246826171875
+        "log_probs_1": -16.1558837890625,
+        "log_probs_2": -16.29193115234375
     },
     {
         "id": 41,
         "prompt": "He reached for the apple",
         "completion_1": "to eat it as a snack.",
         "completion_2": "to slice it for the pie.",
-        "log_probs_1": -15.9375,
-        "log_probs_2": -21.0341796875
+        "log_probs_1": -14.623046875,
+        "log_probs_2": -20.0927734375
     },
     {
         "id": 42,
         "prompt": "She opened the closet",
         "completion_1": "to hang up her coat.",
         "completion_2": "to get the vacuum cleaner.",
-        "log_probs_1": -17.654296875,
-        "log_probs_2": -23.5068359375
+        "log_probs_1": -14.9423828125,
+        "log_probs_2": -20.882080078125
     },
     {
         "id": 43,
         "prompt": "He grabbed the rope",
         "completion_1": "to tie the canoe to the dock.",
         "completion_2": "to set up a swing for the kids.",
-        "log_probs_1": -22.455078125,
-        "log_probs_2": -30.875
+        "log_probs_1": -21.50927734375,
+        "log_probs_2": -31.4765625
     },
     {
         "id": 44,
         "prompt": "She picked up the hairbrush",
         "completion_1": "to untangle her wet hair.",
         "completion_2": "to clean the lint off her black sweater.",
-        "log_probs_1": -18.1256103515625,
-        "log_probs_2": -37.908203125
+        "log_probs_1": -16.60845947265625,
+        "log_probs_2": -38.2578125
     },
     {
         "id": 45,
         "prompt": "He found a large rock",
         "completion_1": "to use as a doorstop.",
         "completion_2": "to place at the edge of the garden bed.",
-        "log_probs_1": -22.4755859375,
-        "log_probs_2": -28.829978942871094
+        "log_probs_1": -20.09814453125,
+        "log_probs_2": -27.578754425048828
     },
     {
         "id": 46,
         "prompt": "She got out the flour",
         "completion_1": "to bake a loaf of bread.",
         "completion_2": "to thicken the gravy.",
-        "log_probs_1": -17.59716796875,
-        "log_probs_2": -24.67041015625
+        "log_probs_1": -15.3330078125,
+        "log_probs_2": -22.32177734375
     },
     {
         "id": 47,
         "prompt": "He turned on the computer",
         "completion_1": "to check his email.",
         "completion_2": "to play a video game.",
-        "log_probs_1": -8.8564453125,
-        "log_probs_2": -19.46875
+        "log_probs_1": -6.89453125,
+        "log_probs_2": -18.3203125
     },
     {
         "id": 48,
         "prompt": "She pulled out a chair",
         "completion_1": "to sit down at the table.",
         "completion_2": "to stand on it to reach the top shelf.",
-        "log_probs_1": -13.452880859375,
-        "log_probs_2": -27.85888671875
+        "log_probs_1": -10.73895263671875,
+        "log_probs_2": -25.860107421875
     },
     {
         "id": 49,
         "prompt": "He opened the refrigerator",
         "completion_1": "to get a cold drink.",
         "completion_2": "to see what they needed from the store.",
-        "log_probs_1": -16.072265625,
-        "log_probs_2": -31.32861328125
+        "log_probs_1": -12.6708984375,
+        "log_probs_2": -26.306640625
     },
     {
         "id": 50,
         "prompt": "She picked up the coin",
         "completion_1": "to flip it to make a decision.",
         "completion_2": "to put it in the parking meter.",
-        "log_probs_1": -22.0172119140625,
-        "log_probs_2": -21.99560546875
+        "log_probs_1": -20.7841796875,
+        "log_probs_2": -20.9000244140625
     },
     {
         "id": 51,
         "prompt": "He grabbed the stapler",
         "completion_1": "to attach the pages of his report.",
         "completion_2": "to tack the notice to the corkboard.",
-        "log_probs_1": -21.6494140625,
-        "log_probs_2": -28.267578125
+        "log_probs_1": -20.55859375,
+        "log_probs_2": -27.91162109375
     },
     {
         "id": 52,
         "prompt": "She opened the window",
         "completion_1": "to let some fresh air in.",
         "completion_2": "to call out to her friend on the street.",
-        "log_probs_1": -13.7320556640625,
-        "log_probs_2": -26.499755859375
+        "log_probs_1": -11.733001708984375,
+        "log_probs_2": -26.123291015625
     },
     {
         "id": 53,
         "prompt": "He picked up the dice",
         "completion_1": "to roll them for his turn in the game.",
         "completion_2": "to teach his daughter how to count.",
-        "log_probs_1": -15.7626953125,
-        "log_probs_2": -28.36452865600586
+        "log_probs_1": -14.99853515625,
+        "log_probs_2": -27.028480529785156
     },
     {
         "id": 54,
         "prompt": "She found the needle",
         "completion_1": "to sew the button back on his shirt.",
         "completion_2": "to get the splinter out of her finger.",
-        "log_probs_1": -25.451171875,
-        "log_probs_2": -29.384613037109375
+        "log_probs_1": -22.84765625,
+        "log_probs_2": -28.43963623046875
     },
     {
         "id": 55,
         "prompt": "He got out the drill",
         "completion_1": "to assemble the new bookshelf.",
         "completion_2": "to hang the heavy mirror.",
-        "log_probs_1": -15.376953125,
-        "log_probs_2": -22.62890625
+        "log_probs_1": -15.785888671875,
+        "log_probs_2": -24.39453125
     },
     {
         "id": 56,
         "prompt": "She opened her purse",
         "completion_1": "to find her car keys.",
         "completion_2": "to put her change away.",
-        "log_probs_1": -14.3690185546875,
-        "log_probs_2": -29.7890625
+        "log_probs_1": -11.7861328125,
+        "log_probs_2": -26.0390625
     },
     {
         "id": 57,
         "prompt": "He lit the candle",
         "completion_1": "to make the room smell nice.",
         "completion_2": "to provide light during the blackout.",
-        "log_probs_1": -23.779296875,
-        "log_probs_2": -22.21533203125
+        "log_probs_1": -18.91015625,
+        "log_probs_2": -22.039306640625
     },
     {
         "id": 58,
         "prompt": "She picked up the envelope",
         "completion_1": "to mail the letter.",
         "completion_2": "to see who it was addressed to.",
-        "log_probs_1": -17.84375,
-        "log_probs_2": -19.93234634399414
+        "log_probs_1": -15.5078125,
+        "log_probs_2": -19.07126235961914
     },
     {
         "id": 59,
         "prompt": "He grabbed the newspaper",
         "completion_1": "to read the morning headlines.",
         "completion_2": "to cover the table before painting.",
-        "log_probs_1": -13.7421875,
-        "log_probs_2": -39.2109375
+        "log_probs_1": -12.484375,
+        "log_probs_2": -39.046875
     },
     {
         "id": 60,
         "prompt": "She picked up the toy car",
         "completion_1": "to give it back to the crying child.",
         "completion_2": "to place it back on the display shelf.",
-        "log_probs_1": -24.10387420654297,
-        "log_probs_2": -21.563232421875
+        "log_probs_1": -23.580581665039062,
+        "log_probs_2": -21.22216796875
     },
     {
         "id": 61,
         "prompt": "He put the key in the lock",
         "completion_1": "to open his front door.",
         "completion_2": "to secure the bike to the rack.",
-        "log_probs_1": -19.95074462890625,
-        "log_probs_2": -24.61572265625
+        "log_probs_1": -17.64459228515625,
+        "log_probs_2": -23.909423828125
     },
     {
         "id": 62,
         "prompt": "She grabbed the binoculars",
         "completion_1": "to get a better look at the bird.",
         "completion_2": "to see the performers on the distant stage.",
-        "log_probs_1": -11.967376708984375,
-        "log_probs_2": -31.4482421875
+        "log_probs_1": -9.230812072753906,
+        "log_probs_2": -29.599609375
     },
     {
         "id": 63,
         "prompt": "He opened the toolbox",
         "completion_1": "to find a screwdriver.",
         "completion_2": "to put his hammer away.",
-        "log_probs_1": -10.72265625,
-        "log_probs_2": -20.875
+        "log_probs_1": -9.845703125,
+        "log_probs_2": -18.3125
     },
     {
         "id": 64,
         "prompt": "She picked up the sponge",
         "completion_1": "to wash the dirty dishes.",
         "completion_2": "to wipe down the kitchen counter.",
-        "log_probs_1": -10.768798828125,
-        "log_probs_2": -6.310643672943115
+        "log_probs_1": -9.6346435546875,
+        "log_probs_2": -5.90053653717041
     },
     {
         "id": 65,
         "prompt": "He reached for the sugar",
         "completion_1": "to sweeten his tea.",
         "completion_2": "to add to the cookie dough.",
-        "log_probs_1": -11.7862548828125,
-        "log_probs_2": -18.42578125
+        "log_probs_1": -10.60693359375,
+        "log_probs_2": -17.833984375
     },
     {
         "id": 66,
         "prompt": "She picked up her bag",
         "completion_1": "to leave for the day.",
         "completion_2": "to look for her wallet.",
-        "log_probs_1": -20.9794921875,
-        "log_probs_2": -20.11328125
+        "log_probs_1": -19.3232421875,
+        "log_probs_2": -17.7109375
     },
     {
         "id": 67,
         "prompt": "He found a piece of chalk",
         "completion_1": "to draw a hopscotch game on the sidewalk.",
         "completion_2": "to mark the wood he needed to cut.",
-        "log_probs_1": -22.610504150390625,
-        "log_probs_2": -33.654296875
+        "log_probs_1": -22.498046875,
+        "log_probs_2": -32.4375
     },
     {
         "id": 68,
         "prompt": "She opened the umbrella",
         "completion_1": "as it started to rain.",
         "completion_2": "to block the harsh afternoon sun.",
-        "log_probs_1": -10.445556640625,
-        "log_probs_2": -18.7899169921875
+        "log_probs_1": -8.319580078125,
+        "log_probs_2": -17.40447998046875
     },
     {
         "id": 69,
         "prompt": "He picked up the watering can",
         "completion_1": "to water the houseplants.",
         "completion_2": "to fill it from the rain barrel.",
-        "log_probs_1": -14.77587890625,
-        "log_probs_2": -21.900924682617188
+        "log_probs_1": -12.75341796875,
+        "log_probs_2": -20.2650146484375
     },
     {
         "id": 70,
         "prompt": "She reached for the tape measure",
         "completion_1": "to see if the new sofa would fit.",
         "completion_2": "to measure her waist.",
-        "log_probs_1": -25.0205078125,
-        "log_probs_2": -15.41796875
+        "log_probs_1": -25.763671875,
+        "log_probs_2": -14.29296875
     },
     {
         "id": 71,
         "prompt": "He grabbed the camera",
         "completion_1": "to take a picture of the sunset.",
         "completion_2": "to record his daughter's first steps.",
-        "log_probs_1": -14.5477294921875,
-        "log_probs_2": -17.8447265625
+        "log_probs_1": -13.00299072265625,
+        "log_probs_2": -16.89453125
     },
     {
         "id": 72,
         "prompt": "She picked up the menu",
         "completion_1": "to decide what to order.",
         "completion_2": "to fan herself in the hot restaurant.",
-        "log_probs_1": -13.38037109375,
-        "log_probs_2": -29.197998046875
+        "log_probs_1": -11.22705078125,
+        "log_probs_2": -27.22119140625
     },
     {
         "id": 73,
         "prompt": "He unfolded the napkin",
         "completion_1": "to place it on his lap.",
         "completion_2": "to write down a phone number.",
-        "log_probs_1": -13.208984375,
-        "log_probs_2": -21.93012809753418
+        "log_probs_1": -11.017578125,
+        "log_probs_2": -21.234745025634766
     },
     {
         "id": 74,
         "prompt": "She opened the cabinet",
         "completion_1": "to get a coffee mug.",
         "completion_2": "to find the painkillers.",
-        "log_probs_1": -21.28125,
-        "log_probs_2": -20.697265625
+        "log_probs_1": -18.25,
+        "log_probs_2": -18.6259765625
     },
     {
         "id": 75,
         "prompt": "He picked up the headphones",
         "completion_1": "to listen to his podcast.",
         "completion_2": "to join the video conference call.",
-        "log_probs_1": -16.266551971435547,
-        "log_probs_2": -20.478515625
+        "log_probs_1": -14.481544494628906,
+        "log_probs_2": -19.9130859375
     },
     {
         "id": 76,
         "prompt": "She grabbed the broom",
         "completion_1": "to sweep the kitchen floor.",
         "completion_2": "to knock a spider web from the ceiling.",
-        "log_probs_1": -11.365234375,
-        "log_probs_2": -38.23480224609375
+        "log_probs_1": -9.669921875,
+        "log_probs_2": -41.683807373046875
     },
     {
         "id": 77,
         "prompt": "He looked at the thermometer",
         "completion_1": "to check the temperature outside.",
         "completion_2": "to see if he had a fever.",
-        "log_probs_1": -14.52734375,
-        "log_probs_2": -18.3779296875
+        "log_probs_1": -12.3916015625,
+        "log_probs_2": -16.6533203125
     },
     {
         "id": 78,
         "prompt": "She opened the oven",
         "completion_1": "to check if the cookies were done.",
         "completion_2": "to preheat it for the pizza.",
-        "log_probs_1": -11.72607421875,
-        "log_probs_2": -19.315643310546875
+        "log_probs_1": -9.837890625,
+        "log_probs_2": -17.84375
     },
     {
         "id": 79,
         "prompt": "He picked up the folder",
         "completion_1": "to review the files for his meeting.",
         "completion_2": "to file the new document.",
-        "log_probs_1": -25.580078125,
-        "log_probs_2": -24.921875
+        "log_probs_1": -26.126953125,
+        "log_probs_2": -24.171875
     },
     {
         "id": 80,
         "prompt": "She grabbed the spatula",
         "completion_1": "to flip the pancake.",
         "completion_2": "to scrape the last of the batter.",
-        "log_probs_1": -7.6966400146484375,
-        "log_probs_2": -21.004425048828125
+        "log_probs_1": -5.963939666748047,
+        "log_probs_2": -20.755706787109375
     },
     {
         "id": 81,
         "prompt": "He turned on the radio",
         "completion_1": "to listen to the baseball game.",
         "completion_2": "to hear the traffic report.",
-        "log_probs_1": -15.391780853271484,
-        "log_probs_2": -11.8046875
+        "log_probs_1": -13.63558578491211,
+        "log_probs_2": -10.583984375
     },
     {
         "id": 82,
         "prompt": "She picked up the ball",
         "completion_1": "to throw it to her dog.",
         "completion_2": "to practice her basketball dribbling.",
-        "log_probs_1": -20.166015625,
-        "log_probs_2": -24.175537109375
+        "log_probs_1": -16.6953125,
+        "log_probs_2": -22.78125
     },
     {
         "id": 83,
         "prompt": "He found a rubber band",
         "completion_1": "to hold the stack of index cards together.",
         "completion_2": "to tie back his long hair.",
-        "log_probs_1": -25.846649169921875,
-        "log_probs_2": -22.786865234375
+        "log_probs_1": -25.70965003967285,
+        "log_probs_2": -22.7158203125
     },
     {
         "id": 84,
         "prompt": "She opened the medicine cabinet",
         "completion_1": "to get the toothpaste.",
         "completion_2": "to find a bandage.",
-        "log_probs_1": -20.78515625,
-        "log_probs_2": -18.6484375
+        "log_probs_1": -17.259765625,
+        "log_probs_2": -17.18359375
     },
     {
         "id": 85,
         "prompt": "He picked up the wrench",
         "completion_1": "to tighten the bolt on his bike.",
         "completion_2": "to fix the leaky pipe under the sink.",
-        "log_probs_1": -22.434188842773438,
-        "log_probs_2": -13.46240234375
+        "log_probs_1": -20.59814453125,
+        "log_probs_2": -11.9483642578125
     },
     {
         "id": 86,
         "prompt": "She grabbed the lemon",
         "completion_1": "to squeeze it into her water.",
         "completion_2": "to get the zest for the recipe.",
-        "log_probs_1": -14.17578125,
-        "log_probs_2": -23.38671875
+        "log_probs_1": -11.322265625,
+        "log_probs_2": -21.990234375
     },
     {
         "id": 87,
         "prompt": "He put his hand on the doorknob",
         "completion_1": "to leave the room.",
         "completion_2": "to check if it was hot during the fire.",
-        "log_probs_1": -17.912109375,
-        "log_probs_2": -32.577796936035156
+        "log_probs_1": -16.43359375,
+        "log_probs_2": -34.253334045410156
     },
     {
         "id": 88,
         "prompt": "She picked up the painting",
         "completion_1": "to hang it on the empty wall.",
         "completion_2": "to dust the frame.",
-        "log_probs_1": -18.04986572265625,
-        "log_probs_2": -15.3046875
+        "log_probs_1": -17.878082275390625,
+        "log_probs_2": -14.4921875
     },
     {
         "id": 89,
         "prompt": "He got out the ice tray",
         "completion_1": "to fill his glass with ice.",
         "completion_2": "to refill it with water.",
-        "log_probs_1": -16.943359375,
-        "log_probs_2": -22.248046875
+        "log_probs_1": -14.44287109375,
+        "log_probs_2": -18.88671875
     },
     {
         "id": 90,
         "prompt": "She picked up the dictionary",
         "completion_1": "to look up the meaning of a word.",
         "completion_2": "to press a flower flat.",
-        "log_probs_1": -14.728691101074219,
-        "log_probs_2": -45.546875
+        "log_probs_1": -13.372058868408203,
+        "log_probs_2": -44.578125
     },
     {
         "id": 91,
         "prompt": "He reached for the ketchup",
         "completion_1": "to put on his french fries.",
         "completion_2": "to add to his meatloaf recipe.",
-        "log_probs_1": -16.966796875,
-        "log_probs_2": -25.941508293151855
+        "log_probs_1": -16.759765625,
+        "log_probs_2": -27.179795742034912
     },
     {
         "id": 92,
         "prompt": "She opened the box of tissues",
         "completion_1": "to blow her nose.",
         "completion_2": "to wipe up a small spill.",
-        "log_probs_1": -8.426971435546875,
-        "log_probs_2": -26.1015625
+        "log_probs_1": -6.127685546875,
+        "log_probs_2": -24.53125
     },
     {
         "id": 93,
         "prompt": "He picked up the log",
         "completion_1": "to put it on the fire.",
         "completion_2": "to use as a rustic seat.",
-        "log_probs_1": -9.5914306640625,
-        "log_probs_2": -28.54296875
+        "log_probs_1": -8.1845703125,
+        "log_probs_2": -27.56640625
     },
     {
         "id": 94,
         "prompt": "She grabbed the rolling pin",
         "completion_1": "to roll out the pizza dough.",
         "completion_2": "to crush the cookies for the crust.",
-        "log_probs_1": -20.02587890625,
-        "log_probs_2": -31.098876953125
+        "log_probs_1": -18.3037109375,
+        "log_probs_2": -30.6126708984375
     },
     {
         "id": 95,
         "prompt": "He opened the can",
         "completion_1": "of soup for lunch.",
         "completion_2": "of paint for the wall.",
-        "log_probs_1": -13.546875,
-        "log_probs_2": -19.91796875
+        "log_probs_1": -12.25,
+        "log_probs_2": -19.38671875
     },
     {
         "id": 96,
         "prompt": "She picked up the phone",
         "completion_1": "to order a pizza.",
         "completion_2": "to call her mother.",
-        "log_probs_1": -16.359375,
-        "log_probs_2": -13.017578125
+        "log_probs_1": -14.6875,
+        "log_probs_2": -10.283203125
     },
     {
         "id": 97,
         "prompt": "He unzipped the suitcase",
         "completion_1": "to start packing for his trip.",
         "completion_2": "to take out his dirty laundry.",
-        "log_probs_1": -19.017578125,
-        "log_probs_2": -18.24609375
+        "log_probs_1": -17.4140625,
+        "log_probs_2": -17.9619140625
     },
     {
         "id": 98,
         "prompt": "She grabbed the magnifying glass",
         "completion_1": "to read the tiny serial number.",
         "completion_2": "to examine the details of the insect.",
-        "log_probs_1": -33.10162353515625,
-        "log_probs_2": -21.539794921875
+        "log_probs_1": -32.054901123046875,
+        "log_probs_2": -20.6080322265625
     },
     {
         "id": 99,
         "prompt": "He picked up the alarm clock",
         "completion_1": "to set it for the next morning.",
         "completion_2": "to throw it against the wall.",
-        "log_probs_1": -18.109375,
-        "log_probs_2": -24.796974182128906
+        "log_probs_1": -15.998046875,
+        "log_probs_2": -25.761669158935547
     }
 ]

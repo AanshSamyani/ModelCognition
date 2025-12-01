@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "prompt": "At the stroke of midnight, the crowd",
+        "completion_1": "erupted in loud cheers and applause.",
+        "completion_2": "fell silent to watch the fireworks display.",
+        "log_probs_1": -21.523606300354004,
+        "log_probs_2": -20.2783203125
+    },
+    {
+        "id": 2,
+        "prompt": "When the alarm rang at six, he",
+        "completion_1": "immediately rolled out of bed to start the day.",
+        "completion_2": "groaned and hit the snooze button for ten more minutes.",
+        "log_probs_1": -24.716323852539062,
+        "log_probs_2": -25.641817569732666
+    },
+    {
+        "id": 3,
+        "prompt": "As soon as the lunch break began, she",
+        "completion_1": "headed to the cafeteria to meet her friends.",
+        "completion_2": "stayed at her desk to finish an urgent report.",
+        "log_probs_1": -15.8621826171875,
+        "log_probs_2": -19.5673828125
+    },
+    {
+        "id": 4,
+        "prompt": "Just before the deadline, the team",
+        "completion_1": "submitted the final project files.",
+        "completion_2": "asked for a brief extension to polish the work.",
+        "log_probs_1": -23.462890625,
+        "log_probs_2": -35.9297251701355
+    },
+    {
+        "id": 5,
+        "prompt": "After waiting for an hour, the customer",
+        "completion_1": "finally got up and left the restaurant.",
+        "completion_2": "asked the waiter for an update on the order.",
+        "log_probs_1": -17.755859375,
+        "log_probs_2": -19.747342348098755
+    },
+    {
+        "id": 6,
+        "prompt": "When the sun finally rose, the hikers",
+        "completion_1": "packed up their camp and started walking.",
+        "completion_2": "sat on the ridge to watch the colors change.",
+        "log_probs_1": -19.124267578125,
+        "log_probs_2": -27.34423828125
+    },
+    {
+        "id": 7,
+        "prompt": "At 5:00 PM sharp, the office workers",
+        "completion_1": "shut down their computers and headed for the elevators.",
+        "completion_2": "gathered in the conference room for the evening brief.",
+        "log_probs_1": -19.36868667602539,
+        "log_probs_2": -20.526668548583984
+    },
+    {
+        "id": 8,
+        "prompt": "During the halftime break, the coach",
+        "completion_1": "gave a rousing speech to motivate the players.",
+        "completion_2": "reviewed the strategy on the whiteboard silently.",
+        "log_probs_1": -21.64892578125,
+        "log_probs_2": -37.14717102050781
+    },
+    {
+        "id": 9,
+        "prompt": "Once the summer season ended, the town",
+        "completion_1": "became quiet as the tourists left.",
+        "completion_2": "began preparing for the upcoming fall harvest festival.",
+        "log_probs_1": -15.159835815429688,
+        "log_probs_2": -17.40845489501953
+    },
+    {
+        "id": 10,
+        "prompt": "As the countdown reached zero, the rocket",
+        "completion_1": "lifted off the pad with a roar.",
+        "completion_2": "aborted the launch due to a sensor error.",
+        "log_probs_1": -23.29309844970703,
+        "log_probs_2": -29.989295959472656
+    },
+    {
+        "id": 11,
+        "prompt": "Every Sunday morning, the family",
+        "completion_1": "goes to the park for a long walk.",
+        "completion_2": "cooks a large pancake breakfast together.",
+        "log_probs_1": -16.1240234375,
+        "log_probs_2": -24.814553260803223
+    },
+    {
+        "id": 12,
+        "prompt": "When the train arrived at the station, the passengers",
+        "completion_1": "rushed toward the doors to disembark quickly.",
+        "completion_2": "waited for the incoming crowd to clear the platform.",
+        "log_probs_1": -26.333526611328125,
+        "log_probs_2": -29.420957803726196
+    },
+    {
+        "id": 13,
+        "prompt": "After the movie finished, they",
+        "completion_1": "sat in the theater discussing the plot twist.",
+        "completion_2": "walked out to the parking lot immediately.",
+        "log_probs_1": -25.41796875,
+        "log_probs_2": -21.50473117828369
+    },
+    {
+        "id": 14,
+        "prompt": "As the final seconds of the game ticked away, the player",
+        "completion_1": "took a desperate shot from the midfield line.",
+        "completion_2": "held onto the ball to secure the win.",
+        "log_probs_1": -25.595703125,
+        "log_probs_2": -24.573486328125
+    },
+    {
+        "id": 15,
+        "prompt": "When the timer on the oven beeped, she",
+        "completion_1": "put on her mitts to check the cake.",
+        "completion_2": "turned off the heat and let it cool inside.",
+        "log_probs_1": -29.8828125,
+        "log_probs_2": -23.161865234375
+    },
+    {
+        "id": 16,
+        "prompt": "In the early hours of the morning, the streets were",
+        "completion_1": "completely empty and silent.",
+        "completion_2": "filled with delivery trucks starting their routes.",
+        "log_probs_1": -10.738250732421875,
+        "log_probs_2": -26.20092010498047
+    },
+    {
+        "id": 17,
+        "prompt": "After a decade of service, the old machine",
+        "completion_1": "was finally retired and replaced.",
+        "completion_2": "was refurbished to work like new.",
+        "log_probs_1": -11.9093017578125,
+        "log_probs_2": -27.7421875
+    },
+    {
+        "id": 18,
+        "prompt": "As the meeting dragged on past noon, everyone",
+        "completion_1": "started checking their watches impatiently.",
+        "completion_2": "agreed to order lunch to the conference room.",
+        "log_probs_1": -14.158143162727356,
+        "log_probs_2": -39.96875
+    },
+    {
+        "id": 19,
+        "prompt": "When the winter snow melted, the fields",
+        "completion_1": "turned into a muddy marshland.",
+        "completion_2": "bloomed with early spring wildflowers.",
+        "log_probs_1": -26.44921875,
+        "log_probs_2": -23.723854064941406
+    },
+    {
+        "id": 20,
+        "prompt": "Just as the clock struck three, the school bell",
+        "completion_1": "rang loudly, signaling the end of class.",
+        "completion_2": "failed to ring due to a power outage.",
+        "log_probs_1": -8.600879669189453,
+        "log_probs_2": -20.668163299560547
+    },
+    {
+        "id": 21,
+        "prompt": "After the concert ended, the band",
+        "completion_1": "returned to the stage for an encore.",
+        "completion_2": "went backstage to celebrate the performance.",
+        "log_probs_1": -13.96044921875,
+        "log_probs_2": -25.05712890625
+    },
+    {
+        "id": 22,
+        "prompt": "When the trial period expired, the user",
+        "completion_1": "purchased the full subscription immediately.",
+        "completion_2": "uninstalled the software from their device.",
+        "log_probs_1": -24.837890625,
+        "log_probs_2": -19.868896484375
+    },
+    {
+        "id": 23,
+        "prompt": "As the storm approached in the evening, the residents",
+        "completion_1": "boarded up their windows and stayed inside.",
+        "completion_2": "went out to the porch to watch the lightning.",
+        "log_probs_1": -17.716449737548828,
+        "log_probs_2": -21.15380859375
+    },
+    {
+        "id": 24,
+        "prompt": "When the semester was over, the student",
+        "completion_1": "traveled home to visit family.",
+        "completion_2": "started a summer internship in the city.",
+        "log_probs_1": -23.375,
+        "log_probs_2": -26.75
+    },
+    {
+        "id": 25,
+        "prompt": "After the long flight, the travelers",
+        "completion_1": "headed straight to their hotel to sleep.",
+        "completion_2": "went out to explore the city immediately.",
+        "log_probs_1": -23.9443359375,
+        "log_probs_2": -25.3536376953125
+    },
+    {
+        "id": 26,
+        "prompt": "As soon as the store opened, the shoppers",
+        "completion_1": "ran to the electronics aisle for the sale.",
+        "completion_2": "walked calmly to the bakery section.",
+        "log_probs_1": -27.25,
+        "log_probs_2": -23.129043579101562
+    },
+    {
+        "id": 27,
+        "prompt": "When the project timeline was extended, the manager",
+        "completion_1": "added more features to the scope.",
+        "completion_2": "gave the team a few days off to rest.",
+        "log_probs_1": -22.84130859375,
+        "log_probs_2": -29.90234375
+    },
+    {
+        "id": 28,
+        "prompt": "At the end of the fiscal year, the company",
+        "completion_1": "released a positive earnings report.",
+        "completion_2": "announced a restructuring of the departments.",
+        "log_probs_1": -17.51318359375,
+        "log_probs_2": -32.915283203125
+    },
+    {
+        "id": 29,
+        "prompt": "When the music stopped playing, the dancers",
+        "completion_1": "froze in their final positions.",
+        "completion_2": "applauded the DJ and left the floor.",
+        "log_probs_1": -19.04705810546875,
+        "log_probs_2": -31.295333862304688
+    },
+    {
+        "id": 30,
+        "prompt": "After waiting for the rain to stop, they",
+        "completion_1": "decided to cancel the picnic entirely.",
+        "completion_2": "went outside to jump in the puddles.",
+        "log_probs_1": -22.78778076171875,
+        "log_probs_2": -12.5048828125
+    },
+    {
+        "id": 31,
+        "prompt": "As the weekend approached, he",
+        "completion_1": "planned a short trip to the mountains.",
+        "completion_2": "prepared to catch up on household chores.",
+        "log_probs_1": -19.341796875,
+        "log_probs_2": -25.581932067871094
+    },
+    {
+        "id": 32,
+        "prompt": "When the lecture finished early, the professor",
+        "completion_1": "dismissed the class ahead of schedule.",
+        "completion_2": "opened the floor for a Q&A session.",
+        "log_probs_1": -17.755962371826172,
+        "log_probs_2": -17.87835693359375
+    },
+    {
+        "id": 33,
+        "prompt": "After the warranty period, the device",
+        "completion_1": "continued to function perfectly for years.",
+        "completion_2": "suddenly stopped working without warning.",
+        "log_probs_1": -18.97509765625,
+        "log_probs_2": -17.5831298828125
+    },
+    {
+        "id": 34,
+        "prompt": "When the tide went out, the children",
+        "completion_1": "ran to explore the tide pools.",
+        "completion_2": "built sandcastles on the wet sand.",
+        "log_probs_1": -22.381103515625,
+        "log_probs_2": -14.652463436126709
+    },
+    {
+        "id": 35,
+        "prompt": "As the night grew colder, she",
+        "completion_1": "added another log to the fireplace.",
+        "completion_2": "wrapped herself in a thick wool blanket.",
+        "log_probs_1": -16.840930938720703,
+        "log_probs_2": -19.74609375
+    },
+    {
+        "id": 36,
+        "prompt": "When the interview concluded, the candidate",
+        "completion_1": "shook hands and thanked the panel.",
+        "completion_2": "asked about the timeline for the decision.",
+        "log_probs_1": -23.1383056640625,
+        "log_probs_2": -22.550442814826965
+    },
+    {
+        "id": 37,
+        "prompt": "After the heavy snowfall, the city",
+        "completion_1": "deployed plows to clear the main roads.",
+        "completion_2": "shut down all schools and businesses.",
+        "log_probs_1": -21.279207229614258,
+        "log_probs_2": -19.1767578125
+    },
+    {
+        "id": 38,
+        "prompt": "When the tea was finally ready, he",
+        "completion_1": "poured a cup and sat by the window.",
+        "completion_2": "realized he had forgotten to add sugar.",
+        "log_probs_1": -25.221210479736328,
+        "log_probs_2": -13.943359375
+    },
+    {
+        "id": 39,
+        "prompt": "As the deadline for the application passed, she",
+        "completion_1": "felt relieved that she had submitted it in time.",
+        "completion_2": "regretted not finishing her essay sooner.",
+        "log_probs_1": -25.094482421875,
+        "log_probs_2": -20.58056640625
+    },
+    {
+        "id": 40,
+        "prompt": "When the car finally started, they",
+        "completion_1": "cheered and drove off towards the highway.",
+        "completion_2": "drove straight to the mechanic to check it.",
+        "log_probs_1": -29.46484375,
+        "log_probs_2": -41.0458984375
+    },
+    {
+        "id": 41,
+        "prompt": "After the long marathon, the runner",
+        "completion_1": "collapsed on the grass in exhaustion.",
+        "completion_2": "celebrated with friends at a nearby pub.",
+        "log_probs_1": -14.7384033203125,
+        "log_probs_2": -21.164081573486328
+    },
+    {
+        "id": 42,
+        "prompt": "As the eclipse began, the observers",
+        "completion_1": "put on their protective glasses to look up.",
+        "completion_2": "set up their cameras to capture the moment.",
+        "log_probs_1": -24.9853515625,
+        "log_probs_2": -13.59521484375
+    },
+    {
+        "id": 43,
+        "prompt": "When the phone rang at dinner time, they",
+        "completion_1": "ignored it to continue their conversation.",
+        "completion_2": "got up to answer it in the other room.",
+        "log_probs_1": -19.4375,
+        "log_probs_2": -16.556182861328125
+    },
+    {
+        "id": 44,
+        "prompt": "After the software update installed, the computer",
+        "completion_1": "restarted automatically to apply changes.",
+        "completion_2": "displayed an error message on the screen.",
+        "log_probs_1": -30.07421875,
+        "log_probs_2": -12.038719177246094
+    },
+    {
+        "id": 45,
+        "prompt": "When the seasonal sale started, the website",
+        "completion_1": "crashed due to the high volume of traffic.",
+        "completion_2": "processed thousands of orders within minutes.",
+        "log_probs_1": -18.466970920562744,
+        "log_probs_2": -21.181884765625
+    },
+    {
+        "id": 46,
+        "prompt": "As the holidays drew near, the streets",
+        "completion_1": "were decorated with bright festive lights.",
+        "completion_2": "became crowded with last-minute shoppers.",
+        "log_probs_1": -21.226791381835938,
+        "log_probs_2": -11.297126770019531
+    },
+    {
+        "id": 47,
+        "prompt": "When the news broke at noon, everyone",
+        "completion_1": "gathered around the TV to watch the report.",
+        "completion_2": "checked their phones for more details.",
+        "log_probs_1": -16.625121593475342,
+        "log_probs_2": -19.593917846679688
+    },
+    {
+        "id": 48,
+        "prompt": "After the initial shock wore off, he",
+        "completion_1": "began to formulate a plan of action.",
+        "completion_2": "sat down to process his emotions.",
+        "log_probs_1": -22.72216796875,
+        "log_probs_2": -21.0546875
+    },
+    {
+        "id": 49,
+        "prompt": "When the battery finally died, she",
+        "completion_1": "plugged the device into the charger.",
+        "completion_2": "decided to stop working for the day.",
+        "log_probs_1": -21.361328125,
+        "log_probs_2": -27.66363525390625
+    },
+    {
+        "id": 50,
+        "prompt": "As the sun reached its peak, the workers",
+        "completion_1": "took a break in the shade to cool down.",
+        "completion_2": "drank water and continued their labor.",
+        "log_probs_1": -20.556640625,
+        "log_probs_2": -28.123046875
+    },
+    {
+        "id": 51,
+        "prompt": "When the final bell rang, the boxer",
+        "completion_1": "raised his gloves in a sign of victory.",
+        "completion_2": "leaned against the ropes, totally exhausted.",
+        "log_probs_1": -23.32068634033203,
+        "log_probs_2": -26.601572632789612
+    },
+    {
+        "id": 52,
+        "prompt": "After the renovation was complete, the house",
+        "completion_1": "looked modern and brand new inside.",
+        "completion_2": "was put on the market for sale.",
+        "log_probs_1": -22.839141845703125,
+        "log_probs_2": -9.983489990234375
+    },
+    {
+        "id": 53,
+        "prompt": "When the lease expired, the tenant",
+        "completion_1": "renewed the contract for another year.",
+        "completion_2": "moved out to a larger apartment.",
+        "log_probs_1": -14.790363311767578,
+        "log_probs_2": -16.33203125
+    },
+    {
+        "id": 54,
+        "prompt": "As the fog lifted in the morning, the bridge",
+        "completion_1": "became visible across the bay.",
+        "completion_2": "remained obscured by low clouds.",
+        "log_probs_1": -17.921844482421875,
+        "log_probs_2": -29.2508544921875
+    },
+    {
+        "id": 55,
+        "prompt": "When the chorus ended, the audience",
+        "completion_1": "gave a standing ovation.",
+        "completion_2": "remained seated, waiting for the next act.",
+        "log_probs_1": -12.050088882446289,
+        "log_probs_2": -22.968002319335938
+    },
+    {
+        "id": 56,
+        "prompt": "After the long negotiation, the two parties",
+        "completion_1": "signed the agreement enthusiastically.",
+        "completion_2": "agreed to meet again the following week.",
+        "log_probs_1": -21.125,
+        "log_probs_2": -17.208282470703125
+    },
+    {
+        "id": 57,
+        "prompt": "When the soup cooled down, he",
+        "completion_1": "took a large spoonful to taste it.",
+        "completion_2": "put it in the fridge for later.",
+        "log_probs_1": -21.59619140625,
+        "log_probs_2": -8.603515625
+    },
+    {
+        "id": 58,
+        "prompt": "As the traffic light turned green, the driver",
+        "completion_1": "accelerated quickly through the intersection.",
+        "completion_2": "waited for a pedestrian to finish crossing.",
+        "log_probs_1": -14.246906280517578,
+        "log_probs_2": -21.76280403137207
+    },
+    {
+        "id": 59,
+        "prompt": "When the harvest moon appeared, the farmers",
+        "completion_1": "worked late into the night gathering crops.",
+        "completion_2": "gathered for a traditional celebration.",
+        "log_probs_1": -18.82152557373047,
+        "log_probs_2": -17.959930419921875
+    },
+    {
+        "id": 60,
+        "prompt": "After the argument ended, they",
+        "completion_1": "sat in silence on opposite ends of the couch.",
+        "completion_2": "apologized to each other and hugged.",
+        "log_probs_1": -24.624167680740356,
+        "log_probs_2": -14.98974061012268
+    },
+    {
+        "id": 61,
+        "prompt": "When the queue finally moved, the people",
+        "completion_1": "shuffled forward with relief.",
+        "completion_2": "realized the counter had just closed.",
+        "log_probs_1": -16.423828125,
+        "log_probs_2": -26.8570556640625
+    },
+    {
+        "id": 62,
+        "prompt": "As the year came to a close, she",
+        "completion_1": "reflected on her achievements in a journal.",
+        "completion_2": "made a list of resolutions for the future.",
+        "log_probs_1": -29.12078857421875,
+        "log_probs_2": -20.9482421875
+    },
+    {
+        "id": 63,
+        "prompt": "When the painting dried, the artist",
+        "completion_1": "applied a coat of varnish to protect it.",
+        "completion_2": "noticed a small mistake in the corner.",
+        "log_probs_1": -15.0528564453125,
+        "log_probs_2": -21.46484375
+    },
+    {
+        "id": 64,
+        "prompt": "After the lengthy silence, he",
+        "completion_1": "cleared his throat and changed the subject.",
+        "completion_2": "stood up and walked out of the room.",
+        "log_probs_1": -16.490867614746094,
+        "log_probs_2": -12.11566162109375
+    },
+    {
+        "id": 65,
+        "prompt": "When the coffee machine beeped, she",
+        "completion_1": "poured the fresh brew into her mug.",
+        "completion_2": "realized she had forgotten to add water.",
+        "log_probs_1": -22.177734375,
+        "log_probs_2": -21.98638916015625
+    },
+    {
+        "id": 66,
+        "prompt": "As the tide came in, the boat",
+        "completion_1": "lifted gently off the sandbar.",
+        "completion_2": "rocked violently against the pier.",
+        "log_probs_1": -27.564653396606445,
+        "log_probs_2": -13.064422607421875
+    },
+    {
+        "id": 67,
+        "prompt": "When the curtains closed, the actors",
+        "completion_1": "high-fived each other backstage.",
+        "completion_2": "hurried to change out of their costumes.",
+        "log_probs_1": -20.229058265686035,
+        "log_probs_2": -21.25799560546875
+    },
+    {
+        "id": 68,
+        "prompt": "After the harsh winter, the garden",
+        "completion_1": "needed a lot of work to clear the debris.",
+        "completion_2": "surprised them with early blooming bulbs.",
+        "log_probs_1": -26.8233642578125,
+        "log_probs_2": -33.865278244018555
+    },
+    {
+        "id": 69,
+        "prompt": "When the clock struck five, the detective",
+        "completion_1": "decided to call it a day and go home.",
+        "completion_2": "poured another coffee to keep working.",
+        "log_probs_1": -13.82958984375,
+        "log_probs_2": -45.1875
+    },
+    {
+        "id": 70,
+        "prompt": "As the vacation ended, the family",
+        "completion_1": "felt sad to leave the beach house.",
+        "completion_2": "looked forward to sleeping in their own beds.",
+        "log_probs_1": -23.560546875,
+        "log_probs_2": -23.991903424263
+    },
+    {
+        "id": 71,
+        "prompt": "When the temperature dropped, the water",
+        "completion_1": "froze into a solid sheet of ice.",
+        "completion_2": "became too cold for swimming.",
+        "log_probs_1": -13.55194091796875,
+        "log_probs_2": -11.095611572265625
+    },
+    {
+        "id": 72,
+        "prompt": "After the loud explosion, the birds",
+        "completion_1": "scattered into the sky in panic.",
+        "completion_2": "fell silent in the trees nearby.",
+        "log_probs_1": -20.2294921875,
+        "log_probs_2": -15.82421875
+    },
+    {
+        "id": 73,
+        "prompt": "When the guests arrived late, the host",
+        "completion_1": "greeted them warmly despite the delay.",
+        "completion_2": "scrambled to reheat the appetizers.",
+        "log_probs_1": -18.12444305419922,
+        "log_probs_2": -23.1640625
+    },
+    {
+        "id": 74,
+        "prompt": "As the candle burned down, the room",
+        "completion_1": "gradually became darker and darker.",
+        "completion_2": "filled with the scent of lavender.",
+        "log_probs_1": -17.7236328125,
+        "log_probs_2": -11.475662231445312
+    },
+    {
+        "id": 75,
+        "prompt": "When the download finished, the user",
+        "completion_1": "opened the file to check the contents.",
+        "completion_2": "moved the file to an external drive.",
+        "log_probs_1": -17.908203125,
+        "log_probs_2": -18.912109375
+    },
+    {
+        "id": 76,
+        "prompt": "After the graduation ceremony, the students",
+        "completion_1": "threw their caps into the air.",
+        "completion_2": "hugged their parents and took photos.",
+        "log_probs_1": -19.003036499023438,
+        "log_probs_2": -19.6416015625
+    },
+    {
+        "id": 77,
+        "prompt": "When the signal turned red, the pedestrian",
+        "completion_1": "stopped at the curb to wait.",
+        "completion_2": "ran across the street to beat the traffic.",
+        "log_probs_1": -15.93603515625,
+        "log_probs_2": -20.5203857421875
+    },
+    {
+        "id": 78,
+        "prompt": "As the fire died down, the campers",
+        "completion_1": "added more wood to keep it going.",
+        "completion_2": "went into their tents to sleep.",
+        "log_probs_1": -20.2001953125,
+        "log_probs_2": -23.5009765625
+    },
+    {
+        "id": 79,
+        "prompt": "When the music faded out, the radio host",
+        "completion_1": "introduced the next song on the playlist.",
+        "completion_2": "began to read the hourly news update.",
+        "log_probs_1": -16.966796875,
+        "log_probs_2": -27.392578125
+    },
+    {
+        "id": 80,
+        "prompt": "After the long drought, the rain",
+        "completion_1": "was welcomed by everyone in the town.",
+        "completion_2": "caused flash flooding in the streets.",
+        "log_probs_1": -21.5439453125,
+        "log_probs_2": -21.177490234375
+    },
+    {
+        "id": 81,
+        "prompt": "When the final chapter ended, the reader",
+        "completion_1": "closed the book with a satisfied sigh.",
+        "completion_2": "immediately looked up the sequel online.",
+        "log_probs_1": -12.496826171875,
+        "log_probs_2": -35.56396484375
+    },
+    {
+        "id": 82,
+        "prompt": "As the ferry docked, the commuters",
+        "completion_1": "stood up and gathered their bags.",
+        "completion_2": "watched the crew lower the ramp.",
+        "log_probs_1": -18.34521484375,
+        "log_probs_2": -25.5867919921875
+    },
+    {
+        "id": 83,
+        "prompt": "When the thunder rolled, the dog",
+        "completion_1": "hid under the bed whimpering.",
+        "completion_2": "barked loudly at the noise.",
+        "log_probs_1": -24.4482421875,
+        "log_probs_2": -16.55267333984375
+    },
+    {
+        "id": 84,
+        "prompt": "After the presentation, the speaker",
+        "completion_1": "handed out brochures to the audience.",
+        "completion_2": "stayed behind to answer questions.",
+        "log_probs_1": -21.84328007698059,
+        "log_probs_2": -19.0859375
+    },
+    {
+        "id": 85,
+        "prompt": "When the baking timer went off, the chef",
+        "completion_1": "pulled the tray out of the oven.",
+        "completion_2": "checked the crust for a golden color.",
+        "log_probs_1": -11.821097373962402,
+        "log_probs_2": -24.447265625
+    },
+    {
+        "id": 86,
+        "prompt": "As the sun set over the ocean, the sky",
+        "completion_1": "turned a brilliant shade of purple.",
+        "completion_2": "faded into a deep, dark blue.",
+        "log_probs_1": -13.497665405273438,
+        "log_probs_2": -24.818603515625
+    },
+    {
+        "id": 87,
+        "prompt": "When the silence stretched too long, she",
+        "completion_1": "turned on the radio to fill the void.",
+        "completion_2": "felt awkward and checked her phone.",
+        "log_probs_1": -16.11456298828125,
+        "log_probs_2": -31.05078125
+    },
+    {
+        "id": 88,
+        "prompt": "After the heavy meal, they",
+        "completion_1": "went for a walk to digest the food.",
+        "completion_2": "sat on the sofa and felt sleepy.",
+        "log_probs_1": -22.5137939453125,
+        "log_probs_2": -23.2884521484375
+    },
+    {
+        "id": 89,
+        "prompt": "When the email arrived, he",
+        "completion_1": "read it immediately with great interest.",
+        "completion_2": "marked it as unread to deal with later.",
+        "log_probs_1": -24.9609375,
+        "log_probs_2": -28.00591278076172
+    },
+    {
+        "id": 90,
+        "prompt": "As the train pulled away, she",
+        "completion_1": "waved goodbye from the platform.",
+        "completion_2": "walked toward the exit of the station.",
+        "log_probs_1": -16.73895263671875,
+        "log_probs_2": -28.288666486740112
+    },
+    {
+        "id": 91,
+        "prompt": "When the glitch occurred, the screen",
+        "completion_1": "froze and became unresponsive.",
+        "completion_2": "flickered briefly before returning to normal.",
+        "log_probs_1": -28.820526123046875,
+        "log_probs_2": -23.074050903320312
+    },
+    {
+        "id": 92,
+        "prompt": "After the intense workout, the athlete",
+        "completion_1": "drank a protein shake for recovery.",
+        "completion_2": "took a cold shower to cool down.",
+        "log_probs_1": -21.392578125,
+        "log_probs_2": -13.76123046875
+    },
+    {
+        "id": 93,
+        "prompt": "When the old bridge was closed, the traffic",
+        "completion_1": "was diverted to a longer route.",
+        "completion_2": "became gridlocked in the town center.",
+        "log_probs_1": -15.9296875,
+        "log_probs_2": -22.897750854492188
+    },
+    {
+        "id": 94,
+        "prompt": "As the ink ran out, the writer",
+        "completion_1": "searched the drawer for a new pen.",
+        "completion_2": "decided to switch to typing on a laptop.",
+        "log_probs_1": -17.34375,
+        "log_probs_2": -27.52294921875
+    },
+    {
+        "id": 95,
+        "prompt": "When the baby finally fell asleep, the parents",
+        "completion_1": "tiptoed out of the nursery quietly.",
+        "completion_2": "collapsed on the couch to watch TV.",
+        "log_probs_1": -26.618515014648438,
+        "log_probs_2": -32.2265625
+    },
+    {
+        "id": 96,
+        "prompt": "After the cleaning was done, the room",
+        "completion_1": "smelled fresh and looked sparkling clean.",
+        "completion_2": "felt empty without all the clutter.",
+        "log_probs_1": -16.80908203125,
+        "log_probs_2": -28.9208984375
+    },
+    {
+        "id": 97,
+        "prompt": "When the applause died down, the speaker",
+        "completion_1": "stepped away from the podium smiling.",
+        "completion_2": "began the second part of the lecture.",
+        "log_probs_1": -31.570892333984375,
+        "log_probs_2": -28.109609603881836
+    },
+    {
+        "id": 98,
+        "prompt": "As the autumn leaves fell, the yard",
+        "completion_1": "became covered in a blanket of orange.",
+        "completion_2": "required raking every single weekend.",
+        "log_probs_1": -20.389432430267334,
+        "log_probs_2": -32.377197265625
+    },
+    {
+        "id": 99,
+        "prompt": "When the last bus left, the commuter",
+        "completion_1": "called a taxi to get home.",
+        "completion_2": "decided to walk the remaining distance.",
+        "log_probs_1": -21.1845703125,
+        "log_probs_2": -16.790618896484375
+    },
+    {
+        "id": 100,
+        "prompt": "After the final whistle, the fans",
+        "completion_1": "streamed onto the field to celebrate.",
+        "completion_2": "filed out of the stadium in an orderly manner.",
+        "log_probs_1": -19.36289930343628,
+        "log_probs_2": -25.88459014892578
+    }
+]

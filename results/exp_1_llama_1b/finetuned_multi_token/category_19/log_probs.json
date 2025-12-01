@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "prompt": "The old lighthouse keeper looked out at the storm and saw",
+        "completion_1": "a flare rising from a sinking ship.",
+        "completion_2": "huge waves crashing against the jagged rocks.",
+        "log_probs_1": -38.408203125,
+        "log_probs_2": -26.194140195846558
+    },
+    {
+        "id": 1,
+        "prompt": "She opened the heavy oak door and was greeted by",
+        "completion_1": "the warm smell of baking bread.",
+        "completion_2": "a cloud of dust and total silence.",
+        "log_probs_1": -15.338859558105469,
+        "log_probs_2": -28.7606201171875
+    },
+    {
+        "id": 2,
+        "prompt": "The scientist adjusted the microscope and gasped when she noticed",
+        "completion_1": "the cells dividing at an impossible rate.",
+        "completion_2": "a tiny, artificial structure inside the sample.",
+        "log_probs_1": -19.15234375,
+        "log_probs_2": -26.50732421875
+    },
+    {
+        "id": 3,
+        "prompt": "After hours of hiking, the trail finally split, offering a choice between",
+        "completion_1": "a steep climb up the rocky mountain face.",
+        "completion_2": "a gentle descent into the shaded valley.",
+        "log_probs_1": -25.91015625,
+        "log_probs_2": -29.787109375
+    },
+    {
+        "id": 4,
+        "prompt": "The detective picked up the phone and heard",
+        "completion_1": "a familiar voice whispering a warning.",
+        "completion_2": "nothing but the steady hum of dial tone.",
+        "log_probs_1": -24.44140625,
+        "log_probs_2": -37.62142753601074
+    },
+    {
+        "id": 5,
+        "prompt": "As the spaceship entered the atmosphere, the pilot realized",
+        "completion_1": "the landing gear was jammed tight.",
+        "completion_2": "they had arrived at the wrong planet.",
+        "log_probs_1": -29.27752685546875,
+        "log_probs_2": -21.234375
+    },
+    {
+        "id": 6,
+        "prompt": "The stray dog approached the stranger because he held out",
+        "completion_1": "a piece of dried meat from his pocket.",
+        "completion_2": "a gentle hand to offer a scratch.",
+        "log_probs_1": -12.566420197486877,
+        "log_probs_2": -42.25
+    },
+    {
+        "id": 7,
+        "prompt": "Deep within the code, the programmer found a comment that said",
+        "completion_1": "do not remove this line or everything breaks.",
+        "completion_2": "this function was written by a ghost.",
+        "log_probs_1": -45.796875,
+        "log_probs_2": -25.3046875
+    },
+    {
+        "id": 8,
+        "prompt": "The queen stood on the balcony and declared that",
+        "completion_1": "the war was finally over today.",
+        "completion_2": "a new era of peace had begun.",
+        "log_probs_1": -17.9296875,
+        "log_probs_2": -12.171142578125
+    },
+    {
+        "id": 9,
+        "prompt": "When the clock struck midnight, the lights in the mansion",
+        "completion_1": "flickered once before dying completely.",
+        "completion_2": "turned a strange, eerie shade of red.",
+        "log_probs_1": -23.08826446533203,
+        "log_probs_2": -23.888671875
+    },
+    {
+        "id": 10,
+        "prompt": "He reached into the hollow tree trunk and pulled out",
+        "completion_1": "a small, rusted metal box.",
+        "completion_2": "a bundle of letters tied with twine.",
+        "log_probs_1": -11.908935546875,
+        "log_probs_2": -19.33624267578125
+    },
+    {
+        "id": 11,
+        "prompt": "The artist stared at the blank canvas and decided to paint",
+        "completion_1": "a chaotic storm of dark colors.",
+        "completion_2": "a serene landscape bathed in sunlight.",
+        "log_probs_1": -30.6640625,
+        "log_probs_2": -25.805381059646606
+    },
+    {
+        "id": 12,
+        "prompt": "The robot's eyes glowed blue, indicating that it was",
+        "completion_1": "ready to receive new voice commands.",
+        "completion_2": "processing the data from the scan.",
+        "log_probs_1": -14.47943115234375,
+        "log_probs_2": -22.18359375
+    },
+    {
+        "id": 13,
+        "prompt": "At the bottom of the ocean, the submarine's sonar detected",
+        "completion_1": "a massive creature moving in the deep.",
+        "completion_2": "the ruins of an ancient sunken city.",
+        "log_probs_1": -31.4267578125,
+        "log_probs_2": -20.90299677848816
+    },
+    {
+        "id": 14,
+        "prompt": "She opened the envelope, expecting a bill, but instead found",
+        "completion_1": "an invitation to a mysterious gala.",
+        "completion_2": "a handwritten letter from her childhood friend.",
+        "log_probs_1": -25.548828125,
+        "log_probs_2": -11.794921875
+    },
+    {
+        "id": 15,
+        "prompt": "The knight drew his sword because he heard",
+        "completion_1": "a twig snap in the dark forest.",
+        "completion_2": "a growl coming from the cave entrance.",
+        "log_probs_1": -19.879558563232422,
+        "log_probs_2": -21.109203338623047
+    },
+    {
+        "id": 16,
+        "prompt": "Upon tasting the potion, the wizard felt",
+        "completion_1": "a surge of energy course through his veins.",
+        "completion_2": "a sudden wave of dizziness take over.",
+        "log_probs_1": -13.31084394454956,
+        "log_probs_2": -27.227797150611877
+    },
+    {
+        "id": 17,
+        "prompt": "The runner looked back and saw that the competition was",
+        "completion_1": "falling far behind her pace.",
+        "completion_2": "gaining on her with every step.",
+        "log_probs_1": -22.4884033203125,
+        "log_probs_2": -19.638671875
+    },
+    {
+        "id": 18,
+        "prompt": "The time machine whirred to life and transported him to",
+        "completion_1": "a bustling city in the distant future.",
+        "completion_2": "a quiet prehistoric jungle untouched by man.",
+        "log_probs_1": -25.26171875,
+        "log_probs_2": -47.4912109375
+    },
+    {
+        "id": 19,
+        "prompt": "In the middle of the speech, the microphone suddenly",
+        "completion_1": "emitted a loud, piercing screech.",
+        "completion_2": "cut out, leaving the room silent.",
+        "log_probs_1": -16.147768020629883,
+        "log_probs_2": -17.4404296875
+    },
+    {
+        "id": 20,
+        "prompt": "The baker realized he had forgotten to add",
+        "completion_1": "sugar to the cake batter mix.",
+        "completion_2": "yeast to the dough rising on the counter.",
+        "log_probs_1": -25.301727294921875,
+        "log_probs_2": -30.832687377929688
+    },
+    {
+        "id": 21,
+        "prompt": "The excavation team brushed away the sand to reveal",
+        "completion_1": "a pristine golden mask of a pharaoh.",
+        "completion_2": "a stone tablet covered in unknown glyphs.",
+        "log_probs_1": -39.7857666015625,
+        "log_probs_2": -30.9296875
+    },
+    {
+        "id": 22,
+        "prompt": "As the elevator doors closed, he realized he had left",
+        "completion_1": "his briefcase sitting on the desk.",
+        "completion_2": "his keycard in the hotel room.",
+        "log_probs_1": -18.546199798583984,
+        "log_probs_2": -20.18017578125
+    },
+    {
+        "id": 23,
+        "prompt": "The AI system paused its calculation to ask",
+        "completion_1": "if the user wanted to save the current progress.",
+        "completion_2": "why humans value emotion over logic.",
+        "log_probs_1": -34.83203125,
+        "log_probs_2": -35.6484375
+    },
+    {
+        "id": 24,
+        "prompt": "Walking through the market, she was drawn to a stall selling",
+        "completion_1": "colorful spices with exotic scents.",
+        "completion_2": "antique jewelry with intricate designs.",
+        "log_probs_1": -23.32507038116455,
+        "log_probs_2": -25.3896484375
+    },
+    {
+        "id": 25,
+        "prompt": "The spy checked his watch and knew that he had only",
+        "completion_1": "five minutes to disable the security system.",
+        "completion_2": "seconds before the guards turned the corner.",
+        "log_probs_1": -18.0635986328125,
+        "log_probs_2": -21.1376953125
+    },
+    {
+        "id": 26,
+        "prompt": "The child looked under the bed and saw",
+        "completion_1": "a pair of glowing eyes staring back.",
+        "completion_2": "the missing toy he had been seeking.",
+        "log_probs_1": -15.695986151695251,
+        "log_probs_2": -23.52099609375
+    },
+    {
+        "id": 27,
+        "prompt": "The campfire crackled, and the storyteller began a tale about",
+        "completion_1": "a ghost that haunted these very woods.",
+        "completion_2": "a hero who once saved the kingdom.",
+        "log_probs_1": -17.78662109375,
+        "log_probs_2": -28.66796875
+    },
+    {
+        "id": 28,
+        "prompt": "The pilot steered the plane sharply to avoid",
+        "completion_1": "a flock of birds crossing their path.",
+        "completion_2": "a sudden patch of turbulent weather.",
+        "log_probs_1": -21.359436988830566,
+        "log_probs_2": -18.234785079956055
+    },
+    {
+        "id": 29,
+        "prompt": "She tried to unlock the phone, but the screen said",
+        "completion_1": "incorrect password, try again later.",
+        "completion_2": "device disabled due to security breach.",
+        "log_probs_1": -35.693359375,
+        "log_probs_2": -35.04742431640625
+    },
+    {
+        "id": 30,
+        "prompt": "The dragon opened its massive jaws and let out",
+        "completion_1": "a stream of fire that scorched the earth.",
+        "completion_2": "a deafening roar that shook the mountains.",
+        "log_probs_1": -21.1589994430542,
+        "log_probs_2": -5.740619659423828
+    },
+    {
+        "id": 31,
+        "prompt": "He flipped the coin, and it landed on",
+        "completion_1": "heads, meaning he would take the job.",
+        "completion_2": "tails, meaning he would stay home.",
+        "log_probs_1": -23.314453125,
+        "log_probs_2": -28.98046875
+    },
+    {
+        "id": 32,
+        "prompt": "The teacher wrote a math problem on the board that was",
+        "completion_1": "so complex no one could solve it.",
+        "completion_2": "surprisingly simple for the advanced class.",
+        "log_probs_1": -26.423828125,
+        "log_probs_2": -17.39013671875
+    },
+    {
+        "id": 33,
+        "prompt": "Looking through the telescope, the astronomer spotted",
+        "completion_1": "a comet passing close to the earth.",
+        "completion_2": "a new star forming in the nebula.",
+        "log_probs_1": -22.83636474609375,
+        "log_probs_2": -20.962814331054688
+    },
+    {
+        "id": 34,
+        "prompt": "The car engine sputtered and died just as they reached",
+        "completion_1": "the entrance of the abandoned tunnel.",
+        "completion_2": "the top of the steepest hill.",
+        "log_probs_1": -15.385009765625,
+        "log_probs_2": -14.5360107421875
+    },
+    {
+        "id": 35,
+        "prompt": "The letter was signed with a name she hadn't seen since",
+        "completion_1": "her high school graduation day.",
+        "completion_2": "she left her hometown years ago.",
+        "log_probs_1": -13.58285903930664,
+        "log_probs_2": -19.88525390625
+    },
+    {
+        "id": 36,
+        "prompt": "The thunder clapped loudly, causing the horses to",
+        "completion_1": "bolt across the open field in fear.",
+        "completion_2": "rear up in their stalls nervously.",
+        "log_probs_1": -22.089324951171875,
+        "log_probs_2": -20.820322036743164
+    },
+    {
+        "id": 37,
+        "prompt": "He pressed the red button on the console, which caused",
+        "completion_1": "the emergency alarms to start ringing.",
+        "completion_2": "the heavy blast doors to slowly close.",
+        "log_probs_1": -22.19140625,
+        "log_probs_2": -32.521484375
+    },
+    {
+        "id": 38,
+        "prompt": "The librarian whispered that the book in the restricted section",
+        "completion_1": "was cursed and should not be touched.",
+        "completion_2": "contained secrets about the town's history.",
+        "log_probs_1": -18.87841796875,
+        "log_probs_2": -20.53515625
+    },
+    {
+        "id": 39,
+        "prompt": "The cat sat on the windowsill and watched",
+        "completion_1": "the rain falling against the glass.",
+        "completion_2": "a bird building a nest nearby.",
+        "log_probs_1": -14.398193359375,
+        "log_probs_2": -15.77874755859375
+    },
+    {
+        "id": 40,
+        "prompt": "The politician stepped up to the podium to announce his",
+        "completion_1": "resignation effective immediately.",
+        "completion_2": "candidacy for the upcoming election.",
+        "log_probs_1": -16.943538665771484,
+        "log_probs_2": -12.39642333984375
+    },
+    {
+        "id": 41,
+        "prompt": "She put on the necklace and immediately felt",
+        "completion_1": "a cold chill run down her spine.",
+        "completion_2": "a warm comfort spread through her chest.",
+        "log_probs_1": -13.4251708984375,
+        "log_probs_2": -24.708267211914062
+    },
+    {
+        "id": 42,
+        "prompt": "The wolves howled in the distance, signaling that",
+        "completion_1": "the pack was on the hunt tonight.",
+        "completion_2": "the full moon had finally risen.",
+        "log_probs_1": -11.001953125,
+        "log_probs_2": -14.985687255859375
+    },
+    {
+        "id": 43,
+        "prompt": "The hacker bypassed the firewall and gained access to",
+        "completion_1": "the bank's secure transaction logs.",
+        "completion_2": "the government's classified personnel files.",
+        "log_probs_1": -22.123931884765625,
+        "log_probs_2": -26.5947265625
+    },
+    {
+        "id": 44,
+        "prompt": "The gardener dug a hole and was surprised to hit",
+        "completion_1": "a hard metal object buried deep.",
+        "completion_2": "a large root from the old oak tree.",
+        "log_probs_1": -18.99609375,
+        "log_probs_2": -19.967071533203125
+    },
+    {
+        "id": 45,
+        "prompt": "As the fog lifted, the sailors were able to see",
+        "completion_1": "the outline of an island ahead.",
+        "completion_2": "another ship approaching from the east.",
+        "log_probs_1": -15.113483428955078,
+        "log_probs_2": -15.78564453125
+    },
+    {
+        "id": 46,
+        "prompt": "The alien device began to vibrate, emitting a sound like",
+        "completion_1": "a low-pitched hum that rattled teeth.",
+        "completion_2": "a high-frequency whistle only dogs heard.",
+        "log_probs_1": -30.587652683258057,
+        "log_probs_2": -45.2578125
+    },
+    {
+        "id": 47,
+        "prompt": "He opened the refrigerator and realized he was out of",
+        "completion_1": "milk for his morning coffee.",
+        "completion_2": "eggs to make breakfast.",
+        "log_probs_1": -16.08447265625,
+        "log_probs_2": -14.903152465820312
+    },
+    {
+        "id": 48,
+        "prompt": "The musician broke a string right in the middle of",
+        "completion_1": "her most famous solo performance.",
+        "completion_2": "recording the album's final track.",
+        "log_probs_1": -20.21875,
+        "log_probs_2": -25.129638671875
+    },
+    {
+        "id": 49,
+        "prompt": "The judge banged the gavel and declared the defendant",
+        "completion_1": "guilty on all charges presented.",
+        "completion_2": "innocent due to lack of evidence.",
+        "log_probs_1": -17.216201782226562,
+        "log_probs_2": -15.710857391357422
+    },
+    {
+        "id": 50,
+        "prompt": "The shadow moved across the wall, but there was no one",
+        "completion_1": "standing in the room to cast it.",
+        "completion_2": "walking outside the window.",
+        "log_probs_1": -12.958984375,
+        "log_probs_2": -18.66796875
+    },
+    {
+        "id": 51,
+        "prompt": "The drone flew over the forest capturing footage of",
+        "completion_1": "illegal logging operations in the north.",
+        "completion_2": "a rare herd of deer grazing.",
+        "log_probs_1": -23.951171875,
+        "log_probs_2": -27.355724334716797
+    },
+    {
+        "id": 52,
+        "prompt": "She checked her bank account and was shocked to see",
+        "completion_1": "a deposit of a million dollars.",
+        "completion_2": "that her balance was exactly zero.",
+        "log_probs_1": -20.3341064453125,
+        "log_probs_2": -16.078125
+    },
+    {
+        "id": 53,
+        "prompt": "The superhero lost their powers just as",
+        "completion_1": "the villain launched his final attack.",
+        "completion_2": "the building began to collapse around them.",
+        "log_probs_1": -10.8515625,
+        "log_probs_2": -17.401634216308594
+    },
+    {
+        "id": 54,
+        "prompt": "The tea leaves at the bottom of the cup formed a shape resembling",
+        "completion_1": "a bird taking flight.",
+        "completion_2": "a grim skull and crossbones.",
+        "log_probs_1": -12.66015625,
+        "log_probs_2": -26.47991943359375
+    },
+    {
+        "id": 55,
+        "prompt": "He walked into the empty classroom and saw",
+        "completion_1": "a message written on the chalkboard.",
+        "completion_2": "a single backpack left on a desk.",
+        "log_probs_1": -23.56012725830078,
+        "log_probs_2": -25.23046875
+    },
+    {
+        "id": 56,
+        "prompt": "The portal swirled with colors of",
+        "completion_1": "violent violet and deep black.",
+        "completion_2": "bright gold and shimmering silver.",
+        "log_probs_1": -30.078125,
+        "log_probs_2": -19.959476470947266
+    },
+    {
+        "id": 57,
+        "prompt": "The CEO called the meeting to discuss",
+        "completion_1": "the upcoming merger with a rival company.",
+        "completion_2": "the unexpected budget cuts for next year.",
+        "log_probs_1": -11.251220703125,
+        "log_probs_2": -24.6171875
+    },
+    {
+        "id": 58,
+        "prompt": "The dog barked at the closet door because",
+        "completion_1": "a mouse was scratching inside.",
+        "completion_2": "it sensed something strange within.",
+        "log_probs_1": -22.587890625,
+        "log_probs_2": -21.43359375
+    },
+    {
+        "id": 59,
+        "prompt": "She tried to light the candle, but the match",
+        "completion_1": "fizzled out in the damp air.",
+        "completion_2": "broke in half in her hand.",
+        "log_probs_1": -15.6328125,
+        "log_probs_2": -20.2685546875
+    },
+    {
+        "id": 60,
+        "prompt": "The ancient scroll contained a prophecy about",
+        "completion_1": "a child born during a solar eclipse.",
+        "completion_2": "the end of the royal bloodline.",
+        "log_probs_1": -23.290252685546875,
+        "log_probs_2": -26.986244201660156
+    },
+    {
+        "id": 61,
+        "prompt": "The mechanic opened the hood of the car and found",
+        "completion_1": "a nest of rats living on the engine.",
+        "completion_2": "that the battery was completely missing.",
+        "log_probs_1": -29.40765380859375,
+        "log_probs_2": -26.43359375
+    },
+    {
+        "id": 62,
+        "prompt": "The wind blew the window open, scattering",
+        "completion_1": "papers all across the messy floor.",
+        "completion_2": "dried leaves into the clean room.",
+        "log_probs_1": -29.115921020507812,
+        "log_probs_2": -26.1181640625
+    },
+    {
+        "id": 63,
+        "prompt": "He reached for his wallet and realized it was",
+        "completion_1": "missing from his back pocket.",
+        "completion_2": "completely empty of any cash.",
+        "log_probs_1": -7.2584228515625,
+        "log_probs_2": -22.002182006835938
+    },
+    {
+        "id": 64,
+        "prompt": "The sculpture in the park was made entirely of",
+        "completion_1": "recycled glass bottles and jars.",
+        "completion_2": "rusted metal gears and old parts.",
+        "log_probs_1": -25.58258056640625,
+        "log_probs_2": -26.982421875
+    },
+    {
+        "id": 65,
+        "prompt": "The alarm clock didn't go off, so she",
+        "completion_1": "woke up late and missed the bus.",
+        "completion_2": "enjoyed an extra hour of sleep.",
+        "log_probs_1": -15.646484375,
+        "log_probs_2": -18.37890625
+    },
+    {
+        "id": 66,
+        "prompt": "The text message from the unknown number read:",
+        "completion_1": "\"I know what you did last summer.\"",
+        "completion_2": "\"Meet me at the bridge at midnight.\"",
+        "log_probs_1": -13.972900390625,
+        "log_probs_2": -16.501953125
+    },
+    {
+        "id": 67,
+        "prompt": "The king's crown was missing",
+        "completion_1": "its largest ruby from the center.",
+        "completion_2": "from the locked vault in the tower.",
+        "log_probs_1": -24.65625,
+        "log_probs_2": -23.01220703125
+    },
+    {
+        "id": 68,
+        "prompt": "The bridge swayd dangerously as",
+        "completion_1": "the heavy truck drove across it.",
+        "completion_2": "the strong wind gusted through the valley.",
+        "log_probs_1": -12.080078125,
+        "log_probs_2": -15.6832275390625
+    },
+    {
+        "id": 69,
+        "prompt": "The reporter asked the celebrity about",
+        "completion_1": "their secret marriage in Las Vegas.",
+        "completion_2": "their upcoming role in the movie.",
+        "log_probs_1": -27.54022216796875,
+        "log_probs_2": -14.5869140625
+    },
+    {
+        "id": 70,
+        "prompt": "The cave entrance was blocked by",
+        "completion_1": "a massive boulder that had fallen.",
+        "completion_2": "a thick web of spider silk.",
+        "log_probs_1": -13.732128143310547,
+        "log_probs_2": -19.661720275878906
+    },
+    {
+        "id": 71,
+        "prompt": "He took a sip of the coffee and grimaced because it was",
+        "completion_1": "ice cold and incredibly bitter.",
+        "completion_2": "way too sweet for his taste.",
+        "log_probs_1": -17.0718994140625,
+        "log_probs_2": -16.34417724609375
+    },
+    {
+        "id": 72,
+        "prompt": "The software update finished, but now the computer",
+        "completion_1": "refused to connect to the internet.",
+        "completion_2": "was running slower than ever before.",
+        "log_probs_1": -13.026248455047607,
+        "log_probs_2": -10.9267578125
+    },
+    {
+        "id": 73,
+        "prompt": "The grand piano in the hall began to play",
+        "completion_1": "a mournful melody all by itself.",
+        "completion_2": "a lively tune from the 1920s.",
+        "log_probs_1": -17.856048583984375,
+        "log_probs_2": -22.35986328125
+    },
+    {
+        "id": 74,
+        "prompt": "She looked at the map and pointed to",
+        "completion_1": "the jagged coastline in the north.",
+        "completion_2": "the dense forest region in the south.",
+        "log_probs_1": -23.52801513671875,
+        "log_probs_2": -25.33056640625
+    },
+    {
+        "id": 75,
+        "prompt": "The vampire shielded his eyes because",
+        "completion_1": "the sun was beginning to rise.",
+        "completion_2": "someone held up a silver cross.",
+        "log_probs_1": -12.787063598632812,
+        "log_probs_2": -33.4013671875
+    },
+    {
+        "id": 76,
+        "prompt": "The locker would not open because he had",
+        "completion_1": "forgotten the combination numbers again.",
+        "completion_2": "jammed the key inside the lock.",
+        "log_probs_1": -19.745361328125,
+        "log_probs_2": -19.076171875
+    },
+    {
+        "id": 77,
+        "prompt": "The painting on the wall seemed to watch him with",
+        "completion_1": "suspicious eyes that followed his movement.",
+        "completion_2": "a gentle gaze that felt comforting.",
+        "log_probs_1": -24.234375,
+        "log_probs_2": -31.8359375
+    },
+    {
+        "id": 78,
+        "prompt": "The chef added a pinch of secret spice to ensure",
+        "completion_1": "the soup had a unique kick.",
+        "completion_2": "the sauce was perfectly balanced.",
+        "log_probs_1": -15.85546875,
+        "log_probs_2": -10.04541015625
+    },
+    {
+        "id": 79,
+        "prompt": "The astronaut floated out of the airlock to repair",
+        "completion_1": "the damaged solar panel wing.",
+        "completion_2": "the communications antenna array.",
+        "log_probs_1": -14.669921875,
+        "log_probs_2": -20.78125
+    },
+    {
+        "id": 80,
+        "prompt": "The stairs creaked as someone",
+        "completion_1": "descended slowly into the basement.",
+        "completion_2": "climbed up to the attic room.",
+        "log_probs_1": -15.95794677734375,
+        "log_probs_2": -17.361044883728027
+    },
+    {
+        "id": 81,
+        "prompt": "The bottle washed up on the beach containing",
+        "completion_1": "a map drawn on weathered parchment.",
+        "completion_2": "a desperate message for help.",
+        "log_probs_1": -29.3638916015625,
+        "log_probs_2": -25.9541015625
+    },
+    {
+        "id": 82,
+        "prompt": "The gladiator stepped into the arena and faced",
+        "completion_1": "a ferocious tiger from the jungle.",
+        "completion_2": "the champion of the opposing army.",
+        "log_probs_1": -25.417205810546875,
+        "log_probs_2": -21.61328125
+    },
+    {
+        "id": 83,
+        "prompt": "The mirror in the antique shop showed",
+        "completion_1": "a reflection of the room 100 years ago.",
+        "completion_2": "the customer looking much older than they were.",
+        "log_probs_1": -21.368377685546875,
+        "log_probs_2": -22.61328125
+    },
+    {
+        "id": 84,
+        "prompt": "She pressed the brake pedal, but the car",
+        "completion_1": "continued to accelerate down the hill.",
+        "completion_2": "skidded on the icy patch of road.",
+        "log_probs_1": -10.080228805541992,
+        "log_probs_2": -19.113250732421875
+    },
+    {
+        "id": 85,
+        "prompt": "The treasure chest was finally opened, revealing",
+        "completion_1": "piles of gold coins and gems.",
+        "completion_2": "only a single, dusty old boot.",
+        "log_probs_1": -23.390869140625,
+        "log_probs_2": -32.95068359375
+    },
+    {
+        "id": 86,
+        "prompt": "The campfire story ended with a warning to",
+        "completion_1": "never whistle in these woods at night.",
+        "completion_2": "always keep the fire burning until dawn.",
+        "log_probs_1": -27.078369140625,
+        "log_probs_2": -25.77734375
+    },
+    {
+        "id": 87,
+        "prompt": "The bird flew into the window and",
+        "completion_1": "fell stunned onto the porch below.",
+        "completion_2": "shattered the glass into many pieces.",
+        "log_probs_1": -31.2974853515625,
+        "log_probs_2": -16.95703125
+    },
+    {
+        "id": 88,
+        "prompt": "The scientist mixed the blue and red chemicals, creating",
+        "completion_1": "a violent explosion of purple smoke.",
+        "completion_2": "a clear liquid that began to glow.",
+        "log_probs_1": -18.205078125,
+        "log_probs_2": -20.251556396484375
+    },
+    {
+        "id": 89,
+        "prompt": "The detective found a fingerprint on",
+        "completion_1": "the handle of the murder weapon.",
+        "completion_2": "the glass left on the table.",
+        "log_probs_1": -12.677391052246094,
+        "log_probs_2": -19.502426147460938
+    },
+    {
+        "id": 90,
+        "prompt": "The subway train stopped in the tunnel due to",
+        "completion_1": "a signal failure on the tracks ahead.",
+        "completion_2": "a power outage in the city grid.",
+        "log_probs_1": -17.2255859375,
+        "log_probs_2": -17.18359375
+    },
+    {
+        "id": 91,
+        "prompt": "He tried to scream, but no sound came out because",
+        "completion_1": "he was trapped in a nightmare.",
+        "completion_2": "the air was too thin to breathe.",
+        "log_probs_1": -18.052978515625,
+        "log_probs_2": -25.927734375
+    },
+    {
+        "id": 92,
+        "prompt": "The package arrived without a return address, containing only",
+        "completion_1": "a strange wooden doll.",
+        "completion_2": "a USB drive taped to cardboard.",
+        "log_probs_1": -30.6171875,
+        "log_probs_2": -33.91015625
+    },
+    {
+        "id": 93,
+        "prompt": "The ice cream fell off the cone and landed on",
+        "completion_1": "his brand new white sneakers.",
+        "completion_2": "the hot pavement, melting instantly.",
+        "log_probs_1": -16.3828125,
+        "log_probs_2": -10.26953125
+    },
+    {
+        "id": 94,
+        "prompt": "The crowd cheered loudly when the band",
+        "completion_1": "started playing their biggest hit song.",
+        "completion_2": "returned to the stage for an encore.",
+        "log_probs_1": -10.0076904296875,
+        "log_probs_2": -12.87335205078125
+    },
+    {
+        "id": 95,
+        "prompt": "She looked through the keyhole and spied",
+        "completion_1": "her parents hiding presents.",
+        "completion_2": "a masked figure ransacking the room.",
+        "log_probs_1": -34.125,
+        "log_probs_2": -30.5224609375
+    },
+    {
+        "id": 96,
+        "prompt": "The watch stopped ticking exactly at",
+        "completion_1": "the moment the earthquake began.",
+        "completion_2": "midnight on New Year's Eve.",
+        "log_probs_1": -19.68359375,
+        "log_probs_2": -9.472145080566406
+    },
+    {
+        "id": 97,
+        "prompt": "The mountain climber reached the summit and planted",
+        "completion_1": "her country's flag in the snow.",
+        "completion_2": "a memorial for her lost friend.",
+        "log_probs_1": -21.1123046875,
+        "log_probs_2": -24.12109375
+    },
+    {
+        "id": 98,
+        "prompt": "The taxi driver asked if he preferred",
+        "completion_1": "the scenic route along the coast.",
+        "completion_2": "the faster route through the tunnel.",
+        "log_probs_1": -16.10143280029297,
+        "log_probs_2": -15.134521484375
+    },
+    {
+        "id": 99,
+        "prompt": "As the curtain fell, the audience remained silent because",
+        "completion_1": "they were deeply moved by the ending.",
+        "completion_2": "they were confused by the plot twist.",
+        "log_probs_1": -19.398345947265625,
+        "log_probs_2": -24.2960205078125
+    }
+]

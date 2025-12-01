@@ -36,14 +36,6 @@ model = FastLanguageModel.get_peft_model(
 )
 
 # -----------------------------
-# 3️⃣ Load tokenizer with chat template
-# -----------------------------
-tokenizer = get_chat_template(
-    tokenizer,
-    chat_template="llama-3.2"
-)
-
-# -----------------------------
 # 4️⃣ Load dataset
 # -----------------------------
 def load_multi_token_completion_dataset(dataset_path: str) -> Dataset:
@@ -104,5 +96,5 @@ trainer_stats = trainer.train()
 # -----------------------------
 # 8️⃣ Save
 # -----------------------------
-model.save_pretrained("/nlsasfs/home/isea/isea10/aansh/introspection_weights/finetuned_llama_1b_8bit")
-tokenizer.save_pretrained("/nlsasfs/home/isea/isea10/aansh/introspection_weights/finetuned_llama_1b_8bit")
+model.save_pretrained("/nlsasfs/home/isea/isea10/aansh/introspection_weights/finetuned_llama_1b_16bit")
+tokenizer.save_pretrained("/nlsasfs/home/isea/isea10/aansh/introspection_weights/finetuned_llama_1b_16bit")

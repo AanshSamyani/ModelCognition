@@ -4,240 +4,240 @@
         "prompt": "Standing at the fork in the trail, the hiker decided to go",
         "completion_1": "left toward the mountain peak.",
         "completion_2": "right along the river bank.",
-        "log_probs_1": -16.2869873046875,
-        "log_probs_2": -23.778564453125
+        "log_probs_1": -16.181884765625,
+        "log_probs_2": -23.31005859375
     },
     {
         "id": 1,
         "prompt": "When the elevator doors opened, David stepped out and turned",
         "completion_1": "left toward the conference room.",
         "completion_2": "right toward the cafeteria.",
-        "log_probs_1": -22.18695068359375,
-        "log_probs_2": -24.6650390625
+        "log_probs_1": -22.07464599609375,
+        "log_probs_2": -24.6685791015625
     },
     {
         "id": 2,
         "prompt": "Upon exiting the subway station, Sarah immediately walked",
         "completion_1": "north to catch her bus.",
         "completion_2": "south to meet her friend.",
-        "log_probs_1": -21.75,
-        "log_probs_2": -23.328125
+        "log_probs_1": -21.265625,
+        "log_probs_2": -22.3798828125
     },
     {
         "id": 3,
         "prompt": "Reaching the end of the hallway, the student looked",
         "completion_1": "at the staircase leading up.",
         "completion_2": "at the exit leading outside.",
-        "log_probs_1": -20.5302734375,
-        "log_probs_2": -22.8115234375
+        "log_probs_1": -20.1875,
+        "log_probs_2": -22.59375
     },
     {
         "id": 4,
         "prompt": "The driver saw the construction signs and quickly steered",
         "completion_1": "onto the narrow side street.",
         "completion_2": "into the adjacent parking lot.",
-        "log_probs_1": -20.6923828125,
-        "log_probs_2": -14.25439453125
+        "log_probs_1": -20.50537109375,
+        "log_probs_2": -14.41748046875
     },
     {
         "id": 5,
         "prompt": "At the entrance of the museum, the group drifted",
         "completion_1": "toward the ancient history wing.",
         "completion_2": "toward the modern art gallery.",
-        "log_probs_1": -30.437255859375,
-        "log_probs_2": -19.089599609375
+        "log_probs_1": -30.06201171875,
+        "log_probs_2": -18.80029296875
     },
     {
         "id": 6,
         "prompt": "Checking the map on his phone, he realized he could travel",
         "completion_1": "via the scenic coastal route.",
         "completion_2": "via the faster highway route.",
-        "log_probs_1": -17.4140625,
-        "log_probs_2": -32.1171875
+        "log_probs_1": -17.130859375,
+        "log_probs_2": -31.734375
     },
     {
         "id": 7,
         "prompt": "Leaving the apartment complex, the runner jogged",
         "completion_1": "uphill toward the city park.",
         "completion_2": "downhill toward the waterfront.",
-        "log_probs_1": -24.975830078125,
-        "log_probs_2": -23.13262939453125
+        "log_probs_1": -25.247314453125,
+        "log_probs_2": -23.0223388671875
     },
     {
         "id": 8,
         "prompt": "When the path split near the old oak tree, the children ran",
         "completion_1": "down the grassy slope.",
         "completion_2": "into the dense woods.",
-        "log_probs_1": -10.7373046875,
-        "log_probs_2": -10.486328125
+        "log_probs_1": -10.35009765625,
+        "log_probs_2": -10.41796875
     },
     {
         "id": 9,
         "prompt": "Arriving at the busy intersection, the cyclist signaled to",
         "completion_1": "turn left onto the bike lane.",
         "completion_2": "continue straight across the avenue.",
-        "log_probs_1": -16.0859375,
-        "log_probs_2": -25.9609375
+        "log_probs_1": -15.5234375,
+        "log_probs_2": -25.6171875
     },
     {
         "id": 10,
         "prompt": "Standing on the boat deck, the captain steered",
         "completion_1": "east toward the open sea.",
         "completion_2": "west toward the harbor safety.",
-        "log_probs_1": -23.5556640625,
-        "log_probs_2": -39.7664794921875
+        "log_probs_1": -23.53033447265625,
+        "log_probs_2": -39.87548828125
     },
     {
         "id": 11,
         "prompt": "Once through the revolving doors, the shopper headed",
         "completion_1": "for the escalators going up.",
         "completion_2": "for the cosmetic counters nearby.",
-        "log_probs_1": -26.11328125,
-        "log_probs_2": -28.00390625
+        "log_probs_1": -25.89599609375,
+        "log_probs_2": -27.86865234375
     },
     {
         "id": 12,
         "prompt": "Looking at the airport signage, the traveler walked",
         "completion_1": "briskly toward Gate A.",
         "completion_2": "slowly toward Gate B.",
-        "log_probs_1": -33.6864013671875,
-        "log_probs_2": -31.375377655029297
+        "log_probs_1": -34.102294921875,
+        "log_probs_2": -31.65668296813965
     },
     {
         "id": 13,
         "prompt": "At the crossroads in the cornfield, the truck turned",
         "completion_1": "onto the gravel road.",
         "completion_2": "onto the paved highway.",
-        "log_probs_1": -11.6484375,
-        "log_probs_2": -15.73828125
+        "log_probs_1": -11.56640625,
+        "log_probs_2": -15.7109375
     },
     {
         "id": 14,
         "prompt": "Exiting the highway ramp, the van merged",
         "completion_1": "into the heavy downtown traffic.",
         "completion_2": "onto the quiet service road.",
-        "log_probs_1": -16.6943359375,
-        "log_probs_2": -16.99853515625
+        "log_probs_1": -16.6005859375,
+        "log_probs_2": -16.91162109375
     },
     {
         "id": 15,
         "prompt": "Standing in the hotel lobby, the guest wandered",
         "completion_1": "toward the front desk.",
         "completion_2": "toward the lounge bar.",
-        "log_probs_1": -18.26434326171875,
-        "log_probs_2": -23.84942626953125
+        "log_probs_1": -18.263214111328125,
+        "log_probs_2": -23.78680419921875
     },
     {
         "id": 16,
         "prompt": "When the light turned green, the pedestrian walked",
         "completion_1": "across the street to the bank.",
         "completion_2": "across the street to the park.",
-        "log_probs_1": -18.7681884765625,
-        "log_probs_2": -12.6119384765625
+        "log_probs_1": -18.52520751953125,
+        "log_probs_2": -12.46661376953125
     },
     {
         "id": 17,
         "prompt": "At the bottom of the ski slope, the skier glided",
         "completion_1": "toward the main lodge entrance.",
         "completion_2": "toward the chairlift line.",
-        "log_probs_1": -26.51171875,
-        "log_probs_2": -20.017822265625
+        "log_probs_1": -26.3974609375,
+        "log_probs_2": -19.8837890625
     },
     {
         "id": 18,
         "prompt": "Navigating the crowded market, she squeezed",
         "completion_1": "past the fruit vendors.",
         "completion_2": "past the fabric stalls.",
-        "log_probs_1": -25.3828125,
-        "log_probs_2": -31.5234375
+        "log_probs_1": -24.8359375,
+        "log_probs_2": -31.0078125
     },
     {
         "id": 19,
         "prompt": "Seeing the 'Detour' sign, the driver chose to",
         "completion_1": "follow the orange arrows.",
         "completion_2": "consult the GPS for alternatives.",
-        "log_probs_1": -19.75439453125,
-        "log_probs_2": -20.333984375
+        "log_probs_1": -19.4482421875,
+        "log_probs_2": -20.1318359375
     },
     {
         "id": 20,
         "prompt": "Upon entering the library, the student went",
         "completion_1": "straight to the fiction section.",
         "completion_2": "upstairs to the study rooms.",
-        "log_probs_1": -12.049041748046875,
-        "log_probs_2": -19.702880859375
+        "log_probs_1": -12.229248046875,
+        "log_probs_2": -19.511962890625
     },
     {
         "id": 21,
         "prompt": "Reaching the clearing in the forest, the wolf trotted",
         "completion_1": "toward the rocky outcrop.",
         "completion_2": "toward the stream edge.",
-        "log_probs_1": -26.8427734375,
-        "log_probs_2": -27.6064453125
+        "log_probs_1": -26.328125,
+        "log_probs_2": -27.267578125
     },
     {
         "id": 22,
         "prompt": "After parking the car, the family walked",
         "completion_1": "toward the stadium entrance.",
         "completion_2": "toward the tailgate area.",
-        "log_probs_1": -22.21923828125,
-        "log_probs_2": -30.95361328125
+        "log_probs_1": -22.079833984375,
+        "log_probs_2": -30.648681640625
     },
     {
         "id": 23,
         "prompt": "When the train arrived, the commuters surged",
         "completion_1": "toward the front cars.",
         "completion_2": "toward the rear cars.",
-        "log_probs_1": -25.40228271484375,
-        "log_probs_2": -25.52728271484375
+        "log_probs_1": -25.353271484375,
+        "log_probs_2": -25.603271484375
     },
     {
         "id": 24,
         "prompt": "Stepping off the bus, the tourist looked",
         "completion_1": "for a taxi stand.",
         "completion_2": "for a map of the area.",
-        "log_probs_1": -16.40625,
-        "log_probs_2": -18.945556640625
+        "log_probs_1": -16.015625,
+        "log_probs_2": -18.68310546875
     },
     {
         "id": 25,
         "prompt": "At the junction of the two rivers, the canoe drifted",
         "completion_1": "into the wider channel.",
         "completion_2": "into the narrow creek.",
-        "log_probs_1": -19.71875,
-        "log_probs_2": -16.640625
+        "log_probs_1": -19.748046875,
+        "log_probs_2": -16.771484375
     },
     {
         "id": 26,
         "prompt": "Leaving the cinema, the couple strolled",
         "completion_1": "toward the parking garage.",
         "completion_2": "toward the ice cream shop.",
-        "log_probs_1": -20.9281005859375,
-        "log_probs_2": -18.50616455078125
+        "log_probs_1": -20.8018798828125,
+        "log_probs_2": -18.4073486328125
     },
     {
         "id": 27,
         "prompt": "Facing the canyon wall, the climber moved",
         "completion_1": "to the left handhold.",
         "completion_2": "to the right foothold.",
-        "log_probs_1": -18.98828125,
-        "log_probs_2": -20.3046875
+        "log_probs_1": -18.998046875,
+        "log_probs_2": -19.828125
     },
     {
         "id": 28,
         "prompt": "In the video game dungeon, the player directed their avatar",
         "completion_1": "through the dark tunnel.",
         "completion_2": "through the wooden door.",
-        "log_probs_1": -20.203125,
-        "log_probs_2": -19.8984375
+        "log_probs_1": -20.234375,
+        "log_probs_2": -20.12109375
     },
     {
         "id": 29,
         "prompt": "At the roundabout, the delivery scooter took",
         "completion_1": "the first exit on the left.",
         "completion_2": "the second exit straight ahead.",
-        "log_probs_1": -16.228515625,
-        "log_probs_2": -26.36328125
+        "log_probs_1": -16.296875,
+        "log_probs_2": -26.1328125
     },
     {
         "id": 30,
@@ -245,558 +245,558 @@
         "completion_1": "on the sunny side.",
         "completion_2": "in the shaded walkway.",
         "log_probs_1": -11.4375,
-        "log_probs_2": -17.6353759765625
+        "log_probs_2": -17.605712890625
     },
     {
         "id": 31,
         "prompt": "When the path ended at the beach, they walked",
         "completion_1": "along the wet sand.",
         "completion_2": "along the boardwalk.",
-        "log_probs_1": -14.04248046875,
-        "log_probs_2": -10.481895446777344
+        "log_probs_1": -13.7734375,
+        "log_probs_2": -10.265045166015625
     },
     {
         "id": 32,
         "prompt": "Entering the university campus, the professor headed",
         "completion_1": "for the science building.",
         "completion_2": "for the administrative offices.",
-        "log_probs_1": -21.8125,
-        "log_probs_2": -17.484375
+        "log_probs_1": -21.4609375,
+        "log_probs_2": -17.328125
     },
     {
         "id": 33,
         "prompt": "Seeing the storm clouds, the pilot turned the plane",
         "completion_1": "to a higher altitude.",
         "completion_2": "to a new heading.",
-        "log_probs_1": -13.2880859375,
-        "log_probs_2": -15.3046875
+        "log_probs_1": -12.8388671875,
+        "log_probs_2": -15.08984375
     },
     {
         "id": 34,
         "prompt": "Leaving the grocery store, he pushed the cart",
         "completion_1": "toward his parked car.",
         "completion_2": "toward the bus stop.",
-        "log_probs_1": -19.22705078125,
-        "log_probs_2": -13.565185546875
+        "log_probs_1": -19.1522216796875,
+        "log_probs_2": -13.47216796875
     },
     {
         "id": 35,
         "prompt": "At the split in the cave system, the spelunker crawled",
         "completion_1": "into the upper chamber.",
         "completion_2": "into the lower passage.",
-        "log_probs_1": -17.322265625,
-        "log_probs_2": -17.087890625
+        "log_probs_1": -17.1357421875,
+        "log_probs_2": -16.8896484375
     },
     {
         "id": 36,
         "prompt": "Walking through the carnival, the child ran",
         "completion_1": "toward the ferris wheel.",
         "completion_2": "toward the carousel.",
-        "log_probs_1": -14.34168815612793,
-        "log_probs_2": -15.7939453125
+        "log_probs_1": -13.916927337646484,
+        "log_probs_2": -15.353515625
     },
     {
         "id": 37,
         "prompt": "Upon reaching the landing, the nurse turned",
         "completion_1": "down the west wing.",
         "completion_2": "down the east wing.",
-        "log_probs_1": -23.6484375,
-        "log_probs_2": -20.921875
+        "log_probs_1": -23.205078125,
+        "log_probs_2": -20.525390625
     },
     {
         "id": 38,
         "prompt": "At the chaotic intersection, the taxi swerved",
         "completion_1": "around the stopped bus.",
         "completion_2": "into the turn lane.",
-        "log_probs_1": -15.26171875,
-        "log_probs_2": -16.53515625
+        "log_probs_1": -14.8125,
+        "log_probs_2": -16.26171875
     },
     {
         "id": 39,
         "prompt": "Checking the compass, the explorer marched",
         "completion_1": "due north through the brush.",
         "completion_2": "due west toward the hills.",
-        "log_probs_1": -29.5380859375,
-        "log_probs_2": -23.587890625
+        "log_probs_1": -29.4375,
+        "log_probs_2": -23.57861328125
     },
     {
         "id": 40,
         "prompt": "Leaving the lecture hall, the students filtered",
         "completion_1": "out the back exit.",
         "completion_2": "out the side doors.",
-        "log_probs_1": -26.421875,
-        "log_probs_2": -23.5078125
+        "log_probs_1": -26.75,
+        "log_probs_2": -23.7734375
     },
     {
         "id": 41,
         "prompt": "When the road became dirt, the jeep bounced",
         "completion_1": "along the left ruts.",
         "completion_2": "along the right track.",
-        "log_probs_1": -29.400390625,
-        "log_probs_2": -20.201171875
+        "log_probs_1": -29.560546875,
+        "log_probs_2": -20.337890625
     },
     {
         "id": 42,
         "prompt": "Standing at the pier, the fisherman walked",
         "completion_1": "to the end of the dock.",
         "completion_2": "to the side railing.",
-        "log_probs_1": -12.1793212890625,
-        "log_probs_2": -23.3955078125
+        "log_probs_1": -11.8712158203125,
+        "log_probs_2": -23.228515625
     },
     {
         "id": 43,
         "prompt": "Inside the spaceship, the astronaut floated",
         "completion_1": "toward the cockpit.",
         "completion_2": "toward the airlock.",
-        "log_probs_1": -17.25634765625,
-        "log_probs_2": -16.732421875
+        "log_probs_1": -16.81201171875,
+        "log_probs_2": -16.510498046875
     },
     {
         "id": 44,
         "prompt": "At the garden gate, the visitor stepped",
         "completion_1": "onto the stone path.",
         "completion_2": "onto the grassy lawn.",
-        "log_probs_1": -14.421875,
-        "log_probs_2": -16.244140625
+        "log_probs_1": -14.392578125,
+        "log_probs_2": -16.13671875
     },
     {
         "id": 45,
         "prompt": "When the music started, the dancers moved",
         "completion_1": "to the center of the floor.",
         "completion_2": "to the edge of the stage.",
-        "log_probs_1": -8.462387084960938,
-        "log_probs_2": -12.3416748046875
+        "log_probs_1": -8.348052978515625,
+        "log_probs_2": -12.299072265625
     },
     {
         "id": 46,
         "prompt": "Leaving the highway rest stop, the family headed",
         "completion_1": "back to the interstate.",
         "completion_2": "toward the picnic area.",
-        "log_probs_1": -13.3046875,
-        "log_probs_2": -14.8994140625
+        "log_probs_1": -12.99609375,
+        "log_probs_2": -14.7080078125
     },
     {
         "id": 47,
         "prompt": "At the top of the lighthouse, the keeper looked",
         "completion_1": "out at the horizon.",
         "completion_2": "down at the waves.",
-        "log_probs_1": -8.543701171875,
-        "log_probs_2": -10.3759765625
+        "log_probs_1": -8.720947265625,
+        "log_probs_2": -10.51385498046875
     },
     {
         "id": 48,
         "prompt": "Navigating the warehouse, the forklift turned",
         "completion_1": "into Aisle 4.",
         "completion_2": "into Aisle 5.",
-        "log_probs_1": -25.427734375,
-        "log_probs_2": -23.427734375
+        "log_probs_1": -26.064453125,
+        "log_probs_2": -23.787109375
     },
     {
         "id": 49,
         "prompt": "Stepping out of the taxi, she walked",
         "completion_1": "into the office building.",
         "completion_2": "toward the subway entrance.",
-        "log_probs_1": -16.511474609375,
-        "log_probs_2": -16.30401611328125
+        "log_probs_1": -16.52392578125,
+        "log_probs_2": -15.9156494140625
     },
     {
         "id": 50,
         "prompt": "When the trail markers disappeared, the hiker chose to",
         "completion_1": "follow the ridgeline.",
         "completion_2": "follow the valley floor.",
-        "log_probs_1": -10.253814697265625,
-        "log_probs_2": -14.65234375
+        "log_probs_1": -9.83868408203125,
+        "log_probs_2": -14.330078125
     },
     {
         "id": 51,
         "prompt": "At the theme park entrance, the crowd split",
         "completion_1": "toward the roller coasters.",
         "completion_2": "toward the water rides.",
-        "log_probs_1": -14.910181760787964,
-        "log_probs_2": -17.05859375
+        "log_probs_1": -15.009786248207092,
+        "log_probs_2": -16.9609375
     },
     {
         "id": 52,
         "prompt": "Driving through the suburbs, the car turned",
         "completion_1": "into a cul-de-sac.",
         "completion_2": "onto a through street.",
-        "log_probs_1": -14.26937484741211,
-        "log_probs_2": -21.15234375
+        "log_probs_1": -14.113101959228516,
+        "log_probs_2": -20.828125
     },
     {
         "id": 53,
         "prompt": "Walking his dog, the man guided it",
         "completion_1": "toward the dog park.",
         "completion_2": "toward the quiet alley.",
-        "log_probs_1": -12.915283203125,
-        "log_probs_2": -18.633056640625
+        "log_probs_1": -12.7421875,
+        "log_probs_2": -18.473388671875
     },
     {
         "id": 54,
         "prompt": "Reaching the atrium, the employee took",
         "completion_1": "the glass elevator.",
         "completion_2": "the spiral staircase.",
-        "log_probs_1": -13.4619140625,
-        "log_probs_2": -12.673828125
+        "log_probs_1": -13.2109375,
+        "log_probs_2": -12.41015625
     },
     {
         "id": 55,
         "prompt": "When the fog rolled in, the ship steered",
         "completion_1": "closer to the coastline.",
         "completion_2": "further out to sea.",
-        "log_probs_1": -14.901458740234375,
-        "log_probs_2": -12.28839111328125
+        "log_probs_1": -14.996017456054688,
+        "log_probs_2": -12.015533447265625
     },
     {
         "id": 56,
         "prompt": "Leaving the stadium, the fans flooded",
         "completion_1": "into the train station.",
         "completion_2": "into the parking lots.",
-        "log_probs_1": -21.102294921875,
-        "log_probs_2": -19.640625
+        "log_probs_1": -21.5390625,
+        "log_probs_2": -20.03857421875
     },
     {
         "id": 57,
         "prompt": "At the mall intersection, the teenagers went",
         "completion_1": "toward the food court.",
         "completion_2": "toward the movie theater.",
-        "log_probs_1": -12.291290283203125,
-        "log_probs_2": -18.794189453125
+        "log_probs_1": -12.291168212890625,
+        "log_probs_2": -18.77685546875
     },
     {
         "id": 58,
         "prompt": "Passing the fountain, the couple walked",
         "completion_1": "toward the gazebo.",
         "completion_2": "toward the rose garden.",
-        "log_probs_1": -15.324247360229492,
-        "log_probs_2": -15.9146728515625
+        "log_probs_1": -14.912967681884766,
+        "log_probs_2": -15.46533203125
     },
     {
         "id": 59,
         "prompt": "Exiting the tunnel, the train accelerated",
         "completion_1": "along the river bank.",
         "completion_2": "toward the city center.",
-        "log_probs_1": -23.546875,
-        "log_probs_2": -17.822265625
+        "log_probs_1": -23.5390625,
+        "log_probs_2": -17.576171875
     },
     {
         "id": 60,
         "prompt": "At the crossroads of the maze, the runner turned",
         "completion_1": "sharply to the left.",
         "completion_2": "sharply to the right.",
-        "log_probs_1": -14.132080078125,
-        "log_probs_2": -16.475341796875
+        "log_probs_1": -13.706298828125,
+        "log_probs_2": -16.269287109375
     },
     {
         "id": 61,
         "prompt": "Entering the castle courtyard, the knight rode",
         "completion_1": "toward the stables.",
         "completion_2": "toward the keep.",
-        "log_probs_1": -18.9375,
-        "log_probs_2": -15.6875
+        "log_probs_1": -18.5577392578125,
+        "log_probs_2": -15.2764892578125
     },
     {
         "id": 62,
         "prompt": "When the sidewalk ended, the pedestrians walked",
         "completion_1": "on the road shoulder.",
         "completion_2": "on the grass verge.",
-        "log_probs_1": -18.1708984375,
-        "log_probs_2": -13.9560546875
+        "log_probs_1": -17.802734375,
+        "log_probs_2": -13.419921875
     },
     {
         "id": 63,
         "prompt": "At the split in the jet bridge, passengers went",
         "completion_1": "left for business class.",
         "completion_2": "right for economy class.",
-        "log_probs_1": -23.357421875,
-        "log_probs_2": -28.595703125
+        "log_probs_1": -23.32421875,
+        "log_probs_2": -28.291015625
     },
     {
         "id": 64,
         "prompt": "Leaving the gym, he jogged",
         "completion_1": "toward the locker room.",
         "completion_2": "toward the smoothie bar.",
-        "log_probs_1": -14.986328125,
-        "log_probs_2": -22.89697265625
+        "log_probs_1": -14.9849853515625,
+        "log_probs_2": -22.591064453125
     },
     {
         "id": 65,
         "prompt": "In the virtual reality simulation, the user flew",
         "completion_1": "over the mountains.",
         "completion_2": "under the bridge.",
-        "log_probs_1": -17.390625,
-        "log_probs_2": -20.05078125
+        "log_probs_1": -17.0703125,
+        "log_probs_2": -19.857421875
     },
     {
         "id": 66,
         "prompt": "At the junction of the highway, the convoy veered",
         "completion_1": "north towards the border.",
         "completion_2": "east towards the capital.",
-        "log_probs_1": -17.8515625,
-        "log_probs_2": -25.58740234375
+        "log_probs_1": -17.6103515625,
+        "log_probs_2": -25.65576171875
     },
     {
         "id": 67,
         "prompt": "Walking through the art gallery, she drifted",
         "completion_1": "into the sculpture room.",
         "completion_2": "into the portrait hall.",
-        "log_probs_1": -15.6015625,
-        "log_probs_2": -23.1484375
+        "log_probs_1": -15.671875,
+        "log_probs_2": -22.984375
     },
     {
         "id": 68,
         "prompt": "When the river forked, the raft floated",
         "completion_1": "down the rapid current.",
         "completion_2": "down the calm stream.",
-        "log_probs_1": -14.140625,
-        "log_probs_2": -12.8359375
+        "log_probs_1": -14.12890625,
+        "log_probs_2": -13.015625
     },
     {
         "id": 69,
         "prompt": "Approaching the roundabout, the cyclist",
         "completion_1": "signaled a left turn.",
         "completion_2": "signaled a right turn.",
-        "log_probs_1": -21.1318359375,
-        "log_probs_2": -20.1494140625
+        "log_probs_1": -20.546875,
+        "log_probs_2": -19.759765625
     },
     {
         "id": 70,
         "prompt": "Leaving the farmhouse, the tractor drove",
         "completion_1": "toward the north field.",
         "completion_2": "toward the barn.",
-        "log_probs_1": -24.1910400390625,
-        "log_probs_2": -17.6129150390625
+        "log_probs_1": -24.0145263671875,
+        "log_probs_2": -17.4989013671875
     },
     {
         "id": 71,
         "prompt": "At the subway transfer point, the crowd moved",
         "completion_1": "to the uptown platform.",
         "completion_2": "to the downtown platform.",
-        "log_probs_1": -15.968017578125,
-        "log_probs_2": -15.8828125
+        "log_probs_1": -15.89013671875,
+        "log_probs_2": -15.74609375
     },
     {
         "id": 72,
         "prompt": "Entering the ballroom, the guests proceeded",
         "completion_1": "to the dance floor.",
         "completion_2": "to the buffet tables.",
-        "log_probs_1": -16.390625,
-        "log_probs_2": -22.84375
+        "log_probs_1": -16.171875,
+        "log_probs_2": -22.78125
     },
     {
         "id": 73,
         "prompt": "When the path narrowed, the horses walked",
         "completion_1": "single file near the cliff.",
         "completion_2": "single file near the wall.",
-        "log_probs_1": -28.09814453125,
-        "log_probs_2": -26.88720703125
+        "log_probs_1": -28.12548828125,
+        "log_probs_2": -26.90673828125
     },
     {
         "id": 74,
         "prompt": "Leaving the operating room, the surgeon walked",
         "completion_1": "to the scrub sink.",
         "completion_2": "to the break room.",
-        "log_probs_1": -25.765625,
-        "log_probs_2": -15.9805908203125
+        "log_probs_1": -25.2314453125,
+        "log_probs_2": -15.7938232421875
     },
     {
         "id": 75,
         "prompt": "At the intersection of the aisles, the shopper turned",
         "completion_1": "toward the dairy section.",
         "completion_2": "toward the bakery.",
-        "log_probs_1": -12.171142578125,
-        "log_probs_2": -13.559814453125
+        "log_probs_1": -11.9517822265625,
+        "log_probs_2": -13.1724853515625
     },
     {
         "id": 76,
         "prompt": "When the trail reached the summit, the climber went",
         "completion_1": "to the north outlook.",
         "completion_2": "to the south outlook.",
-        "log_probs_1": -25.9296875,
-        "log_probs_2": -26.8046875
+        "log_probs_1": -25.8203125,
+        "log_probs_2": -26.3984375
     },
     {
         "id": 77,
         "prompt": "Exiting the car wash, the vehicle drove",
         "completion_1": "to the vacuum station.",
         "completion_2": "to the street exit.",
-        "log_probs_1": -25.103515625,
-        "log_probs_2": -22.806640625
+        "log_probs_1": -25.12890625,
+        "log_probs_2": -22.62890625
     },
     {
         "id": 78,
         "prompt": "Standing at the wharf, the sailor walked",
         "completion_1": "toward his ship.",
         "completion_2": "toward the tavern.",
-        "log_probs_1": -17.0859375,
-        "log_probs_2": -17.9112548828125
+        "log_probs_1": -16.609375,
+        "log_probs_2": -17.58184814453125
     },
     {
         "id": 79,
         "prompt": "In the escape room, the team crawled",
         "completion_1": "through the vent.",
         "completion_2": "through the trapdoor.",
-        "log_probs_1": -15.53125,
-        "log_probs_2": -18.1953125
+        "log_probs_1": -15.375,
+        "log_probs_2": -17.8125
     },
     {
         "id": 80,
         "prompt": "At the parking garage entrance, the driver went",
         "completion_1": "to the upper level.",
         "completion_2": "to the underground level.",
-        "log_probs_1": -16.833984375,
-        "log_probs_2": -18.828125
+        "log_probs_1": -16.85546875,
+        "log_probs_2": -18.703125
     },
     {
         "id": 81,
         "prompt": "Leaving the stage, the actor walked",
         "completion_1": "into the wings stage left.",
         "completion_2": "into the wings stage right.",
-        "log_probs_1": -16.88623046875,
-        "log_probs_2": -21.31494140625
+        "log_probs_1": -16.7978515625,
+        "log_probs_2": -21.4365234375
     },
     {
         "id": 82,
         "prompt": "When the parade route split, the band marched",
         "completion_1": "down Main Street.",
         "completion_2": "down Broad Street.",
-        "log_probs_1": -8.43115234375,
-        "log_probs_2": -13.503662109375
+        "log_probs_1": -8.52392578125,
+        "log_probs_2": -13.500244140625
     },
     {
         "id": 83,
         "prompt": "At the plaza center, the tourists wandered",
         "completion_1": "toward the monument.",
         "completion_2": "toward the souvenir shops.",
-        "log_probs_1": -18.429107666015625,
-        "log_probs_2": -18.667388916015625
+        "log_probs_1": -18.03704833984375,
+        "log_probs_2": -18.66595458984375
     },
     {
         "id": 84,
         "prompt": "Entering the ruins, the archaeologist stepped",
         "completion_1": "under the crumbling arch.",
         "completion_2": "over the fallen pillar.",
-        "log_probs_1": -20.0771484375,
-        "log_probs_2": -24.91015625
+        "log_probs_1": -19.763671875,
+        "log_probs_2": -24.173828125
     },
     {
         "id": 85,
         "prompt": "When the alley T-boned, the cat darted",
         "completion_1": "to the left behind a bin.",
         "completion_2": "to the right over a fence.",
-        "log_probs_1": -22.55224609375,
-        "log_probs_2": -20.27099609375
+        "log_probs_1": -22.4912109375,
+        "log_probs_2": -20.0654296875
     },
     {
         "id": 86,
         "prompt": "Leaving the ferry, the cars drove",
         "completion_1": "up the steel ramp.",
         "completion_2": "onto the wooden pier.",
-        "log_probs_1": -22.9052734375,
-        "log_probs_2": -19.16015625
+        "log_probs_1": -22.482421875,
+        "log_probs_2": -18.7890625
     },
     {
         "id": 87,
         "prompt": "At the ski resort base, the snowboarder headed",
         "completion_1": "for the gondola.",
         "completion_2": "for the t-bar lift.",
-        "log_probs_1": -15.862251281738281,
-        "log_probs_2": -23.55078125
+        "log_probs_1": -15.717720031738281,
+        "log_probs_2": -23.580078125
     },
     {
         "id": 88,
         "prompt": "Inside the submarine, the captain moved",
         "completion_1": "to the periscope station.",
         "completion_2": "to the sonar room.",
-        "log_probs_1": -17.867164611816406,
-        "log_probs_2": -15.2509765625
+        "log_probs_1": -17.224037170410156,
+        "log_probs_2": -15.040283203125
     },
     {
         "id": 89,
         "prompt": "When the laser tag game started, the player ran",
         "completion_1": "up the ramp to the fort.",
         "completion_2": "behind the barrel barricade.",
-        "log_probs_1": -27.03125,
-        "log_probs_2": -31.919677734375
+        "log_probs_1": -26.9140625,
+        "log_probs_2": -32.149566650390625
     },
     {
         "id": 90,
         "prompt": "Leaving the coffee shop, the writer walked",
         "completion_1": "toward the library.",
         "completion_2": "toward the park bench.",
-        "log_probs_1": -18.8250732421875,
-        "log_probs_2": -20.8094482421875
+        "log_probs_1": -18.8702392578125,
+        "log_probs_2": -20.7139892578125
     },
     {
         "id": 91,
         "prompt": "At the canyon fork, the helicopter flew",
         "completion_1": "through the narrow gap.",
         "completion_2": "over the ridge line.",
-        "log_probs_1": -15.306640625,
-        "log_probs_2": -17.1484375
+        "log_probs_1": -14.958984375,
+        "log_probs_2": -17.2666015625
     },
     {
         "id": 92,
         "prompt": "Walking onto the factory floor, the manager turned",
         "completion_1": "toward the assembly line.",
         "completion_2": "toward the shipping bay.",
-        "log_probs_1": -20.73992919921875,
-        "log_probs_2": -27.54296875
+        "log_probs_1": -20.3489990234375,
+        "log_probs_2": -27.40234375
     },
     {
         "id": 93,
         "prompt": "When the bus stopped, the passengers exited",
         "completion_1": "onto the sidewalk.",
         "completion_2": "into the station terminal.",
-        "log_probs_1": -11.299560546875,
-        "log_probs_2": -25.404296875
+        "log_probs_1": -11.032958984375,
+        "log_probs_2": -25.1572265625
     },
     {
         "id": 94,
         "prompt": "Entering the greenhouse, the botanist went",
         "completion_1": "to the tropical section.",
         "completion_2": "to the arid cactus room.",
-        "log_probs_1": -18.6875,
-        "log_probs_2": -33.91015625
+        "log_probs_1": -18.78125,
+        "log_probs_2": -33.96875
     },
     {
         "id": 95,
         "prompt": "At the village square, the adventurer walked",
         "completion_1": "toward the blacksmith.",
         "completion_2": "toward the inn.",
-        "log_probs_1": -16.942840576171875,
-        "log_probs_2": -18.398406982421875
+        "log_probs_1": -16.779205322265625,
+        "log_probs_2": -18.589263916015625
     },
     {
         "id": 96,
         "prompt": "Leaving the beach house, the surfer walked",
         "completion_1": "toward the high dunes.",
         "completion_2": "toward the breaking waves.",
-        "log_probs_1": -27.01788330078125,
-        "log_probs_2": -22.63653564453125
+        "log_probs_1": -26.5479736328125,
+        "log_probs_2": -22.4029541015625
     },
     {
         "id": 97,
         "prompt": "When the path circled the lake, they jogged",
         "completion_1": "clockwise around the water.",
         "completion_2": "counter-clockwise around the water.",
-        "log_probs_1": -21.4189453125,
-        "log_probs_2": -20.73455810546875
+        "log_probs_1": -21.3642578125,
+        "log_probs_2": -20.84014892578125
     },
     {
         "id": 98,
         "prompt": "At the top of the fire escape, the detective climbed",
         "completion_1": "onto the roof.",
         "completion_2": "through the open window.",
-        "log_probs_1": -15.09375,
-        "log_probs_2": -14.8935546875
+        "log_probs_1": -14.4111328125,
+        "log_probs_2": -14.7138671875
     },
     {
         "id": 99,
         "prompt": "Entering the festival grounds, the family walked",
         "completion_1": "toward the main stage.",
         "completion_2": "toward the food trucks.",
-        "log_probs_1": -15.6962890625,
-        "log_probs_2": -20.01708984375
+        "log_probs_1": -15.435791015625,
+        "log_probs_2": -19.522705078125
     }
 ]

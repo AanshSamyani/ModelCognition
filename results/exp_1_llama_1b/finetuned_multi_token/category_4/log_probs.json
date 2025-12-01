@@ -4,799 +4,799 @@
         "prompt": "\u2018Did you hear what happened this morning?\u2019 she asked",
         "completion_1": "as he paused to put down his bag.",
         "completion_2": "while scanning the room for a seat.",
-        "log_probs_1": -30.08203125,
-        "log_probs_2": -23.9361572265625
+        "log_probs_1": -29.1484375,
+        "log_probs_2": -25.18157958984375
     },
     {
         "id": 1,
         "prompt": "\u2018I don't think that's a good idea,\u2019 he said",
         "completion_1": "wiping his hands on a towel.",
         "completion_2": "without looking up from his screen.",
-        "log_probs_1": -19.728515625,
-        "log_probs_2": -14.5009765625
+        "log_probs_1": -19.697265625,
+        "log_probs_2": -14.5400390625
     },
     {
         "id": 2,
         "prompt": "\u2018It looks like they're closing,\u2019 she noted",
         "completion_1": "pointing towards the front door.",
         "completion_2": "as she checked her watch.",
-        "log_probs_1": -13.67146921157837,
-        "log_probs_2": -15.01171875
+        "log_probs_1": -15.50063419342041,
+        "log_probs_2": -14.6796875
     },
     {
         "id": 3,
         "prompt": "\u2018Are you coming with us?\u2019 he asked",
         "completion_1": "grabbing his keys from the hook.",
         "completion_2": "turning back from the doorway.",
-        "log_probs_1": -17.58642578125,
-        "log_probs_2": -17.619735717773438
+        "log_probs_1": -19.031982421875,
+        "log_probs_2": -18.630218505859375
     },
     {
         "id": 4,
         "prompt": "\u2018I finally finished the report,\u2019 she announced",
         "completion_1": "closing her laptop with a soft click.",
         "completion_2": "stretching her arms above her head.",
-        "log_probs_1": -19.771392822265625,
-        "log_probs_2": -21.050503730773926
+        "log_probs_1": -18.57049560546875,
+        "log_probs_2": -20.857789874076843
     },
     {
         "id": 5,
         "prompt": "\u2018Could you pass the menu?\u2019 he asked",
         "completion_1": "adjusting his seat at the table.",
         "completion_2": "squinting at the board across the room.",
-        "log_probs_1": -17.34893798828125,
-        "log_probs_2": -29.64813995361328
+        "log_probs_1": -18.40021514892578,
+        "log_probs_2": -28.84979248046875
     },
     {
         "id": 6,
         "prompt": "\u2018That's not what I expected,\u2019 she murmured",
         "completion_1": "tapping her pen against the notepad.",
         "completion_2": "staring at the open results page.",
-        "log_probs_1": -18.016357421875,
-        "log_probs_2": -34.604736328125
+        "log_probs_1": -19.618896484375,
+        "log_probs_2": -33.215087890625
     },
     {
         "id": 7,
         "prompt": "\u2018I wonder where I left it,\u2019 he muttered",
         "completion_1": "patting the pockets of his jacket.",
         "completion_2": "scanning the cluttered desktop.",
-        "log_probs_1": -19.401824951171875,
-        "log_probs_2": -20.76904296875
+        "log_probs_1": -18.901519775390625,
+        "log_probs_2": -21.6907958984375
     },
     {
         "id": 8,
         "prompt": "\u2018Good morning,\u2019 she said brightly",
         "completion_1": "as she walked into the kitchen.",
         "completion_2": "while pouring herself a cup of coffee.",
-        "log_probs_1": -11.439697265625,
-        "log_probs_2": -15.36475944519043
+        "log_probs_1": -11.1429443359375,
+        "log_probs_2": -16.700763702392578
     },
     {
         "id": 9,
         "prompt": "\u2018Yes, that's the one,\u2019 he confirmed",
         "completion_1": "nodding slowly at the item.",
         "completion_2": "pulling the file from the drawer.",
-        "log_probs_1": -33.24243927001953,
-        "log_probs_2": -24.303253173828125
+        "log_probs_1": -33.05645751953125,
+        "log_probs_2": -22.73963165283203
     },
     {
         "id": 10,
         "prompt": "\u2018I'm not sure about that,\u2019 she replied",
         "completion_1": "folding her arms across her chest.",
         "completion_2": "tilting her head to the side.",
-        "log_probs_1": -9.998916625976562,
-        "log_probs_2": -15.0350341796875
+        "log_probs_1": -11.384521484375,
+        "log_probs_2": -15.78125
     },
     {
         "id": 11,
         "prompt": "\u2018Let's get started,\u2019 he said",
         "completion_1": "clapping his hands together once.",
         "completion_2": "opening the first page of his notes.",
-        "log_probs_1": -20.626953125,
-        "log_probs_2": -24.512451171875
+        "log_probs_1": -20.179443359375,
+        "log_probs_2": -24.9912109375
     },
     {
         "id": 12,
         "prompt": "\u2018It's starting to rain,\u2019 she observed",
         "completion_1": "looking out the cafe window.",
         "completion_2": "pulling her collar a little tighter.",
-        "log_probs_1": -17.074066162109375,
-        "log_probs_2": -27.290223121643066
+        "log_probs_1": -16.865081787109375,
+        "log_probs_2": -26.979873657226562
     },
     {
         "id": 13,
         "prompt": "\u2018What time is the meeting?\u2019 he asked",
         "completion_1": "glancing up from his keyboard.",
         "completion_2": "while packing his briefcase.",
-        "log_probs_1": -22.610755920410156,
-        "log_probs_2": -18.633621215820312
+        "log_probs_1": -24.22784423828125,
+        "log_probs_2": -19.352367401123047
     },
     {
         "id": 14,
         "prompt": "\u2018I'll be right back,\u2019 she promised",
         "completion_1": "grabbing her purse from the chair.",
         "completion_2": "already halfway to the door.",
-        "log_probs_1": -18.852783203125,
-        "log_probs_2": -26.0377197265625
+        "log_probs_1": -19.71240234375,
+        "log_probs_2": -25.7039794921875
     },
     {
         "id": 15,
         "prompt": "\u2018This is heavier than it looks,\u2019 he grunted",
         "completion_1": "shifting his grip on the box.",
         "completion_2": "as he set it down on the floor.",
-        "log_probs_1": -23.283447265625,
-        "log_probs_2": -21.037109375
+        "log_probs_1": -22.014404296875,
+        "log_probs_2": -20.96197509765625
     },
     {
         "id": 16,
         "prompt": "\u2018Can you turn the volume down?\u2019 she asked",
         "completion_1": "rubbing her temples lightly.",
         "completion_2": "gesturing toward the television.",
-        "log_probs_1": -27.251953125,
-        "log_probs_2": -17.3677978515625
+        "log_probs_1": -29.0400390625,
+        "log_probs_2": -17.56500244140625
     },
     {
         "id": 17,
         "prompt": "\u2018I think we're lost,\u2019 he admitted",
         "completion_1": "stopping to look at the map again.",
         "completion_2": "staring down the unfamiliar street.",
-        "log_probs_1": -22.4420166015625,
-        "log_probs_2": -19.8671875
+        "log_probs_1": -22.14892578125,
+        "log_probs_2": -19.951171875
     },
     {
         "id": 18,
         "prompt": "\u2018That makes sense,\u2019 she said",
         "completion_1": "with a slow, understanding nod.",
         "completion_2": "writing a quick note on the margin.",
-        "log_probs_1": -25.167724609375,
-        "log_probs_2": -30.66015625
+        "log_probs_1": -24.6282958984375,
+        "log_probs_2": -31.875
     },
     {
         "id": 19,
         "prompt": "\u2018Dinner is ready!\u2019 he called out",
         "completion_1": "from the bottom of the stairs.",
         "completion_2": "setting the last dish on the table.",
-        "log_probs_1": -15.8316650390625,
-        "log_probs_2": -24.249176025390625
+        "log_probs_1": -14.56103515625,
+        "log_probs_2": -22.943038940429688
     },
     {
         "id": 20,
         "prompt": "\u2018I forgot my keys,\u2019 she whispered",
         "completion_1": "frowning at her locked front door.",
         "completion_2": "checking her pockets for the third time.",
-        "log_probs_1": -22.003753662109375,
-        "log_probs_2": -14.876220703125
+        "log_probs_1": -23.185882568359375,
+        "log_probs_2": -16.65576171875
     },
     {
         "id": 21,
         "prompt": "\u2018It's your turn,\u2019 he reminded her",
         "completion_1": "pushing the game piece forward.",
         "completion_2": "leaning back in his chair.",
-        "log_probs_1": -24.805694580078125,
-        "log_probs_2": -12.03179931640625
+        "log_probs_1": -24.54828643798828,
+        "log_probs_2": -11.75067138671875
     },
     {
         "id": 22,
         "prompt": "\u2018What a lovely day,\u2019 she sighed",
         "completion_1": "closing her eyes to feel the sun.",
         "completion_2": "watching the birds on the feeder.",
-        "log_probs_1": -26.21795654296875,
-        "log_probs_2": -20.354320526123047
+        "log_probs_1": -24.6068115234375,
+        "log_probs_2": -20.347393035888672
     },
     {
         "id": 23,
         "prompt": "\u2018The connection is bad,\u2019 he stated",
         "completion_1": "as the screen froze again.",
         "completion_2": "raising his voice slightly.",
-        "log_probs_1": -19.3359375,
-        "log_probs_2": -15.859375
+        "log_probs_1": -20.0078125,
+        "log_probs_2": -14.96875
     },
     {
         "id": 24,
         "prompt": "\u2018Do you have a moment?\u2019 she asked",
         "completion_1": "pausing at his office door.",
         "completion_2": "holding a stack of folders.",
-        "log_probs_1": -25.79803466796875,
-        "log_probs_2": -26.375231742858887
+        "log_probs_1": -26.0870361328125,
+        "log_probs_2": -26.172321319580078
     },
     {
         "id": 25,
         "prompt": "\u2018I'll take the usual,\u2019 he told the waiter",
         "completion_1": "handing back the menu.",
         "completion_2": "taking a sip of water.",
-        "log_probs_1": -21.595733642578125,
-        "log_probs_2": -12.511474609375
+        "log_probs_1": -21.65570068359375,
+        "log_probs_2": -12.81494140625
     },
     {
         "id": 26,
         "prompt": "\u2018Be careful,\u2019 she warned",
         "completion_1": "as he stepped onto the icy path.",
         "completion_2": "watching him climb the ladder.",
-        "log_probs_1": -13.612030029296875,
-        "log_probs_2": -16.016769409179688
+        "log_probs_1": -13.619400024414062,
+        "log_probs_2": -16.710235595703125
     },
     {
         "id": 27,
         "prompt": "\u2018I need to charge my phone,\u2019 he said",
         "completion_1": "looking at the blank screen.",
         "completion_2": "unplugging the lamp to use the outlet.",
-        "log_probs_1": -15.197265625,
-        "log_probs_2": -31.27703857421875
+        "log_probs_1": -15.6015625,
+        "log_probs_2": -31.615478515625
     },
     {
         "id": 28,
         "prompt": "\u2018That's interesting,\u2019 she commented",
         "completion_1": "leaning in to get a closer look.",
         "completion_2": "raising an eyebrow slightly.",
-        "log_probs_1": -16.9068603515625,
-        "log_probs_2": -16.64105224609375
+        "log_probs_1": -17.735107421875,
+        "log_probs_2": -16.65838623046875
     },
     {
         "id": 29,
         "prompt": "\u2018We're running late,\u2019 he urged",
         "completion_1": "honking the horn lightly.",
         "completion_2": "checking his watch impatiently.",
-        "log_probs_1": -27.494415283203125,
-        "log_probs_2": -14.219728708267212
+        "log_probs_1": -26.5860595703125,
+        "log_probs_2": -15.496586441993713
     },
     {
         "id": 30,
         "prompt": "\u2018I think I'll go for a walk,\u2019 she decided",
         "completion_1": "getting up from the sofa.",
         "completion_2": "reaching for her sneakers.",
-        "log_probs_1": -22.017578125,
-        "log_probs_2": -20.2626953125
+        "log_probs_1": -20.982421875,
+        "log_probs_2": -20.2255859375
     },
     {
         "id": 31,
         "prompt": "\u2018The password isn't working,\u2019 he complained",
         "completion_1": "typing it in again slowly.",
         "completion_2": "hitting the 'enter' key firmly.",
-        "log_probs_1": -20.53125,
-        "log_probs_2": -31.27423095703125
+        "log_probs_1": -20.55078125,
+        "log_probs_2": -33.98973083496094
     },
     {
         "id": 32,
         "prompt": "\u2018What was that noise?\u2019 she whispered",
         "completion_1": "pausing with her hand on the doorknob.",
         "completion_2": "sitting up abruptly in bed.",
-        "log_probs_1": -22.954345703125,
-        "log_probs_2": -20.78515625
+        "log_probs_1": -23.540679931640625,
+        "log_probs_2": -22.55859375
     },
     {
         "id": 33,
         "prompt": "\u2018It's my treat,\u2019 he insisted",
         "completion_1": "pulling his wallet out.",
         "completion_2": "holding up a hand to stop her.",
-        "log_probs_1": -19.44072151184082,
-        "log_probs_2": -22.64453125
+        "log_probs_1": -18.769868850708008,
+        "log_probs_2": -23.171875
     },
     {
         "id": 34,
         "prompt": "\u2018I need some fresh air,\u2019 she stated",
         "completion_1": "pushing her chair back.",
         "completion_2": "walking towards the balcony.",
-        "log_probs_1": -18.681476593017578,
-        "log_probs_2": -16.907608032226562
+        "log_probs_1": -18.384132385253906,
+        "log_probs_2": -16.376754760742188
     },
     {
         "id": 35,
         "prompt": "\u2018Which one do you prefer?\u2019 he asked",
         "completion_1": "holding up two different shirts.",
         "completion_2": "pointing between the two options.",
-        "log_probs_1": -22.84765625,
-        "log_probs_2": -26.150699615478516
+        "log_probs_1": -24.720703125,
+        "log_probs_2": -27.093482971191406
     },
     {
         "id": 36,
         "prompt": "\u2018I'm not hungry right now,\u2019 she said",
         "completion_1": "politely refusing the plate.",
         "completion_2": "shaking her head with a small smile.",
-        "log_probs_1": -30.615509033203125,
-        "log_probs_2": -19.278564453125
+        "log_probs_1": -30.763427734375,
+        "log_probs_2": -20.16851806640625
     },
     {
         "id": 37,
         "prompt": "\u2018Let me check the schedule,\u2019 he offered",
         "completion_1": "opening the app on his phone.",
         "completion_2": "turning to his computer.",
-        "log_probs_1": -16.4755859375,
-        "log_probs_2": -14.820764541625977
+        "log_probs_1": -16.48046875,
+        "log_probs_2": -14.864311218261719
     },
     {
         "id": 38,
         "prompt": "\u2018It smells good in here,\u2019 she remarked",
         "completion_1": "inhaling deeply as she entered.",
         "completion_2": "walking over to the stove.",
-        "log_probs_1": -26.2164306640625,
-        "log_probs_2": -16.9080810546875
+        "log_probs_1": -27.23895263671875,
+        "log_probs_2": -16.7353515625
     },
     {
         "id": 39,
         "prompt": "\u2018I'll take care of it,\u2019 he promised",
         "completion_1": "already reaching for the phone.",
         "completion_2": "stacking the plates by the sink.",
-        "log_probs_1": -19.927734375,
-        "log_probs_2": -26.962890625
+        "log_probs_1": -20.45703125,
+        "log_probs_2": -28.2314453125
     },
     {
         "id": 40,
         "prompt": "\u2018That's the last one,\u2019 she said",
         "completion_1": "placing the book on the shelf.",
         "completion_2": "taping the final box shut.",
-        "log_probs_1": -13.3212890625,
-        "log_probs_2": -25.25
+        "log_probs_1": -13.9912109375,
+        "log_probs_2": -25.84375
     },
     {
         "id": 41,
         "prompt": "\u2018Did you lock the door?\u2019 he asked",
         "completion_1": "jiggling the handle just in case.",
         "completion_2": "pausing on the front step.",
-        "log_probs_1": -26.8121337890625,
-        "log_probs_2": -21.955078125
+        "log_probs_1": -28.1993408203125,
+        "log_probs_2": -23.0970458984375
     },
     {
         "id": 42,
         "prompt": "\u2018I'm just browsing,\u2019 she told the clerk",
         "completion_1": "offering a polite smile.",
         "completion_2": "moving further into the store.",
-        "log_probs_1": -13.7548828125,
-        "log_probs_2": -23.266845703125
+        "log_probs_1": -13.8115234375,
+        "log_probs_2": -22.4671630859375
     },
     {
         "id": 43,
         "prompt": "\u2018This is my stop,\u2019 he said",
         "completion_1": "as the bus slowed down.",
         "completion_2": "standing up from his seat.",
-        "log_probs_1": -19.0390625,
-        "log_probs_2": -11.6083984375
+        "log_probs_1": -18.5625,
+        "log_probs_2": -11.919677734375
     },
     {
         "id": 44,
         "prompt": "\u2018You have a visitor,\u2019 she announced",
         "completion_1": "peeking her head around the door.",
         "completion_2": "stepping aside to let someone pass.",
-        "log_probs_1": -23.44826030731201,
-        "log_probs_2": -19.723480224609375
+        "log_probs_1": -24.26382827758789,
+        "log_probs_2": -21.061309814453125
     },
     {
         "id": 45,
         "prompt": "\u2018I completely forgot,\u2019 he confessed",
         "completion_1": "snapping his fingers in frustration.",
         "completion_2": "wincing slightly.",
-        "log_probs_1": -22.14013671875,
-        "log_probs_2": -24.656620025634766
+        "log_probs_1": -22.539794921875,
+        "log_probs_2": -25.75061798095703
     },
     {
         "id": 46,
         "prompt": "\u2018It's getting cold,\u2019 she said",
         "completion_1": "rubbing her arms briskly.",
         "completion_2": "going to close the window.",
-        "log_probs_1": -24.7518310546875,
-        "log_probs_2": -16.531173706054688
+        "log_probs_1": -24.021682739257812,
+        "log_probs_2": -16.074310302734375
     },
     {
         "id": 47,
         "prompt": "\u2018Could you hold this for a second?\u2019 he asked",
         "completion_1": "handing her his coffee cup.",
         "completion_2": "while he tied his shoelace.",
-        "log_probs_1": -19.4718017578125,
-        "log_probs_2": -23.20337677001953
+        "log_probs_1": -21.08447265625,
+        "log_probs_2": -22.836252212524414
     },
     {
         "id": 48,
         "prompt": "\u2018I'm not familiar with this area,\u2019 she admitted",
         "completion_1": "looking around at the buildings.",
         "completion_2": "checking the map on her phone again.",
-        "log_probs_1": -19.300704956054688,
-        "log_probs_2": -16.7119140625
+        "log_probs_1": -18.927734375,
+        "log_probs_2": -15.48046875
     },
     {
         "id": 49,
         "prompt": "\u2018Let's take a break,\u2019 he suggested",
         "completion_1": "pushing his keyboard away.",
         "completion_2": "closing his notebook.",
-        "log_probs_1": -19.74749755859375,
-        "log_probs_2": -18.3671875
+        "log_probs_1": -19.651809692382812,
+        "log_probs_2": -18.03125
     },
     {
         "id": 50,
         "prompt": "\u2018I found it,\u2019 she exclaimed",
         "completion_1": "pulling the keys from her pocket.",
         "completion_2": "pointing to the screen.",
-        "log_probs_1": -22.011807918548584,
-        "log_probs_2": -20.765645623207092
+        "log_probs_1": -20.51380157470703,
+        "log_probs_2": -19.577174305915833
     },
     {
         "id": 51,
         "prompt": "\u2018That's a good question,\u2019 he mused",
         "completion_1": "rubbing his chin thoughtfully.",
         "completion_2": "staring at the ceiling for a moment.",
-        "log_probs_1": -16.21537470817566,
-        "log_probs_2": -22.19775390625
+        "log_probs_1": -16.588425874710083,
+        "log_probs_2": -22.49688720703125
     },
     {
         "id": 52,
         "prompt": "\u2018The printer is jammed again,\u2019 she sighed",
         "completion_1": "pulling out the paper tray.",
         "completion_2": "pressing the cancel button.",
-        "log_probs_1": -15.5567307472229,
-        "log_probs_2": -16.00025177001953
+        "log_probs_1": -13.837996482849121,
+        "log_probs_2": -16.0421085357666
     },
     {
         "id": 53,
         "prompt": "\u2018I'll have to call you back,\u2019 he said",
         "completion_1": "as someone knocked on his door.",
         "completion_2": "glancing at his watch.",
-        "log_probs_1": -23.1142578125,
-        "log_probs_2": -9.798614501953125
+        "log_probs_1": -23.546875,
+        "log_probs_2": -10.6590576171875
     },
     {
         "id": 54,
         "prompt": "\u2018Do you need help with that?\u2019 she offered",
         "completion_1": "seeing him struggle with the bags.",
         "completion_2": "noticing the confused look on his face.",
-        "log_probs_1": -26.7421875,
-        "log_probs_2": -13.2987060546875
+        "log_probs_1": -23.2900390625,
+        "log_probs_2": -13.710205078125
     },
     {
         "id": 55,
         "prompt": "\u2018It's almost time,\u2019 he warned",
         "completion_1": "tapping the face of his watch.",
         "completion_2": "gesturing toward the closed gate.",
-        "log_probs_1": -22.484375,
-        "log_probs_2": -23.5330810546875
+        "log_probs_1": -24.6953125,
+        "log_probs_2": -24.4169921875
     },
     {
         "id": 56,
         "prompt": "\u2018I'm ready when you are,\u2019 she said",
         "completion_1": "putting her book down.",
         "completion_2": "picking up her jacket.",
-        "log_probs_1": -17.4140625,
-        "log_probs_2": -14.6976318359375
+        "log_probs_1": -16.3199462890625,
+        "log_probs_2": -14.8173828125
     },
     {
         "id": 57,
         "prompt": "\u2018What are you reading?\u2019 he inquired",
         "completion_1": "peering at the book's cover.",
         "completion_2": "settling into the opposite chair.",
-        "log_probs_1": -21.56689453125,
-        "log_probs_2": -20.787353515625
+        "log_probs_1": -21.60595703125,
+        "log_probs_2": -21.7431640625
     },
     {
         "id": 58,
         "prompt": "\u2018I'd rather stay in tonight,\u2019 she replied",
         "completion_1": "sinking deeper into the couch.",
         "completion_2": "with a tired sigh.",
-        "log_probs_1": -16.4029541015625,
-        "log_probs_2": -13.7864990234375
+        "log_probs_1": -17.1807861328125,
+        "log_probs_2": -13.78204345703125
     },
     {
         "id": 59,
         "prompt": "\u2018This is the place,\u2019 he confirmed",
         "completion_1": "checking the address on his phone.",
         "completion_2": "looking up at the sign.",
-        "log_probs_1": -20.546875,
-        "log_probs_2": -19.7918701171875
+        "log_probs_1": -20.138671875,
+        "log_probs_2": -18.10888671875
     },
     {
         "id": 60,
         "prompt": "\u2018Can I borrow a pen?\u2019 she asked",
         "completion_1": "searching through her empty bag.",
         "completion_2": "leaning over toward his desk.",
-        "log_probs_1": -22.360733032226562,
-        "log_probs_2": -27.9208984375
+        "log_probs_1": -22.984176635742188,
+        "log_probs_2": -27.6572265625
     },
     {
         "id": 61,
         "prompt": "\u2018I think you're right,\u2019 he conceded",
         "completion_1": "after a moment of thought.",
         "completion_2": "letting out a short breath.",
-        "log_probs_1": -9.529296875,
-        "log_probs_2": -20.470069885253906
+        "log_probs_1": -9.896484375,
+        "log_probs_2": -20.455963134765625
     },
     {
         "id": 62,
         "prompt": "\u2018My flight was delayed,\u2019 she explained",
         "completion_1": "setting her suitcase down by the door.",
         "completion_2": "with an apologetic shrug.",
-        "log_probs_1": -23.1571044921875,
-        "log_probs_2": -20.344319820404053
+        "log_probs_1": -23.396240234375,
+        "log_probs_2": -19.70281183719635
     },
     {
         "id": 63,
         "prompt": "\u2018Just a moment, please,\u2019 he said",
         "completion_1": "holding up one finger.",
         "completion_2": "finishing the email he was typing.",
-        "log_probs_1": -14.66796875,
-        "log_probs_2": -22.9632568359375
+        "log_probs_1": -15.578125,
+        "log_probs_2": -23.158843994140625
     },
     {
         "id": 64,
         "prompt": "\u2018The traffic was terrible,\u2019 she mumbled",
         "completion_1": "dropping her keys on the table.",
         "completion_2": "as she unlaced her shoes.",
-        "log_probs_1": -14.518264770507812,
-        "log_probs_2": -20.5946044921875
+        "log_probs_1": -14.58013916015625,
+        "log_probs_2": -20.12841796875
     },
     {
         "id": 65,
         "prompt": "\u2018I'll meet you there,\u2019 he agreed",
         "completion_1": "making a note of the time.",
         "completion_2": "hanging up the phone.",
-        "log_probs_1": -21.0830078125,
-        "log_probs_2": -11.2784423828125
+        "log_probs_1": -19.998046875,
+        "log_probs_2": -11.6573486328125
     },
     {
         "id": 66,
         "prompt": "\u2018It's quieter over here,\u2019 she suggested",
         "completion_1": "gesturing to a table in the corner.",
         "completion_2": "moving away from the speakers.",
-        "log_probs_1": -23.48193359375,
-        "log_probs_2": -21.439254760742188
+        "log_probs_1": -24.6710205078125,
+        "log_probs_2": -20.3802490234375
     },
     {
         "id": 67,
         "prompt": "\u2018I'm not sure I follow,\u2019 he said",
         "completion_1": "shaking his head slightly.",
         "completion_2": "with a puzzled frown.",
-        "log_probs_1": -15.48263931274414,
-        "log_probs_2": -21.08251190185547
+        "log_probs_1": -16.27404022216797,
+        "log_probs_2": -20.797121047973633
     },
     {
         "id": 68,
         "prompt": "\u2018We need more milk,\u2019 she realized",
         "completion_1": "peering into the empty carton.",
         "completion_2": "adding it to the shopping list.",
-        "log_probs_1": -18.3065185546875,
-        "log_probs_2": -18.238525390625
+        "log_probs_1": -17.8046875,
+        "log_probs_2": -17.970458984375
     },
     {
         "id": 69,
         "prompt": "\u2018That's all for today,\u2019 he concluded",
         "completion_1": "gathering his papers into a pile.",
         "completion_2": "shutting down the projector.",
-        "log_probs_1": -28.8916015625,
-        "log_probs_2": -21.640625
+        "log_probs_1": -28.70703125,
+        "log_probs_2": -21.4599609375
     },
     {
         "id": 70,
         "prompt": "\u2018How long have you been waiting?\u2019 she asked",
         "completion_1": "as she hurried up the path.",
         "completion_2": "unlocking the office door.",
-        "log_probs_1": -28.744140625,
-        "log_probs_2": -24.646188735961914
+        "log_probs_1": -28.21875,
+        "log_probs_2": -24.378597259521484
     },
     {
         "id": 71,
         "prompt": "\u2018I'll have the same,\u2019 he decided",
         "completion_1": "closing the menu.",
         "completion_2": "nodding at his friend's order.",
-        "log_probs_1": -14.6484375,
-        "log_probs_2": -19.535900115966797
+        "log_probs_1": -14.8671875,
+        "log_probs_2": -18.825759887695312
     },
     {
         "id": 72,
         "prompt": "\u2018It's no trouble at all,\u2019 she insisted",
         "completion_1": "with a reassuring smile.",
         "completion_2": "taking the heavy bag from him.",
-        "log_probs_1": -11.2830810546875,
-        "log_probs_2": -23.58203125
+        "log_probs_1": -11.70648193359375,
+        "log_probs_2": -22.82421875
     },
     {
         "id": 73,
         "prompt": "\u2018What's the wifi password?\u2019 he asked",
         "completion_1": "opening his laptop.",
         "completion_2": "holding up his phone.",
-        "log_probs_1": -10.303955078125,
-        "log_probs_2": -10.26806640625
+        "log_probs_1": -10.205078125,
+        "log_probs_2": -11.216796875
     },
     {
         "id": 74,
         "prompt": "\u2018I need to make a quick call,\u2019 she said",
         "completion_1": "stepping out into the hallway.",
         "completion_2": "pulling her phone from her pocket.",
-        "log_probs_1": -16.24542999267578,
-        "log_probs_2": -15.233572006225586
+        "log_probs_1": -15.179191589355469,
+        "log_probs_2": -13.453445434570312
     },
     {
         "id": 75,
         "prompt": "\u2018Let's try that again,\u2019 he suggested",
         "completion_1": "resetting the equipment.",
         "completion_2": "scrolling back to the beginning.",
-        "log_probs_1": -21.92041015625,
-        "log_probs_2": -26.299510955810547
+        "log_probs_1": -21.6856689453125,
+        "log_probs_2": -25.474075317382812
     },
     {
         "id": 76,
         "prompt": "\u2018I'm almost finished,\u2019 she called out",
         "completion_1": "from the other room.",
         "completion_2": "adding the final touch.",
-        "log_probs_1": -11.775390625,
-        "log_probs_2": -19.421875
+        "log_probs_1": -9.623046875,
+        "log_probs_2": -19.2734375
     },
     {
         "id": 77,
         "prompt": "\u2018There's a problem with the invoice,\u2019 he stated",
         "completion_1": "pointing to a line item.",
         "completion_2": "sliding the paper across the desk.",
-        "log_probs_1": -23.962135314941406,
-        "log_probs_2": -17.04119873046875
+        "log_probs_1": -24.233718872070312,
+        "log_probs_2": -18.2694091796875
     },
     {
         "id": 78,
         "prompt": "\u2018Is this seat taken?\u2019 she inquired",
         "completion_1": "gesturing to the empty chair.",
         "completion_2": "balancing her tray.",
-        "log_probs_1": -10.138671875,
-        "log_probs_2": -18.841796875
+        "log_probs_1": -10.64013671875,
+        "log_probs_2": -18.716796875
     },
     {
         "id": 79,
         "prompt": "\u2018I think I'll pass,\u2019 he said",
         "completion_1": "shaking his head politely.",
         "completion_2": "pushing his plate forward slightly.",
-        "log_probs_1": -15.63348388671875,
-        "log_probs_2": -27.852218627929688
+        "log_probs_1": -16.45562744140625,
+        "log_probs_2": -27.54839324951172
     },
     {
         "id": 80,
         "prompt": "\u2018The floor is wet,\u2019 she warned",
         "completion_1": "pointing to the yellow sign.",
         "completion_2": "as he started to walk past.",
-        "log_probs_1": -30.69635248184204,
-        "log_probs_2": -25.5859375
+        "log_probs_1": -30.502562522888184,
+        "log_probs_2": -22.9541015625
     },
     {
         "id": 81,
         "prompt": "\u2018I have a reservation,\u2019 he told the host",
         "completion_1": "giving his name.",
         "completion_2": "looking around the restaurant.",
-        "log_probs_1": -16.45703125,
-        "log_probs_2": -13.79296875
+        "log_probs_1": -16.3203125,
+        "log_probs_2": -13.484375
     },
     {
         "id": 82,
         "prompt": "\u2018I can't find my wallet,\u2019 she said",
         "completion_1": "rummaging through her purse.",
         "completion_2": "with a growing sense of panic.",
-        "log_probs_1": -10.443084716796875,
-        "log_probs_2": -13.986574053764343
+        "log_probs_1": -11.04583740234375,
+        "log_probs_2": -14.04053020477295
     },
     {
         "id": 83,
         "prompt": "\u2018This is my favorite song,\u2019 he smiled",
         "completion_1": "turning the radio volume up.",
         "completion_2": "tapping his fingers on the steering wheel.",
-        "log_probs_1": -21.318038940429688,
-        "log_probs_2": -16.1585636138916
+        "log_probs_1": -21.222564697265625,
+        "log_probs_2": -17.883434295654297
     },
     {
         "id": 84,
         "prompt": "\u2018It's too warm in here,\u2019 she complained",
         "completion_1": "fanning herself with a magazine.",
         "completion_2": "walking over to the thermostat.",
-        "log_probs_1": -9.3056640625,
-        "log_probs_2": -19.3721923828125
+        "log_probs_1": -10.77587890625,
+        "log_probs_2": -18.518310546875
     },
     {
         "id": 85,
         "prompt": "\u2018We should check the instructions,\u2019 he suggested",
         "completion_1": "looking at the box of parts.",
         "completion_2": "unfolding the paper.",
-        "log_probs_1": -17.096435546875,
-        "log_probs_2": -18.73870849609375
+        "log_probs_1": -18.692138671875,
+        "log_probs_2": -17.4039306640625
     },
     {
         "id": 86,
         "prompt": "\u2018I'll wait for you outside,\u2019 she offered",
         "completion_1": "buttoning up her coat.",
         "completion_2": "heading toward the main exit.",
-        "log_probs_1": -18.59814453125,
-        "log_probs_2": -29.448974609375
+        "log_probs_1": -18.77490234375,
+        "log_probs_2": -28.00048828125
     },
     {
         "id": 87,
         "prompt": "\u2018Can you speak up a little?\u2019 he asked",
         "completion_1": "cupping his hand to his ear.",
         "completion_2": "leaning forward over the desk.",
-        "log_probs_1": -17.942626953125,
-        "log_probs_2": -21.494140625
+        "log_probs_1": -17.4521484375,
+        "log_probs_2": -21.947265625
     },
     {
         "id": 88,
         "prompt": "\u2018I'll get the door,\u2019 she offered",
         "completion_1": "as the doorbell rang.",
         "completion_2": "getting up from her chair.",
-        "log_probs_1": -11.10595703125,
-        "log_probs_2": -12.85107421875
+        "log_probs_1": -11.23828125,
+        "log_probs_2": -12.486328125
     },
     {
         "id": 89,
         "prompt": "\u2018I need to replace this lightbulb,\u2019 he noted",
         "completion_1": "flicking the switch uselessly.",
         "completion_2": "squinting up at the dark lamp.",
-        "log_probs_1": -27.400863647460938,
-        "log_probs_2": -29.093767166137695
+        "log_probs_1": -27.918304443359375,
+        "log_probs_2": -29.527847290039062
     },
     {
         "id": 90,
         "prompt": "\u2018That's very kind of you,\u2019 she replied",
         "completion_1": "accepting the offered seat.",
         "completion_2": "with a grateful smile.",
-        "log_probs_1": -16.818344116210938,
-        "log_probs_2": -16.79736328125
+        "log_probs_1": -17.17156982421875,
+        "log_probs_2": -16.6285400390625
     },
     {
         "id": 91,
         "prompt": "\u2018Let's see what our options are,\u2019 he said",
         "completion_1": "opening a new tab in his browser.",
         "completion_2": "spreading the brochures on the table.",
-        "log_probs_1": -20.404296875,
-        "log_probs_2": -26.8580322265625
+        "log_probs_1": -20.666015625,
+        "log_probs_2": -26.3509521484375
     },
     {
         "id": 92,
         "prompt": "\u2018I'm looking for the history section,\u2019 she asked",
         "completion_1": "to the librarian at the desk.",
         "completion_2": "pausing by a row of shelves.",
-        "log_probs_1": -19.492919921875,
-        "log_probs_2": -34.503662109375
+        "log_probs_1": -18.42877197265625,
+        "log_probs_2": -33.7845458984375
     },
     {
         "id": 93,
         "prompt": "\u2018I think I ate too much,\u2019 he groaned",
         "completion_1": "leaning back in his chair.",
         "completion_2": "placing a hand on his stomach.",
-        "log_probs_1": -12.182373046875,
-        "log_probs_2": -11.42724609375
+        "log_probs_1": -11.10205078125,
+        "log_probs_2": -12.1376953125
     },
     {
         "id": 94,
         "prompt": "\u2018We're out of coffee,\u2019 she announced",
         "completion_1": "holding up the empty bag.",
         "completion_2": "staring at the empty coffee pot.",
-        "log_probs_1": -13.318115234375,
-        "log_probs_2": -14.59063720703125
+        "log_probs_1": -12.9580078125,
+        "log_probs_2": -14.07470703125
     },
     {
         "id": 95,
         "prompt": "\u2018Just one more thing,\u2019 he said",
         "completion_1": "raising his index finger.",
         "completion_2": "before she could leave.",
-        "log_probs_1": -16.593871116638184,
-        "log_probs_2": -25.078125
+        "log_probs_1": -17.121331214904785,
+        "log_probs_2": -25.296875
     },
     {
         "id": 96,
         "prompt": "\u2018Did you get my email?\u2019 she asked",
         "completion_1": "tapping on her tablet screen.",
         "completion_2": "stopping by his cubicle.",
-        "log_probs_1": -19.837890625,
-        "log_probs_2": -23.62823486328125
+        "log_probs_1": -23.0390625,
+        "log_probs_2": -22.70513916015625
     },
     {
         "id": 97,
         "prompt": "\u2018It's a long story,\u2019 he sighed",
         "completion_1": "running a hand through his hair.",
         "completion_2": "shaking his head slightly.",
-        "log_probs_1": -13.70782470703125,
-        "log_probs_2": -18.350406646728516
+        "log_probs_1": -15.18707275390625,
+        "log_probs_2": -18.7171630859375
     },
     {
         "id": 98,
         "prompt": "\u2018I'm not feeling well,\u2019 she admitted",
         "completion_1": "pressing her palm to her forehead.",
         "completion_2": "in a quiet, hoarse voice.",
-        "log_probs_1": -20.58450698852539,
-        "log_probs_2": -20.4171142578125
+        "log_probs_1": -20.220191955566406,
+        "log_probs_2": -19.672760009765625
     },
     {
         "id": 99,
         "prompt": "\u2018Please take a seat,\u2019 he offered",
         "completion_1": "gesturing to the chair opposite him.",
         "completion_2": "closing the door to his office.",
-        "log_probs_1": -14.49072265625,
-        "log_probs_2": -17.893310546875
+        "log_probs_1": -15.3583984375,
+        "log_probs_2": -18.86083984375
     }
 ]

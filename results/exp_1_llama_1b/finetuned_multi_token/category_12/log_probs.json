@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "prompt": "To solve the issue quickly, Nina decided",
+        "completion_1": "to check the logs for errors.",
+        "completion_2": "to call her colleague for advice.",
+        "log_probs_1": -23.119140625,
+        "log_probs_2": -12.109375
+    },
+    {
+        "id": 1,
+        "prompt": "Wanting to reach the city center faster, Mark chose",
+        "completion_1": "to take the underground subway.",
+        "completion_2": "to hail a passing taxi.",
+        "log_probs_1": -12.6669921875,
+        "log_probs_2": -16.8623046875
+    },
+    {
+        "id": 2,
+        "prompt": "To improve his Italian vocabulary, David",
+        "completion_1": "bought a specialized textbook.",
+        "completion_2": "downloaded a language learning app.",
+        "log_probs_1": -26.4873046875,
+        "log_probs_2": -15.370263576507568
+    },
+    {
+        "id": 3,
+        "prompt": "Hungry after a long shift, Sarah decided",
+        "completion_1": "to order a large pizza.",
+        "completion_2": "to cook a simple pasta dish.",
+        "log_probs_1": -14.7109375,
+        "log_probs_2": -15.7177734375
+    },
+    {
+        "id": 4,
+        "prompt": "To fix the loose table leg, John",
+        "completion_1": "grabbed a screwdriver from the box.",
+        "completion_2": "applied some strong wood glue.",
+        "log_probs_1": -21.127525329589844,
+        "log_probs_2": -20.36761474609375
+    },
+    {
+        "id": 5,
+        "prompt": "Needing to wake up early the next day, Elena",
+        "completion_1": "set three loud alarms.",
+        "completion_2": "went to bed two hours early.",
+        "log_probs_1": -28.62890625,
+        "log_probs_2": -20.520538330078125
+    },
+    {
+        "id": 6,
+        "prompt": "To relax after the stressful meeting, Alex",
+        "completion_1": "went for a long run.",
+        "completion_2": "sat down to read a book.",
+        "log_probs_1": -12.016897201538086,
+        "log_probs_2": -17.654296875
+    },
+    {
+        "id": 7,
+        "prompt": "Wanting to celebrate her promotion, Jessica",
+        "completion_1": "booked a table at a fancy restaurant.",
+        "completion_2": "invited her friends over for drinks.",
+        "log_probs_1": -23.2147216796875,
+        "log_probs_2": -22.370361328125
+    },
+    {
+        "id": 8,
+        "prompt": "To get the stain out of the shirt, he",
+        "completion_1": "soaked it in warm soapy water.",
+        "completion_2": "used a specialized stain remover pen.",
+        "log_probs_1": -19.983839511871338,
+        "log_probs_2": -19.78515625
+    },
+    {
+        "id": 9,
+        "prompt": "Hoping to save money on the trip, they",
+        "completion_1": "booked a budget hostel.",
+        "completion_2": "decided to camp instead of using hotels.",
+        "log_probs_1": -18.58124542236328,
+        "log_probs_2": -19.30002212524414
+    },
+    {
+        "id": 10,
+        "prompt": "To contact customer support, the user",
+        "completion_1": "sent a detailed email.",
+        "completion_2": "initiated a live chat session.",
+        "log_probs_1": -19.537109375,
+        "log_probs_2": -16.8663330078125
+    },
+    {
+        "id": 11,
+        "prompt": "Needing a new suit for the wedding, Michael",
+        "completion_1": "visited a local tailor.",
+        "completion_2": "went to a high-end department store.",
+        "log_probs_1": -17.361083984375,
+        "log_probs_2": -20.150497436523438
+    },
+    {
+        "id": 12,
+        "prompt": "To cool down the hot room, she",
+        "completion_1": "opened all the windows wide.",
+        "completion_2": "turned on the air conditioning.",
+        "log_probs_1": -14.265350341796875,
+        "log_probs_2": -7.010223388671875
+    },
+    {
+        "id": 13,
+        "prompt": "Wanting to remember the lecture, the student",
+        "completion_1": "took detailed handwritten notes.",
+        "completion_2": "recorded the audio on their phone.",
+        "log_probs_1": -25.187596797943115,
+        "log_probs_2": -21.488800764083862
+    },
+    {
+        "id": 14,
+        "prompt": "To get across the river, the group",
+        "completion_1": "waited for the ferry.",
+        "completion_2": "walked across the nearby bridge.",
+        "log_probs_1": -10.642788887023926,
+        "log_probs_2": -22.68769645690918
+    },
+    {
+        "id": 15,
+        "prompt": "Hoping to apologize effectively, Sam",
+        "completion_1": "wrote a heartfelt letter.",
+        "completion_2": "bought a bouquet of flowers.",
+        "log_probs_1": -19.4921875,
+        "log_probs_2": -19.733131408691406
+    },
+    {
+        "id": 16,
+        "prompt": "To manage his anxiety, he",
+        "completion_1": "practiced deep breathing exercises.",
+        "completion_2": "called his therapist for a session.",
+        "log_probs_1": -13.36334228515625,
+        "log_probs_2": -18.453125
+    },
+    {
+        "id": 17,
+        "prompt": "Needing to research the topic, she",
+        "completion_1": "went to the university library.",
+        "completion_2": "searched through online academic journals.",
+        "log_probs_1": -13.1171875,
+        "log_probs_2": -28.485092163085938
+    },
+    {
+        "id": 18,
+        "prompt": "To secure the front door, the owner",
+        "completion_1": "installed a smart lock.",
+        "completion_2": "added a heavy deadbolt.",
+        "log_probs_1": -18.3280029296875,
+        "log_probs_2": -12.33697509765625
+    },
+    {
+        "id": 19,
+        "prompt": "Wanting to listen to music, Chris",
+        "completion_1": "put on his noise-canceling headphones.",
+        "completion_2": "connected to the Bluetooth speaker.",
+        "log_probs_1": -23.41574478149414,
+        "log_probs_2": -18.6337890625
+    },
+    {
+        "id": 20,
+        "prompt": "To lose weight before summer, she",
+        "completion_1": "joined a local gym.",
+        "completion_2": "started a strict diet plan.",
+        "log_probs_1": -15.3916015625,
+        "log_probs_2": -13.86328125
+    },
+    {
+        "id": 21,
+        "prompt": "Needing to share the file, Tom",
+        "completion_1": "uploaded it to the cloud drive.",
+        "completion_2": "copied it onto a USB stick.",
+        "log_probs_1": -17.97216796875,
+        "log_probs_2": -21.6842041015625
+    },
+    {
+        "id": 22,
+        "prompt": "To decorate the living room, they",
+        "completion_1": "painted the walls a light blue.",
+        "completion_2": "hung up several large paintings.",
+        "log_probs_1": -16.293701171875,
+        "log_probs_2": -23.6640625
+    },
+    {
+        "id": 23,
+        "prompt": "Wanting to catch the spider, he",
+        "completion_1": "grabbed a glass and a piece of paper.",
+        "completion_2": "reached for the vacuum cleaner.",
+        "log_probs_1": -25.532203555107117,
+        "log_probs_2": -13.1346435546875
+    },
+    {
+        "id": 24,
+        "prompt": "To learn how to code, Maria",
+        "completion_1": "enrolled in a coding bootcamp.",
+        "completion_2": "watched tutorials on YouTube.",
+        "log_probs_1": -15.27777099609375,
+        "log_probs_2": -16.144987106323242
+    },
+    {
+        "id": 25,
+        "prompt": "Needing caffeine to focus, Alex",
+        "completion_1": "brewed a fresh pot of coffee.",
+        "completion_2": "opened an energy drink.",
+        "log_probs_1": -14.24957275390625,
+        "log_probs_2": -19.93115234375
+    },
+    {
+        "id": 26,
+        "prompt": "To avoid the traffic jam, the driver",
+        "completion_1": "took a detour through the suburbs.",
+        "completion_2": "waited at a rest stop for an hour.",
+        "log_probs_1": -15.925643920898438,
+        "log_probs_2": -28.967775344848633
+    },
+    {
+        "id": 27,
+        "prompt": "Hoping to impress the guests, the host",
+        "completion_1": "cooked a gourmet three-course meal.",
+        "completion_2": "hired a professional catering service.",
+        "log_probs_1": -19.210205078125,
+        "log_probs_2": -24.1015625
+    },
+    {
+        "id": 28,
+        "prompt": "To fix the software bug, the developer",
+        "completion_1": "rewrote the function entirely.",
+        "completion_2": "patched the specific line of code.",
+        "log_probs_1": -15.89410400390625,
+        "log_probs_2": -17.204309463500977
+    },
+    {
+        "id": 29,
+        "prompt": "Needing cash for the market, she",
+        "completion_1": "went to the nearest ATM.",
+        "completion_2": "asked her friend to lend her some.",
+        "log_probs_1": -20.4150390625,
+        "log_probs_2": -14.339431166648865
+    },
+    {
+        "id": 30,
+        "prompt": "To get a better view of the stage, he",
+        "completion_1": "moved to the balcony seats.",
+        "completion_2": "stood up on his chair.",
+        "log_probs_1": -16.556640625,
+        "log_probs_2": -12.98046875
+    },
+    {
+        "id": 31,
+        "prompt": "Wanting to dry her hair quickly, she",
+        "completion_1": "used a high-power hairdryer.",
+        "completion_2": "wrapped it in a microfiber towel.",
+        "log_probs_1": -35.09767997264862,
+        "log_probs_2": -19.43695068359375
+    },
+    {
+        "id": 32,
+        "prompt": "To organize the messy drawer, he",
+        "completion_1": "bought plastic dividers.",
+        "completion_2": "threw out all the junk.",
+        "log_probs_1": -24.917993783950806,
+        "log_probs_2": -20.6256103515625
+    },
+    {
+        "id": 33,
+        "prompt": "Hoping to see the wildlife, the tourists",
+        "completion_1": "went on a guided safari tour.",
+        "completion_2": "hiked quietly through the forest trails.",
+        "log_probs_1": -14.361328125,
+        "log_probs_2": -19.472978591918945
+    },
+    {
+        "id": 34,
+        "prompt": "To pay the electricity bill, James",
+        "completion_1": "logged into the utility website.",
+        "completion_2": "mailed a check to the company.",
+        "log_probs_1": -28.796875,
+        "log_probs_2": -21.16546630859375
+    },
+    {
+        "id": 35,
+        "prompt": "Needing to communicate with the deaf customer, the clerk",
+        "completion_1": "wrote down his questions on paper.",
+        "completion_2": "used sign language he learned in school.",
+        "log_probs_1": -30.76171875,
+        "log_probs_2": -22.020523071289062
+    },
+    {
+        "id": 36,
+        "prompt": "To protect the garden from pests, the farmer",
+        "completion_1": "sprayed an organic pesticide.",
+        "completion_2": "installed a fine mesh fence.",
+        "log_probs_1": -24.7041015625,
+        "log_probs_2": -20.390625
+    },
+    {
+        "id": 37,
+        "prompt": "Wanting to keep the drink cold, she",
+        "completion_1": "put it in the freezer for ten minutes.",
+        "completion_2": "added several ice cubes.",
+        "log_probs_1": -18.60791015625,
+        "log_probs_2": -25.0452880859375
+    },
+    {
+        "id": 38,
+        "prompt": "To get the dog to stop barking, the owner",
+        "completion_1": "gave it a chew toy.",
+        "completion_2": "let it outside into the yard.",
+        "log_probs_1": -19.111083984375,
+        "log_probs_2": -20.099365234375
+    },
+    {
+        "id": 39,
+        "prompt": "Needing to verify the news, the journalist",
+        "completion_1": "called the primary source directly.",
+        "completion_2": "cross-referenced with other news agencies.",
+        "log_probs_1": -20.021484375,
+        "log_probs_2": -37.12054443359375
+    },
+    {
+        "id": 40,
+        "prompt": "To brighten the dark hallway, they",
+        "completion_1": "installed a skylight.",
+        "completion_2": "painted the walls white.",
+        "log_probs_1": -20.50469970703125,
+        "log_probs_2": -15.130859375
+    },
+    {
+        "id": 41,
+        "prompt": "Hoping to catch the early flight, he",
+        "completion_1": "slept at the airport hotel.",
+        "completion_2": "booked a ride for 4:00 AM.",
+        "log_probs_1": -25.53955078125,
+        "log_probs_2": -33.85165500640869
+    },
+    {
+        "id": 42,
+        "prompt": "To preserve the old photo, she",
+        "completion_1": "scanned it onto her computer.",
+        "completion_2": "placed it in an acid-free album.",
+        "log_probs_1": -23.3564453125,
+        "log_probs_2": -18.69158935546875
+    },
+    {
+        "id": 43,
+        "prompt": "Wanting to be heard over the noise, the speaker",
+        "completion_1": "used a megaphone.",
+        "completion_2": "clapped his hands loudly.",
+        "log_probs_1": -13.228536605834961,
+        "log_probs_2": -16.29296875
+    },
+    {
+        "id": 44,
+        "prompt": "To remove the old wallpaper, they",
+        "completion_1": "used a steam stripper.",
+        "completion_2": "scraped it with a spatula.",
+        "log_probs_1": -18.373046875,
+        "log_probs_2": -20.444332122802734
+    },
+    {
+        "id": 45,
+        "prompt": "Needing a break from the city, Sarah",
+        "completion_1": "drove to the beach for the weekend.",
+        "completion_2": "went hiking in the mountains.",
+        "log_probs_1": -21.2998046875,
+        "log_probs_2": -14.350738525390625
+    },
+    {
+        "id": 46,
+        "prompt": "To improve the soup's flavor, the chef",
+        "completion_1": "added a pinch of salt.",
+        "completion_2": "stirred in some fresh herbs.",
+        "log_probs_1": -7.2796630859375,
+        "log_probs_2": -16.75312042236328
+    },
+    {
+        "id": 47,
+        "prompt": "Wanting to document the accident, the driver",
+        "completion_1": "took photos with his phone.",
+        "completion_2": "wrote down a description of events.",
+        "log_probs_1": -18.962890625,
+        "log_probs_2": -38.21484375
+    },
+    {
+        "id": 48,
+        "prompt": "To hide the surprise gift, he",
+        "completion_1": "buried it in the closet.",
+        "completion_2": "left it at his neighbor's house.",
+        "log_probs_1": -21.24755859375,
+        "log_probs_2": -24.48216152191162
+    },
+    {
+        "id": 49,
+        "prompt": "Needing to cut the thick rope, she",
+        "completion_1": "used a sharp serrated knife.",
+        "completion_2": "found a pair of heavy-duty shears.",
+        "log_probs_1": -23.2724609375,
+        "log_probs_2": -27.103533148765564
+    },
+    {
+        "id": 50,
+        "prompt": "To stay warm in the snow, the hiker",
+        "completion_1": "layered up with wool clothing.",
+        "completion_2": "started a small campfire.",
+        "log_probs_1": -27.7396240234375,
+        "log_probs_2": -14.4840087890625
+    },
+    {
+        "id": 51,
+        "prompt": "Hoping to reduce stress, the manager",
+        "completion_1": "delegated more tasks to her team.",
+        "completion_2": "took a week of vacation time.",
+        "log_probs_1": -27.07916259765625,
+        "log_probs_2": -30.134765625
+    },
+    {
+        "id": 52,
+        "prompt": "To fix the hem of the dress, she",
+        "completion_1": "used a sewing machine.",
+        "completion_2": "applied fabric tape.",
+        "log_probs_1": -15.796875,
+        "log_probs_2": -19.04290771484375
+    },
+    {
+        "id": 53,
+        "prompt": "Wanting to get to the other side of the park, he",
+        "completion_1": "jogged along the perimeter path.",
+        "completion_2": "cut across the grass field.",
+        "log_probs_1": -27.54004669189453,
+        "log_probs_2": -21.45263671875
+    },
+    {
+        "id": 54,
+        "prompt": "To notify the team about the change, the lead",
+        "completion_1": "posted a message in the Slack channel.",
+        "completion_2": "scheduled a quick morning meeting.",
+        "log_probs_1": -18.8369140625,
+        "log_probs_2": -17.95703125
+    },
+    {
+        "id": 55,
+        "prompt": "Needing to reach the top shelf, she",
+        "completion_1": "grabbed a step stool.",
+        "completion_2": "asked her tall brother for help.",
+        "log_probs_1": -16.24669075012207,
+        "log_probs_2": -19.56348979473114
+    },
+    {
+        "id": 56,
+        "prompt": "To learn about the history of the castle, they",
+        "completion_1": "read the guidebook provided.",
+        "completion_2": "joined a guided walking tour.",
+        "log_probs_1": -27.3701171875,
+        "log_probs_2": -15.643230438232422
+    },
+    {
+        "id": 57,
+        "prompt": "Wanting to invest his savings, Mark",
+        "completion_1": "bought shares in a tech company.",
+        "completion_2": "purchased government bonds.",
+        "log_probs_1": -25.69140625,
+        "log_probs_2": -28.06475830078125
+    },
+    {
+        "id": 58,
+        "prompt": "To clean the muddy floor, he",
+        "completion_1": "used a wet mop.",
+        "completion_2": "scrubbed it with a brush.",
+        "log_probs_1": -12.7197265625,
+        "log_probs_2": -15.426376342773438
+    },
+    {
+        "id": 59,
+        "prompt": "Needing to charge her phone, she",
+        "completion_1": "plugged it into the wall outlet.",
+        "completion_2": "connected it to her laptop.",
+        "log_probs_1": -10.6298828125,
+        "log_probs_2": -20.004425048828125
+    },
+    {
+        "id": 60,
+        "prompt": "To identify the bird, the watcher",
+        "completion_1": "looked it up in a field guide.",
+        "completion_2": "used a bird identification app.",
+        "log_probs_1": -20.518972396850586,
+        "log_probs_2": -16.90234375
+    },
+    {
+        "id": 61,
+        "prompt": "Hoping to smooth the wood, the carpenter",
+        "completion_1": "rubbed it with sandpaper.",
+        "completion_2": "used an electric planer.",
+        "log_probs_1": -21.489065170288086,
+        "log_probs_2": -23.2088623046875
+    },
+    {
+        "id": 62,
+        "prompt": "To get the child to sleep, the parent",
+        "completion_1": "read a bedtime story.",
+        "completion_2": "sang a quiet lullaby.",
+        "log_probs_1": -9.371761322021484,
+        "log_probs_2": -13.931740760803223
+    },
+    {
+        "id": 63,
+        "prompt": "Wanting to donate old clothes, she",
+        "completion_1": "dropped them at a charity shop.",
+        "completion_2": "put them in a donation bin.",
+        "log_probs_1": -19.487075805664062,
+        "log_probs_2": -16.15576171875
+    },
+    {
+        "id": 64,
+        "prompt": "To support the broken tomato plant, the gardener",
+        "completion_1": "tied it to a wooden stake.",
+        "completion_2": "leaned it against the trellis.",
+        "log_probs_1": -14.913818359375,
+        "log_probs_2": -18.20971941947937
+    },
+    {
+        "id": 65,
+        "prompt": "Needing to wake up, the driver",
+        "completion_1": "rolled down the window for air.",
+        "completion_2": "turned up the radio volume.",
+        "log_probs_1": -18.246826171875,
+        "log_probs_2": -19.7222900390625
+    },
+    {
+        "id": 66,
+        "prompt": "To secure the tent, they",
+        "completion_1": "hammered pegs into the ground.",
+        "completion_2": "tied the ropes to nearby trees.",
+        "log_probs_1": -18.040334701538086,
+        "log_probs_2": -18.8662109375
+    },
+    {
+        "id": 67,
+        "prompt": "Hoping to win the argument, he",
+        "completion_1": "cited a recent scientific study.",
+        "completion_2": "appealed to the audience's emotions.",
+        "log_probs_1": -23.26580810546875,
+        "log_probs_2": -24.10595703125
+    },
+    {
+        "id": 68,
+        "prompt": "To protect his eyes from the sun, he",
+        "completion_1": "put on his sunglasses.",
+        "completion_2": "pulled down his baseball cap.",
+        "log_probs_1": -4.111328125,
+        "log_probs_2": -12.544235229492188
+    },
+    {
+        "id": 69,
+        "prompt": "Needing to transport the furniture, they",
+        "completion_1": "rented a moving van.",
+        "completion_2": "hired a professional moving crew.",
+        "log_probs_1": -18.832305908203125,
+        "log_probs_2": -18.3818359375
+    },
+    {
+        "id": 70,
+        "prompt": "To calm the crying baby, the father",
+        "completion_1": "rocked her gently in his arms.",
+        "completion_2": "gave her a warm bottle of milk.",
+        "log_probs_1": -9.814762115478516,
+        "log_probs_2": -20.24609375
+    },
+    {
+        "id": 71,
+        "prompt": "Wanting to check the weather, she",
+        "completion_1": "looked out the window.",
+        "completion_2": "checked the forecast on her phone.",
+        "log_probs_1": -8.08945369720459,
+        "log_probs_2": -6.908203125
+    },
+    {
+        "id": 72,
+        "prompt": "To remove the stuck jar lid, he",
+        "completion_1": "ran it under hot water.",
+        "completion_2": "used a rubber grip pad.",
+        "log_probs_1": -15.8992919921875,
+        "log_probs_2": -21.955078125
+    },
+    {
+        "id": 73,
+        "prompt": "Hoping to avoid spoilers, the fan",
+        "completion_1": "stayed off social media all day.",
+        "completion_2": "watched the movie immediately upon release.",
+        "log_probs_1": -21.49199676513672,
+        "log_probs_2": -24.614112854003906
+    },
+    {
+        "id": 74,
+        "prompt": "To extinguish the small fire, she",
+        "completion_1": "smothered it with a heavy blanket.",
+        "completion_2": "sprayed it with a fire extinguisher.",
+        "log_probs_1": -14.337812423706055,
+        "log_probs_2": -14.302978515625
+    },
+    {
+        "id": 75,
+        "prompt": "Needing to draw a straight line, the student",
+        "completion_1": "used a plastic ruler.",
+        "completion_2": "used the edge of a book.",
+        "log_probs_1": -21.65380859375,
+        "log_probs_2": -24.945423126220703
+    },
+    {
+        "id": 76,
+        "prompt": "To get rid of the headache, he",
+        "completion_1": "took some pain medication.",
+        "completion_2": "drank a large glass of water.",
+        "log_probs_1": -14.9453125,
+        "log_probs_2": -13.086931228637695
+    },
+    {
+        "id": 77,
+        "prompt": "Wanting to enter the data, the clerk",
+        "completion_1": "typed it into the spreadsheet manually.",
+        "completion_2": "scanned the document with OCR software.",
+        "log_probs_1": -23.01953125,
+        "log_probs_2": -31.6328125
+    },
+    {
+        "id": 78,
+        "prompt": "To greet his friend from afar, he",
+        "completion_1": "waved his hand high.",
+        "completion_2": "shouted his name loudly.",
+        "log_probs_1": -16.421875,
+        "log_probs_2": -23.66796875
+    },
+    {
+        "id": 79,
+        "prompt": "Needing to sharpen the pencil, she",
+        "completion_1": "used a small manual sharpener.",
+        "completion_2": "used an electric desk sharpener.",
+        "log_probs_1": -25.443981170654297,
+        "log_probs_2": -25.886804580688477
+    },
+    {
+        "id": 80,
+        "prompt": "To choose a movie to watch, they",
+        "completion_1": "scrolled through the streaming menu.",
+        "completion_2": "flipped a coin to decide.",
+        "log_probs_1": -22.712890625,
+        "log_probs_2": -13.796112060546875
+    },
+    {
+        "id": 81,
+        "prompt": "Hoping to catch the fish, the angler",
+        "completion_1": "used a shiny lure.",
+        "completion_2": "used a live worm as bait.",
+        "log_probs_1": -18.20703125,
+        "log_probs_2": -17.1285400390625
+    },
+    {
+        "id": 82,
+        "prompt": "To cool the pie, the baker",
+        "completion_1": "placed it on the windowsill.",
+        "completion_2": "put it in the refrigerator.",
+        "log_probs_1": -10.172014236450195,
+        "log_probs_2": -8.429046630859375
+    },
+    {
+        "id": 83,
+        "prompt": "Needing to mark the page, the reader",
+        "completion_1": "folded the corner of the page.",
+        "completion_2": "inserted a paper bookmark.",
+        "log_probs_1": -16.949312210083008,
+        "log_probs_2": -24.36956787109375
+    },
+    {
+        "id": 84,
+        "prompt": "To get a better price, the shopper",
+        "completion_1": "waited for the holiday sale.",
+        "completion_2": "used a discount coupon code.",
+        "log_probs_1": -20.81647253036499,
+        "log_probs_2": -21.1953125
+    },
+    {
+        "id": 85,
+        "prompt": "Wanting to visualize the data, the analyst",
+        "completion_1": "created a bar chart.",
+        "completion_2": "generated a pie graph.",
+        "log_probs_1": -17.762939453125,
+        "log_probs_2": -31.74658203125
+    },
+    {
+        "id": 86,
+        "prompt": "To cross the snowy terrain, the traveler",
+        "completion_1": "put on snowshoes.",
+        "completion_2": "rode a snowmobile.",
+        "log_probs_1": -16.44867515563965,
+        "log_probs_2": -18.0494384765625
+    },
+    {
+        "id": 87,
+        "prompt": "Needing to unlock the screen, the user",
+        "completion_1": "entered a four-digit PIN.",
+        "completion_2": "scanned their fingerprint.",
+        "log_probs_1": -15.298095703125,
+        "log_probs_2": -15.88671875
+    },
+    {
+        "id": 88,
+        "prompt": "To keep the door open, he",
+        "completion_1": "used a wooden doorstop.",
+        "completion_2": "placed a heavy box in front of it.",
+        "log_probs_1": -20.849609375,
+        "log_probs_2": -20.24072265625
+    },
+    {
+        "id": 89,
+        "prompt": "Hoping to grow tomatoes, the gardener",
+        "completion_1": "planted seeds in a tray.",
+        "completion_2": "bought seedlings from the nursery.",
+        "log_probs_1": -20.77593994140625,
+        "log_probs_2": -16.31640625
+    },
+    {
+        "id": 90,
+        "prompt": "To seal the envelope, she",
+        "completion_1": "licked the adhesive strip.",
+        "completion_2": "used a piece of clear tape.",
+        "log_probs_1": -19.304765701293945,
+        "log_probs_2": -18.306647300720215
+    },
+    {
+        "id": 91,
+        "prompt": "Wanting to change the channel, he",
+        "completion_1": "pressed the button on the remote.",
+        "completion_2": "used voice commands on the TV.",
+        "log_probs_1": -12.9752197265625,
+        "log_probs_2": -31.046875
+    },
+    {
+        "id": 92,
+        "prompt": "To protect the floor while painting, they",
+        "completion_1": "laid down old newspapers.",
+        "completion_2": "covered it with a plastic drop cloth.",
+        "log_probs_1": -12.555419921875,
+        "log_probs_2": -8.06878662109375
+    },
+    {
+        "id": 93,
+        "prompt": "Needing to tie his hair back, he",
+        "completion_1": "used a rubber band.",
+        "completion_2": "put on a headband.",
+        "log_probs_1": -13.459426879882812,
+        "log_probs_2": -19.99365234375
+    },
+    {
+        "id": 94,
+        "prompt": "To find the north, the scout",
+        "completion_1": "checked a magnetic compass.",
+        "completion_2": "looked for the position of the sun.",
+        "log_probs_1": -18.4921875,
+        "log_probs_2": -12.452184677124023
+    },
+    {
+        "id": 95,
+        "prompt": "Hoping to attract birds, she",
+        "completion_1": "installed a bird feeder.",
+        "completion_2": "planted sunflower seeds.",
+        "log_probs_1": -16.39666748046875,
+        "log_probs_2": -16.2982177734375
+    },
+    {
+        "id": 96,
+        "prompt": "To mix the batter, the baker",
+        "completion_1": "used a wooden spoon.",
+        "completion_2": "turned on the electric mixer.",
+        "log_probs_1": -10.032501220703125,
+        "log_probs_2": -12.986770629882812
+    },
+    {
+        "id": 97,
+        "prompt": "Needing to reach the island, the tourists",
+        "completion_1": "rented a speedboat.",
+        "completion_2": "took a helicopter tour.",
+        "log_probs_1": -18.072097778320312,
+        "log_probs_2": -25.16015625
+    },
+    {
+        "id": 98,
+        "prompt": "To fix the typo, the writer",
+        "completion_1": "pressed the backspace key.",
+        "completion_2": "highlighted the word and retyped it.",
+        "log_probs_1": -17.251953125,
+        "log_probs_2": -24.096965789794922
+    },
+    {
+        "id": 99,
+        "prompt": "Wanting to end the conversation, she",
+        "completion_1": "said she had to run to a meeting.",
+        "completion_2": "pretended her phone battery was dying.",
+        "log_probs_1": -26.525390625,
+        "log_probs_2": -28.8238525390625
+    }
+]
